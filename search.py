@@ -21,7 +21,9 @@ while True:
         if not search:
             break
         for key, (en, ja) in summaries.items():
-            if en.startswith(search):
-                print(f"> {ja}[{key}]({url % key})")
+            if search in en:
+                print(">", ja)
+                print(key)
+                print(url % key)
     except EOFError:
         break
