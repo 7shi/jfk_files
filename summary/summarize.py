@@ -7,7 +7,8 @@ from google.api_core import retry
 
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
-output_dir = "jfk_json"
+input_dir = "../jfk_text"
+output_dir = "../jfk_json"
 schema_json = "schema.json"
 model = "gemini-2.0-flash"
 max_rpm = 15  # requests per minute
@@ -96,7 +97,7 @@ def generate_content(text):
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
-md_files = sorted(glob.glob('jfk_text/*.md'))
+md_files = sorted(glob.glob(f"{input_dir}/*.md"))
 for md_file in tqdm(md_files, desc="Processing files"):
     json_file = os.path.join(output_dir, os.path.basename(md_file).removesuffix('.md') + '.json')
     if os.path.exists(json_file):

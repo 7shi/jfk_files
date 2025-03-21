@@ -9,7 +9,7 @@ with open("summaries-ja.txt", 'r', encoding='utf-8') as f:
     lines = [line.strip() for line in f]
 
 it = iter(lines)
-json_folder = Path("jfk_json")
+json_folder = Path("../jfk_json")
 for json_file in sorted(json_folder.glob("*.json")):
     with open(json_file, 'r', encoding='utf-8') as fjson:
         data = json.load(fjson)
