@@ -1,8 +1,8 @@
 import json
 from pathlib import Path
 
-json_folder = Path("jfk_json")
-json_schema = "schema.json"
+json_folder = Path("../jfk_json")
+json_schema = "../schema.json"
 output_tsv = Path("summaries.tsv")
 
 with open(json_schema, 'r', encoding='utf-8') as f:
