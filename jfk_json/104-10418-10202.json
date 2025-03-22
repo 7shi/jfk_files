@@ -1,17 +1,14 @@
 {
-  "classification": "Security",
-  "document_type": "Report",
-  "security_level": "Unclassified",
-  "summary": "Report on Yurily Ivanovich NOSENKO, a Soviet KGB officer who defected in 1964 and was subsequently involuntarily confined in the U.S. by the Agency.",
-  "tags": [
-    "Defector",
-    "KGB",
-    "Confinement",
-    "Consultant",
-    "Security"
-  ],
   "title": "Yurily Ivanovich NOSENKO",
+  "title_ja": "ユーリ・イワノビッチ・ノセンコ",
+  "summary": "Report on Yurily Ivanovich NOSENKO, a Soviet KGB officer who defected in 1964 and was subsequently involuntarily confined in the U.S. by the Agency.",
+  "summary_ja": "1964年に亡命し、その後KGBによって米国で強制収容されたソ連KGB局員ユーリ・イワノビッチ・ノセンコに関する報告書。",
+  "document_type": "Report",
+  "classification": "Security",
+  "security_level": "Unclassified",
   "date": "1969-08-05",
+  "sender": "Director of Security",
+  "recipient": "DDCI",
   "persons_mentioned": [
     "Yurily Ivanovich NOSENKO",
     "Richard Helms",
@@ -19,6 +16,11 @@
     "Charles Phalen",
     "Bruce Solie"
   ],
-  "recipient": "DDCI",
-  "sender": "Director of Security"
+  "tags": [
+    "Defector",
+    "KGB",
+    "Confinement",
+    "Consultant",
+    "Security"
+  ]
 }

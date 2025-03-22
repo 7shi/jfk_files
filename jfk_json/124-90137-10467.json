@@ -1,8 +1,27 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "Confidential",
+  "title": "CIA LIAISON MATERIAL JORGE BELIARD",
+  "title_ja": "CIA連絡員資料 ホルヘ・ベリアード",
   "summary": "This memo discusses Jorge Beliard, a station manager for Cubana Airlines, and a CIA request regarding his potential use in establishing courier routes between Cuba and the United States. The FBI is considering whether to allow CIA contact with Beliard or to handle the contact themselves.",
+  "summary_ja": "このメモでは、キューバ航空の支局長であるホルヘ・ベリアルドについて、および、彼をキューバと米国間のクーリエ（秘密情報員）ルート確立に利用する可能性に関するCIAの要請について述べている。FBIは、CIAがベリアルドと接触することを許可するか、あるいは接触をFBI自身が行うかを検討している。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "Confidential",
+  "date": "1961-06-26",
+  "origin_agency": "FBI",
+  "sender": "Papich",
+  "recipient": "L'Allier",
+  "persons_mentioned": [
+    "Jorge Beliard",
+    "Jane Roman",
+    "L'Allier",
+    "Papich"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "United States",
+    "Idlewild International Airport",
+    "New York City"
+  ],
   "tags": [
     "CIA",
     "Cubana Airlines",
@@ -12,22 +31,5 @@
     "Idlewild International Airport",
     "New York City",
     "Nationalities Intelligence Section"
-  ],
-  "title": "CIA LIAISON MATERIAL JORGE BELIARD",
-  "date": "1961-06-26",
-  "locations_mentioned": [
-    "Cuba",
-    "United States",
-    "Idlewild International Airport",
-    "New York City"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "Jorge Beliard",
-    "Jane Roman",
-    "L'Allier",
-    "Papich"
-  ],
-  "recipient": "L'Allier",
-  "sender": "Papich"
+  ]
 }

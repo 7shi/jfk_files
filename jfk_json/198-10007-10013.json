@@ -1,24 +1,21 @@
 {
-  "classification": "Cuba",
-  "document_type": "Paper, Textual Document",
-  "security_level": "Secret",
-  "summary": "This document is a draft report concerning control of access to and surveillance of Cuba. It includes information on travel restrictions, propaganda control, clandestine movements, fund transfers, counter-insurgency, intelligence exchange, and surveillance of Cuban missions.",
-  "tags": [
-    "Travel Restrictions",
-    "Propaganda Control",
-    "Clandestine Movement",
-    "Guerrillas",
-    "Arms",
-    "Fund Transfers",
-    "Counter-Insurgency",
-    "Intelligence Exchange",
-    "Surveillance",
-    "Diplomatic Missions",
-    "Commercial Missions",
-    "Cultural Missions"
-  ],
   "title": "CONTROL OF TRAVEL TO AND FROM CUBA",
+  "title_ja": "キューバへの渡航およびキューバからの渡航の管理",
+  "summary": "This document is a draft report concerning control of access to and surveillance of Cuba. It includes information on travel restrictions, propaganda control, clandestine movements, fund transfers, counter-insurgency, intelligence exchange, and surveillance of Cuban missions.",
+  "summary_ja": "この文書は、キューバへのアクセスおよびキューバの監視に関する草案報告書である。旅行制限、プロパガンダ統制、秘密移動、資金移動、対反乱活動、情報交換、キューバのミッションの監視に関する情報が含まれる。",
+  "document_type": "Paper, Textual Document",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "0000-00-00",
+  "origin_agency": "ARMY",
+  "sender": "N/A",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Castro",
+    "Richard Phillips",
+    "Adon Watson"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Brazil",
@@ -51,13 +48,18 @@
     "Ecuador",
     "Soviet Union"
   ],
-  "origin_agency": "ARMY",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Castro",
-    "Richard Phillips",
-    "Adon Watson"
-  ],
-  "recipient": "N/A",
-  "sender": "N/A"
+  "tags": [
+    "Travel Restrictions",
+    "Propaganda Control",
+    "Clandestine Movement",
+    "Guerrillas",
+    "Arms",
+    "Fund Transfers",
+    "Counter-Insurgency",
+    "Intelligence Exchange",
+    "Surveillance",
+    "Diplomatic Missions",
+    "Commercial Missions",
+    "Cultural Missions"
+  ]
 }

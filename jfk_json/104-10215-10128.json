@@ -1,21 +1,25 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This file contains interoffice memorandums, security messages and information reports pertaining to Winfred Clark Barnes and his activities. The documents detail security checks, biographic data, clearance requests, and his employment history with Esso and International Petroleum Company. The reports also cover topics such as anti-Castro attitudes of ICP personnel, operations of refineries, and oil-related issues in Cuba.",
-  "tags": [
-    "Security Checks",
-    "Biographic Data",
-    "Clearance",
-    "Esso",
-    "International Petroleum Company",
-    "Cuba",
-    "Oil Industry",
-    "Anti-Castro",
-    "Personnel"
-  ],
   "title": "BARNES, WINIFRED C.",
+  "title_ja": "バーンズ、ウィニフレッド C.",
+  "summary": "This file contains interoffice memorandums, security messages and information reports pertaining to Winfred Clark Barnes and his activities. The documents detail security checks, biographic data, clearance requests, and his employment history with Esso and International Petroleum Company. The reports also cover topics such as anti-Castro attitudes of ICP personnel, operations of refineries, and oil-related issues in Cuba.",
+  "summary_ja": "このファイルには、ウィンフレッド・クラーク・バーンズおよび彼の活動に関する社内メモ、セキュリティメッセージ、情報報告書が含まれている。文書には、セキュリティチェック、経歴データ、許可申請、およびエッソおよびインターナショナル・ペトロリウム・カンパニーでの彼の雇用履歴の詳細が記載されている。報告書には、ICP職員の反カストロ的態度、精製所の運営、キューバにおける石油関連の問題などのトピックも含まれている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "CONFIDENTIAL",
   "date": "1967-02-28",
+  "origin_agency": "CIA",
+  "sender": "Chief, Personnel Security Division",
+  "recipient": "Director, Domestic Contact Service",
+  "persons_mentioned": [
+    "BARNES, Winfred Clark",
+    "Lois Enquist BARNES",
+    "Shaw Andrew BARNES",
+    "Velma Elizabeth HARRIS",
+    "Fidel Castro",
+    "Segundo Cevallos",
+    "Che Guevara",
+    "Commander Olivio Pino"
+  ],
   "locations_mentioned": [
     "Miami",
     "Cuba",
@@ -37,17 +41,15 @@
     "Suriname",
     "Havana"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "BARNES, Winfred Clark",
-    "Lois Enquist BARNES",
-    "Shaw Andrew BARNES",
-    "Velma Elizabeth HARRIS",
-    "Fidel Castro",
-    "Segundo Cevallos",
-    "Che Guevara",
-    "Commander Olivio Pino"
-  ],
-  "recipient": "Director, Domestic Contact Service",
-  "sender": "Chief, Personnel Security Division"
+  "tags": [
+    "Security Checks",
+    "Biographic Data",
+    "Clearance",
+    "Esso",
+    "International Petroleum Company",
+    "Cuba",
+    "Oil Industry",
+    "Anti-Castro",
+    "Personnel"
+  ]
 }

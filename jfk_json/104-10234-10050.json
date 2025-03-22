@@ -1,27 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses attempts to locate AMTRUNK-9 and A-9 after possible capture in Cuba, and advises caution in contacting certain individuals who may alert Cuban authorities.",
-  "tags": [
-    "AMTRUNK",
-    "AMLASH",
-    "Cuba",
-    "Cardena",
-    "infiltration",
-    "contacts"
-  ],
   "title": "DIR 83150: Locating AMTRUNK-9 and A-9",
+  "title_ja": "DIR 83150：AMTRUNK-9およびA-9ケーブルの所在",
+  "summary": "This cable discusses attempts to locate AMTRUNK-9 and A-9 after possible capture in Cuba, and advises caution in contacting certain individuals who may alert Cuban authorities.",
+  "summary_ja": "この電報では、キューバで捕獲された可能性のあるAMTRUNK-9とA-9の所在確認の試みについて議論されており、キューバ当局に通報する可能性のある特定の人物との接触には注意が必要であると助言している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1965-02-04",
-  "locations_mentioned": [
-    "Cuba",
-    "Cardenas",
-    "Matanzas",
-    "Miami",
-    "Havana",
-    "Mexico"
-  ],
   "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "PARIS JMWAVE",
   "persons_mentioned": [
     "John F. Kennedy",
     "Castro",
@@ -34,6 +22,20 @@
     "Thomas F. Thiele",
     "Desmond FitzGerald"
   ],
-  "recipient": "PARIS JMWAVE",
-  "sender": "DIRECTOR"
+  "locations_mentioned": [
+    "Cuba",
+    "Cardenas",
+    "Matanzas",
+    "Miami",
+    "Havana",
+    "Mexico"
+  ],
+  "tags": [
+    "AMTRUNK",
+    "AMLASH",
+    "Cuba",
+    "Cardena",
+    "infiltration",
+    "contacts"
+  ]
 }

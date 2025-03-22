@@ -1,23 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Diary",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This document contains entries from a daily planner, including appointments, meetings, and social engagements. The entries span from 1959 to 1960 and include names of individuals and organizations.",
-  "tags": [
-    "appointments",
-    "meetings",
-    "social engagements",
-    "daily planner"
-  ],
   "title": "Daily Planner Entries, 1959-1960",
+  "title_ja": "1959年から1960年の日誌の記載事項",
+  "summary": "This document contains entries from a daily planner, including appointments, meetings, and social engagements. The entries span from 1959 to 1960 and include names of individuals and organizations.",
+  "summary_ja": "この文書には、アポイント、会議、社交行事などの予定が記載されたデイリープランナーからの抜粋が含まれている。記載事項は1959年から1960年のもので、個人名および組織名が記載されている。",
+  "document_type": "Diary",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
   "date": "1959-12-31",
-  "locations_mentioned": [
-    "Baltimore",
-    "Vienna",
-    "Hague",
-    "Iran"
-  ],
   "origin_agency": "CIA",
+  "sender": "N/A",
+  "recipient": "N/A",
   "persons_mentioned": [
     "John F. Kennedy",
     "Allen Dulles",
@@ -28,6 +20,16 @@
     "John Hanes",
     "Bakhtiar"
   ],
-  "recipient": "N/A",
-  "sender": "N/A"
+  "locations_mentioned": [
+    "Baltimore",
+    "Vienna",
+    "Hague",
+    "Iran"
+  ],
+  "tags": [
+    "appointments",
+    "meetings",
+    "social engagements",
+    "daily planner"
+  ]
 }

@@ -1,28 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "Dispatch",
-  "security_level": "SECRET/NOFORN",
-  "summary": "This dispatch concerns SMEDIFY information regarding Tad SZULC (201-050539) and includes information on Ignacy SACHS, a cousin of SZULC who worked for the Polish Embassy.",
-  "tags": [
-    "SMEDIFY",
-    "Tadeusz SZULC",
-    "Ignacy SACHS",
-    "Polish Embassy",
-    "information"
-  ],
   "title": "SMEDIFY Information Concerning Tad SZULC (201-050539)",
+  "title_ja": "SMEDIFY Tad SZULC（201-050539）に関する情報",
+  "summary": "This dispatch concerns SMEDIFY information regarding Tad SZULC (201-050539) and includes information on Ignacy SACHS, a cousin of SZULC who worked for the Polish Embassy.",
+  "summary_ja": "この報告書は、タッド・スルツ（201-050539）に関するSMEDIFY情報に関するもので、ポーランド大使館で働いていたスルツの従兄弟であるイグナティ・サックスに関する情報も含まれている。",
+  "document_type": "Dispatch",
+  "classification": "Personnel",
+  "security_level": "SECRET/NOFORN",
   "date": "1962-06-20",
-  "locations_mentioned": [
-    "Rio de Janeiro",
-    "Brazil",
-    "Latin America",
-    "South America",
-    "Central America",
-    "New York",
-    "Washington",
-    "Panama"
-  ],
   "origin_agency": "Central Intelligence Agency (CIA)",
+  "sender": "Chief of Station, Rio de Janeiro",
+  "recipient": "Chief, WHD; Chief, EE",
   "persons_mentioned": [
     "Tad SZULC",
     "Ignacy SACHS",
@@ -38,6 +25,21 @@
     "Drew PEARSON",
     "Shah of Persia"
   ],
-  "recipient": "Chief, WHD; Chief, EE",
-  "sender": "Chief of Station, Rio de Janeiro"
+  "locations_mentioned": [
+    "Rio de Janeiro",
+    "Brazil",
+    "Latin America",
+    "South America",
+    "Central America",
+    "New York",
+    "Washington",
+    "Panama"
+  ],
+  "tags": [
+    "SMEDIFY",
+    "Tadeusz SZULC",
+    "Ignacy SACHS",
+    "Polish Embassy",
+    "information"
+  ]
 }

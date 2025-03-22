@@ -1,8 +1,29 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Cable regarding Karin Espinosa and Miguel Angel Espinosa Bravo",
+  "title_ja": "カリン・エスピノサとミゲル・アンヘル・エスピノサ・ブラボーに関する電報",
   "summary": "Cable regarding Karin Espinosa and her husband Miguel Angel Espinosa Bravo, a former Cuban ambassador to Norway, including information about his background, defection from the Castro government, and involvement in anti-Castro activities.",
+  "summary_ja": "カリン・エスピノサと彼女の夫ミゲル・アンヘル・エスピノサ・ブラボー（元キューバ大使）に関する電報。ミゲル・アンヘルの経歴、カストロ政権からの亡命、反カストロ活動への関与に関する情報を含む。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-06-13",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "HOME",
+  "persons_mentioned": [
+    "STEPHEN I. MUNGER",
+    "KARIN ESPINOSA",
+    "MIGUEL ANGEL ESPINOSA BRAVO",
+    "CASTRO"
+  ],
+  "locations_mentioned": [
+    "Norway",
+    "Havana",
+    "Madrid",
+    "Berlin",
+    "Mexico",
+    "Buenos Aires"
+  ],
   "tags": [
     "KARIN ESPINOSA",
     "MIGUEL ANGEL ESPINOSA BRAVO",
@@ -12,24 +33,5 @@
     "PERUMEN",
     "AMTHIP",
     "KEYWAY"
-  ],
-  "title": "Cable regarding Karin Espinosa and Miguel Angel Espinosa Bravo",
-  "date": "1963-06-13",
-  "locations_mentioned": [
-    "Norway",
-    "Havana",
-    "Madrid",
-    "Berlin",
-    "Mexico",
-    "Buenos Aires"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "STEPHEN I. MUNGER",
-    "KARIN ESPINOSA",
-    "MIGUEL ANGEL ESPINOSA BRAVO",
-    "CASTRO"
-  ],
-  "recipient": "HOME",
-  "sender": "DIRECTOR"
+  ]
 }

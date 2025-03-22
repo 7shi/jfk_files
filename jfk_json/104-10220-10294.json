@@ -1,8 +1,25 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Cable Regarding AMULLA-1 and Information Security",
+  "title_ja": "AMULLA-1と情報セキュリティに関する電報",
   "summary": "Cable discusses concerns regarding AMULLA-1 and potential risks to future operations due to his handling of information. It outlines plans to implement stricter controls on materials obtained from AMULLA-1 to protect sensitive information.",
+  "summary_ja": "この電報は、AMULLA-1に関する懸念と、彼の情報の取り扱いによる今後の作戦への潜在的なリスクについて論じている。また、機密情報を保護するためにAMULLA-1から入手した資料に対するより厳格な管理を実施する計画の概要を説明している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1961-06-19",
+  "origin_agency": "JMWAVE",
+  "sender": "DIRECTOR",
+  "recipient": "C/BELL 8",
+  "persons_mentioned": [
+    "JOSE IGNACIO RASCO",
+    "RAFAEL AGUIRRE",
+    "LUCAS MORAN",
+    "AMULLAPINHO",
+    "AMBUD"
+  ],
+  "locations_mentioned": [
+    "ITALIA"
+  ],
   "tags": [
     "JMWAVE",
     "COPADOP",
@@ -25,20 +42,5 @@
     "PBPRIME",
     "AMULLA-1",
     "NOFORN"
-  ],
-  "title": "Cable Regarding AMULLA-1 and Information Security",
-  "date": "1961-06-19",
-  "locations_mentioned": [
-    "ITALIA"
-  ],
-  "origin_agency": "JMWAVE",
-  "persons_mentioned": [
-    "JOSE IGNACIO RASCO",
-    "RAFAEL AGUIRRE",
-    "LUCAS MORAN",
-    "AMULLAPINHO",
-    "AMBUD"
-  ],
-  "recipient": "C/BELL 8",
-  "sender": "DIRECTOR"
+  ]
 }

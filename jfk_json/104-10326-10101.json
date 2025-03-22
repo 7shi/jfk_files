@@ -1,31 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This cable discusses a Washington Times article regarding a KGB offer to Hollywood and its possible connection to the LWOPUS case. It explores similarities between the KGB's approach and LWOPUS's offer of a manuscript, including financial motivations, volume of material, potential joint efforts, and concerns for safety.",
-  "tags": [
-    "KGB",
-    "Hollywood",
-    "LWOPUS",
-    "Washington Times",
-    "FIVA",
-    "Lee Harvey Oswald",
-    "Mexico City",
-    "Manuscript",
-    "Espionage",
-    "Yurasov",
-    "Yazkov",
-    "Anatoliy Yakovlev"
-  ],
   "title": "WASHINGTON TIMES ARTICLE RE KGB OFFER TO HOLLYWOOD",
+  "title_ja": "ワシントン・タイムズ紙の記事：KGBによるハリウッドへの申し出",
+  "summary": "This cable discusses a Washington Times article regarding a KGB offer to Hollywood and its possible connection to the LWOPUS case. It explores similarities between the KGB's approach and LWOPUS's offer of a manuscript, including financial motivations, volume of material, potential joint efforts, and concerns for safety.",
+  "summary_ja": "この電報では、KGBがハリウッドに持ちかけたオファーに関するワシントン・タイムズの記事と、LWOPUS事件との関連性について論じている。KGBのアプローチとLWOPUSの原稿提供の申し出との類似点について、金銭的な動機、資料の量、共同作業の可能性、安全への懸念などを含めて探っている。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
   "date": "1992-04-04",
-  "locations_mentioned": [
-    "Moscow",
-    "Mexico City",
-    "Vilnius",
-    "New York City"
-  ],
   "origin_agency": "CIA",
+  "sender": "CIC/CEX",
+  "recipient": "VILNIUS",
   "persons_mentioned": [
     "Lee Harvey Oswald",
     "Kim Philby",
@@ -42,6 +26,24 @@
     "Oliver Stone",
     "Ambassador Johnson"
   ],
-  "recipient": "VILNIUS",
-  "sender": "CIC/CEX"
+  "locations_mentioned": [
+    "Moscow",
+    "Mexico City",
+    "Vilnius",
+    "New York City"
+  ],
+  "tags": [
+    "KGB",
+    "Hollywood",
+    "LWOPUS",
+    "Washington Times",
+    "FIVA",
+    "Lee Harvey Oswald",
+    "Mexico City",
+    "Manuscript",
+    "Espionage",
+    "Yurasov",
+    "Yazkov",
+    "Anatoliy Yakovlev"
+  ]
 }

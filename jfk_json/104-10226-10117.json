@@ -1,31 +1,15 @@
 {
-  "classification": "Soviet",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This document discusses an attempted RIS penetration of Bell Telephone Laboratories and concerns about CI Staff's reaction to a request for assistance in defensive briefing of a subject.",
-  "tags": [
-    "RIS",
-    "Bell Telephone Laboratories",
-    "penetration",
-    "defensive briefing",
-    "Soviet",
-    "KGB",
-    "recruitment attempt",
-    "countermeasures"
-  ],
   "title": "Attempted R.I.S. Penetration of Bell Telephone Labs",
+  "title_ja": "ベル電話研究所へのR.I.S.侵入未遂",
+  "summary": "This document discusses an attempted RIS penetration of Bell Telephone Laboratories and concerns about CI Staff's reaction to a request for assistance in defensive briefing of a subject.",
+  "summary_ja": "この文書は、ベル電話研究所へのRIS侵入の試みについて述べ、対象者の防御ブリーフィングへの支援要請に対するCIスタッフの反応に対する懸念を表明している。",
+  "document_type": "Memorandum",
+  "classification": "Soviet",
+  "security_level": "SECRET",
   "date": "1963-07-01",
-  "locations_mentioned": [
-    "New York",
-    "Washington, D.C.",
-    "USSR",
-    "Moscow",
-    "Leningrad",
-    "Hamburg",
-    "Stuttgart",
-    "Germany"
-  ],
   "origin_agency": "New York Office",
+  "sender": "Chief, New York Office",
+  "recipient": "Chief, Contact Division",
   "persons_mentioned": [
     "Manfred R. Schroeder",
     "Donald E. Thomas",
@@ -36,6 +20,24 @@
     "Lincoln",
     "Shirley Stetson"
   ],
-  "recipient": "Chief, Contact Division",
-  "sender": "Chief, New York Office"
+  "locations_mentioned": [
+    "New York",
+    "Washington, D.C.",
+    "USSR",
+    "Moscow",
+    "Leningrad",
+    "Hamburg",
+    "Stuttgart",
+    "Germany"
+  ],
+  "tags": [
+    "RIS",
+    "Bell Telephone Laboratories",
+    "penetration",
+    "defensive briefing",
+    "Soviet",
+    "KGB",
+    "recruitment attempt",
+    "countermeasures"
+  ]
 }

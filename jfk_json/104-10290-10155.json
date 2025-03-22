@@ -1,20 +1,16 @@
 {
-  "classification": "Security",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses the anniversary of the founding of the Soviet State Security Organization and suggests discreet gatherings in embassies or other locations. It also mentions previous tentative identifications and ADAMAKES MOUNT UNILATERAL UNVEILLANCE.",
-  "tags": [
-    "Soviet State Security Organization",
-    "Anniversary",
-    "Embassies",
-    "ADAMAKES MOUNT UNILATERAL UNVEILLANCE",
-    "LCIMPROVE",
-    "REDWOOD",
-    "BIFFRAY",
-    "ANZER"
-  ],
   "title": "FORTY-SIXTH ANNIVERSARY OF FOUNDING OF SOVIET STATE SECURITY ORGANIZATION",
+  "title_ja": "ソビエト国家保安機構創設46周年",
+  "summary": "This cable discusses the anniversary of the founding of the Soviet State Security Organization and suggests discreet gatherings in embassies or other locations. It also mentions previous tentative identifications and ADAMAKES MOUNT UNILATERAL UNVEILLANCE.",
+  "summary_ja": "この電報は、ソビエト国家保安機関の創立記念日について議論し、大使館またはその他の場所での慎重な集会を提案している。また、以前の暫定的な特定とADAMAKES MOUNT UNILATERAL UNVEILLANCEについても言及している。",
+  "document_type": "Cable",
+  "classification": "Security",
+  "security_level": "SECRET",
   "date": "2025",
+  "origin_agency": "DIRECTOR",
+  "sender": "DIRECTOR",
+  "recipient": "ALL COS, COB",
+  "persons_mentioned": [],
   "locations_mentioned": [
     "ALGI",
     "VIEN",
@@ -61,8 +57,14 @@
     "BALV",
     "BAOP"
   ],
-  "origin_agency": "DIRECTOR",
-  "persons_mentioned": [],
-  "recipient": "ALL COS, COB",
-  "sender": "DIRECTOR"
+  "tags": [
+    "Soviet State Security Organization",
+    "Anniversary",
+    "Embassies",
+    "ADAMAKES MOUNT UNILATERAL UNVEILLANCE",
+    "LCIMPROVE",
+    "REDWOOD",
+    "BIFFRAY",
+    "ANZER"
+  ]
 }

@@ -1,8 +1,31 @@
 {
-  "classification": "Mexico",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Report on Jose Xavier CORTES Hernandez",
+  "title_ja": "ホセ・ザビエル・コルテス・ヘルナンデスに関する報告書",
   "summary": "Report regarding Jose Xavier CORTES Hernandez and his interactions with the Cuban Embassy in Mexico City.",
+  "summary_ja": "ホセ・ザビエル・コルテス・エルナンデスとメキシコシティのキューバ大使館との交流に関する報告書。",
+  "document_type": "Report",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1960-12-15",
+  "origin_agency": "CIA",
+  "sender": "Mexico City",
+  "recipient": "Headquarters, EMB, PAO, NA, AA, INS, LA, JIPUCK",
+  "persons_mentioned": [
+    "Dolores R. CASSAVETIS",
+    "Willard C. CURTIS",
+    "Jose Xavier CORTES Hernandez",
+    "Jose Antonio PORTUONDO Valdor",
+    "Father BOZA",
+    "Carlos OLIVARES",
+    "German Lence",
+    "Father Manuel PEREZ Alondo",
+    "Archbishop Miguel Dario Miranda"
+  ],
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba",
+    "Mexico City"
+  ],
   "tags": [
     "Jose Xavier CORTES Hernandez",
     "Jose Antonio PORTUONDO Valdor",
@@ -15,26 +38,5 @@
     "German Lence",
     "Castrista priest",
     "Mexican Apostolic Catholic Church"
-  ],
-  "title": "Report on Jose Xavier CORTES Hernandez",
-  "date": "1960-12-15",
-  "locations_mentioned": [
-    "Mexico",
-    "Cuba",
-    "Mexico City"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Dolores R. CASSAVETIS",
-    "Willard C. CURTIS",
-    "Jose Xavier CORTES Hernandez",
-    "Jose Antonio PORTUONDO Valdor",
-    "Father BOZA",
-    "Carlos OLIVARES",
-    "German Lence",
-    "Father Manuel PEREZ Alondo",
-    "Archbishop Miguel Dario Miranda"
-  ],
-  "recipient": "Headquarters, EMB, PAO, NA, AA, INS, LA, JIPUCK",
-  "sender": "Mexico City"
+  ]
 }

@@ -1,17 +1,18 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum",
-  "security_level": "Unclassified",
-  "summary": "This document is an extract detailing the career of Mr. William M. Kent, who joined the Agency in December 1951 and retired after 26 years of service. It highlights his assignments, performance, and commendations, including his work during the 'Chilean crisis.' The document recommends that he be awarded the Career Intelligence Medal.",
-  "tags": [
-    "Career Intelligence Medal",
-    "Commendation",
-    "Chilean Crisis",
-    "Operations Officer",
-    "Covert Action"
-  ],
   "title": "Kent Extract",
+  "title_ja": "ケント抜粋",
+  "summary": "This document is an extract detailing the career of Mr. William M. Kent, who joined the Agency in December 1951 and retired after 26 years of service. It highlights his assignments, performance, and commendations, including his work during the 'Chilean crisis.' The document recommends that he be awarded the Career Intelligence Medal.",
+  "summary_ja": "本書類は、1951年12月にCIAに入社し、26年間の勤務を経て退職したウィリアム・M・ケント氏の経歴を詳細に記した抜粋である。チリ危機」における彼の功績をはじめ、彼の任務、業績、表彰について強調している。本書類は、彼にキャリア・インテリジェンス・メダルを授与することを推奨している。",
+  "document_type": "Memorandum",
+  "classification": "Personnel",
+  "security_level": "Unclassified",
   "date": "1975-12-05",
+  "origin_agency": "CIA",
+  "sender": "Deputy Chief of LA Division",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "William M. Kent"
+  ],
   "locations_mentioned": [
     "Panama",
     "Headquarters",
@@ -24,10 +25,11 @@
     "Washington Base",
     "Chile"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "William M. Kent"
-  ],
-  "recipient": "Unknown",
-  "sender": "Deputy Chief of LA Division"
+  "tags": [
+    "Career Intelligence Medal",
+    "Commendation",
+    "Chilean Crisis",
+    "Operations Officer",
+    "Covert Action"
+  ]
 }

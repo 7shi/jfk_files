@@ -1,8 +1,25 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Policy Guidance Directives for Cuban Intelligence Representatives in Haiti",
+  "title_ja": "ハイチにおけるキューバ情報機関代表者に対する政策指導指令",
   "summary": "This document contains policy guidance directives for Cuban intelligence representatives in Haiti, prepared by the General Directorate of Intelligence (DGI), MA Department.",
+  "summary_ja": "この文書は、情報総局（DGI）MA部が作成した、ハイチにおけるキューバ情報局員向けの政策指導指令を含む。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1965-02-04",
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "sender": "General Directorate of Intelligence (DGI)",
+  "recipient": "Distribution List",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Trujillo",
+    "Ornei",
+    "Duvalier"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Haiti"
+  ],
   "tags": [
     "Cuban Intelligence",
     "Haiti",
@@ -24,20 +41,5 @@
     "Operative Data",
     "National Economy",
     "Governmental Structure"
-  ],
-  "title": "Policy Guidance Directives for Cuban Intelligence Representatives in Haiti",
-  "date": "1965-02-04",
-  "locations_mentioned": [
-    "Cuba",
-    "Haiti"
-  ],
-  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Trujillo",
-    "Ornei",
-    "Duvalier"
-  ],
-  "recipient": "Distribution List",
-  "sender": "General Directorate of Intelligence (DGI)"
+  ]
 }

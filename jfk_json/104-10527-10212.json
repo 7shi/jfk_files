@@ -1,18 +1,18 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses the conclusion of a review of the ZRPRIMA program, which aimed to recruit Cuban technicians from Western Europe. The review found that the program had not achieved significant results due to failures in Cuban recruiting efforts. The cable recommends discontinuing intensive searches for ZRPRIMA candidates but suggests remaining alert for opportunities to place resident agents in Cuba.",
-  "tags": [
-    "ZRPRIMA",
-    "KUBARK",
-    "Cuban technicians",
-    "recruiting",
-    "resident agents",
-    "Hiring Channel"
-  ],
   "title": "RBRUMEN ZRPRIMA",
+  "title_ja": "RBRUMEN ZRPRIMA",
+  "summary": "This cable discusses the conclusion of a review of the ZRPRIMA program, which aimed to recruit Cuban technicians from Western Europe. The review found that the program had not achieved significant results due to failures in Cuban recruiting efforts. The cable recommends discontinuing intensive searches for ZRPRIMA candidates but suggests remaining alert for opportunities to place resident agents in Cuba.",
+  "summary_ja": "この電報は、西ヨーロッパからキューバ人技術者を採用することを目的としたZRPRIMAプログラムの見直しの結論について述べている。見直しでは、キューバ人採用活動の失敗により、プログラムは大きな成果を上げていないことが判明した。この電報は、ZRPRIMA候補者の集中的な捜索の中止を推奨しているが、キューバに常駐エージェントを配置する機会には引き続き警戒するよう提案している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-11-22",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "LOND, PARI, BRUS, HAGU, COPE, STOC, OSLO, MADR, SOLE, FRAN, FROB, BORN, HAMB, BRUN, MUNI, VIEN, ATHE, BERN, GNVA, CALE, BEIR, TEHE, TELA, RIOD, SAOP, MRID, SAGO, MONT, BUEN, CARA, LAPA, LIMA, QUIT, QUAT, SHTO, NELS, HAVE, BELS, LISB, MILA, VLEO, TRIE",
+  "persons_mentioned": [
+    "Castro"
+  ],
   "locations_mentioned": [
     "Western Europe",
     "Cuba",
@@ -59,10 +59,12 @@
     "MADR",
     "SOLE"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Castro"
-  ],
-  "recipient": "LOND, PARI, BRUS, HAGU, COPE, STOC, OSLO, MADR, SOLE, FRAN, FROB, BORN, HAMB, BRUN, MUNI, VIEN, ATHE, BERN, GNVA, CALE, BEIR, TEHE, TELA, RIOD, SAOP, MRID, SAGO, MONT, BUEN, CARA, LAPA, LIMA, QUIT, QUAT, SHTO, NELS, HAVE, BELS, LISB, MILA, VLEO, TRIE",
-  "sender": "DIRECTOR"
+  "tags": [
+    "ZRPRIMA",
+    "KUBARK",
+    "Cuban technicians",
+    "recruiting",
+    "resident agents",
+    "Hiring Channel"
+  ]
 }

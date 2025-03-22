@@ -1,8 +1,28 @@
 {
-  "classification": "Operations",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
+  "title": "Classified Message Regarding DIVOUR/AMBARH",
+  "title_ja": "機密メッセージ DIVOUR/AMBARH ケーブルについて",
   "summary": "This is a classified message regarding DIVOUR/AMBARH and related individuals such as LUIS FERNANDEZ ROCHA SODRIGUEZ, HANUEL SALVAT-COQUE, FELIX GUILLERMO OTHON PACHO, and FERNANDO GARCIA-CHALON CHACON.",
+  "summary_ja": "これは、DIVOUR/AMBARHおよび関連人物であるLUIS FERNANDEZ ROCHA SODRIGUEZ、HANUEL SALVAT-COQUE、FELIX GUILLERMO OTHON PACHO、FERNANDO GARCIA-CHALON CHACONに関する機密情報である。",
+  "document_type": "Classified Message",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-06-12",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "SEE BELOW",
+  "persons_mentioned": [
+    "BRUCE MAS MAST",
+    "LUIS FERNANDEZ ROCHA SODRIGUEZ",
+    "HANUEL SALVAT-COQUE",
+    "FELIX GUILLERMO OTHON PACHO",
+    "FERNANDO GARCIA-CHALON CHACON",
+    "Desmond Fitzgerald",
+    "W. Hood",
+    "C. King",
+    "Mr. Tilton",
+    "Mr. Starfield"
+  ],
+  "locations_mentioned": [],
   "tags": [
     "SAS/UCC/PA-PROP INDEX",
     "ACCU",
@@ -24,23 +44,5 @@
     "HANUEL SALVAT-COQUE",
     "FELIX GUILLERMO OTHON PACHO",
     "FERNANDO GARCIA-CHALON CHACON"
-  ],
-  "title": "Classified Message Regarding DIVOUR/AMBARH",
-  "date": "1963-06-12",
-  "locations_mentioned": [],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "BRUCE MAS MAST",
-    "LUIS FERNANDEZ ROCHA SODRIGUEZ",
-    "HANUEL SALVAT-COQUE",
-    "FELIX GUILLERMO OTHON PACHO",
-    "FERNANDO GARCIA-CHALON CHACON",
-    "Desmond Fitzgerald",
-    "W. Hood",
-    "C. King",
-    "Mr. Tilton",
-    "Mr. Starfield"
-  ],
-  "recipient": "SEE BELOW",
-  "sender": "DIRECTOR"
+  ]
 }

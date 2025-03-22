@@ -1,8 +1,29 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "LING Lindsey, WEINER Heins Theotor",
+  "title_ja": "LINGリンゼイ、WEINERハインズ・セオドア",
   "summary": "This memo discusses Lindsey LING and Heinz Theodor WEINER. LING was contacted in Santa Maria, the Azores, by Eloy GUTIERREZ Manoyo and Rafael HERNANDEZ, both Cuban nationals. LING managed a Chinese restaurant in Madrid owned by an unidentified Chinese national who supplied clothing to US personnel. WEINER was arrested in the Azores on suspicion of espionage and was reportedly in Bermuda.",
+  "summary_ja": "本メモは、リンゼイ・リングとハインツ・セオドア・ワイナーについて論じている。リングは、アゾレス諸島のサンタマリアで、キューバ国籍のエロイ・グティエレス・マノヨとラファエル・ヘルナンデスによって接触された。リングは、米軍関係者に衣類を供給している身元不明の中国人所有のマドリードの中華料理店を経営していた。ワイナーは、アゾレス諸島でスパイ容疑で逮捕され、バミューダにいたと報告されている。",
+  "document_type": "Memo",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
+  "date": "1961-03-02",
+  "origin_agency": "Deputy Director, plang",
+  "recipient": "Director of Special Investigation, Inspector Genere, USAP",
+  "persons_mentioned": [
+    "Lindsey LING",
+    "Heinz Theodor WEINER",
+    "Eloy GUTIERREZ Manoyo",
+    "Rafael HERNANDEZ",
+    "Fidel CASTRO",
+    "Gilbert K. Levy",
+    "Major Malone"
+  ],
+  "locations_mentioned": [
+    "Santa Maria, Azores",
+    "Madrid, Spain",
+    "Azores",
+    "Bermuda"
+  ],
   "tags": [
     "Lindsey LING",
     "Heinz Theodor WEINER",
@@ -13,24 +34,5 @@
     "Azores",
     "Madrid",
     "Espionage"
-  ],
-  "title": "LING Lindsey, WEINER Heins Theotor",
-  "date": "1961-03-02",
-  "locations_mentioned": [
-    "Santa Maria, Azores",
-    "Madrid, Spain",
-    "Azores",
-    "Bermuda"
-  ],
-  "origin_agency": "Deputy Director, plang",
-  "persons_mentioned": [
-    "Lindsey LING",
-    "Heinz Theodor WEINER",
-    "Eloy GUTIERREZ Manoyo",
-    "Rafael HERNANDEZ",
-    "Fidel CASTRO",
-    "Gilbert K. Levy",
-    "Major Malone"
-  ],
-  "recipient": "Director of Special Investigation, Inspector Genere, USAP"
+  ]
 }

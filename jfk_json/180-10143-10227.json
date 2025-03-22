@@ -1,34 +1,15 @@
 {
-  "classification": "Oswald",
-  "document_type": "Interview",
-  "security_level": "SECRET",
-  "summary": "Interview with Thomas Casasin regarding Lee Harvey Oswald, his time in the CIA, and operations related to the Soviet Union.",
-  "tags": [
-    "CIA",
-    "Soviet Operations",
-    "Defectors",
-    "KGB",
-    "201 File",
-    "REDCAP",
-    "REDWOOD",
-    "REDSKIN",
-    "Legal Travellers Program"
-  ],
   "title": "Interview of Thomas Casasin",
+  "title_ja": "トーマス・カササンの尋問",
+  "summary": "Interview with Thomas Casasin regarding Lee Harvey Oswald, his time in the CIA, and operations related to the Soviet Union.",
+  "summary_ja": "リー・ハーヴェイ・オズワルド、CIA在籍時、ソ連関連作戦に関するトーマス・カササンの証言。",
+  "document_type": "Interview",
+  "classification": "Oswald",
+  "security_level": "SECRET",
   "date": "1978-08-17",
-  "locations_mentioned": [
-    "Paris",
-    "France",
-    "Soviet Union",
-    "USSR",
-    "Japan",
-    "North Korea",
-    "Red China",
-    "Minsk",
-    "Czechoslovakia",
-    "Moscow"
-  ],
   "origin_agency": "CIA",
+  "sender": "Robert G. Lamprell",
+  "recipient": "Chiefs of SR and WH",
   "persons_mentioned": [
     "Thomas Casasin",
     "Surell Brady",
@@ -49,6 +30,27 @@
     "Alexander Sokaloff",
     "Marina"
   ],
-  "recipient": "Chiefs of SR and WH",
-  "sender": "Robert G. Lamprell"
+  "locations_mentioned": [
+    "Paris",
+    "France",
+    "Soviet Union",
+    "USSR",
+    "Japan",
+    "North Korea",
+    "Red China",
+    "Minsk",
+    "Czechoslovakia",
+    "Moscow"
+  ],
+  "tags": [
+    "CIA",
+    "Soviet Operations",
+    "Defectors",
+    "KGB",
+    "201 File",
+    "REDCAP",
+    "REDWOOD",
+    "REDSKIN",
+    "Legal Travellers Program"
+  ]
 }

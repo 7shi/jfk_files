@@ -1,20 +1,18 @@
 {
-  "classification": "Operations",
-  "document_type": "DDO Instruction",
-  "security_level": "SECRET",
-  "summary": "This document outlines restrictions on the operational use of certain categories of individuals by the DDO. It details prohibitions and policy restrictions based on U.S. Governmental directives, agency agreements, and the DDO's risk assessments. It includes guidelines for approval procedures when using individuals from sensitive categories, such as members of ACTION, Fulbright grantees, media employees, and foreign nationals.",
-  "tags": [
-    "Operational Use",
-    "Restrictions",
-    "DDO Policy",
-    "Human Intelligence",
-    "Agents",
-    "Recruitment",
-    "Covert Operations",
-    "Intelligence"
-  ],
   "title": "RESTRICTIONS ON OPERATIONAL USE OF CERTAIN CATEGORIES OF INDIVIDUALS",
+  "title_ja": "特定のカテゴリーに属する個人に対する作戦上の使用に関する制限",
+  "summary": "This document outlines restrictions on the operational use of certain categories of individuals by the DDO. It details prohibitions and policy restrictions based on U.S. Governmental directives, agency agreements, and the DDO's risk assessments. It includes guidelines for approval procedures when using individuals from sensitive categories, such as members of ACTION, Fulbright grantees, media employees, and foreign nationals.",
+  "summary_ja": "この文書は、DDOによる特定のカテゴリーに属する人物の業務上の利用に関する制限について概説している。米国政府の指令、機関の合意、およびDDOのリスク評価に基づく禁止事項および方針上の制限について詳細に説明している。ACTIONのメンバー、フルブライト奨学生、メディア関係者、外国籍者など、機密性の高いカテゴリーに属する人物を利用する際の承認手続きに関するガイドラインを含んでいる。",
+  "document_type": "DDO Instruction",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1973-09-04",
+  "origin_agency": "DDO",
+  "sender": "Deputy Director for Operations",
+  "recipient": "All DDO Elements",
+  "persons_mentioned": [
+    "William E. Nelson"
+  ],
   "locations_mentioned": [
     "United States",
     "Australia",
@@ -28,10 +26,14 @@
     "USSR",
     "Communist China"
   ],
-  "origin_agency": "DDO",
-  "persons_mentioned": [
-    "William E. Nelson"
-  ],
-  "recipient": "All DDO Elements",
-  "sender": "Deputy Director for Operations"
+  "tags": [
+    "Operational Use",
+    "Restrictions",
+    "DDO Policy",
+    "Human Intelligence",
+    "Agents",
+    "Recruitment",
+    "Covert Operations",
+    "Intelligence"
+  ]
 }

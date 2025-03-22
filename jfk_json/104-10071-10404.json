@@ -1,8 +1,22 @@
 {
-  "classification": "Liaison",
-  "document_type": "Message Form",
-  "security_level": "SECRET",
+  "title": "Identification of James Earl Ray as Accused Assassin",
+  "title_ja": "暗殺容疑者ジェームズ・アール・レイの身元確認",
   "summary": "This document identifies James Earl Ray as the accused assassin, providing his physical description, aliases, criminal record, and details of his escape from Missouri State Penitentiary.",
+  "summary_ja": "この文書は、ジェームズ・アール・レイを容疑者として特定し、彼の身体的特徴、別名、犯罪歴、ミズーリ州立刑務所からの脱獄の詳細を記載している。",
+  "document_type": "Message Form",
+  "classification": "Liaison",
+  "security_level": "SECRET",
+  "date": "1968-04-19",
+  "sender": "CIOP/DC",
+  "recipient": "DCI, DIDCI, DOP, AODD, CS/RF c/EUR, C/WH, CIFE",
+  "persons_mentioned": [
+    "Richard Ober",
+    "James Earl Ray",
+    "James McBride",
+    "James Walton",
+    "W.C. Herron",
+    "James O'Connor"
+  ],
   "tags": [
     "James Earl Ray",
     "assassination",
@@ -12,17 +26,5 @@
     "LNERGO",
     "aliases",
     "Missouri State Penitentiary"
-  ],
-  "title": "Identification of James Earl Ray as Accused Assassin",
-  "date": "1968-04-19",
-  "persons_mentioned": [
-    "Richard Ober",
-    "James Earl Ray",
-    "James McBride",
-    "James Walton",
-    "W.C. Herron",
-    "James O'Connor"
-  ],
-  "recipient": "DCI, DIDCI, DOP, AODD, CS/RF c/EUR, C/WH, CIFE",
-  "sender": "CIOP/DC"
+  ]
 }

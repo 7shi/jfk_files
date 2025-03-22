@@ -1,18 +1,20 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Full Clearance Requests on WH/C/JMWAVE Staff Agents Converting to Staff Employee Status",
+  "title_ja": "WH/C/JMWAVEスタッフエージェントの完全クリアランス申請 スタッフ従業員への転換",
   "summary": "This memorandum requests full security clearances for staff agents converting to staff employee status within WH/C/JMWAVE.",
+  "summary_ja": "この覚書は、WH/C/JMWAVE内の職員から職員従業員に転向する職員エージェントの完全なセキュリティクリアランスを要請するものである。",
+  "document_type": "Memorandum",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1965-11-18",
+  "origin_agency": "Office of Personnel",
+  "sender": "Chief, Contract Personnel Division/Office of Personr",
+  "recipient": "Chief, Clearance Branch/Office of Security",
   "tags": [
     "security clearance",
     "staff agent",
     "staff employee",
     "WH/C/JMWAVE",
     "personnel"
-  ],
-  "title": "Full Clearance Requests on WH/C/JMWAVE Staff Agents Converting to Staff Employee Status",
-  "date": "1965-11-18",
-  "origin_agency": "Office of Personnel",
-  "recipient": "Chief, Clearance Branch/Office of Security",
-  "sender": "Chief, Contract Personnel Division/Office of Personr"
+  ]
 }

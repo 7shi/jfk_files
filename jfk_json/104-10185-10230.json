@@ -1,23 +1,25 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
-  "summary": "Memo regarding Laddie's housing situation, including payment balance and apartment arrangements at Summit Hill Apartments.",
-  "tags": [
-    "housing",
-    "payment",
-    "apartment",
-    "Summit Hill Apartments",
-    "Laddie"
-  ],
   "title": "Laddie's Housing Situation",
+  "title_ja": "ラディの住居状況",
+  "summary": "Memo regarding Laddie's housing situation, including payment balance and apartment arrangements at Summit Hill Apartments.",
+  "summary_ja": "ラディの住居状況に関するメモ。支払い残高とサミットヒルアパートメントのアパートの手配を含む。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
   "date": "1964-04-01",
+  "sender": "Unknown",
+  "recipient": "Unknown",
   "persons_mentioned": [
     "Vivian",
     "John Kran",
     "Roger Shea",
     "Laddie"
   ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  "tags": [
+    "housing",
+    "payment",
+    "apartment",
+    "Summit Hill Apartments",
+    "Laddie"
+  ]
 }

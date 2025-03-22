@@ -1,22 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "REPORT",
-  "security_level": "SECRET",
-  "summary": "This document discusses the alert status of Cuban diplomatic missions following the assassination of President Kennedy. It details the increased vigilance and security measures implemented by the missions in response to potential hostile activity.",
-  "tags": [
-    "diplomatic missions",
-    "vigilance",
-    "security measures",
-    "Cuban government",
-    "hostile activity"
-  ],
   "title": "ALERT STATUS OF CUBAN DIPLOMATIC MISSIONS, AS RESULT OF THE ASSASSINATION OF PRESIDENT KENNEDY",
+  "title_ja": "ケネディ大統領暗殺の結果としてのキューバ外交使節団の警戒状況",
+  "summary": "This document discusses the alert status of Cuban diplomatic missions following the assassination of President Kennedy. It details the increased vigilance and security measures implemented by the missions in response to potential hostile activity.",
+  "summary_ja": "この文書は、ケネディ大統領暗殺後のキューバ外交団の警戒態勢について論じている。潜在的な敵対行為に対応して外交団が実施した警戒態勢と安全対策の強化について詳しく述べている。",
+  "document_type": "REPORT",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-12-13",
-  "locations_mentioned": [
-    "CUBA",
-    "HAVANA"
-  ],
   "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "",
   "persons_mentioned": [
     "JOHN F. KENNEDY",
     "BUNDY-SMITH",
@@ -35,6 +28,15 @@
     "SCHLESINGE",
     "SMITH, WM, Y"
   ],
-  "recipient": "",
-  "sender": ""
+  "locations_mentioned": [
+    "CUBA",
+    "HAVANA"
+  ],
+  "tags": [
+    "diplomatic missions",
+    "vigilance",
+    "security measures",
+    "Cuban government",
+    "hostile activity"
+  ]
 }

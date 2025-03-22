@@ -1,8 +1,28 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "UNCLASSIFIED",
+  "title": "KAPOK PERUNEN",
+  "title_ja": "カポック・ペルネン",
   "summary": "This cable discusses the case of Hilton Lynn, a U.S. citizen involved in a drugs case in Merida, Mexico. It suggests ODCOIL MEXI should lead the investigation, avoiding KUBARK involvement. It also mentions the potential development of Ernesto Abreu Gomez for PERUKKN operations.",
+  "summary_ja": "この電報は、メキシコのメリダで麻薬事件に関与した米国市民ヒルトン・リンの件について議論している。ODCOIL MEXIが捜査を主導し、KUBARKの関与を避けるべきであると提案している。また、PERUKKN作戦におけるエルネスト・アブレウ・ゴメスの潜在的可能性についても言及している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "UNCLASSIFIED",
+  "date": "1963-11-06",
+  "origin_agency": "WEBB MERIDA MEXICO CITY",
+  "sender": "S. S. SCOT",
+  "recipient": "MRID INFO",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Hilton Lynn",
+    "Ernesto Abreu Gomez",
+    "W. King",
+    "J. C. KING",
+    "B. PRICEHARDT"
+  ],
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City",
+    "Merida"
+  ],
   "tags": [
     "Hilton Lynn",
     "drugs",
@@ -12,23 +32,5 @@
     "Ernesto Abreu Gomez",
     "PERUKKN",
     "PERUMEN"
-  ],
-  "title": "KAPOK PERUNEN",
-  "date": "1963-11-06",
-  "locations_mentioned": [
-    "Mexico",
-    "Mexico City",
-    "Merida"
-  ],
-  "origin_agency": "WEBB MERIDA MEXICO CITY",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Hilton Lynn",
-    "Ernesto Abreu Gomez",
-    "W. King",
-    "J. C. KING",
-    "B. PRICEHARDT"
-  ],
-  "recipient": "MRID INFO",
-  "sender": "S. S. SCOT"
+  ]
 }

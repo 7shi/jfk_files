@@ -1,8 +1,29 @@
 {
-  "classification": "Cuba",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
+  "title": "Miami Herald Article on Manuel Ray Replacing Miro",
+  "title_ja": "マイアミ・ヘラルド紙のマヌエル・レイに関する記事 ミロの後任",
   "summary": "This document discusses an article in the Miami Herald that claims Manuel Ray has replaced Miro as exile chief with the blessing of the United States. The article has caused concern in the local Cuban colony, and the CIA is considering discrediting the story and reassuring Miro.",
+  "summary_ja": "この文書は、マヌエル・レイが米国の支援を受けてミロに代わって亡命政府の指導者となったと主張するマイアミ・ヘラルドの記事について述べている。この記事は現地のキューバ人社会に懸念を引き起こしており、CIAは記事の信憑性を疑い、ミロを安心させることを検討している。",
+  "document_type": "Classified Message",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-05-27",
+  "origin_agency": "JMWAVE",
+  "sender": "JMWAVE",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Miro",
+    "Manuel Ray",
+    "James Buchanan",
+    "Rolilo Betancourt",
+    "Joasi Godoy",
+    "Adolf Berle",
+    "William S. Wirald"
+  ],
+  "locations_mentioned": [
+    "Miami",
+    "Cuba"
+  ],
   "tags": [
     "Miami Herald",
     "Manuel Ray",
@@ -14,24 +35,5 @@
     "JMWAVE",
     "Operation",
     "Propaganda"
-  ],
-  "title": "Miami Herald Article on Manuel Ray Replacing Miro",
-  "date": "1962-05-27",
-  "locations_mentioned": [
-    "Miami",
-    "Cuba"
-  ],
-  "origin_agency": "JMWAVE",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Miro",
-    "Manuel Ray",
-    "James Buchanan",
-    "Rolilo Betancourt",
-    "Joasi Godoy",
-    "Adolf Berle",
-    "William S. Wirald"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "JMWAVE"
+  ]
 }

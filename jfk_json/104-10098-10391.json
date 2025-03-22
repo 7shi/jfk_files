@@ -1,8 +1,21 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "MEXI 7479",
+  "title_ja": "MEXI 7479",
   "summary": "This document is a classified message from MEXICO CITY, referencing individuals AR. GEORGE STEENS and operations related to CADALETRACE, CKASSAY, and LPSHRINK. It includes identifiers MEXI 7479 and MEXI 7403 (IN 85185).",
+  "summary_ja": "この文書はメキシコシティからの機密扱いのメッセージであり、AR. GEORGE STEENSおよびCADALETRACE、CKASSAY、LPSHRINKに関連する作戦について言及している。識別子MEXI 7479およびMEXI 7403（IN 85185）を含む。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "2022-05-20",
+  "origin_agency": "Unspecified",
+  "sender": "CHET",
+  "recipient": "EE 6, C1/CA, CCS 3",
+  "persons_mentioned": [
+    "AR. GEORGE STEENS"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY"
+  ],
   "tags": [
     "CADALETRACE",
     "CKASSAY",
@@ -10,16 +23,5 @@
     "MEXI 7479",
     "MEXI 7403",
     "AR. GEORGE STEENS"
-  ],
-  "title": "MEXI 7479",
-  "date": "2022-05-20",
-  "locations_mentioned": [
-    "MEXICO CITY"
-  ],
-  "origin_agency": "Unspecified",
-  "persons_mentioned": [
-    "AR. GEORGE STEENS"
-  ],
-  "recipient": "EE 6, C1/CA, CCS 3",
-  "sender": "CHET"
+  ]
 }

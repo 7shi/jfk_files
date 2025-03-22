@@ -1,23 +1,28 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum summarizes Cuban operations from September 1-15, 1961, detailing FI-CI activity, propaganda efforts (including Operations Bolivar and Virgen del Cobre), political action related to the Cuban Revolutionary Council (CRC), paramilitary activities, training, communications, and support. It includes information on agent activities, broadcasts, leaflet distribution, periodical publications, tours, and financial obligations.",
-  "tags": [
-    "Cuban Operations",
-    "FI-CI Activity",
-    "Propaganda",
-    "Political Action",
-    "Paramilitary Activity",
-    "Agent Training",
-    "Communications",
-    "CRC",
-    "Operation Bolivar",
-    "Operation Virgen del Cobre",
-    "Maritime Activity"
-  ],
   "title": "Report on Cuban Operations for Period 1-15 September 61",
+  "title_ja": "9月1日から15日までのキューバ作戦についての報告書 61",
+  "summary": "This memorandum summarizes Cuban operations from September 1-15, 1961, detailing FI-CI activity, propaganda efforts (including Operations Bolivar and Virgen del Cobre), political action related to the Cuban Revolutionary Council (CRC), paramilitary activities, training, communications, and support. It includes information on agent activities, broadcasts, leaflet distribution, periodical publications, tours, and financial obligations.",
+  "summary_ja": "本覚書は、1961年9月1日から15日までのキューバの活動を要約し、FI-CIの活動、プロパガンダ活動（オペレーション・ボリバルおよびオペレーション・ビルヘン・デル・コブレを含む）、キューバ革命評議会（CRC）に関連する政治活動、準軍事活動、訓練、通信、支援について詳細に述べている。また、エージェントの活動、放送、ビラの配布、定期刊行物、ツアー、財政的義務に関する情報も含まれている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1961-09-26",
+  "origin_agency": "Western Hemisphere Division",
+  "sender": "J. C. KING, Chief, Western Hemisphere Division",
+  "recipient": "Deputy Director (Plans)",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Raul CASTRO Bonilla",
+    "Jesus LOPEZ Guerrara",
+    "Miro Cardona",
+    "Batista",
+    "Wendell Johnson",
+    "Rojas Santamarina",
+    "Luis CORTE Aguero",
+    "Ferique MOISSA",
+    "Glee Laney",
+    "Fall"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Miami",
@@ -40,20 +45,17 @@
     "Mexico",
     "Switzerland"
   ],
-  "origin_agency": "Western Hemisphere Division",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Raul CASTRO Bonilla",
-    "Jesus LOPEZ Guerrara",
-    "Miro Cardona",
-    "Batista",
-    "Wendell Johnson",
-    "Rojas Santamarina",
-    "Luis CORTE Aguero",
-    "Ferique MOISSA",
-    "Glee Laney",
-    "Fall"
-  ],
-  "recipient": "Deputy Director (Plans)",
-  "sender": "J. C. KING, Chief, Western Hemisphere Division"
+  "tags": [
+    "Cuban Operations",
+    "FI-CI Activity",
+    "Propaganda",
+    "Political Action",
+    "Paramilitary Activity",
+    "Agent Training",
+    "Communications",
+    "CRC",
+    "Operation Bolivar",
+    "Operation Virgen del Cobre",
+    "Maritime Activity"
+  ]
 }

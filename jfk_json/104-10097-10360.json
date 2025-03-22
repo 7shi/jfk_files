@@ -1,8 +1,24 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "KAPOK PERUMEN",
+  "title_ja": "カポック・ペルメン",
   "summary": "This cable discusses a potential asset (SUBJ) who has access to significant plans and activities within the Ministry of Industries and is frequently consulted by Ernesto \"Che\" Guevara. The asset is considered a highly qualified engineer and could provide valuable information. The cable also mentions the need for secure communication channels and cautions against using the asset for contact with individuals trusted by Guevara but not by the agency.",
+  "summary_ja": "この電報では、産業省内の重要な計画や活動にアクセスでき、チェ・ゲバラから頻繁に相談を受けている潜在的な情報提供者（SUBJ）について議論している。この情報提供者は非常に有能なエンジニアと見なされており、貴重な情報を提供できる可能性がある。また、この電報では、安全な通信手段の必要性についても言及しており、ゲバラは信頼しているが、当局は信頼していない人物との接触にこの情報提供者を利用することに警告を発している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "2025",
+  "origin_agency": "DIRECTOR",
+  "sender": "DIRECTOR",
+  "recipient": "C/WH.5",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Ernesto \"Che\" Guevara",
+    "Castro"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "Cuba"
+  ],
   "tags": [
     "LICRAFT-1",
     "BROTHER 28",
@@ -14,19 +30,5 @@
     "PBPRIME",
     "KUBANK",
     "CASTRO"
-  ],
-  "title": "KAPOK PERUMEN",
-  "date": "2025",
-  "locations_mentioned": [
-    "MEXICO CITY",
-    "Cuba"
-  ],
-  "origin_agency": "DIRECTOR",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Ernesto \"Che\" Guevara",
-    "Castro"
-  ],
-  "recipient": "C/WH.5",
-  "sender": "DIRECTOR"
+  ]
 }

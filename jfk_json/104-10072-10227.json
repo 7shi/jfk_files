@@ -1,30 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch and Contact Reports",
-  "security_level": "SECRET/RYBAT",
-  "summary": "This document includes a dispatch regarding contact reports from Peter J. DI GERVENO concerning his meetings with AMCLOCK/1 in September 1967. The reports detail AMCLOCK/1's activities, observations, and intelligence production, including his views on the PBRUMEN government and security matters.",
-  "tags": [
-    "AMCLOCK/1",
-    "DI GERVENO",
-    "PBRUMEN",
-    "Intelligence",
-    "Contact Reports",
-    "WOFACT",
-    "Foreign Ministry",
-    "Security"
-  ],
   "title": "Transmittal of Contact Reports for First Two Meetings with AMCLOCK/1",
+  "title_ja": "AMCLOCK/1との最初の2回の接触報告の伝達/1",
+  "summary": "This document includes a dispatch regarding contact reports from Peter J. DI GERVENO concerning his meetings with AMCLOCK/1 in September 1967. The reports detail AMCLOCK/1's activities, observations, and intelligence production, including his views on the PBRUMEN government and security matters.",
+  "summary_ja": "この文書には、1967年9月にピーター・J・ディ・ジェルヴェーノがAMCLOCK/1と会った際の接触報告に関する派遣が含まれている。報告書には、AMCLOCK/1の活動、観察、情報生産、およびPBRUMEN政府と安全保障問題に関する彼の意見が詳細に記載されている。",
+  "document_type": "Dispatch and Contact Reports",
+  "classification": "Cuba",
+  "security_level": "SECRET/RYBAT",
   "date": "1967-10-13",
-  "locations_mentioned": [
-    "New York",
-    "PBRUMEN",
-    "USSR",
-    "Washington",
-    "Congo",
-    "Canada",
-    "Switzerland"
-  ],
   "origin_agency": "AIPO/COS, JMWAVE",
+  "sender": "Howard G. FIGALAN",
+  "recipient": "Chief, WH/Cuba; COS, JMWAVE; Chief, DOD; Chief of Base, New York",
   "persons_mentioned": [
     "Peter J. DI GERVENO",
     "AMCLOCK/1",
@@ -44,6 +29,23 @@
     "Antonio CARRILLO",
     "Gabriel MOLINA"
   ],
-  "recipient": "Chief, WH/Cuba; COS, JMWAVE; Chief, DOD; Chief of Base, New York",
-  "sender": "Howard G. FIGALAN"
+  "locations_mentioned": [
+    "New York",
+    "PBRUMEN",
+    "USSR",
+    "Washington",
+    "Congo",
+    "Canada",
+    "Switzerland"
+  ],
+  "tags": [
+    "AMCLOCK/1",
+    "DI GERVENO",
+    "PBRUMEN",
+    "Intelligence",
+    "Contact Reports",
+    "WOFACT",
+    "Foreign Ministry",
+    "Security"
+  ]
 }

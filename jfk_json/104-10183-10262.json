@@ -1,8 +1,27 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "CLASSIFIED MESSAGE",
+  "title_ja": "機密メッセージ",
   "summary": "Cable discusses the recruitment of JUAVE 2, security considerations, and other targets.",
+  "summary_ja": "JUAVE 2の勧誘、セキュリティ上の考慮事項、その他の標的について議論している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1964-09-13",
+  "origin_agency": "SALV",
+  "sender": "SALV",
+  "recipient": "DIR",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "LANOSCH",
+    "VET JUHILL MORN",
+    "DULA",
+    "JAMES HANDLE"
+  ],
+  "locations_mentioned": [
+    "COSCOW",
+    "PRAGUE",
+    "ICE"
+  ],
   "tags": [
     "recruitment",
     "security",
@@ -11,22 +30,5 @@
     "JUAVE 2",
     "KUZARK",
     "LANGOSCH"
-  ],
-  "title": "CLASSIFIED MESSAGE",
-  "date": "1964-09-13",
-  "locations_mentioned": [
-    "COSCOW",
-    "PRAGUE",
-    "ICE"
-  ],
-  "origin_agency": "SALV",
-  "persons_mentioned": [
-    "JOHN F. KENNEDY",
-    "LANOSCH",
-    "VET JUHILL MORN",
-    "DULA",
-    "JAMES HANDLE"
-  ],
-  "recipient": "DIR",
-  "sender": "SALV"
+  ]
 }

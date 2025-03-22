@@ -1,28 +1,30 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses the approach to a liaison asset (Tapy/Watson) and details a refusal to serve as an informant due to security concerns. It mentions potential work with someone enjoying close relations with a cultural attaché. Instructions are given to delay further action until advised, and a request is made to identify a representative mentioned in a previous reference.",
-  "tags": [
-    "Liaison",
-    "Informant",
-    "Security",
-    "Cultural Attache",
-    "Russian Professors"
-  ],
   "title": "DIR CITE SALV 5229: WHDV CUBA CUBANDEF",
+  "title_ja": "DIR CITE SALV 5229: WHDV CUBA CUBANDEF",
+  "summary": "This cable discusses the approach to a liaison asset (Tapy/Watson) and details a refusal to serve as an informant due to security concerns. It mentions potential work with someone enjoying close relations with a cultural attaché. Instructions are given to delay further action until advised, and a request is made to identify a representative mentioned in a previous reference.",
+  "summary_ja": "本電報では、連絡係（Tapy/Watson）へのアプローチについて議論し、安全保障上の懸念から情報提供者となることを拒否する旨を詳細に説明している。文化担当官と親しい関係にある人物との潜在的な協力関係についても言及している。指示が出るまでさらなる行動を遅らせるよう指示が出され、以前の参考資料に記載されていた代表者を特定するよう要請が出されている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "UNKNOWN",
-  "locations_mentioned": [
-    "El Salvador",
-    "Cuba"
-  ],
   "origin_agency": "Director",
+  "sender": "Director",
+  "recipient": "DDP, WILSA 8, CI, Cilops, ciles, VE",
   "persons_mentioned": [
     "John F. Kennedy",
     "Tapy",
     "Watson",
     "Harisonas"
   ],
-  "recipient": "DDP, WILSA 8, CI, Cilops, ciles, VE",
-  "sender": "Director"
+  "locations_mentioned": [
+    "El Salvador",
+    "Cuba"
+  ],
+  "tags": [
+    "Liaison",
+    "Informant",
+    "Security",
+    "Cultural Attache",
+    "Russian Professors"
+  ]
 }

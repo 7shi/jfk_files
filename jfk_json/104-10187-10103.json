@@ -1,8 +1,31 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "CUBAN DEFECTOR: Briefing in Guatemala (Chief of State Peralta)",
+  "title_ja": "キューバ亡命者：グアテマラでのブリーフィング（ペラルタ国家元首",
   "summary": "This memorandum discusses a briefing in Guatemala regarding Cuban defector operations, DGI structure and operational techniques, and potential cooperation between the U.S. and Guatemala in intelligence matters.",
+  "summary_ja": "この覚書では、グアテマラにおけるキューバ亡命者の活動、DGIの組織と活動手法、情報活動における米国とグアテマラの潜在的な協力関係に関するブリーフィングについて論じている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1964-10-13",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "Peralta",
+    "Serrano",
+    "Porres",
+    "Castro",
+    "RIVERA",
+    "MEDRANO",
+    "Dalton"
+  ],
+  "locations_mentioned": [
+    "Guatemala",
+    "Cuba",
+    "El Salvador",
+    "Mexico",
+    "Central America"
+  ],
   "tags": [
     "Cuban Defector",
     "DGI",
@@ -14,26 +37,5 @@
     "OAS",
     "Mexico",
     "Dalton"
-  ],
-  "title": "CUBAN DEFECTOR: Briefing in Guatemala (Chief of State Peralta)",
-  "date": "1964-10-13",
-  "locations_mentioned": [
-    "Guatemala",
-    "Cuba",
-    "El Salvador",
-    "Mexico",
-    "Central America"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Peralta",
-    "Serrano",
-    "Porres",
-    "Castro",
-    "RIVERA",
-    "MEDRANO",
-    "Dalton"
-  ],
-  "recipient": "CIA",
-  "sender": "CIA"
+  ]
 }

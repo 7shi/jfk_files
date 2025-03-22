@@ -1,8 +1,17 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
+  "title_ja": "軍事援護バックストップの確立に関する通知",
   "summary": "Notification of Establishment of Military Cover Backstop for (INCE: TORING), File No. 5190, 10 Card No. B165617, effective 7 August 1962. Establishes military cover backstop at U.S. Army Element, Joint Operations Group (8739)32. Includes instructions for blocking records, submitting forms for changes or transfers, and ensuring Army W-2 issuance.",
+  "summary_ja": "INCE（トーリング）のための軍事的偽装のバックストップの確立に関する通知、ファイル番号5190、10カード番号B165617、1962年8月7日発効。米国陸軍部隊、統合作戦グループ（8739）32における軍事的偽装のバックストップを確立する。記録のブロック、変更または転送のためのフォームの提出、および陸軍W-2発行の確保に関する指示を含む。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1962-08-07",
+  "origin_agency": "Chief Operating Component",
+  "sender": "Chief Operating Component",
+  "recipient": "Chief Records and Services Division",
+  "persons_mentioned": [],
+  "locations_mentioned": [],
   "tags": [
     "Military Cover",
     "Joint Operations Group",
@@ -10,12 +19,5 @@
     "Forms",
     "W-2",
     "Army"
-  ],
-  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
-  "date": "1962-08-07",
-  "locations_mentioned": [],
-  "origin_agency": "Chief Operating Component",
-  "persons_mentioned": [],
-  "recipient": "Chief Records and Services Division",
-  "sender": "Chief Operating Component"
+  ]
 }

@@ -1,8 +1,22 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "Cover for Subject",
+  "title_ja": "件名に関する偽装工作",
   "summary": "This memo discusses a devised cover for a subject, employed by Roberts Electronic and Engineering Service as a consultant in the Southeastern United States. It details the cover firm's information, payment procedures via bank transfer, and tax responsibilities, including the issuance of a U.S. Treasury form 1099. The memo also requests notification when the cover arrangement is no longer needed for proper backstopping.",
+  "summary_ja": "このメモは、米国南東部のコンサルタントとしてロバーツ電子工学・エンジニアリングサービス社が採用した対象者に関する考案された偽装工作について述べている。偽装工作会社の情報、銀行振込による支払い手続き、米国財務省フォーム1099の発行を含む納税義務について詳細に説明している。また、適切なバックアップ対策として偽装工作の手配が不要になった場合の通知も求めている。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
+  "date": "1961-10-19",
+  "origin_agency": "CIA",
+  "sender": "GIPN",
+  "recipient": "Headquarters",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "locations_mentioned": [
+    "Southeastern United States",
+    "Baltimore, Maryland"
+  ],
   "tags": [
     "cover",
     "Eubject",
@@ -11,17 +25,5 @@
     "employment",
     "taxes",
     "backstopping"
-  ],
-  "title": "Cover for Subject",
-  "date": "1961-10-19",
-  "locations_mentioned": [
-    "Southeastern United States",
-    "Baltimore, Maryland"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy"
-  ],
-  "recipient": "Headquarters",
-  "sender": "GIPN"
+  ]
 }

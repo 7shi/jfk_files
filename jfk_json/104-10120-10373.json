@@ -1,26 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum",
-  "security_level": "Unclassified",
-  "summary": "This memorandum discusses the plan to use EMPLOYMENT SERVICE COMPANY in Pittsburgh for initial A&E assessment of REDSKIN agent candidates, as well as the logistics of training and assessing these agents outside of Washington, D.C.",
-  "tags": [
-    "REDSKIN",
-    "agent recruitment",
-    "assessment",
-    "training",
-    "cover organization",
-    "EMPLOYMENT SERVICE COMPANY",
-    "safe house"
-  ],
   "title": "COVER, NONOFFICIAL - GENERAL (Proposal for A&E Assessment of Potential REDSKIN Agent Candidates)",
+  "title_ja": "非公式 - 一般（潜在的なREDスキン諜報要員候補のA&E評価に関する提案",
+  "summary": "This memorandum discusses the plan to use EMPLOYMENT SERVICE COMPANY in Pittsburgh for initial A&E assessment of REDSKIN agent candidates, as well as the logistics of training and assessing these agents outside of Washington, D.C.",
+  "summary_ja": "本覚書では、ピッツバーグの雇用サービス会社を、レッドスキン工作員候補の初期のA&E評価に利用する計画について、またワシントンD.C.以外の場所でこれらの工作員を訓練し評価するロジスティクスについて議論する。",
+  "document_type": "Memorandum",
+  "classification": "Personnel",
+  "security_level": "Unclassified",
   "date": "1961-02-28",
-  "locations_mentioned": [
-    "Pittsburgh",
-    "Washington, D.C.",
-    "New York",
-    "Baltimore"
-  ],
   "origin_agency": "SB/2 Desk",
+  "sender": "Chief, SB/2 Desk",
+  "recipient": "SSD #95018",
   "persons_mentioned": [
     "Howard OSBORNE",
     "Jack SOUTHARD",
@@ -30,6 +19,19 @@
     "MCKEE",
     "Ervan E. Kuhnke, Jr"
   ],
-  "recipient": "SSD #95018",
-  "sender": "Chief, SB/2 Desk"
+  "locations_mentioned": [
+    "Pittsburgh",
+    "Washington, D.C.",
+    "New York",
+    "Baltimore"
+  ],
+  "tags": [
+    "REDSKIN",
+    "agent recruitment",
+    "assessment",
+    "training",
+    "cover organization",
+    "EMPLOYMENT SERVICE COMPANY",
+    "safe house"
+  ]
 }

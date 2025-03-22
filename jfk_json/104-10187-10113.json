@@ -1,28 +1,30 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses the handling of a Cuban defector, referred to as DALTON. It assesses his potential value as an agent against Cuban intelligence and the obstacles he presents if released. It also covers the protection of equity in a Cuban target, recruitment efforts, and the arrest of guerrillas trained in Cuba.",
-  "tags": [
-    "Cuban defector",
-    "intelligence",
-    "recruitment",
-    "guerrillas",
-    "Salvador"
-  ],
   "title": "Cuban Defector",
+  "title_ja": "キューバ亡命者",
+  "summary": "This cable discusses the handling of a Cuban defector, referred to as DALTON. It assesses his potential value as an agent against Cuban intelligence and the obstacles he presents if released. It also covers the protection of equity in a Cuban target, recruitment efforts, and the arrest of guerrillas trained in Cuba.",
+  "summary_ja": "この電報は、DALTONと呼ばれるキューバ亡命者の取り扱いについて論じている。キューバ情報機関に対するスパイとしての彼の潜在的な価値と、彼が釈放された場合に生じる障害について評価している。また、キューバの標的の財産保護、採用活動、キューバで訓練を受けたゲリラの逮捕についても言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-09-30",
+  "origin_agency": "CIA",
+  "sender": "SAN SALVATEIS",
+  "recipient": "WH8",
+  "persons_mentioned": [
+    "DALTON",
+    "John F. Kennedy"
+  ],
   "locations_mentioned": [
     "Cuba",
     "San Salvador",
     "Mexico",
     "CUSA"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "DALTON",
-    "John F. Kennedy"
-  ],
-  "recipient": "WH8",
-  "sender": "SAN SALVATEIS"
+  "tags": [
+    "Cuban defector",
+    "intelligence",
+    "recruitment",
+    "guerrillas",
+    "Salvador"
+  ]
 }

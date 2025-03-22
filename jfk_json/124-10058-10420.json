@@ -1,8 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Paper, Textual Document",
-  "security_level": "Secret",
+  "title": "",
+  "title_ja": "",
   "summary": "This document discusses a conversation between MARIOTRIVA PATTERSON, Counselor, Cuban Embassy, London and an unidentified male visitor, possibly a Colombian, regarding the assassination of President Kennedy. The visitor suggests the assassination was an FBI job, and RIVA expresses disgust. The document raises the possibility that the individual referred to as FOSTER may have been OSWALD.",
+  "summary_ja": "この文書は、キューバ大使館（ロンドン）の参事官マリオ・トリバ・パターソンと、コロンビア人と思われる正体不明の男性訪問者との間の、ケネディ大統領暗殺に関する会話について述べている。訪問者は暗殺はFBIの仕業だと示唆し、リヴァは嫌悪感をあらわにする。この文書は、フォスターと呼ばれる人物がオズワルドであった可能性を示唆している。",
+  "document_type": "Paper, Textual Document",
+  "classification": "Cuba",
+  "security_level": "Secret",
+  "date": "06/23/1964",
+  "origin_agency": "FBI",
+  "sender": "LEG, LO",
+  "recipient": "DIRECTOR, FBI",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "John F. Kennedy",
+    "MARIOTRIVA PATTERSON",
+    "R. E. CARTER"
+  ],
+  "locations_mentioned": [
+    "London",
+    "Cuba",
+    "Tampico"
+  ],
   "tags": [
     "LHO",
     "POST-RP",
@@ -18,21 +36,5 @@
     "MARIOTRIVA PATTERSON",
     "FOSTER",
     "OSWALD"
-  ],
-  "title": "",
-  "date": "06/23/1964",
-  "locations_mentioned": [
-    "London",
-    "Cuba",
-    "Tampico"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "Lee Harvey Oswald",
-    "John F. Kennedy",
-    "MARIOTRIVA PATTERSON",
-    "R. E. CARTER"
-  ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "LEG, LO"
+  ]
 }

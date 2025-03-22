@@ -1,35 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "These documents relate to the CIA's investigation into E. Howard Hunt's activities, particularly his assignment to Madrid in the mid-1960s and any potential financial irregularities. The documents include internal memos, interview summaries, and record searches related to Hunt's operational activities, travel expenses, and bank accounts.",
-  "tags": [
-    "E. Howard Hunt",
-    "Watergate",
-    "Madrid",
-    "CIA",
-    "investigation",
-    "Thomas Karamessines",
-    "Richard Helms",
-    "finance",
-    "operational activities",
-    "cover assignment"
-  ],
   "title": "E. Howard Hunt Investigation",
+  "title_ja": "E. Howard Hunt 調査",
+  "summary": "These documents relate to the CIA's investigation into E. Howard Hunt's activities, particularly his assignment to Madrid in the mid-1960s and any potential financial irregularities. The documents include internal memos, interview summaries, and record searches related to Hunt's operational activities, travel expenses, and bank accounts.",
+  "summary_ja": "これらの文書は、E・ハワード・ハントの活動、特に1960年代半ばのマドリードへの赴任と、財務上の不正行為の可能性に関するCIAの調査に関連している。文書には、ハントの業務活動、旅費、銀行口座に関する内部メモ、インタビューの要約、記録調査が含まれている。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1973-12-20",
-  "locations_mentioned": [
-    "Madrid",
-    "Spain",
-    "Washington",
-    "Paris",
-    "Las Vegas",
-    "Nevada",
-    "Falls Church, Virginia",
-    "Bonn",
-    "Uruguay",
-    "Montevideo"
-  ],
   "origin_agency": "CIA",
+  "sender": "Director of Finance; S. D. Breckinridge; Robert E. Owen",
+  "recipient": "Inspector General; OPS/RMO",
   "persons_mentioned": [
     "E. Howard Hunt",
     "Paul Burns",
@@ -71,6 +51,28 @@
     "Davis Powell",
     "Sam Halpern"
   ],
-  "recipient": "Inspector General; OPS/RMO",
-  "sender": "Director of Finance; S. D. Breckinridge; Robert E. Owen"
+  "locations_mentioned": [
+    "Madrid",
+    "Spain",
+    "Washington",
+    "Paris",
+    "Las Vegas",
+    "Nevada",
+    "Falls Church, Virginia",
+    "Bonn",
+    "Uruguay",
+    "Montevideo"
+  ],
+  "tags": [
+    "E. Howard Hunt",
+    "Watergate",
+    "Madrid",
+    "CIA",
+    "investigation",
+    "Thomas Karamessines",
+    "Richard Helms",
+    "finance",
+    "operational activities",
+    "cover assignment"
+  ]
 }

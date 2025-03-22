@@ -1,23 +1,27 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable discusses Castro's claim that the CIA attempted to sabotage a Cuban merchant ship in Genoa, Italy, with a defective bomb.",
-  "tags": [
-    "sabotage",
-    "Cuban merchant ship",
-    "CIA",
-    "bomb",
-    "Genoa",
-    "Italy",
-    "Castro",
-    "FBIS",
-    "KUBARK DEX",
-    "security forces",
-    "Las Villas"
-  ],
   "title": "Castro Reveals Alleged CIA Sabotage Attempt",
+  "title_ja": "カストロ、CIAによる妨害工作未遂疑惑を明らかにする",
+  "summary": "Cable discusses Castro's claim that the CIA attempted to sabotage a Cuban merchant ship in Genoa, Italy, with a defective bomb.",
+  "summary_ja": "カストロが主張した、CIAがイタリアのジェノヴァで欠陥爆弾を使ってキューバの商船を妨害しようとしたという内容の電報。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-10-22",
+  "origin_agency": "CIA",
+  "sender": "C/SAS",
+  "recipient": "Director",
+  "persons_mentioned": [
+    "Janet Nixon",
+    "Castro",
+    "Desmond FitzGerald",
+    "West Parker",
+    "Joyner",
+    "Jack Delaney",
+    "Steve Bunge",
+    "Pickard P. Banes",
+    "Vaughn Sherman",
+    "Eduard A. Mellius"
+  ],
   "locations_mentioned": [
     "Madrid",
     "Casablanca",
@@ -33,19 +37,17 @@
     "Italy",
     "Cuba"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Janet Nixon",
+  "tags": [
+    "sabotage",
+    "Cuban merchant ship",
+    "CIA",
+    "bomb",
+    "Genoa",
+    "Italy",
     "Castro",
-    "Desmond FitzGerald",
-    "West Parker",
-    "Joyner",
-    "Jack Delaney",
-    "Steve Bunge",
-    "Pickard P. Banes",
-    "Vaughn Sherman",
-    "Eduard A. Mellius"
-  ],
-  "recipient": "Director",
-  "sender": "C/SAS"
+    "FBIS",
+    "KUBARK DEX",
+    "security forces",
+    "Las Villas"
+  ]
 }

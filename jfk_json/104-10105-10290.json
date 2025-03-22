@@ -1,15 +1,13 @@
 {
-  "classification": "Personnel",
-  "document_type": "List",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This document contains lists of names and associated numbers, potentially related to personnel or contact information.",
-  "tags": [
-    "personnel",
-    "names",
-    "contact information",
-    "identification numbers"
-  ],
   "title": "Personnel List",
+  "title_ja": "人員リスト",
+  "summary": "This document contains lists of names and associated numbers, potentially related to personnel or contact information.",
+  "summary_ja": "この文書には、人員または連絡先情報に関連する可能性のある名前と関連番号のリストが含まれている。",
+  "document_type": "List",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
+  "sender": "John F. Kennedy Assassination Records Act",
+  "recipient": "Various",
   "persons_mentioned": [
     "Cundaris ASALIS",
     "Glen AASAL",
@@ -256,6 +254,10 @@
     "Richard Kent RAHILL",
     "Jonas RANALLO"
   ],
-  "recipient": "Various",
-  "sender": "John F. Kennedy Assassination Records Act"
+  "tags": [
+    "personnel",
+    "names",
+    "contact information",
+    "identification numbers"
+  ]
 }

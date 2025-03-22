@@ -1,36 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Textual Document",
-  "security_level": "Secret",
-  "summary": "This document discusses anti-Castro activities and mentions conversations with CIA contacts regarding potential actions against Cuba and opinions on US policy towards the country.",
-  "tags": [
-    "Anti Castro Activities",
-    "IS-Cuba",
-    "CIA",
-    "Lyndon B. Johnson",
-    "Robert F. Kennedy",
-    "Cuba",
-    "John F. Kennedy"
-  ],
   "title": "ANTI CASTRO ACTIVITIES IS-CUBA",
+  "title_ja": "キューバ反カストロ活動",
+  "summary": "This document discusses anti-Castro activities and mentions conversations with CIA contacts regarding potential actions against Cuba and opinions on US policy towards the country.",
+  "summary_ja": "この文書では、カストロ打倒活動について論じ、キューバに対する潜在的な行動と、同国に対する米国の政策に関する意見について、CIAの関係者と交わされた会話について言及している。",
+  "document_type": "Textual Document",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1962-04-05",
-  "locations_mentioned": [
-    "Cuba",
-    "Washington, D.C.",
-    "Kingsville, Texas",
-    "New York",
-    "Chile",
-    "Uruguay",
-    "Colombia",
-    "Argentina",
-    "Florida",
-    "Key Biscayne",
-    "Guantanamo",
-    "Oriente Province",
-    "Berlin",
-    "Viet Nam"
-  ],
   "origin_agency": "FBI",
+  "sender": "NY",
+  "recipient": "HQ",
   "persons_mentioned": [
     "MICHAEL J. P. MALONE",
     "ROBERT KLEBERG",
@@ -49,6 +28,29 @@
     "HUMPHREY",
     "MCCARTHY"
   ],
-  "recipient": "HQ",
-  "sender": "NY"
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, D.C.",
+    "Kingsville, Texas",
+    "New York",
+    "Chile",
+    "Uruguay",
+    "Colombia",
+    "Argentina",
+    "Florida",
+    "Key Biscayne",
+    "Guantanamo",
+    "Oriente Province",
+    "Berlin",
+    "Viet Nam"
+  ],
+  "tags": [
+    "Anti Castro Activities",
+    "IS-Cuba",
+    "CIA",
+    "Lyndon B. Johnson",
+    "Robert F. Kennedy",
+    "Cuba",
+    "John F. Kennedy"
+  ]
 }

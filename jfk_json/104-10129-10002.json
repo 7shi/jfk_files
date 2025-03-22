@@ -1,28 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "Personal History Statement",
-  "security_level": "Unclassified",
-  "summary": "This is a Personal History Statement for Emilio Americo Rodriguez, dated August 31, 1961. It includes personal data, citizenship information, education history, employment history, military service information, financial status and marital status.",
-  "tags": [
-    "Personal History",
-    "Employment",
-    "Citizenship",
-    "Education",
-    "Military Service",
-    "Financial Status",
-    "Marital Status",
-    "Contract Agent"
-  ],
   "title": "Personal History Statement",
+  "title_ja": "経歴報告書",
+  "summary": "This is a Personal History Statement for Emilio Americo Rodriguez, dated August 31, 1961. It includes personal data, citizenship information, education history, employment history, military service information, financial status and marital status.",
+  "summary_ja": "これは、1961年8月31日付けのエミリオ・アメリコ・ロドリゲス氏の個人経歴書である。この書類には、個人情報、市民権情報、学歴、職歴、軍歴、財務状況、婚姻状況が記載されている。",
+  "document_type": "Personal History Statement",
+  "classification": "Personnel",
+  "security_level": "Unclassified",
   "date": "1961-08-31",
-  "locations_mentioned": [
-    "Havana, Cuba",
-    "Miami, Fla.",
-    "Perrine 57, Fla.",
-    "New Orleans, LA.",
-    "Washington, D.C."
-  ],
   "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
   "persons_mentioned": [
     "Emilio Americo Rodriguez",
     "Eugenio Gonzalez",
@@ -33,6 +20,21 @@
     "Arnest Napoleon Rodriguez",
     "Casanova Emilia"
   ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Miami, Fla.",
+    "Perrine 57, Fla.",
+    "New Orleans, LA.",
+    "Washington, D.C."
+  ],
+  "tags": [
+    "Personal History",
+    "Employment",
+    "Citizenship",
+    "Education",
+    "Military Service",
+    "Financial Status",
+    "Marital Status",
+    "Contract Agent"
+  ]
 }

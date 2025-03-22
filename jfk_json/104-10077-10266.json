@@ -1,17 +1,14 @@
 {
-  "classification": "Personnel",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses the clearance for Type A contract employment of Mr. Joseph F. Pearson.",
-  "tags": [
-    "Contract Employment",
-    "Clearance",
-    "Personnel",
-    "JUWAVE",
-    "SAS"
-  ],
   "title": "MR. JOSEPH F. PEARSON CLEARED FOR TYPE A CONTRACT EMPLOYMENT",
+  "title_ja": "MR. JOSEPH F. PEARSONはA型契約雇用を許可された",
+  "summary": "This cable discusses the clearance for Type A contract employment of Mr. Joseph F. Pearson.",
+  "summary_ja": "この電報は、ジョセフ・F・ピアソン氏のタイプA契約雇用に関する許可について議論している。",
+  "document_type": "Cable",
+  "classification": "Personnel",
+  "security_level": "SECRET",
   "date": "1963-12-04",
+  "sender": "SAS/PERSONNEL",
+  "recipient": "M. DIRECTOR",
   "persons_mentioned": [
     "ROY W. FORSLUND",
     "JOSEPH F. PEARSON",
@@ -19,6 +16,11 @@
     "ORVILLE G. COX",
     "Philip Warner"
   ],
-  "recipient": "M. DIRECTOR",
-  "sender": "SAS/PERSONNEL"
+  "tags": [
+    "Contract Employment",
+    "Clearance",
+    "Personnel",
+    "JUWAVE",
+    "SAS"
+  ]
 }

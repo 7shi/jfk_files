@@ -1,30 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "Secret",
-  "summary": "Report regarding SANTIAGO ALVAREZ RODRIGUEZ and potential anti-Castro activities, including information from informants and planned interviews with individuals connected to BATISTA.",
-  "tags": [
-    "SANTIAGO ALVAREZ RODRIGUEZ",
-    "ORLANDO PIEDRA",
-    "ROBERTO FERNANDEZ MIRANDA",
-    "BATISTA",
-    "Training Groups",
-    "Florida Keys",
-    "Anti-Castro Activities",
-    "Informants"
-  ],
   "title": "Report on SANTIAGO ALVAREZ RODRIGUEZ",
+  "title_ja": "サンティアゴ・アレヴァス・ロドリゲスに関する報告書",
+  "summary": "Report regarding SANTIAGO ALVAREZ RODRIGUEZ and potential anti-Castro activities, including information from informants and planned interviews with individuals connected to BATISTA.",
+  "summary_ja": "サンティアゴ・アルバレス・ロドリゲスに関する報告書および潜在的な反カストロ活動に関する報告書。情報提供者からの情報およびバティスタと関係のある人物との予定されている面談を含む。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1962-10-19",
-  "locations_mentioned": [
-    "Miami, Florida",
-    "Fort Lauderdale, Florida",
-    "Florida Keys",
-    "Louisville",
-    "Newark",
-    "New Orleans",
-    "New York"
-  ],
   "origin_agency": "FBI",
+  "sender": "MM",
+  "recipient": "HQ",
   "persons_mentioned": [
     "SANTIAGO ALVAREZ RODRIGUEZ",
     "ORLANDO PIEDRA",
@@ -40,6 +25,23 @@
     "JAMES D. HAYES",
     "J. WALTER YEAGLEY"
   ],
-  "recipient": "HQ",
-  "sender": "MM"
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Fort Lauderdale, Florida",
+    "Florida Keys",
+    "Louisville",
+    "Newark",
+    "New Orleans",
+    "New York"
+  ],
+  "tags": [
+    "SANTIAGO ALVAREZ RODRIGUEZ",
+    "ORLANDO PIEDRA",
+    "ROBERTO FERNANDEZ MIRANDA",
+    "BATISTA",
+    "Training Groups",
+    "Florida Keys",
+    "Anti-Castro Activities",
+    "Informants"
+  ]
 }

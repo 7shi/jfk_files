@@ -1,27 +1,15 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum and Letters",
-  "security_level": "SECRET",
-  "summary": "This collection of documents discusses William Hamilton Martin and Bernon Ferguson Mitchell's desire to leave the USSR and potential assistance from Canadian professor Dr. Hans Kunov.",
-  "tags": [
-    "Defector",
-    "Emigration",
-    "USSR",
-    "Canada",
-    "Liaison",
-    "Counterintelligence"
-  ],
   "title": "William Hamilton Martin and Bernon Ferguson Mitchell",
+  "title_ja": "ウィリアム・ハミルトン・マーティンおよびバーノン・ファーガソン・ミッチェル",
+  "summary": "This collection of documents discusses William Hamilton Martin and Bernon Ferguson Mitchell's desire to leave the USSR and potential assistance from Canadian professor Dr. Hans Kunov.",
+  "summary_ja": "この文書集では、ソ連を出国したいというウィリアム・ハミルトン・マーティンとバーノン・ファーガソン・ミッチェルの希望と、カナダ人教授ハンス・クノフ博士からの潜在的な支援について議論されている。",
+  "document_type": "Memorandum and Letters",
+  "classification": "Liaison",
+  "security_level": "SECRET",
   "date": "1975-12-12",
-  "locations_mentioned": [
-    "Moscow",
-    "USSR",
-    "Toronto",
-    "Ottawa",
-    "Canada",
-    "Leningrad"
-  ],
   "origin_agency": "CIA",
+  "sender": "Deputy Director for Operations",
+  "recipient": "Director, National Security Agency",
   "persons_mentioned": [
     "William Hamilton Martin",
     "Bernon Ferguson Mitchell",
@@ -34,6 +22,20 @@
     "James Wilkinson",
     "Geoffrey Farrow"
   ],
-  "recipient": "Director, National Security Agency",
-  "sender": "Deputy Director for Operations"
+  "locations_mentioned": [
+    "Moscow",
+    "USSR",
+    "Toronto",
+    "Ottawa",
+    "Canada",
+    "Leningrad"
+  ],
+  "tags": [
+    "Defector",
+    "Emigration",
+    "USSR",
+    "Canada",
+    "Liaison",
+    "Counterintelligence"
+  ]
 }

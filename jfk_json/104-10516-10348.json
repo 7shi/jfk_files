@@ -1,8 +1,25 @@
 {
-  "classification": "REPORT",
-  "document_type": "INFORMATION REPORT",
-  "security_level": "SECRET",
+  "title": "EFFORTS OF CUBAN GOVERNMENT TO INITIATE COMMERCIAL BARTER WITH WEST EUROPEAN COUNTRIES",
+  "title_ja": "西ヨーロッパ諸国との商業的バーター取引開始に向けたキューバ政府の取り組み",
   "summary": "Report on Cuban government efforts to initiate commercial barter with Western European countries, focusing on negotiations for debt payments resulting from expropriations and potential trade agreements involving sugar, fertilizer, and other commodities.",
+  "summary_ja": "西欧諸国との商業的物々交換を開始するためのキューバ政府の取り組みに関する報告書。収用による債務支払いの交渉と、砂糖、肥料、その他の商品に関する潜在的な貿易協定に焦点を当てている。",
+  "document_type": "INFORMATION REPORT",
+  "classification": "REPORT",
+  "security_level": "SECRET",
+  "date": "1963-12-20",
+  "origin_agency": "INTEL CYPIC",
+  "sender": "SUPDATA COURCE",
+  "recipient": "TOCS",
+  "persons_mentioned": [],
+  "locations_mentioned": [
+    "CUBA",
+    "MEXICO",
+    "MEXICO CITY",
+    "WESTERN EUROPE",
+    "WEST GERMANY",
+    "ITALY",
+    "FRANCE"
+  ],
   "tags": [
     "Cuba",
     "Cuban Government",
@@ -17,20 +34,5 @@
     "Italy",
     "France",
     "Tobacco"
-  ],
-  "title": "EFFORTS OF CUBAN GOVERNMENT TO INITIATE COMMERCIAL BARTER WITH WEST EUROPEAN COUNTRIES",
-  "date": "1963-12-20",
-  "locations_mentioned": [
-    "CUBA",
-    "MEXICO",
-    "MEXICO CITY",
-    "WESTERN EUROPE",
-    "WEST GERMANY",
-    "ITALY",
-    "FRANCE"
-  ],
-  "origin_agency": "INTEL CYPIC",
-  "persons_mentioned": [],
-  "recipient": "TOCS",
-  "sender": "SUPDATA COURCE"
+  ]
 }

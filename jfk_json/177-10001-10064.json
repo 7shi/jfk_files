@@ -1,8 +1,28 @@
 {
-  "classification": "Cuba",
-  "document_type": "REPORT",
-  "security_level": "SECRET",
+  "title": "COMMENTS OF CUBAN OFFICIALS ON THE ASSASSINATION OF PRESIDENT KENNEDY",
+  "title_ja": "ケネディ大統領暗殺に関するキューバ当局者のコメント",
   "summary": "This document contains information on the reactions of Cuban officials in Santiago, Chile, to the assassination of President Kennedy on November 22, 1963. The officials express concerns about potential repercussions and the possibility of the U.S. blaming Cuba for the assassination.",
+  "summary_ja": "この文書は、1963年11月22日のケネディ大統領暗殺に対するチリのサンティアゴのキューバ政府高官の反応に関する情報を記載している。高官らは、暗殺に対する米国の報復の可能性と、米国が暗殺の責任をキューバに押し付ける可能性について懸念を表明している。",
+  "document_type": "REPORT",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "11/23/1963",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "CINCSO CINCLANT",
+  "persons_mentioned": [
+    "KENNEDY",
+    "JOSE TOHA",
+    "PEDRO MARTINEZ PIREZ",
+    "GOULART"
+  ],
+  "locations_mentioned": [
+    "CUBA",
+    "CHILE, SANTIAGO",
+    "VALPARAISO",
+    "HABANA",
+    "LATIN AMERICA"
+  ],
   "tags": [
     "Assassination",
     "President Kennedy",
@@ -16,23 +36,5 @@
     "Third World War",
     "Goulart",
     "Invasion of Cuba"
-  ],
-  "title": "COMMENTS OF CUBAN OFFICIALS ON THE ASSASSINATION OF PRESIDENT KENNEDY",
-  "date": "11/23/1963",
-  "locations_mentioned": [
-    "CUBA",
-    "CHILE, SANTIAGO",
-    "VALPARAISO",
-    "HABANA",
-    "LATIN AMERICA"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "KENNEDY",
-    "JOSE TOHA",
-    "PEDRO MARTINEZ PIREZ",
-    "GOULART"
-  ],
-  "recipient": "CINCSO CINCLANT",
-  "sender": "CIA"
+  ]
 }

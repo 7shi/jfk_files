@@ -1,30 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch contains reports and notes from TERLAUP regarding operational and intelligence matters. It also discusses the preliminary debriefing of THERIAULT, including financial arrangements, the possibility of developing an interest in Krishna Menon, and an invitation to visit the U.S. Additionally, it includes general comments on the Ford Foundation's work in India, Evelyn Hersey's role, and the Delhi Training and Orientation Centre. The dispatch also touches on Communist organization of domestic workers in New Delhi and the State Department's policy on visits to China.",
-  "tags": [
-    "THER LAULT",
-    "TERLAUP",
-    "India",
-    "Krishna Menon",
-    "Ford Foundation",
-    "Evelyn Hersey",
-    "Delhi Training and Orientation Centre",
-    "Communists",
-    "China",
-    "U.S. Policy",
-    "PAFLIPPER"
-  ],
   "title": "Transmittal of Reports",
+  "title_ja": "報告書の送付",
+  "summary": "This dispatch contains reports and notes from TERLAUP regarding operational and intelligence matters. It also discusses the preliminary debriefing of THERIAULT, including financial arrangements, the possibility of developing an interest in Krishna Menon, and an invitation to visit the U.S. Additionally, it includes general comments on the Ford Foundation's work in India, Evelyn Hersey's role, and the Delhi Training and Orientation Centre. The dispatch also touches on Communist organization of domestic workers in New Delhi and the State Department's policy on visits to China.",
+  "summary_ja": "この報告書には、TERLAUPによる作戦および情報に関する報告とメモが記載されている。また、財務上の取り決め、クリシュナ・メノンに対する関心を抱く可能性、米国への招待状など、テリアルトの予備報告についても言及している。さらに、フォード財団のインドでの活動、エブリン・ハーシーの役割、デリー訓練・オリエンテーション・センターに関する一般的なコメントも含まれている。この電報では、ニューデリーの家政婦の共産主義組織や、中国訪問に関する国務省の政策についても触れている。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1955-05-14",
-  "locations_mentioned": [
-    "New Delhi",
-    "India",
-    "China",
-    "Washington"
-  ],
   "origin_agency": "CIA",
+  "sender": "Senior Representative, New Delhi",
+  "recipient": "Chief, FORA",
   "persons_mentioned": [
     "John F. Kennedy",
     "THER LAULT",
@@ -37,6 +22,23 @@
     "George",
     "Uhuber"
   ],
-  "recipient": "Chief, FORA",
-  "sender": "Senior Representative, New Delhi"
+  "locations_mentioned": [
+    "New Delhi",
+    "India",
+    "China",
+    "Washington"
+  ],
+  "tags": [
+    "THER LAULT",
+    "TERLAUP",
+    "India",
+    "Krishna Menon",
+    "Ford Foundation",
+    "Evelyn Hersey",
+    "Delhi Training and Orientation Centre",
+    "Communists",
+    "China",
+    "U.S. Policy",
+    "PAFLIPPER"
+  ]
 }

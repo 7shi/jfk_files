@@ -1,27 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable regarding JORGE ANTONIO ABASOLO GARCIA, a Cuban industrial engineer, his connections to Ernesto \"Che\" Guevara, and potential defection. Also mentions his brother GUSTAVO ABASOLO and their correspondence through diplomatic channels.",
-  "tags": [
-    "Industrial Engineer",
-    "Defection",
-    "Diplomatic Pouch",
-    "Soviet Union",
-    "Guevara",
-    "AMSEVER-2"
-  ],
   "title": "REQUEST TRACES AND POA JORGE ANTONIO ABASOLO GARCIA",
+  "title_ja": "要請 トレースおよびPOA ホルヘ・アントニオ・アバソロ・ガルシア",
+  "summary": "Cable regarding JORGE ANTONIO ABASOLO GARCIA, a Cuban industrial engineer, his connections to Ernesto \"Che\" Guevara, and potential defection. Also mentions his brother GUSTAVO ABASOLO and their correspondence through diplomatic channels.",
+  "summary_ja": "キューバ人産業エンジニア、ホルヘ・アントニオ・アバソロ・ガルシア、エルネスト・「チェ」・ゲバラとの関係、亡命の可能性に関する電報。また、彼の兄弟グスタボ・アバソロと外交ルートを介した彼らの通信についても言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-08-21",
-  "locations_mentioned": [
-    "Mexico City",
-    "Havana",
-    "Cuba",
-    "Georgia Tech",
-    "Netherlands Embassy",
-    "Bermuda"
-  ],
   "origin_agency": "DUNECTOR",
+  "sender": "OM MEXICO CITY",
+  "recipient": "DIR INFOWAVE MNTY",
   "persons_mentioned": [
     "JORGE ANTONIO ABASOLO GARCIA",
     "ERNESTO 'CHE' GUEVARA",
@@ -30,6 +18,20 @@
     "JOAQUIN MIRABAL",
     "A-2"
   ],
-  "recipient": "DIR INFOWAVE MNTY",
-  "sender": "OM MEXICO CITY"
+  "locations_mentioned": [
+    "Mexico City",
+    "Havana",
+    "Cuba",
+    "Georgia Tech",
+    "Netherlands Embassy",
+    "Bermuda"
+  ],
+  "tags": [
+    "Industrial Engineer",
+    "Defection",
+    "Diplomatic Pouch",
+    "Soviet Union",
+    "Guevara",
+    "AMSEVER-2"
+  ]
 }

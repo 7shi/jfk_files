@@ -1,8 +1,33 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "BATISTA, Laureano",
+  "title_ja": "バティスタ、ラウレアーノ",
   "summary": "This memo discusses Laureano Batista's alleged connection to Rudolph Richard Davis, including providing men for a lumber business and his prior CIA operational approval as a PP agent in Havana, Cuba. It also mentions Batista's role in the Movimiento Democratica Cristiano (MDC) and their offer to assist the Hungarian Freedom Fighters Federation.",
+  "summary_ja": "このメモは、ラウレアーノ・バティスタとルドルフ・リチャード・デイヴィスの関係について、木材事業への人材提供や、キューバのハバナにおけるPPエージェントとしてのバティスタのCIAによる事前承認などを含めて論じている。また、バティスタの民主キリスト教運動（MDC）における役割や、ハンガリー自由戦士連合への支援の申し出についても言及している。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1967-12-13",
+  "origin_agency": "CIA",
+  "sender": "Secretary for Military Affairs, Executive Committee, Movimiento Democrats Cristiano",
+  "recipient": "Major General Bela K. KIRALY",
+  "persons_mentioned": [
+    "BATISTA, Laureano",
+    "DAVIS, Rudolph Richard",
+    "GARRISON",
+    "KIRALY, Bela K.",
+    "PANEQUE, Victor",
+    "INTERIAN, Leodorino",
+    "FERNANDEZ, Fernando",
+    "FORINES, fou"
+  ],
+  "locations_mentioned": [
+    "Lacombe, Louisiana",
+    "Miami",
+    "Havana, Cuba",
+    "New York",
+    "New Orleans",
+    "Guatemala"
+  ],
   "tags": [
     "BATISTA, Laureano",
     "DAVIS, Rudolph Richard",
@@ -15,28 +40,5 @@
     "Havana, Cuba",
     "Hungarian Freedom Fighters Federation",
     "anti-CASTRO organizations"
-  ],
-  "title": "BATISTA, Laureano",
-  "date": "1967-12-13",
-  "locations_mentioned": [
-    "Lacombe, Louisiana",
-    "Miami",
-    "Havana, Cuba",
-    "New York",
-    "New Orleans",
-    "Guatemala"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "BATISTA, Laureano",
-    "DAVIS, Rudolph Richard",
-    "GARRISON",
-    "KIRALY, Bela K.",
-    "PANEQUE, Victor",
-    "INTERIAN, Leodorino",
-    "FERNANDEZ, Fernando",
-    "FORINES, fou"
-  ],
-  "recipient": "Major General Bela K. KIRALY",
-  "sender": "Secretary for Military Affairs, Executive Committee, Movimiento Democrats Cristiano"
+  ]
 }

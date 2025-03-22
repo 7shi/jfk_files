@@ -1,8 +1,25 @@
 {
-  "classification": "Administrative",
-  "document_type": "Routing Sheet and Dispatch",
-  "security_level": "SECRET",
+  "title": "AQUATIC/Operational SW Supplies for AYTRE",
+  "title_ja": "水陸両用/作戦用 AYTRE への SW 供給",
   "summary": "This document contains a routing sheet and a dispatch regarding supplies and instructions for two-way SW correspondence with AMIRE 1. It details the materials needed, instructions for their use, and security precautions for the agent.",
+  "summary_ja": "この文書には、AMIRE 1との双方向のSW通信に必要な物資と指示に関するルーティングシートと派遣文書が含まれている。必要な物資、その使用方法、およびエージェントのセキュリティ対策について詳細に説明されている。",
+  "document_type": "Routing Sheet and Dispatch",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1960-06-23",
+  "origin_agency": "Chief of Station, Havana",
+  "sender": "Chief of Station, Havana",
+  "recipient": "Chief, KURIOT",
+  "persons_mentioned": [
+    "AMIRE 1",
+    "Ralph Seehafer",
+    "C. REID",
+    "K. CRAVEN"
+  ],
+  "locations_mentioned": [
+    "Latin American countries",
+    "Havana"
+  ],
   "tags": [
     "AQUATIC",
     "Operational",
@@ -13,20 +30,5 @@
     "Cover correspondence",
     "Agent training",
     "False identity"
-  ],
-  "title": "AQUATIC/Operational SW Supplies for AYTRE",
-  "date": "1960-06-23",
-  "locations_mentioned": [
-    "Latin American countries",
-    "Havana"
-  ],
-  "origin_agency": "Chief of Station, Havana",
-  "persons_mentioned": [
-    "AMIRE 1",
-    "Ralph Seehafer",
-    "C. REID",
-    "K. CRAVEN"
-  ],
-  "recipient": "Chief, KURIOT",
-  "sender": "Chief of Station, Havana"
+  ]
 }

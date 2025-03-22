@@ -1,27 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This document contains information for the security file of Harold Francis Swenson and details foreign intelligence officers in liaison with the CIA in the United States.",
-  "tags": [
-    "Personnel Security",
-    "Foreign Intelligence",
-    "Liaison",
-    "CIA",
-    "Argentina",
-    "OAS"
-  ],
   "title": "INFORMATION FOR THE SECURITY FILE / Foreign Intelligence Officers (in Liaison with CIA in the United States)",
+  "title_ja": "セキュリティファイル用情報 / 外国情報役員（米国のCIAとの連携）",
+  "summary": "This document contains information for the security file of Harold Francis Swenson and details foreign intelligence officers in liaison with the CIA in the United States.",
+  "summary_ja": "この文書にはハロルド・フランシス・スウェンソンのセキュリティファイルの情報と、米国のCIAと連絡を取っている外国諜報員の詳細が記載されている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
   "date": "1965-07-01",
-  "locations_mentioned": [
-    "foreign countries",
-    "United States",
-    "Washington, D. C.",
-    "Argentina",
-    "Arlington",
-    "Bethesda"
-  ],
   "origin_agency": "Interrogation Research Division",
+  "sender": "Chief, Interrogation Research Division",
+  "recipient": "Chief, Personnel Security Division",
   "persons_mentioned": [
     "Harold Francis Swenson",
     "Bill Dallgren",
@@ -32,6 +20,20 @@
     "Raford W. Herbert",
     "John Wilson"
   ],
-  "recipient": "Chief, Personnel Security Division",
-  "sender": "Chief, Interrogation Research Division"
+  "locations_mentioned": [
+    "foreign countries",
+    "United States",
+    "Washington, D. C.",
+    "Argentina",
+    "Arlington",
+    "Bethesda"
+  ],
+  "tags": [
+    "Personnel Security",
+    "Foreign Intelligence",
+    "Liaison",
+    "CIA",
+    "Argentina",
+    "OAS"
+  ]
 }

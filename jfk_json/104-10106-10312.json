@@ -1,8 +1,21 @@
 {
-  "classification": "Security",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Yurily Ivanovich NOSENKO",
+  "title_ja": "ユーリリー・イワノビッチ・ノセンコ",
   "summary": "This document summarizes the case of Yurily Ivanovich NOSENKO, a Soviet KGB officer who defected in 1964 and was subsequently involuntarily confined in the U.S. by the Agency. It details his identification, background, approval for confinement, results of the case, termination status, comments, and file locations.",
+  "summary_ja": "この文書は、1964年に亡命し、その後KGBによって米国で強制収容されたソビエト連邦のKGB職員、ユーリ・イワノビッチ・ノセンコの事例を要約したものである。この文書は、彼の身元、経歴、収容の承認、事例の結果、終了ステータス、コメント、およびファイルの場所について詳細に説明している。",
+  "document_type": "Report",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1964-1969",
+  "sender": "Director of Security",
+  "recipient": "DDCI",
+  "persons_mentioned": [
+    "Yurily Ivanovich NOSENKO",
+    "Richard Helms",
+    "Lawrence Houston",
+    "Charles Phalen",
+    "Bruce Solie"
+  ],
   "tags": [
     "NOSENKO",
     "defection",
@@ -13,16 +26,5 @@
     "Office of Security",
     "Richard Helms",
     "Lawrence Houston"
-  ],
-  "title": "Yurily Ivanovich NOSENKO",
-  "date": "1964-1969",
-  "persons_mentioned": [
-    "Yurily Ivanovich NOSENKO",
-    "Richard Helms",
-    "Lawrence Houston",
-    "Charles Phalen",
-    "Bruce Solie"
-  ],
-  "recipient": "DDCI",
-  "sender": "Director of Security"
+  ]
 }

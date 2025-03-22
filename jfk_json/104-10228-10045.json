@@ -1,8 +1,22 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "KNGS 0208: JAMAICAN POLITICAL CLIMATE RE ESTABLISHMENT AMBUD DELEGATION",
+  "title_ja": "KNGS 0208：ジャマイカの政治情勢 再確立 AMBUD 代表団",
   "summary": "Kingston station reports on the Jamaican government's stance on involvement in the Cold War and covert operations against Cuba, advising against overt involvement due to concerns for the Jamaican community in Cuba and potential loss of cooperation.",
+  "summary_ja": "キングストン局が、ジャマイカ政府の冷戦への関与とキューバに対する秘密工作に関する姿勢について報告し、キューバのジャマイカ人コミュニティへの懸念と協力関係の喪失の可能性を理由に、露骨な関与を避けるよう助言している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-10-10",
+  "origin_agency": "CIA",
+  "sender": "KINGSTON",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "FRANK (DIAT) SILVEIRA"
+  ],
+  "locations_mentioned": [
+    "Jamaica",
+    "Cuba"
+  ],
   "tags": [
     "Jamaican Government",
     "Cold War",
@@ -14,17 +28,5 @@
     "GYROSE",
     "DIAT SILVEIRA",
     "KUBARK"
-  ],
-  "title": "KNGS 0208: JAMAICAN POLITICAL CLIMATE RE ESTABLISHMENT AMBUD DELEGATION",
-  "date": "1962-10-10",
-  "locations_mentioned": [
-    "Jamaica",
-    "Cuba"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "FRANK (DIAT) SILVEIRA"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "KINGSTON"
+  ]
 }

@@ -1,8 +1,26 @@
 {
-  "classification": "Operations",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Ramon Joseph ALVAREZ Durant and Project LIEMPTY Operations",
+  "title_ja": "ラモン・ジョセフ・アルバレス・デュラントとプロジェクトLIEMPTY作戦",
   "summary": "This document details the activities of Ramon Joseph ALVAREZ Durant and related personnel involved in Project LIEMPTY, a photo surveillance operation targeting the Soviet Embassy from 1955 to 1972. It outlines ALVAREZ's role as a cutout and photo technician, as well as the involvement of other individuals like Hester ROOS (LIEMPTY-19), Oliver G. SCANTLING (Juan N. FRAIS-RAMIRRZ), and Jorge Barcello VILLAGRAn Alvarez (LIEMPTY-6). The report also describes the setup and function of the various basehouses (LIMITED, LILYRIC, LICALLA) used for surveillance.",
+  "summary_ja": "この文書は、1955年から1972年にかけてソビエト連邦大使館を標的とした写真監視活動である「LIEMPTY計画」に関与したラモン・ジョセフ・アルバレス・デュラントと関係者の活動を詳細に説明している。この文書は、切り抜き係および写真技術者としてのアルバレスの役割、ならびにヘスター・ルース（LIEMPTY-19）、オリバー・G・スキャントリング（フアン・N・フレイス・ラミレス）、ホルヘ・バルセロ・ビジャグラン・アルバレス（LIEMPTY-6）などの他の人物の関与について概説している。また、この報告書では、監視活動に使用されたさまざまなベースハウス（LIMITED、LILYRIC、LICALLA）の設置と機能についても説明されている。",
+  "document_type": "Report",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1972-06-30",
+  "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Ramon Joseph ALVAREZ Durant",
+    "Hester ROOS",
+    "Oliver G. SCANTLING",
+    "Juan N. FRAIS-RAMIRRZ",
+    "Jorge Barcello VILLAGRAn Alvarez",
+    "OSWALD"
+  ],
+  "locations_mentioned": [
+    "Soviet Embassy"
+  ],
   "tags": [
     "LIEMPTY",
     "Soviet Embassy",
@@ -17,21 +35,5 @@
     "ALVAREZ",
     "SCANTLING",
     "OSWALD"
-  ],
-  "title": "Ramon Joseph ALVAREZ Durant and Project LIEMPTY Operations",
-  "date": "1972-06-30",
-  "locations_mentioned": [
-    "Soviet Embassy"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Ramon Joseph ALVAREZ Durant",
-    "Hester ROOS",
-    "Oliver G. SCANTLING",
-    "Juan N. FRAIS-RAMIRRZ",
-    "Jorge Barcello VILLAGRAn Alvarez",
-    "OSWALD"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

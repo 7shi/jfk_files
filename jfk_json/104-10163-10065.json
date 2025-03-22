@@ -1,8 +1,32 @@
 {
-  "classification": "Operations",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "Former Contactee and Potential Agents",
+  "title_ja": "元コンタクティーおよび潜在的なエージェント",
   "summary": "This document contains information on several individuals, including Adolfo SAN FELAYO, Ramon UiATEGUI Lezara, Bernard L. Barker, and Manolo VEGA Abril, who have worked with or are of interest to the agency. It details their backgrounds, skills, and potential value to the agency's operations, particularly in Latin America and Cuba.",
+  "summary_ja": "この文書には、アドルフォ・サンフェラヨ、ラモン・ウイアテギ・レサラ、バーナード・L・バーカー、マノロ・ベガ・アブリルなど、CIAと協力した、またはCIAが関心を寄せている複数の人物に関する情報が記載されている。彼らの経歴、スキル、CIAの活動、特に中南米とキューバにおける活動への潜在的な価値について詳細に述べられている。",
+  "document_type": "Memo",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1960",
+  "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "Nicaragua desk (Mr. Rental)",
+  "persons_mentioned": [
+    "Viviana Stakon",
+    "Adolfo SAN FELAYO",
+    "Ramon UiATEGUI Lezara",
+    "Bernard L. Barker",
+    "Clara Barker",
+    "Manolo VEGA Abril",
+    "Jorge ALVES POL",
+    "David SALVADOR"
+  ],
+  "locations_mentioned": [
+    "Latin America",
+    "Havana",
+    "Nicaragua",
+    "Miami",
+    "Cuba"
+  ],
   "tags": [
     "Latin America",
     "Cuba",
@@ -17,27 +41,5 @@
     "Manolo VEGA Abril",
     "Jorge ALVES POL",
     "David SALVADOR"
-  ],
-  "title": "Former Contactee and Potential Agents",
-  "date": "1960",
-  "locations_mentioned": [
-    "Latin America",
-    "Havana",
-    "Nicaragua",
-    "Miami",
-    "Cuba"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Viviana Stakon",
-    "Adolfo SAN FELAYO",
-    "Ramon UiATEGUI Lezara",
-    "Bernard L. Barker",
-    "Clara Barker",
-    "Manolo VEGA Abril",
-    "Jorge ALVES POL",
-    "David SALVADOR"
-  ],
-  "recipient": "Nicaragua desk (Mr. Rental)",
-  "sender": "Unknown"
+  ]
 }

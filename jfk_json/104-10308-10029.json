@@ -1,28 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum concerns U.S. contacts for a resistance group in Cuba, specifically the Unidad de Liberacion Nacional (ULN), and their plans to overthrow Castro. It details principle players, including AMCANOE-1 through AMCANOE-9, and reviews files related to efforts to unify exiles and support for Castro's overthrow, including an offer by the Cosa Nostra to assassinate Castro.",
-  "tags": [
-    "AMCANOE",
-    "ULN",
-    "Cuba",
-    "Castro",
-    "Assassination",
-    "Mafia",
-    "Exiles",
-    "Resistance"
-  ],
   "title": "AMCANOE",
+  "title_ja": "AMCANOE",
+  "summary": "This memorandum concerns U.S. contacts for a resistance group in Cuba, specifically the Unidad de Liberacion Nacional (ULN), and their plans to overthrow Castro. It details principle players, including AMCANOE-1 through AMCANOE-9, and reviews files related to efforts to unify exiles and support for Castro's overthrow, including an offer by the Cosa Nostra to assassinate Castro.",
+  "summary_ja": "この覚書は、キューバの抵抗組織、特にキューバ解放民族戦線（ULN）とカストロ打倒計画における米国との接触に関するものである。AMCANOE-1からAMCANOE-9までの主要人物の詳細、亡命者の結束とカストロ打倒支援の取り組みに関するファイルのレビュー、カストロ暗殺の申し出を行ったコサ・ノストラに関する内容が記載されている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1964-03-03",
-  "locations_mentioned": [
-    "Cuba",
-    "Chicago",
-    "St. Louis",
-    "Miami Springs",
-    "Fort Lauderdale"
-  ],
   "origin_agency": "CIA",
+  "sender": "Jane Zerance, Researcher",
+  "recipient": "Record",
   "persons_mentioned": [
     "Eduardo GARCIA Molina",
     "Enrique Alfredo GARCIA Molina",
@@ -41,6 +28,21 @@
     "Herbert F. JENNE",
     "Jane Zerance"
   ],
-  "recipient": "Record",
-  "sender": "Jane Zerance, Researcher"
+  "locations_mentioned": [
+    "Cuba",
+    "Chicago",
+    "St. Louis",
+    "Miami Springs",
+    "Fort Lauderdale"
+  ],
+  "tags": [
+    "AMCANOE",
+    "ULN",
+    "Cuba",
+    "Castro",
+    "Assassination",
+    "Mafia",
+    "Exiles",
+    "Resistance"
+  ]
 }

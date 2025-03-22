@@ -1,8 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "SJAN 0836 WAVE INFO DIR HAGU",
+  "title_ja": "SJAN 0836 WAVE INFO DIR HAGU",
   "summary": "This cable discusses Collin E. Ostrander, a USIA representative in San Juan, and Waldemar F. Lee, the Netherlands Consul in San Juan, referencing previous communication SJAN BS35.",
+  "summary_ja": "この電報では、サンフアンに駐在する米国情報局（USIA）代表のコリン・E・オストランダーと、サンフアンに駐在するオランダ領事のワルデマール・F・リーについて、過去の通信 SJAN BS35 を参照しながら議論している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-11-08",
+  "origin_agency": "CIA",
+  "sender": "SAN JUAN",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "Collin E. Ostrander",
+    "Waldemar F. Lee"
+  ],
+  "locations_mentioned": [
+    "San Juan",
+    "Netherlands"
+  ],
   "tags": [
     "USIA",
     "Netherlands Consul",
@@ -11,18 +26,5 @@
     "San Juan",
     "HAGU",
     "GYROSE"
-  ],
-  "title": "SJAN 0836 WAVE INFO DIR HAGU",
-  "date": "1962-11-08",
-  "locations_mentioned": [
-    "San Juan",
-    "Netherlands"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Collin E. Ostrander",
-    "Waldemar F. Lee"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "SAN JUAN"
+  ]
 }

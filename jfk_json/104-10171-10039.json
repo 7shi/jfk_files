@@ -1,19 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch discusses the debriefing of PBRUMEN Legal Travelers for PW Aspects. It covers topics such as reception of radio programs in Cuba, opinions on anti-Castro propaganda, and internal organization of the DRE.",
-  "tags": [
-    "PW Debriefing",
-    "Legal Travelers",
-    "Radio reception in Cuba",
-    "Anti-Castro Propaganda",
-    "DRE internal organization",
-    "AMHINT",
-    "TV intrusion"
-  ],
   "title": "Operational/GYROSE, KUCAGE/AMHINT. Debriefing of PBRUMEN Legal Travelers for PW Aspects",
+  "title_ja": "作戦/GYROSE、KUCAGE/AMHINT。 PBRUMENの合法的旅行者のPW側面に関する報告",
+  "summary": "This dispatch discusses the debriefing of PBRUMEN Legal Travelers for PW Aspects. It covers topics such as reception of radio programs in Cuba, opinions on anti-Castro propaganda, and internal organization of the DRE.",
+  "summary_ja": "この報告書では、PBRUMEN Legal TravelersのPW Aspectsに関する報告について論じている。キューバにおけるラジオ番組の受信状況、反カストロ宣伝に関する意見、DREの内部組織などについて取り上げている。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-05-30",
+  "origin_agency": "CIA",
+  "sender": "Chief, Task Force W",
+  "recipient": "Chief of Station, JUWAVE",
+  "persons_mentioned": [
+    "Raquel LA VILLA Gonzalez",
+    "Cecilia LAVILLA Gonzalez",
+    "Miriam BARO Esteva",
+    "Carlos BARO",
+    "CONTE Aguero",
+    "CASTRO"
+  ],
   "locations_mentioned": [
     "Havana",
     "Miami",
@@ -26,15 +30,13 @@
     "Palma Soriano",
     "Escambray Mountains"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Raquel LA VILLA Gonzalez",
-    "Cecilia LAVILLA Gonzalez",
-    "Miriam BARO Esteva",
-    "Carlos BARO",
-    "CONTE Aguero",
-    "CASTRO"
-  ],
-  "recipient": "Chief of Station, JUWAVE",
-  "sender": "Chief, Task Force W"
+  "tags": [
+    "PW Debriefing",
+    "Legal Travelers",
+    "Radio reception in Cuba",
+    "Anti-Castro Propaganda",
+    "DRE internal organization",
+    "AMHINT",
+    "TV intrusion"
+  ]
 }

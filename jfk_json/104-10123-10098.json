@@ -1,8 +1,20 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "OLDS, James Paul (A)",
+  "title_ja": "オールズ、ジェームズ・ポール（A）",
   "summary": "This memo confirms a request to prepare alias documentation for James Paul Olds, including a California Driver's License, Social Security card, Reserve Officers Association identity card, and an insurance identity card.",
+  "summary_ja": "この覚書は、ジェームズ・ポール・オルドの偽名書類を作成するよう要請することを確認するものであり、これにはカリフォルニア州運転免許証、社会保障カード、予備役将校協会の身分証明書、保険用身分証明書が含まれる。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "UNCLASSIFIED",
+  "date": "1962-04-09",
+  "sender": "Deputy Director of Security",
+  "recipient": "Chief, Technical Services Division",
+  "persons_mentioned": [
+    "James F. O'Connell",
+    "John Swedberg",
+    "James Paul Olds",
+    "Victor R. White"
+  ],
   "tags": [
     "alias",
     "documentation",
@@ -15,15 +27,5 @@
     "non-backstopped",
     "multiple unit address",
     "San Francisco"
-  ],
-  "title": "OLDS, James Paul (A)",
-  "date": "1962-04-09",
-  "persons_mentioned": [
-    "James F. O'Connell",
-    "John Swedberg",
-    "James Paul Olds",
-    "Victor R. White"
-  ],
-  "recipient": "Chief, Technical Services Division",
-  "sender": "Deputy Director of Security"
+  ]
 }

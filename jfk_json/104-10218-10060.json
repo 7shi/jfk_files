@@ -1,8 +1,25 @@
 {
-  "classification": "Soviet",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "NIKOLAY STEPANOVICH LEONOV Travel Information",
+  "title_ja": "ニコライ・ステパノヴィッチ・レオノフ 渡航情報",
   "summary": "Cable regarding NIKOLAY STEPANOVICH LEONOV's travel plans from Mexico City to Brussels and potentially Moscow, including flight details and requests for confirmation.",
+  "summary_ja": "ニコライ・ステパノヴィッチ・レオノフのメキシコシティからブリュッセル、そして場合によってはモスクワへの旅行計画に関する電報。フライトの詳細と確認依頼を含む。",
+  "document_type": "Cable",
+  "classification": "Soviet",
+  "security_level": "SECRET",
+  "date": "1966-07-08",
+  "origin_agency": "Director",
+  "sender": "DIRECTOR",
+  "recipient": "BRUSSELS, THE HAGUE",
+  "persons_mentioned": [
+    "NIKOLAY STEPANOVICH LEONOV",
+    "IRINA"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Brussels",
+    "Moscow",
+    "Amsterdam"
+  ],
   "tags": [
     "KGB",
     "Leonov",
@@ -12,20 +29,5 @@
     "Travel",
     "Surveillance",
     "SB/CI/KGB"
-  ],
-  "title": "NIKOLAY STEPANOVICH LEONOV Travel Information",
-  "date": "1966-07-08",
-  "locations_mentioned": [
-    "Mexico City",
-    "Brussels",
-    "Moscow",
-    "Amsterdam"
-  ],
-  "origin_agency": "Director",
-  "persons_mentioned": [
-    "NIKOLAY STEPANOVICH LEONOV",
-    "IRINA"
-  ],
-  "recipient": "BRUSSELS, THE HAGUE",
-  "sender": "DIRECTOR"
+  ]
 }

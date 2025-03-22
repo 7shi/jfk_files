@@ -1,8 +1,41 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memo",
-  "security_level": "Secret",
+  "title": "PERMANENT STUDENT COMMITTEE FOR TRAVEL TO CUBA IS-C",
+  "title_ja": "キューバ渡航のための常任学生委員会 IS-C",
   "summary": "FBI memo regarding the Permanent Student Committee for Travel to Cuba and information provided by Mark Tischman to a CIA source in Madrid about fellow travelers and their ideologies.",
+  "summary_ja": "キューバ渡航のための常設学生委員会に関するFBIのメモと、マーク・ティッシュマンがマドリードのCIA情報源に提供した同行者とそのイデオロギーに関する情報。",
+  "document_type": "Memo",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1963-09-03",
+  "origin_agency": "FBI",
+  "sender": "S. J. PAPICH",
+  "recipient": "D. J. BRENNAN",
+  "persons_mentioned": [
+    "PAPICH",
+    "BRENNAN",
+    "Austin Horn",
+    "Mark Tischman",
+    "Joseph Rex",
+    "Elena B. Fleming",
+    "John Milton",
+    "Don Ranmann",
+    "Albert Maher",
+    "Levi Laub",
+    "Phillip Luce",
+    "Michael Brown",
+    "John W. Thomas",
+    "Eric D. Johnston",
+    "Clinton M. Jenks",
+    "Allan Sheffield",
+    "Baumgardner",
+    "Wannall",
+    "Simpson"
+  ],
+  "locations_mentioned": [
+    "Madrid, Spain",
+    "Cuba",
+    "California"
+  ],
   "tags": [
     "CIA Liaison Material",
     "Permanent Student Committee for Travel to Cuba",
@@ -26,36 +59,5 @@
     "Marxist-Leninist",
     "Trotskyite",
     "Mao Tse Tung"
-  ],
-  "title": "PERMANENT STUDENT COMMITTEE FOR TRAVEL TO CUBA IS-C",
-  "date": "1963-09-03",
-  "locations_mentioned": [
-    "Madrid, Spain",
-    "Cuba",
-    "California"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "PAPICH",
-    "BRENNAN",
-    "Austin Horn",
-    "Mark Tischman",
-    "Joseph Rex",
-    "Elena B. Fleming",
-    "John Milton",
-    "Don Ranmann",
-    "Albert Maher",
-    "Levi Laub",
-    "Phillip Luce",
-    "Michael Brown",
-    "John W. Thomas",
-    "Eric D. Johnston",
-    "Clinton M. Jenks",
-    "Allan Sheffield",
-    "Baumgardner",
-    "Wannall",
-    "Simpson"
-  ],
-  "recipient": "D. J. BRENNAN",
-  "sender": "S. J. PAPICH"
+  ]
 }

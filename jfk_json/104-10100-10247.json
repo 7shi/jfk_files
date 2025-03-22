@@ -1,8 +1,26 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "Unclassified",
+  "title": "104-10100-10247 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "104-10100-10247 1992年ジョン・F・ケネディ大統領暗殺記録法に基づく開示",
   "summary": "Cable regarding Ash & Company and Overseas Riralty Survey Associates in Mexico City.",
+  "summary_ja": "メキシコシティのAsh & CompanyとOverseas Riralty Survey Associatesに関する電報。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "Unclassified",
+  "date": "1963-10-21",
+  "origin_agency": "CIA",
+  "sender": "WH/3/Mexico",
+  "recipient": "Station",
+  "persons_mentioned": [
+    "L.G. HORK",
+    "J.C.",
+    "JOHN F. KENNEDY"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "New York",
+    "Seattle",
+    "Washington"
+  ],
   "tags": [
     "Ash & Company",
     "Overseas Riralty Survey Associates",
@@ -11,21 +29,5 @@
     "RRF DIR 77179",
     "SIS CEN",
     "Station"
-  ],
-  "title": "104-10100-10247 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
-  "date": "1963-10-21",
-  "locations_mentioned": [
-    "Mexico City",
-    "New York",
-    "Seattle",
-    "Washington"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "L.G. HORK",
-    "J.C.",
-    "JOHN F. KENNEDY"
-  ],
-  "recipient": "Station",
-  "sender": "WH/3/Mexico"
+  ]
 }

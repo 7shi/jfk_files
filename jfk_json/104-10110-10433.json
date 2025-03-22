@@ -1,20 +1,22 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "UNCLASSIFIED",
-  "summary": "Report detailing the establishment of a live address for Gladys G. DANBRUNT at 5611 Jason Street, Cheverly, Maryland. The householder and family members were briefed to accept communications for Mrs. DANBRUNT and to handle inquiries in a specific manner. The report also mentions a Western Union telegram sent to Eustace DANBRUNT in Cuba and efforts to notify the local Post Offices.",
-  "tags": [
-    "Live Address",
-    "Gladys G. DANBRUNT",
-    "Eustace H. DANBRUNT",
-    "Cheverly",
-    "Maryland",
-    "Western Union Telegram",
-    "Cuba",
-    "Postal Notification"
-  ],
   "title": "Live address established for Gladys G. DANBRUNT at Cheverly, Maryland",
+  "title_ja": "メリーランド州チェベリーにおけるグラディス・G・ダンブラントのライブアドレスが確立された",
+  "summary": "Report detailing the establishment of a live address for Gladys G. DANBRUNT at 5611 Jason Street, Cheverly, Maryland. The householder and family members were briefed to accept communications for Mrs. DANBRUNT and to handle inquiries in a specific manner. The report also mentions a Western Union telegram sent to Eustace DANBRUNT in Cuba and efforts to notify the local Post Offices.",
+  "summary_ja": "グラディス・G・ダンブラント（Gladys G. DANBRUNT）の現住所をメリーランド州チェベリー、ジェイソン通り5611番地に設定したことを詳細に報告するもの。 住居の所有者および家族は、ダンブラント夫人の通信を受信し、問い合わせには特定の方法で対応するよう指示された。 報告書には、キューバのユースタス・ダンブラント（Eustace DANBRUNT）宛に送られたウェスタン・ユニオンの電報と、地元の郵便局に通知する努力についても言及されている。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
   "date": "1961-05-23",
+  "origin_agency": "CIA",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "Gladys G. DANBRUNT",
+    "Edward A. SALLOCM",
+    "Anne B. SALLOCM",
+    "Patricia SALLOCM",
+    "George SALLOCM",
+    "Eustace H. DANBRUNT"
+  ],
   "locations_mentioned": [
     "Cheverly, Maryland",
     "Hyattsville",
@@ -24,14 +26,14 @@
     "Washington, D.C.",
     "Georgetown University"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
+  "tags": [
+    "Live Address",
     "Gladys G. DANBRUNT",
-    "Edward A. SALLOCM",
-    "Anne B. SALLOCM",
-    "Patricia SALLOCM",
-    "George SALLOCM",
-    "Eustace H. DANBRUNT"
-  ],
-  "recipient": "CIA"
+    "Eustace H. DANBRUNT",
+    "Cheverly",
+    "Maryland",
+    "Western Union Telegram",
+    "Cuba",
+    "Postal Notification"
+  ]
 }

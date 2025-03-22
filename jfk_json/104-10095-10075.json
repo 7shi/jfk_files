@@ -1,20 +1,15 @@
 {
-  "classification": "Mexico",
-  "document_type": "List",
-  "security_level": "Unclassified",
-  "summary": "This document contains entries from a database related to the President John F. Kennedy assassination records. Each entry includes a serial number, date, category, time, year, and name, along with a location.",
-  "tags": [
-    "JFK Assassination",
-    "Database Records",
-    "Mexico",
-    "Personnel"
-  ],
   "title": "President John F. Kennedy Assassination Records Act of 1992 - Database Entries",
+  "title_ja": "ジョン・F・ケネディ大統領暗殺事件記録法（1992年） - データベース項目",
+  "summary": "This document contains entries from a database related to the President John F. Kennedy assassination records. Each entry includes a serial number, date, category, time, year, and name, along with a location.",
+  "summary_ja": "この文書には、ジョン・F・ケネディ大統領暗殺事件の記録に関連するデータベースからのエントリーが含まれている。各エントリーには、シリアル番号、日付、カテゴリー、時間、年、名前、場所が含まれている。",
+  "document_type": "List",
+  "classification": "Mexico",
+  "security_level": "Unclassified",
   "date": "1992",
-  "locations_mentioned": [
-    "Mexico"
-  ],
   "origin_agency": "CIA",
+  "sender": "N/A",
+  "recipient": "N/A",
   "persons_mentioned": [
     "FLOYD POSTANY",
     "RODHAM W KENNER",
@@ -174,6 +169,13 @@
     "ALFRED C BAKKE",
     "CLYDE I HINKLEY"
   ],
-  "recipient": "N/A",
-  "sender": "N/A"
+  "locations_mentioned": [
+    "Mexico"
+  ],
+  "tags": [
+    "JFK Assassination",
+    "Database Records",
+    "Mexico",
+    "Personnel"
+  ]
 }

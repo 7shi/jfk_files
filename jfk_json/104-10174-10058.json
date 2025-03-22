@@ -1,8 +1,27 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "Background Use Only",
+  "title": "HEXORAMAH FOR: Chief, Cover Division SUBJECT: (Henry P. Lopes)",
+  "title_ja": "ヘクサロマハ 宛先：カバー部門主任 件名：（ヘンリー・P・ロペス）",
   "summary": "This memo discusses providing backstopping facilities for Henry P. Lopes by Mchawad, Zarifort Associates. It outlines procedures for expense reporting and provides Lopes' address.",
+  "summary_ja": "このメモは、Zarifort AssociatesのMchawadによるHenry P. Lopesへの支援施設の提供について論じている。経費報告の手順を概説し、Lopesの住所を提供している。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "Background Use Only",
+  "date": "1959-10-27",
+  "origin_agency": "CIA",
+  "sender": "Horace W. Davis, Acting Chief, Political Action Division",
+  "recipient": "Chief, Cover Division",
+  "persons_mentioned": [
+    "Henry P. Lopes",
+    "Garma Sprague",
+    "Horace W. Davis",
+    "Mr. Strange"
+  ],
+  "locations_mentioned": [
+    "Philadelphia",
+    "Pennsylvania",
+    "Los Angeles",
+    "California"
+  ],
   "tags": [
     "backstopping",
     "expenses",
@@ -11,22 +30,5 @@
     "Henry P. Lopes",
     "Mchawad",
     "Zarifort Associates"
-  ],
-  "title": "HEXORAMAH FOR: Chief, Cover Division SUBJECT: (Henry P. Lopes)",
-  "date": "1959-10-27",
-  "locations_mentioned": [
-    "Philadelphia",
-    "Pennsylvania",
-    "Los Angeles",
-    "California"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Henry P. Lopes",
-    "Garma Sprague",
-    "Horace W. Davis",
-    "Mr. Strange"
-  ],
-  "recipient": "Chief, Cover Division",
-  "sender": "Horace W. Davis, Acting Chief, Political Action Division"
+  ]
 }

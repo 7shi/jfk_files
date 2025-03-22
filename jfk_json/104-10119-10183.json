@@ -1,26 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "Background Use Only",
-  "summary": "This document contains notes and references to various individuals, operations, and locations. It includes mentions of personnel like JAMES NOEL, TRAGY BARNES, Jake (Esterline), FRANK HUNT, DROLLER (aka, Binder), KNIGHT (HOBBING), Ernest SPARKS, and Earl Williamson. It also references operations involving Fechargers, propaganda efforts, and potential assassination plots. Locations mentioned include Coral Gables. The document spans multiple pages and includes file numbers.",
-  "tags": [
-    "Personnel",
-    "Operations",
-    "Propaganda",
-    "Assassination",
-    "CIA",
-    "Cuba",
-    "Mexico",
-    "Binder",
-    "Castro",
-    "Station"
-  ],
   "title": "Notes and References on Operations and Personnel",
+  "title_ja": "作戦および要員に関するメモおよび参考資料",
+  "summary": "This document contains notes and references to various individuals, operations, and locations. It includes mentions of personnel like JAMES NOEL, TRAGY BARNES, Jake (Esterline), FRANK HUNT, DROLLER (aka, Binder), KNIGHT (HOBBING), Ernest SPARKS, and Earl Williamson. It also references operations involving Fechargers, propaganda efforts, and potential assassination plots. Locations mentioned include Coral Gables. The document spans multiple pages and includes file numbers.",
+  "summary_ja": "この文書には、さまざまな個人、作戦、場所に関するメモや参照情報が記載されている。JAMES NOEL、TRAGY BARNES、Jake (Esterline)、FRANK HUNT、DROLLER (別名、Binder)、KNIGHT (HOBBING)、Ernest SPARKS、Earl Williamsonといった人物に関する言及がある。また、フェチャージャー（暗殺者）が関与する作戦、プロパガンダ活動、潜在的な暗殺計画についても言及されている。記載されている場所にはコーラルゲーブルズが含まれる。この文書は複数のページにわたっており、ファイル番号も記載されている。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "Background Use Only",
   "date": "1967-04-00",
-  "locations_mentioned": [
-    "Coral Gables"
-  ],
   "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "CIA",
   "persons_mentioned": [
     "JAMES NOEL",
     "Hermione",
@@ -47,6 +36,19 @@
     "Junny",
     "Douglas GUPTON"
   ],
-  "recipient": "CIA",
-  "sender": "Unknown"
+  "locations_mentioned": [
+    "Coral Gables"
+  ],
+  "tags": [
+    "Personnel",
+    "Operations",
+    "Propaganda",
+    "Assassination",
+    "CIA",
+    "Cuba",
+    "Mexico",
+    "Binder",
+    "Castro",
+    "Station"
+  ]
 }

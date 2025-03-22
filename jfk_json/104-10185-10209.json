@@ -1,20 +1,22 @@
 {
-  "classification": "Operations",
-  "document_type": "Receipt",
-  "security_level": "SECRET",
+  "title": "RECEIPT FOR AUTHENTICATION MATERIALS",
+  "title_ja": "認証資料の受領書",
   "summary": "This document is a receipt for authentication materials related to Ernesto Jesus GARCIA Guzman, including his Ecuadorean and Cuban documents.",
+  "summary_ja": "これは、エクアドルおよびキューバの書類を含む、エルネスト・ヘスス・ガルシア・グスマン氏に関する認証資料の領収書である。",
+  "document_type": "Receipt",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963",
+  "sender": "Unknown",
+  "recipient": "TSD/IB",
+  "persons_mentioned": [
+    "Ernesto Jesus GARCIA Guzman"
+  ],
   "tags": [
     "Authentication Materials",
     "Ernesto Jesus GARCIA Guzman",
     "Ecuadorean Passport",
     "Cuban Documents",
     "TSD/IB"
-  ],
-  "title": "RECEIPT FOR AUTHENTICATION MATERIALS",
-  "date": "1963",
-  "persons_mentioned": [
-    "Ernesto Jesus GARCIA Guzman"
-  ],
-  "recipient": "TSD/IB",
-  "sender": "Unknown"
+  ]
 }

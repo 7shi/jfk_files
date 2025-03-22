@@ -1,16 +1,13 @@
 {
-  "classification": "Security",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This memo from the Chief of the Security Branch requests Personal History Statements for QUINE, HESY and BIMIOTY for security checks.",
-  "tags": [
-    "Security Branch",
-    "Personal History Statements",
-    "Security Checks",
-    "Assistant Director for Special Operations"
-  ],
   "title": "Request for Personal History Statements for Security Checks",
+  "title_ja": "セキュリティチェックのための個人経歴報告書の提出要請",
+  "summary": "This memo from the Chief of the Security Branch requests Personal History Statements for QUINE, HESY and BIMIOTY for security checks.",
+  "summary_ja": "セキュリティ部門の責任者によるこの覚書は、セキュリティチェックのために、クイン、ヘシー、ビミオティの個人経歴書（Personal History Statements）を要求している。",
+  "document_type": "Memo",
+  "classification": "Security",
+  "security_level": "UNCLASSIFIED",
   "date": "1947-08-05",
+  "sender": "Chief, Security Branch, OS",
   "persons_mentioned": [
     "QUINE, Myrtle V.",
     "HESY, David R.",
@@ -18,5 +15,10 @@
     "BIMIOTY, Helena V.",
     "CUNNINGHAM, Robert M."
   ],
-  "sender": "Chief, Security Branch, OS"
+  "tags": [
+    "Security Branch",
+    "Personal History Statements",
+    "Security Checks",
+    "Assistant Director for Special Operations"
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "classification": "Administrative",
-  "document_type": "Handbook Excerpt",
-  "security_level": "SECRET",
+  "title": "The 201 System",
+  "title_ja": "201システム",
   "summary": "This document describes the 201 system, which is a method for identifying persons of specific interest to the Operations Directorate and for recording and filing information about them.",
+  "summary_ja": "この文書は、201システムについて説明している。201システムとは、作戦部が特定の関心を持つ人物を識別し、それらの人物に関する情報を記録・保管するための方法である。",
+  "document_type": "Handbook Excerpt",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1974-11-15",
+  "origin_agency": "CIA",
+  "sender": "Information Services Group (ISG)",
+  "recipient": "DDO/RMO",
+  "persons_mentioned": [
+    "William Pendleton Croix"
+  ],
+  "locations_mentioned": [
+    "Munich, Germany"
+  ],
   "tags": [
     "201 system",
     "Operations Directorate",
@@ -11,16 +24,5 @@
     "OI codes",
     "dossiers",
     "machine listings"
-  ],
-  "title": "The 201 System",
-  "date": "1974-11-15",
-  "locations_mentioned": [
-    "Munich, Germany"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "William Pendleton Croix"
-  ],
-  "recipient": "DDO/RMO",
-  "sender": "Information Services Group (ISG)"
+  ]
 }

@@ -1,8 +1,24 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memo",
-  "security_level": "Secret",
+  "title": "CIA LIAISON MATERIAL",
+  "title_ja": "CIA連絡員資料",
   "summary": "This memo concerns Petros Moutsos, a former CIA informant in the communist-dominated Greek Maritime Organization (OENO). CIA is planning to have Moutsos travel to Cuba as a source of information and wants him to jump ship in New Orleans with INS approval. He will also attempt to contact his wife, Angela Boyer, who has a communist background, to improve his contacts in communist circles in Cuba.",
+  "summary_ja": "このメモは、共産党が支配するギリシャ海運機構（OENO）の元CIA情報提供者、ペトロス・ムツォスに関するものである。CIAはムツォスを情報提供者としてキューバに渡航させる計画を立てており、INSの承認を得てニューオーリンズで船を降りることを望んでいる。また、共産党員である妻のアンジェラ・ボイヤーと連絡を取り、キューバの共産党関係者との接触を深めることも試みる予定である。",
+  "document_type": "Memo",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1960-09-23",
+  "origin_agency": "FBI",
+  "sender": "HQ",
+  "recipient": "SAC, New Orleans",
+  "persons_mentioned": [
+    "Petros Moutsos",
+    "Angela Boyer"
+  ],
+  "locations_mentioned": [
+    "New Orleans",
+    "Cuba",
+    "Havana"
+  ],
   "tags": [
     "CIA",
     "Petros Moutsos",
@@ -14,19 +30,5 @@
     "Informant",
     "New Orleans",
     "SS Radnor"
-  ],
-  "title": "CIA LIAISON MATERIAL",
-  "date": "1960-09-23",
-  "locations_mentioned": [
-    "New Orleans",
-    "Cuba",
-    "Havana"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "Petros Moutsos",
-    "Angela Boyer"
-  ],
-  "recipient": "SAC, New Orleans",
-  "sender": "HQ"
+  ]
 }

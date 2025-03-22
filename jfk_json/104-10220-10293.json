@@ -1,8 +1,24 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "Transmittal of Letters Sent to Movimiento Democrata Cristiano Representative in Cuba",
+  "title_ja": "キューバの民主キリスト教運動代表に送られた手紙の伝達",
   "summary": "Transmittal of letters sent to Movimiento Democrata Cristiano representative in Cuba concerning Jose Ignacio RASCO's connection with the HDC, obtained by AMULLA-1 for duplication and delivery via the Italian Embassy's diplomatic pouch.",
+  "summary_ja": "キューバの民主キリスト教運動代表に送られた手紙の転送。AMULLA-1が複製し、イタリア大使館の外交小包で送付する。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1961-06-23",
+  "origin_agency": "JHWAVE",
+  "sender": "Chief of Base, JHWAVE",
+  "recipient": "Chief, WRD",
+  "persons_mentioned": [
+    "Lucas Moran",
+    "Jose Ignacio RASCO",
+    "Rafael AGUIRRE",
+    "AMULLA-1"
+  ],
+  "locations_mentioned": [
+    "Cuba"
+  ],
   "tags": [
     "Movimiento Democrata Cristiano",
     "Lucas Moran",
@@ -12,19 +28,5 @@
     "AMULLA-1",
     "Italian Embassy",
     "Diplomatic Pouch"
-  ],
-  "title": "Transmittal of Letters Sent to Movimiento Democrata Cristiano Representative in Cuba",
-  "date": "1961-06-23",
-  "locations_mentioned": [
-    "Cuba"
-  ],
-  "origin_agency": "JHWAVE",
-  "persons_mentioned": [
-    "Lucas Moran",
-    "Jose Ignacio RASCO",
-    "Rafael AGUIRRE",
-    "AMULLA-1"
-  ],
-  "recipient": "Chief, WRD",
-  "sender": "Chief of Base, JHWAVE"
+  ]
 }

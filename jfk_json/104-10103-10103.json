@@ -1,35 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch discusses Tadeusz SZULC, including information from SMEDICEVA's traces and Ignacy SACHS's activities. It details SZULC's past pro-communist activities, his relationship with SACHS, and his efforts to gain employment in American press circles. The document also includes information on SACHS's roles and activities, as well as SZULC's contacts and reports to the Polish Legation.",
-  "tags": [
-    "Tadeusz SZULC",
-    "Ignacy SACHS",
-    "SMEDIFY",
-    "ALBICUSPID",
-    "Polish Embassy",
-    "Press",
-    "Propaganda",
-    "Brazil",
-    "New York",
-    "Communism"
-  ],
   "title": "SMEDIFY Information Concerning Tadeusz SZULC",
+  "title_ja": "SMEDIFY タデウス・シュルツに関する情報",
+  "summary": "This dispatch discusses Tadeusz SZULC, including information from SMEDICEVA's traces and Ignacy SACHS's activities. It details SZULC's past pro-communist activities, his relationship with SACHS, and his efforts to gain employment in American press circles. The document also includes information on SACHS's roles and activities, as well as SZULC's contacts and reports to the Polish Legation.",
+  "summary_ja": "この報告書では、スメジチェヴァの足跡から得た情報やイグナツィ・サックスの活動を含め、タデウシュ・シュルツについて論じている。シュルツの過去の親共産主義活動、サックスとの関係、米国報道界での就職活動について詳しく述べている。また、サックスの役割と活動、シュルツのポーランド公使館への連絡と報告についても記載されている。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1962-06-20",
-  "locations_mentioned": [
-    "Rio de Janeiro",
-    "Brazil",
-    "Poland",
-    "Latin America",
-    "India",
-    "Montevideo",
-    "New York",
-    "Washington",
-    "Lisbon",
-    "Panama"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, WHD; Chief, EE",
+  "recipient": "Chief of Station, Rio de Janeiro",
   "persons_mentioned": [
     "Tadeusz SZULC",
     "Ignacy SACHS",
@@ -44,6 +24,28 @@
     "Drew PEARSON",
     "Shah of Persia"
   ],
-  "recipient": "Chief of Station, Rio de Janeiro",
-  "sender": "Chief, WHD; Chief, EE"
+  "locations_mentioned": [
+    "Rio de Janeiro",
+    "Brazil",
+    "Poland",
+    "Latin America",
+    "India",
+    "Montevideo",
+    "New York",
+    "Washington",
+    "Lisbon",
+    "Panama"
+  ],
+  "tags": [
+    "Tadeusz SZULC",
+    "Ignacy SACHS",
+    "SMEDIFY",
+    "ALBICUSPID",
+    "Polish Embassy",
+    "Press",
+    "Propaganda",
+    "Brazil",
+    "New York",
+    "Communism"
+  ]
 }

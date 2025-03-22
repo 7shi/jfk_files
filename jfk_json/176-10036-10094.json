@@ -1,8 +1,29 @@
 {
-  "classification": "Intel",
-  "document_type": "Telegram",
-  "security_level": "CONFIDENTIAL",
+  "title": "Ngo Dinh Nhu's Statement on Withdrawal of American Aid",
+  "title_ja": "アメリカ支援の撤回に関するグエン・ティン・ズーの発言",
   "summary": "This telegram reports on Ngo Dinh Nhu's statements regarding the potential withdrawal of American aid from South Vietnam. Nhu discussed revising policies on receiving aid and prioritizing different categories of aid, emphasizing self-sufficiency. The telegram also mentions instructions to encourage local weapons production and concerns among Vietnamese Air Force officers about the potential collapse of the regime without American support.",
+  "summary_ja": "この電報は、南ベトナムに対する米国の援助が撤退される可能性について、グエン・ディン・チューが述べたことを報告している。 チューは、援助受け入れに関する政策の修正と、さまざまな種類の援助の優先順位付けについて話し合い、自給自足の重要性を強調した。 この電報には、現地での武器生産を奨励するよう指示したこと、および米国の支援なしでは政権が崩壊する可能性があるというベトナム空軍将校たちの懸念についても言及されている。",
+  "document_type": "Telegram",
+  "classification": "Intel",
+  "security_level": "CONFIDENTIAL",
+  "date": "1963-04-20",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "Ngo Dinh Nhu",
+    "Pham Duc Tien",
+    "Huynh Huu Hien",
+    "Dang Dinh Linh",
+    "Tran Do Cung",
+    "Ha Duong Doan"
+  ],
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon",
+    "Phuoc Tuy Province",
+    "Binh Tuy Province"
+  ],
   "tags": [
     "Ngo Dinh Nhu",
     "American Aid",
@@ -13,24 +34,5 @@
     "Vietnamese Air Force",
     "Ministry of Interior",
     "Foreign Aid Policy"
-  ],
-  "title": "Ngo Dinh Nhu's Statement on Withdrawal of American Aid",
-  "date": "1963-04-20",
-  "locations_mentioned": [
-    "South Vietnam",
-    "Saigon",
-    "Phuoc Tuy Province",
-    "Binh Tuy Province"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Ngo Dinh Nhu",
-    "Pham Duc Tien",
-    "Huynh Huu Hien",
-    "Dang Dinh Linh",
-    "Tran Do Cung",
-    "Ha Duong Doan"
-  ],
-  "recipient": "N/A",
-  "sender": "CIA"
+  ]
 }

@@ -1,8 +1,17 @@
 {
-  "classification": "Commission",
-  "document_type": "Testimony",
-  "security_level": "Unclassified",
+  "title": "Testimony Regarding CIA Background and Alleged Assassination Plots",
+  "title_ja": "CIAに関する証言および暗殺計画疑惑",
   "summary": "This document is a part of testimony where Mr. Harvey discusses his background in the CIA, including his roles in the Soviet Intelligence Branch and his assignments in Berlin and Rome. He denies any personal knowledge of assassination plans or plots within the Agency concerning Patrice Lumumba or any other foreign leader apart from Fidel Castro.",
+  "summary_ja": "この文書は、ハーヴェイ氏がCIAでの経歴について証言した部分であり、ソ連情報部門での役割や、ベルリンとローマでの任務について述べている。彼は、パトリス・ルムンバやフィデル・カストロ以外の外国の指導者に関するCIAの暗殺計画や陰謀について、個人的に知っていたことは一切ないと否定している。",
+  "document_type": "Testimony",
+  "classification": "Commission",
+  "security_level": "Unclassified",
+  "sender": "B",
+  "persons_mentioned": [
+    "Harvey",
+    "Patrice Lumumba",
+    "Fidel Castro"
+  ],
   "tags": [
     "CIA",
     "Soviet Intelligence Branch",
@@ -13,12 +22,5 @@
     "Patrice Lumumba",
     "Fidel Castro",
     "Testimony"
-  ],
-  "title": "Testimony Regarding CIA Background and Alleged Assassination Plots",
-  "persons_mentioned": [
-    "Harvey",
-    "Patrice Lumumba",
-    "Fidel Castro"
-  ],
-  "sender": "B"
+  ]
 }

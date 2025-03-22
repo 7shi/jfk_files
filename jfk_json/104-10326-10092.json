@@ -1,30 +1,15 @@
 {
-  "classification": "Liaison",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable discusses a meeting between the COS and Leonid Ryabchenya of the SVRR regarding various topics, including a book by Oleg Nechiporenko on Lee Harvey Oswald, scheduling of discussions on Yugoslavia, and an unclassified paper from U.S. scientists on environmental issues.",
-  "tags": [
-    "SVRR",
-    "Ryabchenya",
-    "Nechiporenko",
-    "Yugoslavia",
-    "Environmental Task Force",
-    "Gore/Chernomyrdin Meetings",
-    "Oswald",
-    "KGB"
-  ],
   "title": "11 NOVEMBER 1993 Meeting with the SVRR",
+  "title_ja": "1993年11月11日 SVRとの会合",
+  "summary": "Cable discusses a meeting between the COS and Leonid Ryabchenya of the SVRR regarding various topics, including a book by Oleg Nechiporenko on Lee Harvey Oswald, scheduling of discussions on Yugoslavia, and an unclassified paper from U.S. scientists on environmental issues.",
+  "summary_ja": "この電報は、リー・ハーヴェイ・オズワルドに関するオレグ・ネチポレンコ著の書籍、ユーゴスラビアに関する協議の日程、米国の科学者による環境問題に関する非機密文書など、さまざまなトピックに関するCOSとSVRRのリャブチェンヤ長官との会合について述べている。",
+  "document_type": "Cable",
+  "classification": "Liaison",
+  "security_level": "SECRET",
   "date": "1993-11-19",
-  "locations_mentioned": [
-    "Moscow",
-    "St Petersburg",
-    "Kolpachniy Pereulok",
-    "Washington",
-    "U.S.",
-    "Bosnia",
-    "Somalia"
-  ],
   "origin_agency": "Unknown",
+  "sender": "Moscow",
+  "recipient": "Director, St Petersburg",
   "persons_mentioned": [
     "Leonid ((RYABCHENYA))",
     "Oleg ((NECHIPORENKO))",
@@ -34,6 +19,23 @@
     "Gore",
     "Chernomyrdin"
   ],
-  "recipient": "Director, St Petersburg",
-  "sender": "Moscow"
+  "locations_mentioned": [
+    "Moscow",
+    "St Petersburg",
+    "Kolpachniy Pereulok",
+    "Washington",
+    "U.S.",
+    "Bosnia",
+    "Somalia"
+  ],
+  "tags": [
+    "SVRR",
+    "Ryabchenya",
+    "Nechiporenko",
+    "Yugoslavia",
+    "Environmental Task Force",
+    "Gore/Chernomyrdin Meetings",
+    "Oswald",
+    "KGB"
+  ]
 }

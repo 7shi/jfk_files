@@ -1,30 +1,14 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Briefing with Guatemalan Chief of State Peralta regarding intelligence cooperation, security, and concerns about Cuba and Mexico. Peralta expresses his views on Castro, U.S. policy, and the need for aggressive action.",
-  "tags": [
-    "AMIMUG-1",
-    "Guatemala",
-    "Peralta",
-    "Intelligence",
-    "Cuba",
-    "Mexico",
-    "Security",
-    "Castro",
-    "CIA",
-    "Operations"
-  ],
   "title": "AMIMUG-1 Operation 24: Briefing in Guatemala of Chief of State (Peralta)",
+  "title_ja": "AMIMUG-1 作戦24：グアテマラにおける国家元首（ペラルタ）へのブリーフィング",
+  "summary": "Briefing with Guatemalan Chief of State Peralta regarding intelligence cooperation, security, and concerns about Cuba and Mexico. Peralta expresses his views on Castro, U.S. policy, and the need for aggressive action.",
+  "summary_ja": "グアテマラのペラルタ国家元首との情報協力、安全保障、キューバとメキシコに関する懸念についてのブリーフィング。ペラルタはカストロ、米国の政策、積極的な行動の必要性について意見を述べている。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1964-10-13",
-  "locations_mentioned": [
-    "Guatemala",
-    "Cuba",
-    "Mexico",
-    "Central America",
-    "El Salvador"
-  ],
   "origin_agency": "CIA",
+  "sender": "Harold t. Swenson",
   "persons_mentioned": [
     "John F. Kennedy",
     "Peralta",
@@ -37,5 +21,23 @@
     "DALTON",
     "Harold t. Swenson"
   ],
-  "sender": "Harold t. Swenson"
+  "locations_mentioned": [
+    "Guatemala",
+    "Cuba",
+    "Mexico",
+    "Central America",
+    "El Salvador"
+  ],
+  "tags": [
+    "AMIMUG-1",
+    "Guatemala",
+    "Peralta",
+    "Intelligence",
+    "Cuba",
+    "Mexico",
+    "Security",
+    "Castro",
+    "CIA",
+    "Operations"
+  ]
 }

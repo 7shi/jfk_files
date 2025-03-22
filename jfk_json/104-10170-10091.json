@@ -1,25 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Field Information Report",
-  "security_level": "SECRET",
-  "summary": "This report details the plans and activities of the Directorio Revolucionario, a Cuban student organization, including their efforts to plan an uprising against the government and their contacts with various factions.",
-  "tags": [
-    "Directorio Revolucionario",
-    "Cuban student organization",
-    "uprising",
-    "Juri Sinches",
-    "F2D group",
-    "Echavarria",
-    "Jose Antonio Echevarria"
-  ],
   "title": "Plans and Activities of the Directorio Revolucionario",
+  "title_ja": "ディレクトリオ・レボルシオンの計画と活動",
+  "summary": "This report details the plans and activities of the Directorio Revolucionario, a Cuban student organization, including their efforts to plan an uprising against the government and their contacts with various factions.",
+  "summary_ja": "この報告書は、キューバの学生組織であるディレクトリオ・レボルシオナリオの計画と活動の詳細を記載しており、政府に対する蜂起計画や、さまざまな派閥との接触に関する取り組みも含まれている。",
+  "document_type": "Field Information Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1957-03-11",
-  "locations_mentioned": [
-    "Cuba",
-    "Habana",
-    "Santiago de Cuba"
-  ],
   "origin_agency": "CIA",
+  "sender": "HAVA",
+  "recipient": "Washington",
   "persons_mentioned": [
     "John F. Kennedy",
     "Juri Sinches",
@@ -29,6 +19,18 @@
     "Jose Antonio Echevarria",
     "Menelao Mora"
   ],
-  "recipient": "Washington",
-  "sender": "HAVA"
+  "locations_mentioned": [
+    "Cuba",
+    "Habana",
+    "Santiago de Cuba"
+  ],
+  "tags": [
+    "Directorio Revolucionario",
+    "Cuban student organization",
+    "uprising",
+    "Juri Sinches",
+    "F2D group",
+    "Echavarria",
+    "Jose Antonio Echevarria"
+  ]
 }

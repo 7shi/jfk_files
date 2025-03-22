@@ -1,35 +1,15 @@
 {
-  "classification": "Soviet",
-  "document_type": "File",
-  "security_level": "SECRET",
-  "summary": "This file contains information on Ivan Dmitriyevich Obyedkov, a Soviet guard at the Soviet Embassy in Mexico City and Tehran. The documents include outgoing messages, cables, and dispatches regarding Obyedkov's activities, possible intelligence affiliation, and traces requested by liaison. The file also contains information about Obyedkov's family, including his wife and son.",
-  "tags": [
-    "OBYEDKOV",
-    "IVAN DMITRIYEVICH",
-    "Soviet Embassy",
-    "Mexico City",
-    "Tehran",
-    "Guard",
-    "KGB",
-    "RIS",
-    "Intelligence",
-    "Traces",
-    "Liaison",
-    "Family",
-    "Telephone",
-    "Security conscious",
-    "Electrician"
-  ],
   "title": "OBYEDKOV, IVAN DMITRIYEVICH",
+  "title_ja": "オビエドコフ、イワン・ドミトリエヴィチ",
+  "summary": "This file contains information on Ivan Dmitriyevich Obyedkov, a Soviet guard at the Soviet Embassy in Mexico City and Tehran. The documents include outgoing messages, cables, and dispatches regarding Obyedkov's activities, possible intelligence affiliation, and traces requested by liaison. The file also contains information about Obyedkov's family, including his wife and son.",
+  "summary_ja": "このファイルには、メキシコシティとテヘランのソビエト大使館のソビエト人警備員、イワン・ドミトリエヴィチ・オビエドコフに関する情報が含まれている。文書には、オビエドコフの活動、諜報機関との関係の可能性、連絡要請に関する発信メッセージ、電報、通信が含まれている。このファイルには、オビエドコフの家族（妻と息子）に関する情報も含まれている。",
+  "document_type": "File",
+  "classification": "Soviet",
+  "security_level": "SECRET",
   "date": "1977-03-12",
-  "locations_mentioned": [
-    "Mexico City",
-    "Tehran",
-    "London",
-    "Moscow",
-    "Belgium"
-  ],
   "origin_agency": "CIA",
+  "sender": "WASHINGTON",
+  "recipient": "LONDON.Y",
   "persons_mentioned": [
     "OBYEDKOV, IVAN DMITRIYEVICH",
     "Yelena Lvovna Obyedkova",
@@ -49,6 +29,28 @@
     "Vladimir Nikolayevich RADVANSKIY",
     "Vladimir Aleksandrovich ROMANCHENKO"
   ],
-  "recipient": "LONDON.Y",
-  "sender": "WASHINGTON"
+  "locations_mentioned": [
+    "Mexico City",
+    "Tehran",
+    "London",
+    "Moscow",
+    "Belgium"
+  ],
+  "tags": [
+    "OBYEDKOV",
+    "IVAN DMITRIYEVICH",
+    "Soviet Embassy",
+    "Mexico City",
+    "Tehran",
+    "Guard",
+    "KGB",
+    "RIS",
+    "Intelligence",
+    "Traces",
+    "Liaison",
+    "Family",
+    "Telephone",
+    "Security conscious",
+    "Electrician"
+  ]
 }

@@ -1,8 +1,25 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "IN14497: GYROSE INTEL - Potential Uprising in Cuba",
+  "title_ja": "IN14497：GYROSE INTEL - キューバにおける潜在的な蜂起",
   "summary": "This cable discusses intelligence regarding a potential uprising in Cuba. It suggests that while information points to a planned revolt, there's a strong possibility it's a deception or provocation operation by Castro's forces. Various exile groups are mentioned, and their involvement is investigated, with most denying knowledge of the planned uprising. The cable concludes that a genuine popular uprising is unlikely at the time and arranges for a broadcast to warn Cuban patriots about potential provocations.",
+  "summary_ja": "この電報は、キューバにおける潜在的な蜂起に関する情報を取り上げている。情報によると、計画された反乱を示唆しているが、カストロ軍による欺瞞または挑発行為である可能性が高いことを示唆している。さまざまな亡命グループが言及され、それらの関与が調査されたが、ほとんどのグループは計画された蜂起について知らなかったと否定した。この電報は、真の民衆蜂起は現時点では起こりそうにないと結論づけ、キューバの愛国者たちに潜在的な挑発行為について警告する放送を準備した。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-08-31",
+  "origin_agency": "JIAWAVE",
+  "sender": "JIAWAVE",
+  "recipient": "UFICO",
+  "persons_mentioned": [
+    "PEDRO INTERIAN GARCIA",
+    "AMRAZZ-1",
+    "AMICE-8",
+    "AMPAN-4",
+    "CESAR BARO"
+  ],
+  "locations_mentioned": [
+    "Cuba"
+  ],
   "tags": [
     "uprising",
     "Cuba",
@@ -20,20 +37,5 @@
     "FND",
     "FAL",
     "Secundo Frente Escambray"
-  ],
-  "title": "IN14497: GYROSE INTEL - Potential Uprising in Cuba",
-  "date": "1962-08-31",
-  "locations_mentioned": [
-    "Cuba"
-  ],
-  "origin_agency": "JIAWAVE",
-  "persons_mentioned": [
-    "PEDRO INTERIAN GARCIA",
-    "AMRAZZ-1",
-    "AMICE-8",
-    "AMPAN-4",
-    "CESAR BARO"
-  ],
-  "recipient": "UFICO",
-  "sender": "JIAWAVE"
+  ]
 }

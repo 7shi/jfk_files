@@ -1,17 +1,19 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "NOTIFICATION OF CANCELLATION SUBJECT OF MILITARY COVER BACKSTOP",
+  "title_ja": "軍事保護バックストップの取り消し通知",
   "summary": "Notification of Cancellation of Military Cover Backstop",
+  "summary_ja": "軍事偽装の取り消し通知",
+  "document_type": "Memo",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1975-07-20",
+  "origin_agency": "CHIEF OPERATING COMPONENT",
+  "sender": "CHIEF OPERATING COMPONENT",
+  "recipient": "CHIEF PERSONNEL OPERATIONS DIVISION",
   "tags": [
     "Military Cover",
     "CCS",
     "Personnel Operations",
     "Documentation"
-  ],
-  "title": "NOTIFICATION OF CANCELLATION SUBJECT OF MILITARY COVER BACKSTOP",
-  "date": "1975-07-20",
-  "origin_agency": "CHIEF OPERATING COMPONENT",
-  "recipient": "CHIEF PERSONNEL OPERATIONS DIVISION",
-  "sender": "CHIEF OPERATING COMPONENT"
+  ]
 }

@@ -1,30 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
-  "summary": "Memorandum for the Record regarding a meeting with Dr. MIRO Cardona on 6 October 1961, discussing propaganda campaigns, underground activities, commando plans, and the possibility of establishing a government on Cuban soil.",
-  "tags": [
-    "MIRO Cardona",
-    "Propaganda",
-    "Underground Activities",
-    "Commando Action",
-    "Cuban Revolutionary Council",
-    "Anti-Castro",
-    "Military Action",
-    "Government-in-exile"
-  ],
   "title": "Meeting with Dr. MIRO Cardona on 6 October",
+  "title_ja": "10月6日、ミロ・カルドナ博士と会合",
+  "summary": "Memorandum for the Record regarding a meeting with Dr. MIRO Cardona on 6 October 1961, discussing propaganda campaigns, underground activities, commando plans, and the possibility of establishing a government on Cuban soil.",
+  "summary_ja": "1961年10月6日、ミロ・カルドナ博士との会合に関する記録のための覚書。プロパガンダキャンペーン、地下活動、コマンドー計画、キューバ領内に政府を樹立する可能性について議論した。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
   "date": "1961-10-10",
-  "locations_mentioned": [
-    "Cuba",
-    "Key West",
-    "Miami",
-    "U. S.",
-    "Latin America",
-    "Escambray",
-    "Guantanamo"
-  ],
   "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "The Record",
   "persons_mentioned": [
     "MIRO Cardona",
     "Manuel VARELA Castro",
@@ -46,6 +31,23 @@
     "Clark",
     "Thompson"
   ],
-  "recipient": "The Record",
-  "sender": "Unknown"
+  "locations_mentioned": [
+    "Cuba",
+    "Key West",
+    "Miami",
+    "U. S.",
+    "Latin America",
+    "Escambray",
+    "Guantanamo"
+  ],
+  "tags": [
+    "MIRO Cardona",
+    "Propaganda",
+    "Underground Activities",
+    "Commando Action",
+    "Cuban Revolutionary Council",
+    "Anti-Castro",
+    "Military Action",
+    "Government-in-exile"
+  ]
 }

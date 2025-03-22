@@ -1,8 +1,24 @@
 {
-  "classification": "Administrative",
-  "document_type": "Handbook",
-  "security_level": "SECRET",
+  "title": "The 201 System",
+  "title_ja": "201システム",
   "summary": "This document describes the 201 system, which is a method for identifying persons of specific interest to the Operations Directorate, controlling and filing pertinent information, and producing lists of 201 personalities according to various categories. It covers the 201 number, dossier, master record, maintenance procedures, dossier charges, restricted dossiers, information requests, cancellation, and machine listings.",
+  "summary_ja": "この文書は、201システムについて説明しており、これは、作戦本部が特定の関心を持つ人物を識別し、関連情報を管理・保管し、さまざまなカテゴリーに従って201の重要人物のリストを作成する方法である。201番号、書類、マスターレコード、メンテナンス手順、書類料金、制限付き書類、情報請求、キャンセル、および機械リストについて記載している。",
+  "document_type": "Handbook",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1974-11-15",
+  "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "Various",
+  "persons_mentioned": [],
+  "locations_mentioned": [
+    "Headquarters",
+    "field stations",
+    "New York",
+    "Paris",
+    "Geneva",
+    "Vienna"
+  ],
   "tags": [
     "201 system",
     "Operations Directorate",
@@ -16,19 +32,5 @@
     "restricted dossiers",
     "automated index",
     "cancellation"
-  ],
-  "title": "The 201 System",
-  "date": "1974-11-15",
-  "locations_mentioned": [
-    "Headquarters",
-    "field stations",
-    "New York",
-    "Paris",
-    "Geneva",
-    "Vienna"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [],
-  "recipient": "Various",
-  "sender": "Unknown"
+  ]
 }

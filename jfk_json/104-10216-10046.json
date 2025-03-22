@@ -1,8 +1,25 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "Visit of Identities",
+  "title_ja": "身元確認訪問",
   "summary": "This dispatch discusses Identities A and B. Identity A is willing to serve ODYOKE without remuneration and has been in contact with the local attache regarding aeronautical spare parts. Identity B has been in contact with another ODYOKE component since January 62 and therefore cannot be approached by KUBARK.",
+  "summary_ja": "この報告書では、アイデンティティAとBについて論じている。アイデンティティAは無報酬でODYOKEに協力する意思があり、航空機用スペアパーツに関して現地の大使館員と連絡を取っている。アイデンティティBは62年1月以来、別のODYOKE構成員と連絡を取っており、そのためKUBARKは接触できない。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1962-07-23",
+  "origin_agency": "CIA",
+  "sender": "Dexter E. Kelpe",
+  "recipient": "Acting Chief of Station, Lata",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Irving Davidson",
+    "Paul Pesik",
+    "General Jani"
+  ],
+  "locations_mentioned": [
+    "Djakarta",
+    "Washington"
+  ],
   "tags": [
     "OKENVY",
     "ODYOKE",
@@ -13,20 +30,5 @@
     "export permits",
     "Irving Davidson",
     "Paul Pesik"
-  ],
-  "title": "Visit of Identities",
-  "date": "1962-07-23",
-  "locations_mentioned": [
-    "Djakarta",
-    "Washington"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Irving Davidson",
-    "Paul Pesik",
-    "General Jani"
-  ],
-  "recipient": "Acting Chief of Station, Lata",
-  "sender": "Dexter E. Kelpe"
+  ]
 }

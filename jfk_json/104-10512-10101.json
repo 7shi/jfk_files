@@ -1,8 +1,31 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DIR WAVE GYROSE AMLACE",
+  "title_ja": "DIR WAVE GYROSE AMLACE",
   "summary": "Cable discusses AMTOAD-1's interactions with AMLACE-1's wife (AMLACE-2) regarding potential recruitment as a courier for anti-Castro refugees, and the lack of interest from RENARD and Harry V. Witherby. Assesses the development as not a threat to AMLACE-1 security.",
+  "summary_ja": "電報は、反カストロ亡命者のための運び屋として採用する可能性について、AMTOAD-1とAMLACE-1の妻（AMLACE-2）とのやりとりについて述べ、RENARDとハリー・V・ウィザービーの関心の欠如について言及している。AMLACE-1の安全に対する脅威ではないと評価している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-08-26",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "AMTOAD-1",
+    "AMLACE-1",
+    "AMLACE-2",
+    "MARIA C. NIEMEYER",
+    "RENARD",
+    "HARRY V. WITHERBY",
+    "ANDRIETTE",
+    "AMSTRUT-1"
+  ],
+  "locations_mentioned": [
+    "HAVANA",
+    "MIAMI",
+    "BRAZIL"
+  ],
   "tags": [
     "AMTOAD-1",
     "AMLACE-1",
@@ -17,26 +40,5 @@
     "AMBUD",
     "AMSTRUT-1",
     "ANTI CASTRO"
-  ],
-  "title": "DIR WAVE GYROSE AMLACE",
-  "date": "1962-08-26",
-  "locations_mentioned": [
-    "HAVANA",
-    "MIAMI",
-    "BRAZIL"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "JOHN F. KENNEDY",
-    "AMTOAD-1",
-    "AMLACE-1",
-    "AMLACE-2",
-    "MARIA C. NIEMEYER",
-    "RENARD",
-    "HARRY V. WITHERBY",
-    "ANDRIETTE",
-    "AMSTRUT-1"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

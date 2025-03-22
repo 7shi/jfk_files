@@ -1,8 +1,31 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Meeting with Colonel Porres Saturday, 10 October 1964",
+  "title_ja": "ポレス大佐との会合 1964年10月10日（土）",
   "summary": "Memorandum regarding a meeting with Colonel Porres concerning special treatment for individuals involved with Lyon Sosa, Luis Augusto Turcios Lima, Manuel Joue Ortega Paz, and others who received guerrilla warfare training in Cuba. Discussion also includes the Alfaro case, Luiz Ramirez case, and Hector Jordi Chambonyer case.",
+  "summary_ja": "ポレス大佐との会合に関する覚書。キューバでゲリラ戦闘訓練を受けたリヨン・ソサ、ルイス・オーガスト・トゥルシオス・リマ、マヌエル・フア・オルテガ・パスの関係者に対する特別措置について。アルファロ事件、ルイス・ラミレス事件、ヘクター・ジョルディ・チャンボニェール事件についても議論されている。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "UNCLASSIFIED",
+  "date": "1964-10-13",
+  "origin_agency": "WH/SA",
+  "sender": "Harold F. Ewenson, Chief, WIL/SA/CI",
+  "recipient": "Headquarters",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Colonel Porres",
+    "Lyon Sosa",
+    "Luis Augusto Turcios Lima",
+    "Manuel Joue Ortega Paz",
+    "Andy Rogers",
+    "Colonel Feralta",
+    "Luiz Ramirez",
+    "Hector Jordi Chambonyer",
+    "Harold F. Ewenson"
+  ],
+  "locations_mentioned": [
+    "Guatemala",
+    "Cuba"
+  ],
   "tags": [
     "Colonel Porres",
     "Lyon Sosa",
@@ -18,26 +41,5 @@
     "Propaganda",
     "Arrests",
     "Interrogation"
-  ],
-  "title": "Meeting with Colonel Porres Saturday, 10 October 1964",
-  "date": "1964-10-13",
-  "locations_mentioned": [
-    "Guatemala",
-    "Cuba"
-  ],
-  "origin_agency": "WH/SA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Colonel Porres",
-    "Lyon Sosa",
-    "Luis Augusto Turcios Lima",
-    "Manuel Joue Ortega Paz",
-    "Andy Rogers",
-    "Colonel Feralta",
-    "Luiz Ramirez",
-    "Hector Jordi Chambonyer",
-    "Harold F. Ewenson"
-  ],
-  "recipient": "Headquarters",
-  "sender": "Harold F. Ewenson, Chief, WIL/SA/CI"
+  ]
 }

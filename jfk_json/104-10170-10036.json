@@ -1,8 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "SJAN 0835: Potential Channel Between Artecona and PBRUMEN",
+  "title_ja": "SJAN 0835：アルテコーナとPBRUMEN間の潜在的なチャンネル",
   "summary": "Cable discusses a potential channel between JOSE ARTECONA and PBRUMEN through IDEN B using a \"diplomatic pouch\" for messages and small arms. IDEN A suggests ARTECONA present his request to his KUBARK contact in Miami.",
+  "summary_ja": "この電報では、IDEN B 経由で JOSE ARTECONA と PBRUMEN 間の潜在的なルートについて論じ、メッセージと小銃のために「外交用ポーチ」を使用することを提案している。IDEN A は、ARTECONA がマイアミの KUBARK との連絡先に要求を提示することを提案している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-11-08",
+  "origin_agency": "SAN JUAN",
+  "sender": "SAN JUAN",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "JOSE ARTECONA",
+    "CARLOS \"TRIPA\" ARTECONA",
+    "IDEN A",
+    "IDEN B",
+    "KARNLEY"
+  ],
+  "locations_mentioned": [
+    "San Juan",
+    "Miami"
+  ],
   "tags": [
     "DRE",
     "Directorate Revolutionario Estudiantil",
@@ -15,21 +33,5 @@
     "Diplomatic Pouch",
     "Miami",
     "HAGU"
-  ],
-  "title": "SJAN 0835: Potential Channel Between Artecona and PBRUMEN",
-  "date": "1962-11-08",
-  "locations_mentioned": [
-    "San Juan",
-    "Miami"
-  ],
-  "origin_agency": "SAN JUAN",
-  "persons_mentioned": [
-    "JOSE ARTECONA",
-    "CARLOS \"TRIPA\" ARTECONA",
-    "IDEN A",
-    "IDEN B",
-    "KARNLEY"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "SAN JUAN"
+  ]
 }

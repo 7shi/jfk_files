@@ -1,8 +1,27 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "LUXE 0097: Opium Trafficking from Hong Kong to the United States",
+  "title_ja": "LUXE 0097：香港から米国へのアヘン密売",
   "summary": "This cable discusses Armand Delacour, a three-time convict, who approached the subject with an offer related to opium trafficking from Hong Kong to the United States. Delacour stated that two Sicilians living in Paris were already involved in this traffic, receiving opium from the Chicoms for delivery in the US. The subject also provides a physical description of Delacour.",
+  "summary_ja": "本電報では、香港から米国へのアヘン密売に関する申し出を被疑者に持ちかけた、3度服役した経験のあるアルマンド・デラクールについて論じている。デルクールは、パリ在住の2人のシチリア人がすでにこの密売に関与しており、シチリア人からアヘンを受け取って米国に配送していると述べた。この件では、デルクールの身体的特徴も述べられている。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1959-05-04",
+  "origin_agency": "CIA",
+  "sender": "[LUXEMBOURG] 15-19",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "Armand Delacour",
+    "RABNEY"
+  ],
+  "locations_mentioned": [
+    "Luxembourg",
+    "Paris",
+    "Hong Kong",
+    "United States",
+    "Canada",
+    "North Africa"
+  ],
   "tags": [
     "opium",
     "narcotics",
@@ -12,22 +31,5 @@
     "Chicoms",
     "HBFINCH",
     "QUBANNER"
-  ],
-  "title": "LUXE 0097: Opium Trafficking from Hong Kong to the United States",
-  "date": "1959-05-04",
-  "locations_mentioned": [
-    "Luxembourg",
-    "Paris",
-    "Hong Kong",
-    "United States",
-    "Canada",
-    "North Africa"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Armand Delacour",
-    "RABNEY"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "[LUXEMBOURG] 15-19"
+  ]
 }

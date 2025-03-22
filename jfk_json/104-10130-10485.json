@@ -1,22 +1,24 @@
 {
-  "classification": "Personnel",
-  "document_type": "Speed Letter",
-  "security_level": "UNCLASSIFIED",
+  "title": "Request for Cover Considerations - Guy Vitale Retirement Medallion",
+  "title_ja": "カバーに関する検討依頼 - ガイ・ヴィターレ退職メダリオン",
   "summary": "This speed letter requests a check of records for cover considerations regarding the release of a retirement medallion to Guy Vitale of DDP/WH. The reply indicates no cover objections.",
+  "summary_ja": "このスピードレターでは、DDP/WHのガイ・ヴィターレへの退職メダルの授与に関する偽装工作の検討のため、記録の確認を求めている。返信では、偽装工作上の問題はないことが示されている。",
+  "document_type": "Speed Letter",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
+  "date": "1969-02-26",
+  "sender": "Christos S. Gikas, Acting Chief, Employee Activity Branch",
+  "recipient": "Chief, Central Cover Staff",
+  "persons_mentioned": [
+    "VITALE, Guy",
+    "Christos S. Gikas",
+    "James W. Franklin"
+  ],
   "tags": [
     "retirement",
     "medallion",
     "cover",
     "employee activity",
     "Central Cover Staff"
-  ],
-  "title": "Request for Cover Considerations - Guy Vitale Retirement Medallion",
-  "date": "1969-02-26",
-  "persons_mentioned": [
-    "VITALE, Guy",
-    "Christos S. Gikas",
-    "James W. Franklin"
-  ],
-  "recipient": "Chief, Central Cover Staff",
-  "sender": "Christos S. Gikas, Acting Chief, Employee Activity Branch"
+  ]
 }

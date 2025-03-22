@@ -1,27 +1,29 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum details the provision of improved sights for the 7.62 Belgium (FAL) rifle, including rear sight hoods, instructions, tool kits, and ammunition. It notes the infeasibility of developing a scope and mount within the given timeframe and provides contact information for additional details.",
-  "tags": [
-    "7.62 Belgium (FAL) Rifle",
-    "Improved Sight",
-    "Ammunition",
-    "Weapon Modification",
-    "Engineering Branch"
-  ],
   "title": "Improved Sight for 7.62 Belgium (FAL) Rifle",
+  "title_ja": "7.62mmベルギー（FAL）ライフル用照準器の改良",
+  "summary": "This memorandum details the provision of improved sights for the 7.62 Belgium (FAL) rifle, including rear sight hoods, instructions, tool kits, and ammunition. It notes the infeasibility of developing a scope and mount within the given timeframe and provides contact information for additional details.",
+  "summary_ja": "この覚書は、7.62ベルギー（FAL）ライフル用の改良照準器の提供について詳細に説明しており、これにはリアサイトフード、指示書、工具キット、弾薬が含まれる。また、指定の期間内にスコープとマウントを開発することは不可能であることを指摘し、詳細については連絡先情報を提供している。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1964-06-24",
-  "locations_mentioned": [
-    "Belgium"
-  ],
   "origin_agency": "TSD/Engineering Branch",
+  "sender": "C/TSD/EB",
+  "recipient": "C/WH/SA/MOB/PM",
   "persons_mentioned": [
     "Walter L. Erhardt",
     "D. J. Hogan",
     "D. R. Dunn",
     "Bushnell"
   ],
-  "recipient": "C/WH/SA/MOB/PM",
-  "sender": "C/TSD/EB"
+  "locations_mentioned": [
+    "Belgium"
+  ],
+  "tags": [
+    "7.62 Belgium (FAL) Rifle",
+    "Improved Sight",
+    "Ammunition",
+    "Weapon Modification",
+    "Engineering Branch"
+  ]
 }

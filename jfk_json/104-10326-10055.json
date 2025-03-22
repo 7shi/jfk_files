@@ -1,8 +1,22 @@
 {
-  "classification": "Administrative",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "RELEASE OF CLASSIFIED DOCUMENT",
+  "title_ja": "機密文書の公開",
   "summary": "This cable discusses the release of a classified document related to Lee Harvey Oswald. It notes that the received fax appears incomplete and requests that crypts be deleted before release. The station also wants to be informed of the release date to notify the ambassador and liaison service chiefs.",
+  "summary_ja": "この電報は、リー・ハーヴェイ・オズワルドに関する機密文書の公開について述べている。受信したファックスが不完全であることを指摘し、公開前に暗号を削除するよう要請している。また、大使と連絡サービス責任者に通知するために、公開日も知らせるよう求めている。",
+  "document_type": "Cable",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1996-02-08",
+  "origin_agency": "STAFF",
+  "sender": "COPENHAGEN",
+  "recipient": "IMMEDIATE DIRECTOR",
+  "persons_mentioned": [
+    "Lee Harvey Oswald"
+  ],
+  "locations_mentioned": [
+    "Copenhagen",
+    "Denmark"
+  ],
   "tags": [
     "Release of Classified Document",
     "Lee Harvey Oswald",
@@ -10,17 +24,5 @@
     "Crypts",
     "Ambassador",
     "Liaison Service"
-  ],
-  "title": "RELEASE OF CLASSIFIED DOCUMENT",
-  "date": "1996-02-08",
-  "locations_mentioned": [
-    "Copenhagen",
-    "Denmark"
-  ],
-  "origin_agency": "STAFF",
-  "persons_mentioned": [
-    "Lee Harvey Oswald"
-  ],
-  "recipient": "IMMEDIATE DIRECTOR",
-  "sender": "COPENHAGEN"
+  ]
 }

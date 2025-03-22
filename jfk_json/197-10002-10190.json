@@ -1,18 +1,18 @@
 {
-  "classification": "Military",
-  "document_type": "Telegram",
-  "security_level": "SECRET",
-  "summary": "This document is a CIA telegram detailing Soviet military alerts following the Kennedy assassination, specifically focusing on reactions in East Germany and the broader Soviet Bloc.",
-  "tags": [
-    "Kennedy Assassination",
-    "Soviet Military Alert",
-    "East Germany",
-    "Military Weekly Summary",
-    "Oranienburg Garrison",
-    "Interzonal Border"
-  ],
   "title": "CIA TDCS-3/566,305",
+  "title_ja": "CIA TDCS-3/566,305",
+  "summary": "This document is a CIA telegram detailing Soviet military alerts following the Kennedy assassination, specifically focusing on reactions in East Germany and the broader Soviet Bloc.",
+  "summary_ja": "この文書は、ケネディ暗殺後のソ連の軍事的警戒態勢について詳細に述べたCIAの電報であり、特に東ドイツとより広範なソ連圏の反応に焦点を当てている。",
+  "document_type": "Telegram",
+  "classification": "Military",
+  "security_level": "SECRET",
   "date": "1963-11-29",
+  "origin_agency": "Central Intelligence Agency",
+  "sender": "CIA",
+  "recipient": "Army, Air, Navy, USEUCOM",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
   "locations_mentioned": [
     "West Germany",
     "Soviet Bloc",
@@ -22,10 +22,12 @@
     "IML Letllinger Heide",
     "Altengrabom"
   ],
-  "origin_agency": "Central Intelligence Agency",
-  "persons_mentioned": [
-    "John F. Kennedy"
-  ],
-  "recipient": "Army, Air, Navy, USEUCOM",
-  "sender": "CIA"
+  "tags": [
+    "Kennedy Assassination",
+    "Soviet Military Alert",
+    "East Germany",
+    "Military Weekly Summary",
+    "Oranienburg Garrison",
+    "Interzonal Border"
+  ]
 }

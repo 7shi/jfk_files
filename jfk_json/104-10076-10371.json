@@ -1,28 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Telegram",
-  "security_level": "SECRET",
-  "summary": "This telegram discusses the travel of Soviets from Batabano to Isla de Pinos, as well as cargo traffic between the two locations. It details specific instances of trucks and ferries being used to transport personnel and goods.",
-  "tags": [
-    "Soviet",
-    "cargo traffic",
-    "Batabano",
-    "Isla de Pinos",
-    "ferry",
-    "trucks",
-    "military",
-    "transport"
-  ],
   "title": "Travel of Soviets from Batabano to Isla de Pinos, Cargo Traffic Between Isla de Pinos and Batabano",
+  "title_ja": "バタバノからイスラ・デ・ピノスへのソビエト人の移動、イスラ・デ・ピノスとバタバノ間の貨物輸送",
+  "summary": "This telegram discusses the travel of Soviets from Batabano to Isla de Pinos, as well as cargo traffic between the two locations. It details specific instances of trucks and ferries being used to transport personnel and goods.",
+  "summary_ja": "この電報は、ソビエト連邦のバタバノからイスラ・デ・ピノスへの移動、および両地点間の貨物輸送について述べている。 トラックやフェリーが人員や物資の輸送に使用された具体的な事例について詳しく述べている。",
+  "document_type": "Telegram",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-12-12",
-  "locations_mentioned": [
-    "Cuba",
-    "Batabano",
-    "Isla de Pinos",
-    "Habana Province",
-    "Gerona"
-  ],
   "origin_agency": "CIA",
+  "sender": "UMWAVE",
+  "recipient": "DOP, OOP, SOD 6, CA 2, CA/PEG, CA/PROP, CI/OPS, FI, FI/D, FI/INTI, SR 7, WH 7, DD/1, AD/CI 2, AD/NE, AD/RR 36/NR/",
   "persons_mentioned": [
     "AUDIL",
     "CHERRERA",
@@ -32,6 +19,21 @@
     "FINCA ALGOBIN",
     "DE LA TORRE"
   ],
-  "recipient": "DOP, OOP, SOD 6, CA 2, CA/PEG, CA/PROP, CI/OPS, FI, FI/D, FI/INTI, SR 7, WH 7, DD/1, AD/CI 2, AD/NE, AD/RR 36/NR/",
-  "sender": "UMWAVE"
+  "locations_mentioned": [
+    "Cuba",
+    "Batabano",
+    "Isla de Pinos",
+    "Habana Province",
+    "Gerona"
+  ],
+  "tags": [
+    "Soviet",
+    "cargo traffic",
+    "Batabano",
+    "Isla de Pinos",
+    "ferry",
+    "trucks",
+    "military",
+    "transport"
+  ]
 }

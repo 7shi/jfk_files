@@ -1,27 +1,29 @@
 {
-  "classification": "Operations",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "Action and Status Cover for Luis POSADA Carriles and Alberto de Jesus ALMATO Garcia",
+  "title_ja": "ルイス・ポサダ・カリーレスおよびアルベルト・デ・ヘスス・アルマート・ガルシアの行動および身分証明書",
   "summary": "This memo discusses action and status cover for Luis POSADA Carriles and Alberto de Jesus ALMATO Garcia, recently assigned to the Carriles Training Base. It requests Tri-State Engineering cover for POSADA and notes ALMATO's existing cover with Radio & Electronics Equipment Company, Inc.",
+  "summary_ja": "本電報では、最近カリレス訓練基地に配属されたルイス・ポサダ・カリレスとアルベルト・デ・ヘスス・アルマート・ガルシアの行動および地位に関する補償について論じている。また、ポサダに対するトライステート・エンジニアリング社の補償を要請し、アルマートがラジオ・アンド・エレクトロニクス・イクイップメント社から受けている補償について言及している。",
+  "document_type": "Memo",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
+  "date": "1965-09-17",
+  "origin_agency": "CIA",
+  "sender": "TRG/TREATEJS",
+  "recipient": "Chief, Cover Branch",
+  "persons_mentioned": [
+    "Luis POSADA Carriles",
+    "Alberto de Jesus ALMATO Garcia",
+    "John F. Kennedy"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Miami, Fla"
+  ],
   "tags": [
     "Covert Operations",
     "Training",
     "Biographic Data",
     "Tri-State Engineering",
     "Radio & Electronics Equipment Company"
-  ],
-  "title": "Action and Status Cover for Luis POSADA Carriles and Alberto de Jesus ALMATO Garcia",
-  "date": "1965-09-17",
-  "locations_mentioned": [
-    "Cuba",
-    "Miami, Fla"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Luis POSADA Carriles",
-    "Alberto de Jesus ALMATO Garcia",
-    "John F. Kennedy"
-  ],
-  "recipient": "Chief, Cover Branch",
-  "sender": "TRG/TREATEJS"
+  ]
 }

@@ -1,26 +1,27 @@
 {
-  "classification": "Cuba",
-  "document_type": "Intelligence Checklist",
-  "security_level": "Top Secret",
-  "summary": "This document is President Kennedy's intelligence checklist from November 23, 1963. It contains information on South Vietnam, Venezuela, USSR-Cuba, Berlin, Iraq-Syria-UAR, USSR, Congo-USSR, Britain, Ecuador, Thailand, and Soviet Earth Satellite Vehicles Cosmos Series 1962-1963.",
-  "tags": [
-    "Vietnam",
-    "Venezuela",
-    "Cuba",
-    "Berlin",
-    "Iraq",
-    "Syria",
-    "Egypt",
-    "USSR",
-    "Congo",
-    "Britain",
-    "Ecuador",
-    "Thailand",
-    "Satellites",
-    "ICBM"
-  ],
   "title": "THE PRESIDENT'S INTELLIGENCE CHECKLIST",
+  "title_ja": "大統領のインテリジェンス・チェックリスト",
+  "summary": "This document is President Kennedy's intelligence checklist from November 23, 1963. It contains information on South Vietnam, Venezuela, USSR-Cuba, Berlin, Iraq-Syria-UAR, USSR, Congo-USSR, Britain, Ecuador, Thailand, and Soviet Earth Satellite Vehicles Cosmos Series 1962-1963.",
+  "summary_ja": "この文書は、1963年11月23日付のケネディ大統領のインテリジェンス・チェックリストである。南ベトナム、ベネズエラ、ソ連・キューバ、ベルリン、イラク・シリア・アラブ共和国、ソ連、コンゴ・ソ連、イギリス、エクアドル、タイ、およびソビエトの地球周回衛星「コスモス」シリーズ（1962年～1963年）に関する情報が記載されている。",
+  "document_type": "Intelligence Checklist",
+  "classification": "Cuba",
+  "security_level": "Top Secret",
   "date": "1963-11-23",
+  "origin_agency": "CIA",
+  "sender": "Central Intelligence Agency",
+  "recipient": "President",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Diem",
+    "Ton That Dinh",
+    "Betancourt",
+    "Arif",
+    "Tahir Yahya",
+    "Nasir",
+    "Adoula",
+    "Sarit",
+    "Home"
+  ],
   "locations_mentioned": [
     "South Vietnam",
     "Saigon",
@@ -39,19 +40,20 @@
     "Ecuador",
     "Thailand"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Diem",
-    "Ton That Dinh",
-    "Betancourt",
-    "Arif",
-    "Tahir Yahya",
-    "Nasir",
-    "Adoula",
-    "Sarit",
-    "Home"
-  ],
-  "recipient": "President",
-  "sender": "Central Intelligence Agency"
+  "tags": [
+    "Vietnam",
+    "Venezuela",
+    "Cuba",
+    "Berlin",
+    "Iraq",
+    "Syria",
+    "Egypt",
+    "USSR",
+    "Congo",
+    "Britain",
+    "Ecuador",
+    "Thailand",
+    "Satellites",
+    "ICBM"
+  ]
 }

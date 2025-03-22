@@ -1,26 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memo",
-  "security_level": "SECRET",
-  "summary": "This document details communication methods and addresses for contacting Rolando CUBELA Secades, including standard, rapid, and emergency options. It also specifies code names and procedures for secure communication.",
-  "tags": [
-    "communication",
-    "addresses",
-    "secure communication",
-    "Rolando CUBELA Secades",
-    "S/W system",
-    "agents"
-  ],
   "title": "Communication Details for Rolando CUBELA Secades",
+  "title_ja": "ロランド・クベーラ・セカデス氏との通信内容",
+  "summary": "This document details communication methods and addresses for contacting Rolando CUBELA Secades, including standard, rapid, and emergency options. It also specifies code names and procedures for secure communication.",
+  "summary_ja": "本書では、Rolando CUBELA Secades との連絡方法および連絡先について、標準、迅速、緊急のオプションを含めて詳細に説明している。また、安全な通信のためのコードネームと手順も指定している。",
+  "document_type": "Memo",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-11-01",
-  "locations_mentioned": [
-    "Havana",
-    "Madrid",
-    "New York",
-    "Paris",
-    "France"
-  ],
   "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
   "persons_mentioned": [
     "Rolando CUBELA Secades",
     "Maria Dolores COMEZ",
@@ -31,6 +20,19 @@
     "Carlos TEPEDINO",
     "Wainwright"
   ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  "locations_mentioned": [
+    "Havana",
+    "Madrid",
+    "New York",
+    "Paris",
+    "France"
+  ],
+  "tags": [
+    "communication",
+    "addresses",
+    "secure communication",
+    "Rolando CUBELA Secades",
+    "S/W system",
+    "agents"
+  ]
 }

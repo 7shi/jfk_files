@@ -1,36 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Contact Report",
-  "security_level": "SECRET",
-  "summary": "Recontact of Oliverio A. TOMEU Vasallo, providing additional detail on Carlos and Ana Gloria de VARONA, and identified Owiel GONZALEZ and one 'COCO' as possible leads to Jose LLANGRA Gobel.",
-  "tags": [
-    "Oliverio A. TOMEU Vasallo",
-    "Carlos de VARONA",
-    "Ana Gloria de VARONA",
-    "Owiel GONZALEZ",
-    "COCO",
-    "Jose LLANGRA Gobel",
-    "infiltration",
-    "Cuban Government",
-    "political asylum",
-    "JURE",
-    "Manolo RAY Rivero",
-    "26 July Movement",
-    "Manuel ARTINE",
-    "Second Front of Escambray"
-  ],
   "title": "Recontact of Oliverio A. TOKKU Pasallo",
+  "title_ja": "オリベリオ・A・トクパロの再接触",
+  "summary": "Recontact of Oliverio A. TOMEU Vasallo, providing additional detail on Carlos and Ana Gloria de VARONA, and identified Owiel GONZALEZ and one 'COCO' as possible leads to Jose LLANGRA Gobel.",
+  "summary_ja": "オリベリオ・A・トメウ・ヴァサロの再連絡、カルロスとアナ・グロリア・デ・バロナに関する追加の詳細、およびホセ・ラングラ・ゴベルの手掛かりとなり得るオウィエル・ゴンザレスと「ココ」の身元確認。",
+  "document_type": "Contact Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1964-06-15",
-  "locations_mentioned": [
-    "Washington, D. C.",
-    "Cuba",
-    "Puerto Rico",
-    "United States",
-    "Spain",
-    "Mexico",
-    "Havana"
-  ],
   "origin_agency": "AMBIDCY-1",
+  "sender": "WR/3A/80/3, C. PAUL PLUND, A.",
+  "recipient": "STROPSIS",
   "persons_mentioned": [
     "Oliverio Antonio TOMEU Vasallo",
     "Carlos de VARONA",
@@ -55,6 +34,29 @@
     "John Hugh Crimmins",
     "Manuel ARTINE"
   ],
-  "recipient": "STROPSIS",
-  "sender": "WR/3A/80/3, C. PAUL PLUND, A."
+  "locations_mentioned": [
+    "Washington, D. C.",
+    "Cuba",
+    "Puerto Rico",
+    "United States",
+    "Spain",
+    "Mexico",
+    "Havana"
+  ],
+  "tags": [
+    "Oliverio A. TOMEU Vasallo",
+    "Carlos de VARONA",
+    "Ana Gloria de VARONA",
+    "Owiel GONZALEZ",
+    "COCO",
+    "Jose LLANGRA Gobel",
+    "infiltration",
+    "Cuban Government",
+    "political asylum",
+    "JURE",
+    "Manolo RAY Rivero",
+    "26 July Movement",
+    "Manuel ARTINE",
+    "Second Front of Escambray"
+  ]
 }

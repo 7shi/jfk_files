@@ -1,8 +1,22 @@
 {
-  "classification": "Assassination Records",
-  "document_type": "Record",
-  "security_level": "UNCLASSIFIED",
+  "title": "Intelligence Record",
+  "title_ja": "情報記録",
   "summary": "This document contains names, codes, and references related to individuals and locations, likely pertaining to intelligence or operational activities. It includes names such as Manuel Aregon and Alfonso Dielleox, along with codes like CA/35 and 4043, and references to PARIS/PIPI. The document also mentions RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992.",
+  "summary_ja": "この文書には、個人および場所に関する名称、コード、参照が含まれており、おそらく諜報活動または作戦活動に関連すると思われる。マヌエル・アレゴンやアルフォンソ・ディエロックスといった名称、CA/35や4043といったコード、PARIS/PIPIへの参照が含まれている。また、この文書には「1992年ジョン・F・ケネディ大統領暗殺記録法に基づく開示」についても言及されている。",
+  "document_type": "Record",
+  "classification": "Assassination Records",
+  "security_level": "UNCLASSIFIED",
+  "date": "1963-10-01",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Manuel Aregon",
+    "Alfonso Dielleox"
+  ],
+  "locations_mentioned": [
+    "Paris"
+  ],
   "tags": [
     "Manuel Aregon",
     "Alfonso Dielleox",
@@ -14,17 +28,5 @@
     "ASTOINTICATIO",
     "4043",
     "Kennedy Assassination"
-  ],
-  "title": "Intelligence Record",
-  "date": "1963-10-01",
-  "locations_mentioned": [
-    "Paris"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "Manuel Aregon",
-    "Alfonso Dielleox"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

@@ -1,20 +1,14 @@
 {
-  "classification": "Security",
-  "document_type": "Memo",
-  "security_level": "TOP SECRET",
-  "summary": "This document pertains to a review of a Top Secret study regarding the examination of the bona fides of KGB defector Yuriy I. NOSENKO, dated February 1968. It includes deletions of certain portions containing information related to the security of ongoing CIA operations. The document requests the return of the study and related annexes upon completion of the review.",
-  "tags": [
-    "KGB",
-    "Defector",
-    "NOSENKO",
-    "CIA",
-    "Counterintelligence",
-    "Soviet Officials",
-    "Security",
-    "Operations"
-  ],
   "title": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "1992年ジョン・F・ケネディ大統領暗殺記録法に基づく1992年大統領令による2025年公開",
+  "summary": "This document pertains to a review of a Top Secret study regarding the examination of the bona fides of KGB defector Yuriy I. NOSENKO, dated February 1968. It includes deletions of certain portions containing information related to the security of ongoing CIA operations. The document requests the return of the study and related annexes upon completion of the review.",
+  "summary_ja": "この文書は、1968年2月付けのKGB脱走者ユーリ・I・ノセンコの誠実さに関する調査に関する極秘研究の再調査に関するものである。CIAの進行中の活動の安全に関する情報を含む特定部分の削除が含まれている。この文書は、再調査完了後に研究と関連付録の返却を求めている。",
+  "document_type": "Memo",
+  "classification": "Security",
+  "security_level": "TOP SECRET",
   "date": "1968-02-01",
+  "sender": "CIA",
+  "recipient": "Unknown",
   "persons_mentioned": [
     "Yuriy Ivanovich NOSENKO",
     "Ivan I. NOSENKO",
@@ -46,6 +40,14 @@
     "FEDOSEYEV",
     "MAYOROV"
   ],
-  "recipient": "Unknown",
-  "sender": "CIA"
+  "tags": [
+    "KGB",
+    "Defector",
+    "NOSENKO",
+    "CIA",
+    "Counterintelligence",
+    "Soviet Officials",
+    "Security",
+    "Operations"
+  ]
 }

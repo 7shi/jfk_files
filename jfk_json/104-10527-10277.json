@@ -1,8 +1,24 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "104-10527-10277 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "104-10527-10277 2025 1992年ジョン・F・ケネディ大統領暗殺記録法に基づく公開",
   "summary": "This document discusses an investigation related to the President John F. Kennedy assassination records act of 1992. It mentions individuals with aliases such as Cartier, and delves into subjects like PONOD CALVIN, RAKEBRAND, and their connections with IF EMIGRE CHANNELS, ODENVY, and KUBARK. The document also discusses a Spanish connection plan.",
+  "summary_ja": "この文書は、1992年のジョン・F・ケネディ大統領暗殺記録法に関する調査について述べている。カルティエなどの偽名を持つ人物について言及し、PONOD CALVIN、RAKEBRAND、およびそれらのIF EMIGRE CHANNELS、ODENVY、KUBARKとのつながりについて掘り下げている。また、スペイン語圏でのつながり計画についても述べている。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1960",
+  "origin_agency": "CIA",
+  "sender": "MEXX",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "IDEN BARLATTE FRANCOISE HEZARIFEND",
+    "PONOD CALVIN",
+    "RAKEBRAND"
+  ],
+  "locations_mentioned": [
+    "FRANCE"
+  ],
   "tags": [
     "RYBAT ZROCEAN",
     "PONOD CALVIN",
@@ -13,19 +29,5 @@
     "Spanish Connection",
     "KRX",
     "Journalist"
-  ],
-  "title": "104-10527-10277 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
-  "date": "1960",
-  "locations_mentioned": [
-    "FRANCE"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "JOHN F. KENNEDY",
-    "IDEN BARLATTE FRANCOISE HEZARIFEND",
-    "PONOD CALVIN",
-    "RAKEBRAND"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "MEXX"
+  ]
 }

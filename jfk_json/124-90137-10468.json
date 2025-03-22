@@ -1,8 +1,26 @@
 {
-  "classification": "Liaison",
-  "document_type": "AIRTEL",
-  "security_level": "Confidential",
+  "title": "NY 3186-PS",
+  "title_ja": "NY 3186-PS",
   "summary": "This document discusses the CIA's desire to contact a person of security interest (PSI) who is a station manager for Cubana Airlines in New York City, in connection with Cuban operations, specifically to establish courier routes between the U.S. and Cuba. The FBI is considering whether to allow the CIA to contact the PSI, operate independently, or act as an intermediary.",
+  "summary_ja": "この文書は、キューバの活動に関連して、特に米国とキューバ間のクーリエ（秘密情報員）ルートを確立するために、ニューヨークのキューバ航空支局長である保安上の関心対象者（PSI）と接触したいというCIAの希望について述べている。FBIは、CIAにPSIと接触させるか、独自に活動させるか、あるいは仲介役を務めるかについて検討している。",
+  "document_type": "AIRTEL",
+  "classification": "Liaison",
+  "security_level": "Confidential",
+  "date": "1961-06-30",
+  "origin_agency": "FBI",
+  "sender": "Director, FBI",
+  "recipient": "SAC, New York",
+  "persons_mentioned": [
+    "Jorge Beliard",
+    "James Papich"
+  ],
+  "locations_mentioned": [
+    "U.S.",
+    "Cuba",
+    "New York City",
+    "Idlewild Airport",
+    "Havana"
+  ],
   "tags": [
     "CIA",
     "Cuban Operations",
@@ -12,21 +30,5 @@
     "PSI",
     "NY 3186-PS",
     "REC-85"
-  ],
-  "title": "NY 3186-PS",
-  "date": "1961-06-30",
-  "locations_mentioned": [
-    "U.S.",
-    "Cuba",
-    "New York City",
-    "Idlewild Airport",
-    "Havana"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "Jorge Beliard",
-    "James Papich"
-  ],
-  "recipient": "SAC, New York",
-  "sender": "Director, FBI"
+  ]
 }

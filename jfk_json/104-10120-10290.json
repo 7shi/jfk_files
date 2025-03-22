@@ -1,8 +1,18 @@
 {
-  "classification": "Administrative",
-  "document_type": "Notification",
-  "security_level": "SECRET",
+  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
+  "title_ja": "軍用カバーバックストップの確立通知",
   "summary": "Notification of establishment of military cover backstop for Palmes N. Jr., Chief, Operating Component, SAS. Request for Cover, 9 April 1964. Army Element, (Joint Operations Group) NA. Temporarily for ____ days, effective or Continuing, effective EOD. SUBMIT FORM 642 TO CHANGE LIMITATION CATEGORY TO 3. ASCERTAIN THAT ARMY W-2 BEING ISSUED. SUBMIT FORM 1322 FOR ANY CHANGE AFFECTING THIS COVER. SUBMIT FORM 1323 FOR TRANSFERRING COVER RESPONSIBILITY.",
+  "summary_ja": "SAS 作戦部隊長パルメス・N・ジュニアの軍事偽装の最終手段の確立に関する通知。1964年4月9日、偽装の要請。陸軍要素、（統合作戦グループ）NA。一時的に○○日間、有効または継続、有効期限EOD。フォーム642を提出し、制限カテゴリーを3に変更する。陸軍W-2が発行されていることを確認する。このカバーに影響する変更がある場合は、フォーム1322を提出すること。カバーの責任を移転する場合は、フォーム1323を提出すること。",
+  "document_type": "Notification",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1964-04-05",
+  "sender": "James A. Franklin, CHIEF, MILITARY COVER, CCO",
+  "recipient": "CHIEF, RECORDS AND SERVICES DIVISION",
+  "persons_mentioned": [
+    "Palmes N. Jr.",
+    "James A. Franklin"
+  ],
   "tags": [
     "military cover",
     "backstop",
@@ -13,13 +23,5 @@
     "Form 1322",
     "Form 1323",
     "W-2"
-  ],
-  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
-  "date": "1964-04-05",
-  "persons_mentioned": [
-    "Palmes N. Jr.",
-    "James A. Franklin"
-  ],
-  "recipient": "CHIEF, RECORDS AND SERVICES DIVISION",
-  "sender": "James A. Franklin, CHIEF, MILITARY COVER, CCO"
+  ]
 }

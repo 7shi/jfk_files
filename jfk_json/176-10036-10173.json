@@ -1,8 +1,28 @@
 {
-  "classification": "National Security",
-  "document_type": "Cable",
-  "security_level": "TOP SECRET",
+  "title": "Cable from Bundy to Lodge Regarding Potential Coup in Vietnam",
+  "title_ja": "ベトナムにおける潜在的なクーデターに関するバンディからロッジへの電報",
   "summary": "This document is a cable from McGeorge Bundy at the White House to Ambassador Lodge in Saigon, dated October 30, 1963. It discusses the U.S. position on a potential coup in South Vietnam, particularly the extent to which the U.S. should influence or intervene in such an event.",
+  "summary_ja": "この文書は、1963年10月30日付で、ホワイトハウスのマクジョージ・バンディからサイゴンのロッジ大使宛に送られた電報である。南ベトナムにおける潜在的なクーデターに対する米国の立場について、特に米国がそのような事態にどの程度影響力を行使し、介入すべきかについて論じている。",
+  "document_type": "Cable",
+  "classification": "National Security",
+  "security_level": "TOP SECRET",
+  "date": "1963-10-30",
+  "origin_agency": "WH",
+  "sender": "Bundy",
+  "recipient": "Lodge",
+  "persons_mentioned": [
+    "Bundy",
+    "Lodge",
+    "Harkins",
+    "Smith",
+    "Conein",
+    "Truehart",
+    "Diem"
+  ],
+  "locations_mentioned": [
+    "Saigon",
+    "Washington"
+  ],
   "tags": [
     "coup",
     "Vietnam",
@@ -14,23 +34,5 @@
     "Harkins",
     "Conein",
     "Truehart"
-  ],
-  "title": "Cable from Bundy to Lodge Regarding Potential Coup in Vietnam",
-  "date": "1963-10-30",
-  "locations_mentioned": [
-    "Saigon",
-    "Washington"
-  ],
-  "origin_agency": "WH",
-  "persons_mentioned": [
-    "Bundy",
-    "Lodge",
-    "Harkins",
-    "Smith",
-    "Conein",
-    "Truehart",
-    "Diem"
-  ],
-  "recipient": "Lodge",
-  "sender": "Bundy"
+  ]
 }

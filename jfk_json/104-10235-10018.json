@@ -1,25 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Two classified messages, both dated 08 June 62. The first details arrangements for AMBUD-1's visit to PACY, including meetings and tours. It also mentions financing for BOCAL. The second identifies Marco Robles, Minister of Government and Justice.",
-  "tags": [
-    "AMBUD-1",
-    "PACY",
-    "BOCAL",
-    "Marco Robles",
-    "Government",
-    "Justice"
-  ],
   "title": "Arrangements for AMBUD-1 Visit & Robles Identification",
+  "title_ja": "AMBUD-1訪問およびRobles識別の準備",
+  "summary": "Two classified messages, both dated 08 June 62. The first details arrangements for AMBUD-1's visit to PACY, including meetings and tours. It also mentions financing for BOCAL. The second identifies Marco Robles, Minister of Government and Justice.",
+  "summary_ja": "2つの機密メッセージ、両方とも62年6月8日付。最初のメッセージは、AMBUD-1のPACY訪問の手配について詳細に述べている。会議や見学などである。BOCALへの資金援助についても言及している。2つ目は、マルコ・ロブレス政府・司法大臣を特定している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1962-06-08",
-  "locations_mentioned": [
-    "Panama",
-    "Guatemala",
-    "El Salvador",
-    "Honduras"
-  ],
   "origin_agency": "CIA",
+  "sender": "DTO",
+  "recipient": "WAVE INFO DIR MANA GUAT SALV TEGU SANJ",
   "persons_mentioned": [
     "AMBUD-1",
     "Narcisco Caray",
@@ -32,6 +22,18 @@
     "Massey",
     "Marco Robles"
   ],
-  "recipient": "WAVE INFO DIR MANA GUAT SALV TEGU SANJ",
-  "sender": "DTO"
+  "locations_mentioned": [
+    "Panama",
+    "Guatemala",
+    "El Salvador",
+    "Honduras"
+  ],
+  "tags": [
+    "AMBUD-1",
+    "PACY",
+    "BOCAL",
+    "Marco Robles",
+    "Government",
+    "Justice"
+  ]
 }

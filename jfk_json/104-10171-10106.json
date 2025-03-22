@@ -1,28 +1,15 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses the problem of Roberto de Varona, who is independently recruiting and training Cubans for a planned invasion of Cuba, possibly in November or December. AMHAWK is said to be involved. The station is considering having a Gobernacion agent advise Roberto to leave the country.",
-  "tags": [
-    "AMHAWK",
-    "Roberto de Varona",
-    "Cuban exiles",
-    "Invasion plan",
-    "Military training",
-    "Recruitment",
-    "MEXI"
-  ],
   "title": "MEXI 6502: Problem of Roberto de Varona and AMHAWK's involvement in Cuban exile training.",
+  "title_ja": "MEXI 6502: ロベルト・デ・バローナの問題およびキューバ亡命者訓練におけるAMHAWKの関与",
+  "summary": "This cable discusses the problem of Roberto de Varona, who is independently recruiting and training Cubans for a planned invasion of Cuba, possibly in November or December. AMHAWK is said to be involved. The station is considering having a Gobernacion agent advise Roberto to leave the country.",
+  "summary_ja": "この電報は、11月か12月に予定されているキューバ侵攻のために独自にキューバ人の勧誘と訓練を行っているロベルト・デ・バロナの問題について述べている。AMHAWKが関与していると言われている。局はGobernacionのエージェントにロベルトに国外退去するよう助言させることを検討している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
   "date": "1960-10-06",
-  "locations_mentioned": [
-    "Mexico City",
-    "Miami",
-    "Cuba",
-    "Santa Cruz del Sur",
-    "Ninca El Penon",
-    "Toluca Road"
-  ],
   "origin_agency": "CIA",
+  "sender": "MEXICO CITY",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "Roberto de Varona",
     "AMHAWK",
@@ -40,6 +27,21 @@
     "Hugh Montague",
     "Jose Maria Rego Rubido"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "MEXICO CITY"
+  "locations_mentioned": [
+    "Mexico City",
+    "Miami",
+    "Cuba",
+    "Santa Cruz del Sur",
+    "Ninca El Penon",
+    "Toluca Road"
+  ],
+  "tags": [
+    "AMHAWK",
+    "Roberto de Varona",
+    "Cuban exiles",
+    "Invasion plan",
+    "Military training",
+    "Recruitment",
+    "MEXI"
+  ]
 }

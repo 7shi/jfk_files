@@ -1,16 +1,16 @@
 {
-  "classification": "Administrative",
-  "document_type": "List",
-  "security_level": "SECRET",
-  "summary": "List of COS stations and locations as of 1964.",
-  "tags": [
-    "COS stations",
-    "Locations",
-    "Field Offices",
-    "Overseas Stations"
-  ],
   "title": "COS Station List 1964",
+  "title_ja": "COSステーションリスト1964",
+  "summary": "List of COS stations and locations as of 1964.",
+  "summary_ja": "1964年時点でのCOSの基地と場所の一覧。",
+  "document_type": "List",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1964",
+  "origin_agency": "SEC",
+  "sender": "N/A",
+  "recipient": "N/A",
+  "persons_mentioned": [],
   "locations_mentioned": [
     "Bogota",
     "Buenos Aires",
@@ -91,8 +91,10 @@
     "New Delhi",
     "Colombo"
   ],
-  "origin_agency": "SEC",
-  "persons_mentioned": [],
-  "recipient": "N/A",
-  "sender": "N/A"
+  "tags": [
+    "COS stations",
+    "Locations",
+    "Field Offices",
+    "Overseas Stations"
+  ]
 }

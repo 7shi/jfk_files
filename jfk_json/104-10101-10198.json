@@ -1,8 +1,30 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "MEXI",
+  "title_ja": "メキシコ",
   "summary": "This cable discusses potential meetings with CTBAN, LIFEAT coverage, tracing subjects, renewing post boxes, and sending a telegram to Manuel Vega y Socio.",
+  "summary_ja": "この電報では、CTBANとの潜在的な会合、LIFEATの報道、取材対象の追跡、郵便ポストの更新、マヌエル・ベガ・イ・ソシオへの電報送信について議論されている。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "2025-MM-DD",
+  "origin_agency": "Director",
+  "sender": "Director",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "CTBAN",
+    "LIKAYAK/2",
+    "LOWAS",
+    "MIGNEL SHULTZ",
+    "GERENDE",
+    "MARQUEZ",
+    "MANUEL VEGA Y SOCIO",
+    "FRANCISCO MAREAMEZ",
+    "JULIO RODRIGUEZ",
+    "MOKKY"
+  ],
+  "locations_mentioned": [
+    "Mexico"
+  ],
   "tags": [
     "RYBAT",
     "TYPICH",
@@ -20,25 +42,5 @@
     "FRANCISCO MAREAMEZ",
     "JULIO RODRIGUEZ",
     "MOKKY"
-  ],
-  "title": "MEXI",
-  "date": "2025-MM-DD",
-  "locations_mentioned": [
-    "Mexico"
-  ],
-  "origin_agency": "Director",
-  "persons_mentioned": [
-    "CTBAN",
-    "LIKAYAK/2",
-    "LOWAS",
-    "MIGNEL SHULTZ",
-    "GERENDE",
-    "MARQUEZ",
-    "MANUEL VEGA Y SOCIO",
-    "FRANCISCO MAREAMEZ",
-    "JULIO RODRIGUEZ",
-    "MOKKY"
-  ],
-  "recipient": "Unknown",
-  "sender": "Director"
+  ]
 }

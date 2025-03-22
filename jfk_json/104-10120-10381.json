@@ -1,30 +1,13 @@
 {
-  "classification": "John F. Kennedy Assassination Records Act of 1992",
-  "document_type": "List",
-  "security_level": "SECRET",
-  "summary": "This document lists personnel associated with the AEROOT and CAMBARO projects, including their names and functions.",
-  "tags": [
-    "AEROOT",
-    "CAMBARO",
-    "personnel",
-    "case officer",
-    "audio surveillance",
-    "photo instructor",
-    "assessment",
-    "commo officer",
-    "log officer",
-    "project officer",
-    "medical officer",
-    "firearms instructor",
-    "documents instructor",
-    "native consultant",
-    "SW instructor",
-    "photography",
-    "judo instructor",
-    "airborne training"
-  ],
   "title": "Personnel List for AEROOT and CAMBARO Projects",
+  "title_ja": "AEROOTおよびCAMBAROプロジェクト要員リスト",
+  "summary": "This document lists personnel associated with the AEROOT and CAMBARO projects, including their names and functions.",
+  "summary_ja": "この文書には、AEROOT および CAMBARO プロジェクトに関与する人員が、氏名と職務を含めて列挙されている。",
+  "document_type": "List",
+  "classification": "John F. Kennedy Assassination Records Act of 1992",
+  "security_level": "SECRET",
   "date": "1962-07-26",
+  "sender": "SEUALIT",
   "persons_mentioned": [
     "Charles P. DEXTER",
     "Bernard EDGECOMB",
@@ -46,5 +29,24 @@
     "Edward MASLOWSKY",
     "George MATECKO"
   ],
-  "sender": "SEUALIT"
+  "tags": [
+    "AEROOT",
+    "CAMBARO",
+    "personnel",
+    "case officer",
+    "audio surveillance",
+    "photo instructor",
+    "assessment",
+    "commo officer",
+    "log officer",
+    "project officer",
+    "medical officer",
+    "firearms instructor",
+    "documents instructor",
+    "native consultant",
+    "SW instructor",
+    "photography",
+    "judo instructor",
+    "airborne training"
+  ]
 }

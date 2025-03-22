@@ -1,8 +1,23 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Security Concurrence for John F. Rittenhouse Assignment to Mexico City",
+  "title_ja": "ジョン F. リトルハウス のメキシコシティへの配置に関する安全保障上の同意",
   "summary": "Security concurrence for converting John F. Rittenhouse's status from OPC Staff Employee to UPC Staff Agent for assignment to Mexico City as a GS-13 Intelligence Officer.",
+  "summary_ja": "ジョン・F・リトンハウスの地位をOPCスタッフ職員からUPCスタッフ捜査官に変更し、メキシコシティにGS-13情報担当官として配属することに対する保安上の同意。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1950-12-07",
+  "origin_agency": "CIA",
+  "sender": "Chief, Overseas Branch, Employees Division, SSS",
+  "recipient": "Chief, Special Security Branch",
+  "persons_mentioned": [
+    "John F. Rittenhouse",
+    "GEORGE P. PLOKER, JR.",
+    "J. S. Reff"
+  ],
+  "locations_mentioned": [
+    "Mexico City"
+  ],
   "tags": [
     "security concurrence",
     "OPC Staff Employee",
@@ -12,18 +27,5 @@
     "RITTENHOUSE, John F.",
     "conversion",
     "assignment"
-  ],
-  "title": "Security Concurrence for John F. Rittenhouse Assignment to Mexico City",
-  "date": "1950-12-07",
-  "locations_mentioned": [
-    "Mexico City"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Rittenhouse",
-    "GEORGE P. PLOKER, JR.",
-    "J. S. Reff"
-  ],
-  "recipient": "Chief, Special Security Branch",
-  "sender": "Chief, Overseas Branch, Employees Division, SSS"
+  ]
 }

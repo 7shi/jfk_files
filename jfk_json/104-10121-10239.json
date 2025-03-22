@@ -1,17 +1,14 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memo",
-  "security_level": "SECRET",
-  "summary": "Personnel records and employment details for Sara Sioux (Barnes) Gray and related individuals, including spouses, sons, and supervisors. Mentions dates of entry on duty (EOD) and security flags.",
-  "tags": [
-    "Personnel Records",
-    "Employment Details",
-    "Security Flag",
-    "Entry on Duty",
-    "GS Ratings"
-  ],
   "title": "Personnel Information for Sara Sioux (Barnes) Gray and Related Individuals",
+  "title_ja": "サラ・スー（バーンズ）・グレイおよび関連人物の個人情報",
+  "summary": "Personnel records and employment details for Sara Sioux (Barnes) Gray and related individuals, including spouses, sons, and supervisors. Mentions dates of entry on duty (EOD) and security flags.",
+  "summary_ja": "サラ・スー（バーンズ）・グレイおよび関連人物（配偶者、息子、上司を含む）の人事記録および雇用詳細。任務終了日（EOD）およびセキュリティ警告について言及している。",
+  "document_type": "Memo",
+  "classification": "Personnel",
+  "security_level": "SECRET",
   "date": "1962-09",
+  "sender": "SKII:lls/SOCHET",
+  "recipient": "CIA",
   "persons_mentioned": [
     "GRAY, Sara Sioux (Barnes)",
     "GRAY, John Franklin",
@@ -22,6 +19,11 @@
     "SHIVERS, Forrest",
     "VORITS, Donald George"
   ],
-  "recipient": "CIA",
-  "sender": "SKII:lls/SOCHET"
+  "tags": [
+    "Personnel Records",
+    "Employment Details",
+    "Security Flag",
+    "Entry on Duty",
+    "GS Ratings"
+  ]
 }

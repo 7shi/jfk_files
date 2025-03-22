@@ -1,8 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "KNGS 0202: Cuban Problem Coverage from Jamaica",
+  "title_ja": "KNGS 0202：ジャマイカからのキューバ問題に関する報道",
   "summary": "This cable discusses the possibility of extending coverage of the Cuban problem from Jamaica, but believes a delegation such as AMBUD whose presence overt would prove counterproductive. It also discusses the progress made in gaining covert support through RUABBE for CI effort against Cubans and requests HQS consider assignments proposed by COS.",
+  "summary_ja": "本電報は、ジャマイカからキューバ問題の報道範囲を拡大する可能性について論じているが、AMBUDのような代表団が公然と存在することは逆効果であると信じている。また、キューバ人に対するCI活動において、RUABBEを通じて秘密裏に支援を得るための進捗状況についても論じ、COSが提案した任務について、統合参謀本部が検討するよう要請している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-10-03",
+  "origin_agency": "CIA",
+  "sender": "COS",
+  "recipient": "DIR WAVE INFO",
+  "persons_mentioned": [
+    "BUSTAMANTE",
+    "DIAZ SILVEIRA"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Jamaica"
+  ],
   "tags": [
     "Jamaica",
     "AMBUD",
@@ -17,18 +32,5 @@
     "KUWOLF",
     "Haitian",
     "Dominican"
-  ],
-  "title": "KNGS 0202: Cuban Problem Coverage from Jamaica",
-  "date": "1962-10-03",
-  "locations_mentioned": [
-    "Cuba",
-    "Jamaica"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "BUSTAMANTE",
-    "DIAZ SILVEIRA"
-  ],
-  "recipient": "DIR WAVE INFO",
-  "sender": "COS"
+  ]
 }

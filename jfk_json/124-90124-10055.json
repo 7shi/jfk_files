@@ -1,39 +1,15 @@
 {
-  "classification": "JFK Assassination System",
-  "document_type": "MEMO",
-  "security_level": "SECRET",
-  "summary": "This document discusses investigations by the CIA and U.S. Army Attache in Managua, Nicaragua, and Guatemala City, Guatemala, regarding Manuel Fuego, Mitchell Livingston Werbell, and associated activities. It mentions contacts with Noel Pallais, General Anastasio Somoza, Lucy Luchien, and Arthur L. Smith. The document also details surveillance and telephone conversations monitored by the Judicial Police in Guatemala.",
-  "tags": [
-    "Manuel Fuego",
-    "Mitchell Livingston Werbell",
-    "CIA",
-    "Managua",
-    "Nicaragua",
-    "Guatemala City",
-    "Guatemala",
-    "U.S. Army Attache",
-    "Noel Pallais",
-    "General Anastasio Somoza",
-    "Lucy Luchien",
-    "Arthur L. Smith",
-    "Judicial Police",
-    "Telephone Surveillance",
-    "Mario Garcia Kohly",
-    "Frank Austin",
-    "Jose Luiz Aguilar Leon",
-    "Jose Pineiro Paez"
-  ],
   "title": "CR 97-3224-NR",
+  "title_ja": "CR 97-3224-NR",
+  "summary": "This document discusses investigations by the CIA and U.S. Army Attache in Managua, Nicaragua, and Guatemala City, Guatemala, regarding Manuel Fuego, Mitchell Livingston Werbell, and associated activities. It mentions contacts with Noel Pallais, General Anastasio Somoza, Lucy Luchien, and Arthur L. Smith. The document also details surveillance and telephone conversations monitored by the Judicial Police in Guatemala.",
+  "summary_ja": "この文書は、マヌエル・フエゴ、ミッチェル・リヴィングストン・ウェルベル、および関連する活動に関する、ニカラグアのマナグアおよびグアテマラシティのCIAおよび米陸軍アタッシェによる調査について述べている。ノエル・パレ、アナスタシオ・ソモサ将軍、ルーシー・ルシェン、アーサー・L・スミスとの接触についても言及している。また、グアテマラの司法警察による監視および電話の会話の傍受についても詳細に述べている。",
+  "document_type": "MEMO",
+  "classification": "JFK Assassination System",
+  "security_level": "SECRET",
   "date": "1962-10-11",
-  "locations_mentioned": [
-    "Managua, Nicaragua",
-    "Guatemala City, Guatemala",
-    "Washington, D.C.",
-    "Miami, Florida",
-    "Costa Rica",
-    "San Salvador, El Salvador"
-  ],
   "origin_agency": "FBI",
+  "sender": "MX",
+  "recipient": "HQ",
   "persons_mentioned": [
     "MANUEL FUEGO",
     "MITCHELL LIVINGSTON WERBELL",
@@ -55,6 +31,32 @@
     "JOSE PINEIRO PAEZ",
     "LUIS SOMOZA"
   ],
-  "recipient": "HQ",
-  "sender": "MX"
+  "locations_mentioned": [
+    "Managua, Nicaragua",
+    "Guatemala City, Guatemala",
+    "Washington, D.C.",
+    "Miami, Florida",
+    "Costa Rica",
+    "San Salvador, El Salvador"
+  ],
+  "tags": [
+    "Manuel Fuego",
+    "Mitchell Livingston Werbell",
+    "CIA",
+    "Managua",
+    "Nicaragua",
+    "Guatemala City",
+    "Guatemala",
+    "U.S. Army Attache",
+    "Noel Pallais",
+    "General Anastasio Somoza",
+    "Lucy Luchien",
+    "Arthur L. Smith",
+    "Judicial Police",
+    "Telephone Surveillance",
+    "Mario Garcia Kohly",
+    "Frank Austin",
+    "Jose Luiz Aguilar Leon",
+    "Jose Pineiro Paez"
+  ]
 }

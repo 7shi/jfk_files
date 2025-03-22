@@ -1,19 +1,22 @@
 {
-  "classification": "Cuba",
-  "document_type": "Telegram Information Report",
-  "security_level": "SECRET",
-  "summary": "Antonio Varona of the Cuban Revolutionary Council seeks support from President Chiari of Panama to overthrow the Castro regime, but Panama denies the request to establish a training base for Cuban exiles.",
-  "tags": [
-    "Cuban Revolutionary Council",
-    "Antonio Varona",
-    "President Chiari",
-    "Panama",
-    "Castro Regime",
-    "Cuban Exiles",
-    "Training Base"
-  ],
   "title": "ATTEMPT OF ANTONIO VARONA, OF CUBAN REVOLUTIONARY COUNCIL, TO OBTAIN SUPPORT OF PRESIDENT CHIARI OF PANAMA IN ACTION TO OVERTHROW CASTRO REGIME",
+  "title_ja": "キューバ革命評議会のANTONIO VARONAによる、カストロ政権打倒を目的とした行動におけるパナマ大統領CHIARIの支持獲得の試み",
+  "summary": "Antonio Varona of the Cuban Revolutionary Council seeks support from President Chiari of Panama to overthrow the Castro regime, but Panama denies the request to establish a training base for Cuban exiles.",
+  "summary_ja": "キューバ革命評議会のアントニオ・バロナは、カストロ政権を転覆させるためにパナマのチアリ大統領に支援を求めているが、パナマはキューバ亡命者の訓練基地設置の要請を拒否している。",
+  "document_type": "Telegram Information Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-08-24",
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "sender": "C/TFWIntel",
+  "recipient": "TFW/R2 TFW PA-PROP 2 WH/PACY 1 TFW/INT 2 TFW/WAVE 1 WH/3/CR 1 TFW/FI 2 TFW/SI1 1 WH/3/P2 1 TFW/CI 2 1 TFW/PM1OS/SSD/Bauman",
+  "persons_mentioned": [
+    "ANTONIO VARONA LOREDO",
+    "ROBERTO CHIARI",
+    "KENNEDY",
+    "MARCOS ROBLES",
+    "JOSE MIRO CARDONA"
+  ],
   "locations_mentioned": [
     "CUBA",
     "PANAMA",
@@ -22,14 +25,13 @@
     "COSTA RICA",
     "MIAMI"
   ],
-  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
-  "persons_mentioned": [
-    "ANTONIO VARONA LOREDO",
-    "ROBERTO CHIARI",
-    "KENNEDY",
-    "MARCOS ROBLES",
-    "JOSE MIRO CARDONA"
-  ],
-  "recipient": "TFW/R2 TFW PA-PROP 2 WH/PACY 1 TFW/INT 2 TFW/WAVE 1 WH/3/CR 1 TFW/FI 2 TFW/SI1 1 WH/3/P2 1 TFW/CI 2 1 TFW/PM1OS/SSD/Bauman",
-  "sender": "C/TFWIntel"
+  "tags": [
+    "Cuban Revolutionary Council",
+    "Antonio Varona",
+    "President Chiari",
+    "Panama",
+    "Castro Regime",
+    "Cuban Exiles",
+    "Training Base"
+  ]
 }

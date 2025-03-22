@@ -1,8 +1,30 @@
 {
-  "classification": "Soviet",
-  "document_type": "Telegram",
-  "security_level": "SECRET",
+  "title": "CIA Information Telegram: Comments of Yugoslav and Bloc Diplomats on the Probable Effect of Kennedy Assassination on East-West Relations",
+  "title_ja": "CIA情報電報：ケネディ暗殺が東西関係に及ぼすであろう影響に関するユーゴスラビアおよび東側諸国の外交官のコメント",
   "summary": "This telegram discusses the reactions of Yugoslavian and Soviet Bloc diplomats to President Kennedy's assassination and the potential impact on East-West relations. Diplomats express concerns about the future of US-Soviet relations, the strength of right-wing elements in the US, and the potential slowing of improved relations.",
+  "summary_ja": "この電報は、ケネディ大統領暗殺に対するユーゴスラビアおよびソ連圏の外交官たちの反応と、東西関係への潜在的な影響について論じている。外交官たちは、米ソ関係の将来、米国における右翼勢力の強さ、および関係改善の鈍化の可能性について懸念を表明している。",
+  "document_type": "Telegram",
+  "classification": "Soviet",
+  "security_level": "SECRET",
+  "date": "1963-12-00",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Peko Dapcevic",
+    "Vaklav Svestka",
+    "Vitaliy Novikov",
+    "Mircea Balanescu",
+    "Johnson"
+  ],
+  "locations_mentioned": [
+    "Soviet Bloc",
+    "Yugoslavia",
+    "Greece",
+    "Athens",
+    "United States"
+  ],
   "tags": [
     "Kennedy Assassination",
     "Soviet Bloc",
@@ -14,25 +36,5 @@
     "Soviet Union",
     "Czechoslovakia",
     "Romania"
-  ],
-  "title": "CIA Information Telegram: Comments of Yugoslav and Bloc Diplomats on the Probable Effect of Kennedy Assassination on East-West Relations",
-  "date": "1963-12-00",
-  "locations_mentioned": [
-    "Soviet Bloc",
-    "Yugoslavia",
-    "Greece",
-    "Athens",
-    "United States"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Peko Dapcevic",
-    "Vaklav Svestka",
-    "Vitaliy Novikov",
-    "Mircea Balanescu",
-    "Johnson"
-  ],
-  "recipient": "N/A",
-  "sender": "CIA"
+  ]
 }

@@ -1,26 +1,28 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Owner of Auto Bearing California License HW 810 (How Mexican Diplomatic Plates D-136)",
+  "title_ja": "オート・ベアリングの所有者カリフォルニア州ライセンスHW 810（メキシコの外交ナンバープレートD-136について）",
   "summary": "Memorandum regarding the owner of a vehicle bearing California license HW 810, possibly displaying Mexican diplomatic plates D-136, which is registered to Camilo Domenech Gadea, former Commercial Counselor of the Cuban Embassy, and still used by the Cuban Embassy.",
+  "summary_ja": "カリフォルニア州のナンバープレートHW 810を付けた車の所有者のメモ。このナンバープレートは、メキシコの外交ナンバープレートD-136である可能性があり、このナンバープレートは、カミーロ・ドメネク・ガデア（キューバ大使館の前商務参事官）が登録し、現在もキューバ大使館が使用している。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1965-08-03",
+  "origin_agency": "Originating Office in Mexico City",
+  "sender": "Originating Office in Mexico City",
+  "recipient": "Legal Attache",
+  "persons_mentioned": [
+    "Camilo Domenech Gadea"
+  ],
+  "locations_mentioned": [
+    "California",
+    "Cuba",
+    "Mexico City"
+  ],
   "tags": [
     "Cuban Embassy",
     "Camilo Domenech Gadea",
     "Mexican Diplomatic Plates",
     "Vehicle",
     "Surveillance"
-  ],
-  "title": "Owner of Auto Bearing California License HW 810 (How Mexican Diplomatic Plates D-136)",
-  "date": "1965-08-03",
-  "locations_mentioned": [
-    "California",
-    "Cuba",
-    "Mexico City"
-  ],
-  "origin_agency": "Originating Office in Mexico City",
-  "persons_mentioned": [
-    "Camilo Domenech Gadea"
-  ],
-  "recipient": "Legal Attache",
-  "sender": "Originating Office in Mexico City"
+  ]
 }

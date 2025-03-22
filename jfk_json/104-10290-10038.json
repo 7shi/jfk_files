@@ -1,8 +1,31 @@
 {
-  "classification": "Mexico",
-  "document_type": "Report",
-  "security_level": "UNCLASSIFIED",
+  "title": "Information on Individuals in Mexico City",
+  "title_ja": "メキシコシティの個人に関する情報",
   "summary": "This document contains information on FERNANDO PALKUZUKIA, MARIA FRANCISCA CRESPO FALCON, and HOWARD ANDERSON in Mexico City. It includes personal details such as date and place of birth, physical descriptions, passport numbers, and addresses. The document also lists various codes and initials such as RIDAT TIPIC, DIR 86283, SAS/SEC: MKH or G, ΙΛΙ/3/ΜΕΧΙ, C/WH/3, C/WMD, and references to EASING OFFICER, SACREA, and DESMOND FITZGERALD.",
+  "summary_ja": "この文書には、メキシコシティのFERNANDO PALKUZUKIA、MARIA FRANCISCA CRESPO FALCON、HOWARD ANDERSONに関する情報が記載されている。これには、出生日や出生地、身体的特徴、パスポート番号、住所などの個人情報が含まれる。また、この文書には、RIDAT TIPIC、DIR 86283、SAS/SEC: MKH または G、ΙΛΙ/3/ΜΕΧΙ、C/WH/3、C/WMD、EASING OFFICER、SACREA、DESMOND FITZGERALD などのさまざまなコードや頭文字も記載されている。",
+  "document_type": "Report",
+  "classification": "Mexico",
+  "security_level": "UNCLASSIFIED",
+  "date": "2025",
+  "origin_agency": "Unknown",
+  "sender": "C/SAS",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "FERNANDO PALKUZUKIA",
+    "MARIA FRANCISCA CRESPO FALCON",
+    "HOWARD ANDERSON",
+    "NATZO",
+    "JOSEFA",
+    "ARTURO",
+    "JOSEFINA",
+    "DESMOND FITZGERALD"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "ARTEMISA, PINAR DEL RIO, CUBA",
+    "HARIANAO, CUBA",
+    "GUIRA DE MELENA, GAZANA, CUBA"
+  ],
   "tags": [
     "MEXICO CITY",
     "FERNANDO PALKUZUKIA",
@@ -17,26 +40,5 @@
     "EASING OFFICER",
     "SACREA",
     "DESMOND FITZGERALD"
-  ],
-  "title": "Information on Individuals in Mexico City",
-  "date": "2025",
-  "locations_mentioned": [
-    "MEXICO CITY",
-    "ARTEMISA, PINAR DEL RIO, CUBA",
-    "HARIANAO, CUBA",
-    "GUIRA DE MELENA, GAZANA, CUBA"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "FERNANDO PALKUZUKIA",
-    "MARIA FRANCISCA CRESPO FALCON",
-    "HOWARD ANDERSON",
-    "NATZO",
-    "JOSEFA",
-    "ARTURO",
-    "JOSEFINA",
-    "DESMOND FITZGERALD"
-  ],
-  "recipient": "Unknown",
-  "sender": "C/SAS"
+  ]
 }

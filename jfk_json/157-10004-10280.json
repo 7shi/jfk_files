@@ -1,8 +1,24 @@
 {
-  "classification": "JFK Assassination",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "ROBERT MAHEU'S TRANSPORTATION OF PROSTITUTES",
+  "title_ja": "ロバート・マホーの売春婦移送",
   "summary": "This document discusses Robert Maheu's alleged transportation of prostitutes for a foreign leader and wiretapping activities. It also mentions potential blackmail attempts against the U.S. government.",
+  "summary_ja": "この文書は、ロバート・マウが外国指導者のために売春婦を移送したとされる件と、盗聴活動について述べている。また、米国政府に対する恐喝の可能性についても言及している。",
+  "document_type": "Cable",
+  "classification": "JFK Assassination",
+  "security_level": "SECRET",
+  "date": "1957-10-10",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "DIRECTOR, CIA",
+  "persons_mentioned": [
+    "Robert Maheu",
+    "John Joseph Frank",
+    "Onassis"
+  ],
+  "locations_mentioned": [
+    "U. S.",
+    "CIUDAD TRUJILLO"
+  ],
   "tags": [
     "MAHEU, ROBERT",
     "ROBERT A. MAHEU AND ASSOCIATES (RAMA)",
@@ -13,19 +29,5 @@
     "Onassis Shipping Co",
     "Blackmail",
     "John Joseph Frank"
-  ],
-  "title": "ROBERT MAHEU'S TRANSPORTATION OF PROSTITUTES",
-  "date": "1957-10-10",
-  "locations_mentioned": [
-    "U. S.",
-    "CIUDAD TRUJILLO"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Robert Maheu",
-    "John Joseph Frank",
-    "Onassis"
-  ],
-  "recipient": "DIRECTOR, CIA",
-  "sender": "CIA"
+  ]
 }

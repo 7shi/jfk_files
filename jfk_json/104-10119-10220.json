@@ -1,8 +1,25 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "LOPEZ, Henry P. (201-253203)",
+  "title_ja": "ロペス、ヘンリー・P. (201-253203)",
   "summary": "This memorandum provides information on Henry P. Lopez (201-253203) in response to a previous request. It details his activities in Mexico City as an asset of Station Mexico City, his subsequent relocation to New York City, and his employment as a legal consultant to WUSALINE, a WOPLAY proprietary company.",
+  "summary_ja": "この覚書は、以前の要請に応えてヘンリー・P・ロペス（201-253203）に関する情報を提供するものである。メキシコシティのステーションのエージェントとしてのメキシコシティにおける彼の活動、それに続くニューヨークへの転居、WOPLAYの所有会社であるWUSALINEの合法コンサルタントとしての雇用について詳細に記載されている。",
+  "document_type": "Memorandum",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1968-06-27",
+  "origin_agency": "CI/OA",
+  "sender": "Richard F. Long",
+  "recipient": "C/CI/OA",
+  "persons_mentioned": [
+    "Henry P. Lopez",
+    "Richard F. Long"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Central America",
+    "Latin America",
+    "New York City"
+  ],
   "tags": [
     "Henry P. Lopez",
     "Mexico City",
@@ -10,20 +27,5 @@
     "WOPLAY",
     "Asset",
     "Legal Consultant"
-  ],
-  "title": "LOPEZ, Henry P. (201-253203)",
-  "date": "1968-06-27",
-  "locations_mentioned": [
-    "Mexico City",
-    "Central America",
-    "Latin America",
-    "New York City"
-  ],
-  "origin_agency": "CI/OA",
-  "persons_mentioned": [
-    "Henry P. Lopez",
-    "Richard F. Long"
-  ],
-  "recipient": "C/CI/OA",
-  "sender": "Richard F. Long"
+  ]
 }

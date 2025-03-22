@@ -1,23 +1,15 @@
 {
-  "classification": "Military/Political Affairs",
-  "document_type": "Telegram",
-  "security_level": "SECRET",
-  "summary": "This document discusses a potential coup d'etat being planned by Ngo Dinh Nhu against the Diem government in South Vietnam in July 1963. Nhu is reportedly seeking support from army generals and believes a swift, overnight coup is necessary. The document also mentions concerns about the influence of Buddhist leaders and the need for immediate action given the upcoming arrival of a new US ambassador.",
-  "tags": [
-    "coup d'etat",
-    "Ngo Dinh Nhu",
-    "South Vietnam",
-    "Diem government",
-    "army generals",
-    "Buddhist leaders"
-  ],
   "title": "CIA Information Telegram: Coup D'Etat Plan of Ngo Dinh Nhu",
+  "title_ja": "CIA情報電報：グエン・ディン・ジュのクーデター計画",
+  "summary": "This document discusses a potential coup d'etat being planned by Ngo Dinh Nhu against the Diem government in South Vietnam in July 1963. Nhu is reportedly seeking support from army generals and believes a swift, overnight coup is necessary. The document also mentions concerns about the influence of Buddhist leaders and the need for immediate action given the upcoming arrival of a new US ambassador.",
+  "summary_ja": "この文書は、1963年7月に南ベトナムのディエム政権に対して、ゴ・ディン・ニュウが計画している可能性のあるクーデターについて論じている。ニュウは陸軍将校たちから支持を集めていると伝えられており、迅速な一晩限りのクーデターが必要だと考えている。この文書はまた、仏教指導者の影響力に対する懸念と、米国の新駐在大使の到着を控え、早急な対応が必要であることも述べている。",
+  "document_type": "Telegram",
+  "classification": "Military/Political Affairs",
+  "security_level": "SECRET",
   "date": "1963-07-12",
-  "locations_mentioned": [
-    "South Vietnam",
-    "Saigon"
-  ],
   "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "DIRNSA, STATE",
   "persons_mentioned": [
     "Ngo Dinh Nhu",
     "Nguyen Ngoc Le",
@@ -30,6 +22,16 @@
     "Duong Van Minh",
     "Tran Van Don"
   ],
-  "recipient": "DIRNSA, STATE",
-  "sender": ""
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "tags": [
+    "coup d'etat",
+    "Ngo Dinh Nhu",
+    "South Vietnam",
+    "Diem government",
+    "army generals",
+    "Buddhist leaders"
+  ]
 }

@@ -1,22 +1,28 @@
 {
-  "classification": "Liaison",
-  "document_type": "Report",
-  "security_level": "SECRET",
-  "summary": "Report on Antonio RODRIGUES Echanabal. Includes biographical information, diplomatic postings, and defection from the Cuban government. Requests debriefing results from French authorities.",
-  "tags": [
-    "Antonio RODRIGUES Echanabal",
-    "Cuba",
-    "Defection",
-    "Diplomacy",
-    "Haiti",
-    "Guatemala",
-    "Pakistan",
-    "France",
-    "Martinique",
-    "UNION"
-  ],
   "title": "Report on Antonio RODRIGUES Echanabal",
+  "title_ja": "アントニオ・ロドリゲス・エチャナバルに関する報告書",
+  "summary": "Report on Antonio RODRIGUES Echanabal. Includes biographical information, diplomatic postings, and defection from the Cuban government. Requests debriefing results from French authorities.",
+  "summary_ja": "Antonio RODRIGUES Echanabalに関する報告書。経歴、外交任地、キューバ政府からの亡命に関する情報を含む。フランス当局からの報告結果を要請。",
+  "document_type": "Report",
+  "classification": "Liaison",
+  "security_level": "SECRET",
   "date": "1962-02-05",
+  "origin_agency": "MB",
+  "sender": "Chief, MB",
+  "recipient": "Chief of Station, Paris",
+  "persons_mentioned": [
+    "Antonio RODRIGUES Echanabal",
+    "Edith JONES",
+    "Antonio RODRIGUEZ Jones",
+    "Yvonne JONES",
+    "Castro",
+    "Batista",
+    "Duvalier",
+    "Trujillo",
+    "M. de Vosjell",
+    "MORIDER F. BINGHAM",
+    "Anne Silbert"
+  ],
   "locations_mentioned": [
     "Paris",
     "Cuba",
@@ -31,20 +37,16 @@
     "France",
     "Martinique"
   ],
-  "origin_agency": "MB",
-  "persons_mentioned": [
+  "tags": [
     "Antonio RODRIGUES Echanabal",
-    "Edith JONES",
-    "Antonio RODRIGUEZ Jones",
-    "Yvonne JONES",
-    "Castro",
-    "Batista",
-    "Duvalier",
-    "Trujillo",
-    "M. de Vosjell",
-    "MORIDER F. BINGHAM",
-    "Anne Silbert"
-  ],
-  "recipient": "Chief of Station, Paris",
-  "sender": "Chief, MB"
+    "Cuba",
+    "Defection",
+    "Diplomacy",
+    "Haiti",
+    "Guatemala",
+    "Pakistan",
+    "France",
+    "Martinique",
+    "UNION"
+  ]
 }

@@ -1,8 +1,25 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "Report on Court Wood's activities and plans to travel to Cuba",
+  "title_ja": "コート・ウッドの活動およびキューバへの渡航計画に関する報告書",
   "summary": "Trial Stratton reports on conversations with Court Wood, who is planning to travel to Cuba and is involved with the '26th of July Movement.' Wood is described as an extreme leftist with communist sympathies.",
+  "summary_ja": "トライアル・ストラットンは、キューバへの渡航を計画しており、「7月26日運動」に関与しているコート・ウッドとの会話について報告している。ウッドは共産主義に共感する極左派であると描写されている。",
+  "document_type": "Memo",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
+  "date": "1961-03-18",
+  "origin_agency": "WH/4/Security",
+  "sender": "Trial Stratton",
+  "recipient": "Mr. Jack Kennedy",
+  "persons_mentioned": [
+    "Jack Kennedy",
+    "Cours Wood",
+    "Fidel Castro",
+    "Trial Stratton"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Englend"
+  ],
   "tags": [
     "Communism",
     "Cuba",
@@ -11,20 +28,5 @@
     "26th of July Movement",
     "Leftist",
     "Political views"
-  ],
-  "title": "Report on Court Wood's activities and plans to travel to Cuba",
-  "date": "1961-03-18",
-  "locations_mentioned": [
-    "Cuba",
-    "Englend"
-  ],
-  "origin_agency": "WH/4/Security",
-  "persons_mentioned": [
-    "Jack Kennedy",
-    "Cours Wood",
-    "Fidel Castro",
-    "Trial Stratton"
-  ],
-  "recipient": "Mr. Jack Kennedy",
-  "sender": "Trial Stratton"
+  ]
 }

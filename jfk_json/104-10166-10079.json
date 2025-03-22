@@ -1,8 +1,20 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "Letters Received by AMCORE-2",
+  "title_ja": "AMCORE-2 が受け取った手紙",
   "summary": "This dispatch from February 21, 1963, discusses the potential for establishing contact with AMCORE-2's source to enhance the usefulness of diverted items and possibly eliminate AMCORE-2's role. It requests JIGAVE to identify AMCORE-2's source and explore contact methods.",
+  "summary_ja": "1963年2月21日付のこの報告書では、転用された物品の有用性を高め、ひいてはAMCORE-2の役割を排除するために、AMCORE-2の供給元と接触する可能性について論じている。JIGAVEにAMCORE-2の供給元を特定し、接触方法を模索するよう要請している。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-02-21",
+  "origin_agency": "CIA",
+  "sender": "Chief, Special Affairs Staff",
+  "recipient": "Chief of Station, JIGAVE",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Seymour R. Bolten"
+  ],
+  "locations_mentioned": [],
   "tags": [
     "AMCORE-2",
     "source",
@@ -11,15 +23,5 @@
     "JIGAVE",
     "UFOT 3613",
     "UFOT 2737"
-  ],
-  "title": "Letters Received by AMCORE-2",
-  "date": "1963-02-21",
-  "locations_mentioned": [],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Seymour R. Bolten"
-  ],
-  "recipient": "Chief of Station, JIGAVE",
-  "sender": "Chief, Special Affairs Staff"
+  ]
 }

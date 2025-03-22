@@ -1,26 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "Dispatch from London Station regarding a list of identified and suspect Cuban intelligence officers compiled from SMOTE records. Requests clearance to distribute the study to friendly Latin American and Western European liaison services and ODENVY.",
-  "tags": [
-    "Intelligence",
-    "Cuban",
-    "SMOTE",
-    "KUBARI",
-    "Liaison",
-    "ODENVY"
-  ],
   "title": "KEYWAY/PBRUHEX/SMOTE 01 Cuban Identified and suspect Intelligence",
+  "title_ja": "KEYWAY/PBRUHEX/SMOTE 01 キューバが特定した容疑者情報",
+  "summary": "Dispatch from London Station regarding a list of identified and suspect Cuban intelligence officers compiled from SMOTE records. Requests clearance to distribute the study to friendly Latin American and Western European liaison services and ODENVY.",
+  "summary_ja": "SMOTEの記録から作成されたキューバ情報局の職員の身元が判明している者および容疑者のリストに関するロンドン支局からの報告。この調査を友好関係にあるラテンアメリカおよび西ヨーロッパの連絡サービスおよびODENVYに配布する許可を要請。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-12-28",
-  "locations_mentioned": [
-    "London",
-    "Latin America",
-    "Western Europe",
-    "Mexico",
-    "Havana"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief of Station, London",
+  "recipient": "Chief, WE",
   "persons_mentioned": [
     "VEGA Perez",
     "VALDES VALDES, Ramon",
@@ -30,6 +19,19 @@
     "DORTICOS",
     "LAVRENCE L. NOLDY"
   ],
-  "recipient": "Chief, WE",
-  "sender": "Chief of Station, London"
+  "locations_mentioned": [
+    "London",
+    "Latin America",
+    "Western Europe",
+    "Mexico",
+    "Havana"
+  ],
+  "tags": [
+    "Intelligence",
+    "Cuban",
+    "SMOTE",
+    "KUBARI",
+    "Liaison",
+    "ODENVY"
+  ]
 }

@@ -1,8 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "STATEMENTS OF MANOLO RAY",
+  "title_ja": "マノーロ・レイの供述書",
   "summary": "This cable discusses statements of Manolo Ray, with the DOI (Date of Information) being October 1961. The information comes from an official British service source with good contacts among exiles in Caracas. No separate cable distribution is being made of the TDCS.",
+  "summary_ja": "この電報はマノロ・レイの発言について述べている。情報日付（DOI）は1961年10月である。この情報は、カラカスに亡命した人々とのつながりが深い英国の公式情報筋から得たものである。TDCSの電報は別途配布されていない。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1961-10-24",
+  "origin_agency": "CIA",
+  "sender": "[LONDON] 15-1",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "Manolo Ray"
+  ],
+  "locations_mentioned": [
+    "England",
+    "London",
+    "Caracas"
+  ],
   "tags": [
     "Manolo Ray",
     "Exiles",
@@ -10,18 +25,5 @@
     "British Service",
     "TDCS",
     "OEL-30,995"
-  ],
-  "title": "STATEMENTS OF MANOLO RAY",
-  "date": "1961-10-24",
-  "locations_mentioned": [
-    "England",
-    "London",
-    "Caracas"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Manolo Ray"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "[LONDON] 15-1"
+  ]
 }

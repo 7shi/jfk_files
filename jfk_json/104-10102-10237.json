@@ -1,33 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "Operational review and progress report on Project AMTRUNK, including strengths, weaknesses, and recommendations for continuation or termination.",
-  "tags": [
-    "AMTRUNK",
-    "Operational Review",
-    "Agent Handling",
-    "Infiltration",
-    "Cuba",
-    "Counter-Revolutionary Activities"
-  ],
   "title": "Operational/TYPIC/AMTRUNK Project AMTRUNK Operational Review",
+  "title_ja": "作戦/TYPIC/AMTRUNK プロジェクトAMTRUNK 運用評価",
+  "summary": "Operational review and progress report on Project AMTRUNK, including strengths, weaknesses, and recommendations for continuation or termination.",
+  "summary_ja": "プロジェクトAMTRUNKに関する運用評価および進捗報告書。長所、短所、継続または終了に関する推奨事項を含む。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1963-04-15",
-  "locations_mentioned": [
-    "Cuba",
-    "Havana",
-    "Plantation Key",
-    "Cinco Leguas Key",
-    "Casualidad",
-    "Marti",
-    "Cardenas",
-    "Guanabo Beach",
-    "Sierra del Arzobispo",
-    "Galera",
-    "Oriente Province",
-    "Miami"
-  ],
   "origin_agency": "JMWAVE Station",
+  "sender": "Chief of Station, JMWAVE",
+  "recipient": "Chief, Special Affairs Staff",
   "persons_mentioned": [
     "John F. Kennedy",
     "Eloy Gutierrez Menoyo",
@@ -54,6 +36,26 @@
     "Lester RODRIGUEZ",
     "Raul Castro"
   ],
-  "recipient": "Chief, Special Affairs Staff",
-  "sender": "Chief of Station, JMWAVE"
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Plantation Key",
+    "Cinco Leguas Key",
+    "Casualidad",
+    "Marti",
+    "Cardenas",
+    "Guanabo Beach",
+    "Sierra del Arzobispo",
+    "Galera",
+    "Oriente Province",
+    "Miami"
+  ],
+  "tags": [
+    "AMTRUNK",
+    "Operational Review",
+    "Agent Handling",
+    "Infiltration",
+    "Cuba",
+    "Counter-Revolutionary Activities"
+  ]
 }

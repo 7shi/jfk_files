@@ -1,22 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "Dispatch",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This dispatch concerns Tabe Maria Ingeborg SLIOOR (201-765030) and her immigrant visa application. She was interviewed and granted a visa after being questioned about Soviet contacts. The dispatch includes VALIK traces, a copy of her visa, birth record, and marriage certificate.",
-  "tags": [
-    "Immigrant Visa",
-    "Soviet Contacts",
-    "VALIK Traces",
-    "Visa Application"
-  ],
   "title": "REDCOAT/LCIMPROVE/AELADLE Tabe Maria Ingeborg SLIOOR (201-765030)",
+  "title_ja": "REDCOAT/LCIMPROVE/AELADLE Tabe Maria Ingeborg SLIOOR (201-765030)",
+  "summary": "This dispatch concerns Tabe Maria Ingeborg SLIOOR (201-765030) and her immigrant visa application. She was interviewed and granted a visa after being questioned about Soviet contacts. The dispatch includes VALIK traces, a copy of her visa, birth record, and marriage certificate.",
+  "summary_ja": "この報告書は、タベ・マリア・インゲボルグ・スリオール（201-765030）と彼女の移民ビザ申請に関するものである。彼女はソ連との接触について質問された後、面接を受け、ビザが発給された。この報告書には、VALIKの痕跡、彼女のビザのコピー、出生記録、婚姻証明書が含まれている。",
+  "document_type": "Dispatch",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
   "date": "1965-07-14",
-  "locations_mentioned": [
-    "Helsinki",
-    "Fort Hood, Texas",
-    "Moscow"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief of Station, Helsinki",
+  "recipient": "Chief, WE; Chief, SR",
   "persons_mentioned": [
     "Tabe Maria Ingeborg SLIOOR",
     "Clastonbury",
@@ -25,6 +18,15 @@
     "Georgi STEINING",
     "John F. Kennedy"
   ],
-  "recipient": "Chief, WE; Chief, SR",
-  "sender": "Chief of Station, Helsinki"
+  "locations_mentioned": [
+    "Helsinki",
+    "Fort Hood, Texas",
+    "Moscow"
+  ],
+  "tags": [
+    "Immigrant Visa",
+    "Soviet Contacts",
+    "VALIK Traces",
+    "Visa Application"
+  ]
 }

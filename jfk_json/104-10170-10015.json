@@ -1,24 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Letter",
-  "security_level": "Unclassified",
-  "summary": "This letter discusses the financial situation and needs of individuals and families associated with political prisoners in Cuba. It details the distribution of funds, difficulties in obtaining food, and other challenges faced by those affected.",
-  "tags": [
-    "financial aid",
-    "political prisoners",
-    "food shortages",
-    "family support",
-    "Cuba"
-  ],
   "title": "Letter regarding financial aid for families of political prisoners",
+  "title_ja": "政治犯の家族への経済支援に関する書簡",
+  "summary": "This letter discusses the financial situation and needs of individuals and families associated with political prisoners in Cuba. It details the distribution of funds, difficulties in obtaining food, and other challenges faced by those affected.",
+  "summary_ja": "この書簡では、キューバの政治犯と関連のある個人および家族の財政状況とニーズについて論じている。資金分配の詳細、食料の入手の難しさ、影響を受けた人々が直面するその他の課題について述べている。",
+  "document_type": "Letter",
+  "classification": "Cuba",
+  "security_level": "Unclassified",
   "date": "1962-11-23",
-  "locations_mentioned": [
-    "La Habana",
-    "Jaruco",
-    "San Severino",
-    "Pinar del Río"
-  ],
   "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
   "persons_mentioned": [
     "Sra. de Montoya",
     "Suit",
@@ -29,6 +20,17 @@
     "Juanoce",
     "Luis"
   ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  "locations_mentioned": [
+    "La Habana",
+    "Jaruco",
+    "San Severino",
+    "Pinar del Río"
+  ],
+  "tags": [
+    "financial aid",
+    "political prisoners",
+    "food shortages",
+    "family support",
+    "Cuba"
+  ]
 }

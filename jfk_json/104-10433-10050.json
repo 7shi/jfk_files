@@ -1,26 +1,28 @@
 {
-  "classification": "Administrative",
-  "document_type": "Dispatch",
-  "security_level": "CONFIDENTIAL",
+  "title": "Transmittal of Memo to Legal Attache Regarding Martin Luther King, Jr.",
+  "title_ja": "マーティン・ルーサー・キング・ジュニアに関する法務官へのメモの送付",
   "summary": "This dispatch transmits a memo to the Legal Attache in response to an inquiry about Martin Luther King, Jr.'s activities in Oslo and Norway. It confirms that they have no information about King's past or future visits and acknowledges the desire for confidentiality regarding their interest in King.",
+  "summary_ja": "この通信は、オスロとノルウェーにおけるマーティン・ルーサー・キング・ジュニアの活動に関する問い合わせに応える形で、法務官にメモを送信している。キング牧師の過去および将来の訪問に関する情報は一切持っていないことを確認し、キング牧師への関心について機密性を求める要望を認める内容となっている。",
+  "document_type": "Dispatch",
+  "classification": "Administrative",
+  "security_level": "CONFIDENTIAL",
+  "date": "1966-03-30",
+  "origin_agency": "CIA",
+  "sender": "Chief",
+  "recipient": "Chief of Station, London",
+  "persons_mentioned": [
+    "Martin Luther King, Jr.",
+    "John F. Kennedy"
+  ],
+  "locations_mentioned": [
+    "Oslo",
+    "Norway"
+  ],
   "tags": [
     "Martin Luther King, Jr.",
     "Legal Attache",
     "Oslo",
     "Norway",
     "FBI"
-  ],
-  "title": "Transmittal of Memo to Legal Attache Regarding Martin Luther King, Jr.",
-  "date": "1966-03-30",
-  "locations_mentioned": [
-    "Oslo",
-    "Norway"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Martin Luther King, Jr.",
-    "John F. Kennedy"
-  ],
-  "recipient": "Chief of Station, London",
-  "sender": "Chief"
+  ]
 }

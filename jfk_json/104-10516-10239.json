@@ -1,8 +1,21 @@
 {
-  "classification": "Mexico",
-  "document_type": "Memo",
-  "security_level": "Unclassified",
+  "title": "Release Under the President John F. Kennedy Assassination Records Act of 1992",
+  "title_ja": "1992年ジョン・F・ケネディ大統領暗殺記録法に基づく公開",
   "summary": "This document appears to be related to liaison checks and operational information, possibly involving individuals or locations with codenames or references such as MEXI, MANILA, HONONONO, PEGA CALA, NODEC TON, and CHECKSIDE.",
+  "summary_ja": "この文書は連絡確認および作戦情報に関連していると思われ、MEXI、MANILA、HONONONO、PEGA CALA、NODEC TON、CHECKSIDEなどのコードネームや参照番号を持つ個人や場所が関係している可能性がある。",
+  "document_type": "Memo",
+  "classification": "Mexico",
+  "security_level": "Unclassified",
+  "date": "1923-09-13",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [],
+  "locations_mentioned": [
+    "MEXI",
+    "MANILA",
+    "HONONONO"
+  ],
   "tags": [
     "MEXI",
     "MANILA",
@@ -12,16 +25,5 @@
     "CHECKSIDE",
     "Liaison",
     "Operational"
-  ],
-  "title": "Release Under the President John F. Kennedy Assassination Records Act of 1992",
-  "date": "1923-09-13",
-  "locations_mentioned": [
-    "MEXI",
-    "MANILA",
-    "HONONONO"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

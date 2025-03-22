@@ -1,23 +1,25 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memo discusses the establishment of official cover backstopping for Guy Vitate, utilizing the U.S. Army Element, Joint Operations Group. It outlines procedures for managing his Unit ID card and coordinating changes in his headquarters status with the Official Cover and Liaison Section, CCD.",
-  "tags": [
-    "Official Cover",
-    "Backstopping",
-    "Joint Operations Group",
-    "Unit ID Card",
-    "Personnel Security"
-  ],
   "title": "VITATE, Guy, Establishment of Official Cover Backstop",
+  "title_ja": "ヴィターテ、ガイ、公的カバーの最終手段の確立",
+  "summary": "This memo discusses the establishment of official cover backstopping for Guy Vitate, utilizing the U.S. Army Element, Joint Operations Group. It outlines procedures for managing his Unit ID card and coordinating changes in his headquarters status with the Official Cover and Liaison Section, CCD.",
+  "summary_ja": "この覚書は、米国陸軍合同作戦グループを活用し、ガイ・ヴィテイトの公式偽装工作の裏付けを確立することについて述べている。ガイ・ヴィテイトの部隊IDカードの管理手順と、統合参謀本部（CCD）の公式偽装工作および連絡部門との連携による本部の地位変更について概説している。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1960-05-11",
+  "sender": "JOSEPH M. ADAMS, Chief, Official Cover & Liaison, CCD",
+  "recipient": "Chief, EE",
   "persons_mentioned": [
     "Guy Vitate",
     "Thomas A. Olsen",
     "Paul P. Stewart",
     "Joseph M. Adams"
   ],
-  "recipient": "Chief, EE",
-  "sender": "JOSEPH M. ADAMS, Chief, Official Cover & Liaison, CCD"
+  "tags": [
+    "Official Cover",
+    "Backstopping",
+    "Joint Operations Group",
+    "Unit ID Card",
+    "Personnel Security"
+  ]
 }

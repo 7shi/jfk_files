@@ -1,8 +1,37 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Georges Papanton MITCHELL; Anastasia Martini DAKARJIN, Espionage – R.",
+  "title_ja": "ジョージ・パパントン・ミッチェル、アナスタシア・マルチーニ・ダカリン、スパイ活動 - R.",
   "summary": "Memorandum regarding Georges Papanton MITCHELL, Anastasia Martini DAKARJIN, and Nicolas Georges DAMASCOU aka DAMASCUS aka DAMARCON aka RAMASCUS, focusing on their travel history, visa applications, and current whereabouts.",
+  "summary_ja": "ジョルジュ・パパントン・ミッチェル、アナスタシア・マルティーニ・ダカルジン、ニコラス・ジョルジュ・ダマスカス（別名ダマスカス、ダマルコン、ラマスカス）に関する覚書。彼らの渡航歴、ビザ申請、現在の所在に焦点を当てている。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "SECRET",
+  "date": "1961-07-26",
+  "origin_agency": "Central Intelligence Agency",
+  "sender": "WILLIAM K. HARVEY",
+  "recipient": "Federal Bureau of Investigation",
+  "persons_mentioned": [
+    "Georges Papanton MITCHELL",
+    "Anastasia Martini DAKARJIN",
+    "Nicolas Georges DAMASCOU",
+    "William Hamilton MARTIN",
+    "Justo SIERRA Casanova",
+    "Angelika DAMASCOU nee GAVOURAS",
+    "Aristotle Georges DAMASCOR",
+    "Alberto Velez",
+    "J. Wesley Reynolds"
+  ],
+  "locations_mentioned": [
+    "Melbourne",
+    "Sydney",
+    "Australia",
+    "Mexico City",
+    "San Antonio, Texas",
+    "Mexico",
+    "London",
+    "Alexandria, Egypt",
+    "Los Angeles, California"
+  ],
   "tags": [
     "Espionage",
     "Georges Papanton MITCHELL",
@@ -17,32 +46,5 @@
     "Australia",
     "Egypt",
     "United States"
-  ],
-  "title": "Georges Papanton MITCHELL; Anastasia Martini DAKARJIN, Espionage – R.",
-  "date": "1961-07-26",
-  "locations_mentioned": [
-    "Melbourne",
-    "Sydney",
-    "Australia",
-    "Mexico City",
-    "San Antonio, Texas",
-    "Mexico",
-    "London",
-    "Alexandria, Egypt",
-    "Los Angeles, California"
-  ],
-  "origin_agency": "Central Intelligence Agency",
-  "persons_mentioned": [
-    "Georges Papanton MITCHELL",
-    "Anastasia Martini DAKARJIN",
-    "Nicolas Georges DAMASCOU",
-    "William Hamilton MARTIN",
-    "Justo SIERRA Casanova",
-    "Angelika DAMASCOU nee GAVOURAS",
-    "Aristotle Georges DAMASCOR",
-    "Alberto Velez",
-    "J. Wesley Reynolds"
-  ],
-  "recipient": "Federal Bureau of Investigation",
-  "sender": "WILLIAM K. HARVEY"
+  ]
 }

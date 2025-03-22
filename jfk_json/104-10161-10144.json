@@ -1,8 +1,27 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "PICCOLO, Joseph S. GS-7, WH - Cover Debriefing",
+  "title_ja": "ジョセフ・S・ピッコロ GS-7、WH - カバー報告",
   "summary": "Memorandum regarding the cover debriefing of Joseph S. Piccolo, who resigned from the Agency on 4 October 1961. Details his employment history, cover assignments in Mexico and Headquarters, and instructions for disclosing his employment. Includes his forwarding address and new employment information.",
+  "summary_ja": "1961年10月4日にCIAを退職したジョセフ・S・ピッコロの偽装任務に関する覚書。彼の職歴、メキシコおよび本部での偽装任務、および雇用開示に関する指示についての詳細。転送先住所および新しい雇用情報も含む。",
+  "document_type": "Memorandum",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1961-09-28",
+  "origin_agency": "CIA",
+  "sender": "Chief, Military Cover Branch, CCG",
+  "recipient": "Chief, Records and Services Division, Office of Personnel",
+  "persons_mentioned": [
+    "Joseph S. Piccolo",
+    "Robert C. Swendimen",
+    "C. T. DOLLAR",
+    "ROBERT E. YOUNG"
+  ],
+  "locations_mentioned": [
+    "Mexico",
+    "Washington, D. C.",
+    "Ft. Lauderdale, Florida",
+    "Andrews AFB"
+  ],
   "tags": [
     "cover debriefing",
     "nominal state cover",
@@ -11,22 +30,5 @@
     "employment history",
     "personnel file",
     "Joseph S. Piccolo"
-  ],
-  "title": "PICCOLO, Joseph S. GS-7, WH - Cover Debriefing",
-  "date": "1961-09-28",
-  "locations_mentioned": [
-    "Mexico",
-    "Washington, D. C.",
-    "Ft. Lauderdale, Florida",
-    "Andrews AFB"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Joseph S. Piccolo",
-    "Robert C. Swendimen",
-    "C. T. DOLLAR",
-    "ROBERT E. YOUNG"
-  ],
-  "recipient": "Chief, Records and Services Division, Office of Personnel",
-  "sender": "Chief, Military Cover Branch, CCG"
+  ]
 }

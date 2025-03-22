@@ -1,38 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memo",
-  "security_level": "SECRET",
-  "summary": "This document contains information about Reinaldo PICO Ramon, including his travel history, visa requests, and connections to Latin American Christian Trade Unions. It also includes memos regarding operational approval for his use and requests for information.",
-  "tags": [
-    "travel",
-    "visa",
-    "Latin American Christian Trade Unions",
-    "operational approval",
-    "Reinaldo PICO Ramon",
-    "AMICE-31",
-    "CLASC"
-  ],
   "title": "Reinaldo PICO Ramon Information and Operational Approval",
+  "title_ja": "レイナルド・ピコ・ラモン 情報および業務承認",
+  "summary": "This document contains information about Reinaldo PICO Ramon, including his travel history, visa requests, and connections to Latin American Christian Trade Unions. It also includes memos regarding operational approval for his use and requests for information.",
+  "summary_ja": "この文書には、レイナルド・ピコ・ラモンの渡航歴、ビザ申請、ラテンアメリカ・キリスト教労働組合とのつながりなど、彼に関する情報が記載されている。また、彼の利用に関する業務承認と情報提供の要請に関するメモも含まれている。",
+  "document_type": "Memo",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1969-10-15",
-  "locations_mentioned": [
-    "Honduras",
-    "Guatemala",
-    "U.S.",
-    "Brazil",
-    "Miami",
-    "Rio",
-    "Chile",
-    "Venezuela",
-    "Caracas",
-    "San Juan",
-    "Santiago",
-    "Dominican Republic",
-    "Santo Domingo",
-    "Cuba",
-    "Havana",
-    "Regla"
-  ],
   "origin_agency": "CIA",
+  "sender": "FI/D",
+  "recipient": "Sulcor",
   "persons_mentioned": [
     "Reinaldo PICO Ramon",
     "PICO Ramor",
@@ -51,6 +28,31 @@
     "Ullery",
     "John L. Hert"
   ],
-  "recipient": "Sulcor",
-  "sender": "FI/D"
+  "locations_mentioned": [
+    "Honduras",
+    "Guatemala",
+    "U.S.",
+    "Brazil",
+    "Miami",
+    "Rio",
+    "Chile",
+    "Venezuela",
+    "Caracas",
+    "San Juan",
+    "Santiago",
+    "Dominican Republic",
+    "Santo Domingo",
+    "Cuba",
+    "Havana",
+    "Regla"
+  ],
+  "tags": [
+    "travel",
+    "visa",
+    "Latin American Christian Trade Unions",
+    "operational approval",
+    "Reinaldo PICO Ramon",
+    "AMICE-31",
+    "CLASC"
+  ]
 }

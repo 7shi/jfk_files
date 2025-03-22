@@ -1,28 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "These documents consist of memoranda and routing sheets regarding the investigation into E. Howard Hunt's activities, particularly his assignment to Madrid in the mid-1960s and financial transactions. The search for any undocumented payments to Hunt, especially around $30,000, is detailed, along with recollections from various Agency personnel about Hunt's role and activities. The documents also explore Hunt's post-Agency employment, his contacts with the Robert R. Mullen public relations firm, and requests he made for personnel with specific skills.",
-  "tags": [
-    "E. Howard Hunt",
-    "Madrid",
-    "financial records",
-    "Watergate",
-    "investigation",
-    "Robert R. Mullen",
-    "covert operations"
-  ],
   "title": "E. Howard Hunt Investigation Records",
+  "title_ja": "E. Howard Hunt 調査記録",
+  "summary": "These documents consist of memoranda and routing sheets regarding the investigation into E. Howard Hunt's activities, particularly his assignment to Madrid in the mid-1960s and financial transactions. The search for any undocumented payments to Hunt, especially around $30,000, is detailed, along with recollections from various Agency personnel about Hunt's role and activities. The documents also explore Hunt's post-Agency employment, his contacts with the Robert R. Mullen public relations firm, and requests he made for personnel with specific skills.",
+  "summary_ja": "これらの文書は、E・ハワード・ハントの活動、特に1960年代半ばのマドリードへの派遣と金融取引に関する調査に関する覚書と回覧表で構成されている。ハントへの未記録の支払い、特に3万ドル前後の支払いに関する調査は詳細であり、ハントの役割と活動についてCIAのさまざまな職員が回想した内容も含まれている。また、この文書ではハントのCIA退職後の雇用、ロバート・R・マレン広報会社との接触、特定のスキルを持つ人材を求めたリクエストについても調査している。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1973-12-20",
-  "locations_mentioned": [
-    "Washington",
-    "Madrid",
-    "Spain",
-    "Paris",
-    "Las Vegas",
-    "Nevada"
-  ],
   "origin_agency": "CIA",
+  "sender": "S. D. Brecknridge",
+  "recipient": "Inspector General",
   "persons_mentioned": [
     "E. Howard Hunt",
     "Paul Burns",
@@ -64,6 +51,21 @@
     "Harold L. Brownman",
     "Davis Powell"
   ],
-  "recipient": "Inspector General",
-  "sender": "S. D. Brecknridge"
+  "locations_mentioned": [
+    "Washington",
+    "Madrid",
+    "Spain",
+    "Paris",
+    "Las Vegas",
+    "Nevada"
+  ],
+  "tags": [
+    "E. Howard Hunt",
+    "Madrid",
+    "financial records",
+    "Watergate",
+    "investigation",
+    "Robert R. Mullen",
+    "covert operations"
+  ]
 }

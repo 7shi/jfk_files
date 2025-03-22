@@ -1,32 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses Delorry's arrival in Italy, ETA to Cuba, contacts with Annie de Quendoz, German Camado-Blanco, Rolio (Montenegro) Guasp, Saverio Tutino, Protestant clerics in Cuba, and Cubamb in Belgium.",
-  "tags": [
-    "Delorry",
-    "Italy",
-    "Cuba",
-    "Annie de Quendoz",
-    "German Camado-Blanco",
-    "Rolio (Montenegro) Guasp",
-    "Saverio Tutino",
-    "Protestant clerics",
-    "Cubamb",
-    "Belgium"
-  ],
   "title": "ROME 9301",
+  "title_ja": "ローマ 9301",
+  "summary": "This cable discusses Delorry's arrival in Italy, ETA to Cuba, contacts with Annie de Quendoz, German Camado-Blanco, Rolio (Montenegro) Guasp, Saverio Tutino, Protestant clerics in Cuba, and Cubamb in Belgium.",
+  "summary_ja": "この電報では、デローリーのイタリア到着、キューバへのETA、アニー・ド・ケンドゥーズ、ドイツ人カマド・ブランコ、ロリオ（モンテネグロ）グアスプ、サヴェリオ・トゥティーノ、キューバのプロテスタント聖職者、ベルギーのCubambとの接触について議論されている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1966-03-11",
-  "locations_mentioned": [
-    "Italy",
-    "Rome",
-    "Cuba",
-    "Havana",
-    "Lisbon",
-    "Prague",
-    "Belgium"
-  ],
   "origin_agency": "CIA",
+  "sender": "Rome",
+  "recipient": "DIR",
   "persons_mentioned": [
     "John F. Kennedy",
     "Delorry",
@@ -42,6 +25,25 @@
     "Cesare Zacchi",
     "Gustavo Carcos y Bergnes"
   ],
-  "recipient": "DIR",
-  "sender": "Rome"
+  "locations_mentioned": [
+    "Italy",
+    "Rome",
+    "Cuba",
+    "Havana",
+    "Lisbon",
+    "Prague",
+    "Belgium"
+  ],
+  "tags": [
+    "Delorry",
+    "Italy",
+    "Cuba",
+    "Annie de Quendoz",
+    "German Camado-Blanco",
+    "Rolio (Montenegro) Guasp",
+    "Saverio Tutino",
+    "Protestant clerics",
+    "Cubamb",
+    "Belgium"
+  ]
 }

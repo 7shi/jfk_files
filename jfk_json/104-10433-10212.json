@@ -1,8 +1,35 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "CONFIDENTIAL",
+  "title": "Summary of Cuban Media Treatment of the Death of Martin Luther King, April 1968",
+  "title_ja": "1968年4月のマーティン・ルーサー・キング・ジュニアの死に対するキューバのメディアの反応の概要",
   "summary": "Summary of Cuban media coverage of Martin Luther King's assassination, April 1968. Includes reports from Granma newspaper and Radio Habana, focusing on reactions, potential for violence, and exploitation by revolutionary elements.",
+  "summary_ja": "1968年4月のマーティン・ルーサー・キング暗殺に関するキューバのメディア報道の概要。グランマ新聞とハバナラジオからの報告を含み、反応、暴力の可能性、革命的要素による悪用に焦点を当てている。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
+  "date": "1968-04-09",
+  "origin_agency": "JMWAVE",
+  "sender": "Chief of Station, JMWAVE",
+  "recipient": "Chief, WH Division",
+  "persons_mentioned": [
+    "Martin Luther King",
+    "Rap Brown",
+    "Juana Carrasco",
+    "Stokely Carmichael",
+    "Fidel Castro Ruz",
+    "Juan Mari Bras",
+    "Agustin Gonzalez Martinez",
+    "Rafael Pastor",
+    "Johnson"
+  ],
+  "locations_mentioned": [
+    "Memphis",
+    "USA",
+    "Washington",
+    "Richmond",
+    "Japan",
+    "Cuba",
+    "Havana"
+  ],
   "tags": [
     "Martin Luther King",
     "assassination",
@@ -16,30 +43,5 @@
     "civil rights",
     "black power",
     "media coverage"
-  ],
-  "title": "Summary of Cuban Media Treatment of the Death of Martin Luther King, April 1968",
-  "date": "1968-04-09",
-  "locations_mentioned": [
-    "Memphis",
-    "USA",
-    "Washington",
-    "Richmond",
-    "Japan",
-    "Cuba",
-    "Havana"
-  ],
-  "origin_agency": "JMWAVE",
-  "persons_mentioned": [
-    "Martin Luther King",
-    "Rap Brown",
-    "Juana Carrasco",
-    "Stokely Carmichael",
-    "Fidel Castro Ruz",
-    "Juan Mari Bras",
-    "Agustin Gonzalez Martinez",
-    "Rafael Pastor",
-    "Johnson"
-  ],
-  "recipient": "Chief, WH Division",
-  "sender": "Chief of Station, JMWAVE"
+  ]
 }

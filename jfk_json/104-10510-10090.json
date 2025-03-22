@@ -1,16 +1,16 @@
 {
-  "classification": "Unknown",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
-  "summary": "This document is a classified message with routing information and mentions various locations.",
-  "tags": [
-    "routing",
-    "deferred",
-    "routine",
-    "locations"
-  ],
   "title": "Classified Message",
+  "title_ja": "機密メッセージ",
+  "summary": "This document is a classified message with routing information and mentions various locations.",
+  "summary_ja": "この文書は、ルーティング情報が付いた機密メッセージであり、さまざまな場所について言及している。",
+  "document_type": "Classified Message",
+  "classification": "Unknown",
+  "security_level": "SECRET",
   "date": "Unknown",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "ABIJ, ACCR, ADD1, ALGI, AMMA, ANCH, ANKA, ASUN, ATHE, BAGH, BANG, BEIR, BELG, BRLN, BERN, BOGO, BOMB, BONN, BRAZ, BRUS, CAIR, CALC, CAPT, CARA, TRUJ, COLO, CNRY, LISB, COPE, DKAR, DAMA, DARE, DJAK, FPAN, GUAT, HAGU, HELS, HONG, HULA, ISTA, J100, KABU, KAMP, KAHI, KHAR, KUAL, KUWA, LAGS, LAPA, LEOP, LIMA, LOND, LUXE, MADR, MANA, MANI, MELB, MEXI, MOGA, MNRV, MONT, MUNI, NOBI, NEWD, OTTA, PACY, PARI, PENH-, PRET, QUIT, RABA, RNGO, BEYK, R100, ROME, SAIG, SLBY, SANJ, JUAN, SAGO, SALV, SEOU, SING, STOC, TAMI, THAR, TEGU, TEHE, TOKY, TPLI, TNIS, VIEN, VETN, WELL, YAQU",
+  "persons_mentioned": [],
   "locations_mentioned": [
     "ABIJ",
     "ACCR",
@@ -108,8 +108,10 @@
     "WELL",
     "YAQU"
   ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [],
-  "recipient": "ABIJ, ACCR, ADD1, ALGI, AMMA, ANCH, ANKA, ASUN, ATHE, BAGH, BANG, BEIR, BELG, BRLN, BERN, BOGO, BOMB, BONN, BRAZ, BRUS, CAIR, CALC, CAPT, CARA, TRUJ, COLO, CNRY, LISB, COPE, DKAR, DAMA, DARE, DJAK, FPAN, GUAT, HAGU, HELS, HONG, HULA, ISTA, J100, KABU, KAMP, KAHI, KHAR, KUAL, KUWA, LAGS, LAPA, LEOP, LIMA, LOND, LUXE, MADR, MANA, MANI, MELB, MEXI, MOGA, MNRV, MONT, MUNI, NOBI, NEWD, OTTA, PACY, PARI, PENH-, PRET, QUIT, RABA, RNGO, BEYK, R100, ROME, SAIG, SLBY, SANJ, JUAN, SAGO, SALV, SEOU, SING, STOC, TAMI, THAR, TEGU, TEHE, TOKY, TPLI, TNIS, VIEN, VETN, WELL, YAQU",
-  "sender": "Unknown"
+  "tags": [
+    "routing",
+    "deferred",
+    "routine",
+    "locations"
+  ]
 }

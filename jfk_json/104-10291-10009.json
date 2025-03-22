@@ -1,25 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "SECRET",
-  "summary": "This file contains memos regarding the Permindex Corporation and the World Trade Center, including requests for information and background checks. It mentions Ferenc Nagy, Enrico Mandel-Mantello and other individuals associated with Permindex.",
-  "tags": [
-    "Permindex",
-    "World Trade Center",
-    "Ferenc Nagy",
-    "Enrico Mandel-Mantello",
-    "Dun & Bradstreet",
-    "Commercial Stair"
-  ],
   "title": "PERMINDEX CORP. ICD DOCUMENTS",
+  "title_ja": "パーミックス・コーポレーションのICD文書",
+  "summary": "This file contains memos regarding the Permindex Corporation and the World Trade Center, including requests for information and background checks. It mentions Ferenc Nagy, Enrico Mandel-Mantello and other individuals associated with Permindex.",
+  "summary_ja": "このファイルには、パーミンデックス社と世界貿易センターに関するメモが含まれており、情報提供や経歴調査の要請などが記載されている。フェレンツ・ナギー、エンリコ・マンデル＝マンテロ、およびパーミンデックス社に関係するその他の人物についても言及されている。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1959-11-30",
-  "locations_mentioned": [
-    "Rome",
-    "New York City",
-    "Basel",
-    "Hungary"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, New York Office",
+  "recipient": "Chief, Contact Division (Support)",
   "persons_mentioned": [
     "Ferenc Nagy",
     "Enrico Mandel-Mantello",
@@ -30,6 +20,18 @@
     "Lillian I. Grant",
     "Lloyd McMahon"
   ],
-  "recipient": "Chief, Contact Division (Support)",
-  "sender": "Chief, New York Office"
+  "locations_mentioned": [
+    "Rome",
+    "New York City",
+    "Basel",
+    "Hungary"
+  ],
+  "tags": [
+    "Permindex",
+    "World Trade Center",
+    "Ferenc Nagy",
+    "Enrico Mandel-Mantello",
+    "Dun & Bradstreet",
+    "Commercial Stair"
+  ]
 }

@@ -1,25 +1,27 @@
 {
-  "classification": "Administrative",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "LIENVOY-8",
+  "title_ja": "リエンボイ8",
   "summary": "This dispatch concerns LIENVOY-8, a source who caused a security problem in 1960. Headquarters requests an update on his current status and reliability, including whether he has been terminated or is still being used.",
+  "summary_ja": "この報告書は、1960年にセキュリティ上の問題を引き起こした情報源「LIENVOY-8」に関するものである。本部は、彼が解雇されたのか、あるいはまだ利用されているのかを含め、現在の状況と信頼性に関する最新情報を要求している。",
+  "document_type": "Dispatch",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1963-10-31",
+  "origin_agency": "WN Division",
+  "sender": "Chief, WN Division",
+  "recipient": "Chief of Station, Mexico City",
+  "persons_mentioned": [
+    "LIENVOY-8",
+    "ODYOKE"
+  ],
+  "locations_mentioned": [
+    "Mexico City"
+  ],
   "tags": [
     "LIENVOY Project",
     "LIFEAT Project",
     "Security",
     "Source Handling",
     "Agent Termination"
-  ],
-  "title": "LIENVOY-8",
-  "date": "1963-10-31",
-  "locations_mentioned": [
-    "Mexico City"
-  ],
-  "origin_agency": "WN Division",
-  "persons_mentioned": [
-    "LIENVOY-8",
-    "ODYOKE"
-  ],
-  "recipient": "Chief of Station, Mexico City",
-  "sender": "Chief, WN Division"
+  ]
 }

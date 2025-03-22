@@ -1,25 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "Contract",
-  "security_level": "SECRET",
-  "summary": "Contract agreement between the United States Government and Bruce G. Mastrocola for confidential information and related services, detailing compensation, travel, operational expenses, secrecy obligations, and terms of agreement.",
-  "tags": [
-    "Contract Agent",
-    "Information",
-    "Services",
-    "Confidential",
-    "Cuban Government",
-    "Political Action",
-    "Covert Operations"
-  ],
   "title": "Contract Information and Check List and Contract Agreement for Bruce G. Mastrocola",
+  "title_ja": "契約情報およびチェックリスト、ブルース・G・マストロコーラとの契約合意書",
+  "summary": "Contract agreement between the United States Government and Bruce G. Mastrocola for confidential information and related services, detailing compensation, travel, operational expenses, secrecy obligations, and terms of agreement.",
+  "summary_ja": "米国政府とブルース・G・マストロコーラとの間の機密情報および関連サービスに関する契約合意。報酬、出張、業務経費、機密保持義務、契約条件の詳細を記載。",
+  "document_type": "Contract",
+  "classification": "Personnel",
+  "security_level": "SECRET",
   "date": "1959-06-01",
-  "locations_mentioned": [
-    "Cuba",
-    "New York, N.Y.",
-    "USA"
-  ],
   "origin_agency": "CIA",
+  "sender": "Contracting Officer",
+  "recipient": "Bruce G. Mastrocola",
   "persons_mentioned": [
     "Leo CHERNE",
     "John F. Kennedy",
@@ -28,6 +18,18 @@
     "R. N. DAHLGREN",
     "P. E. ARNESON"
   ],
-  "recipient": "Bruce G. Mastrocola",
-  "sender": "Contracting Officer"
+  "locations_mentioned": [
+    "Cuba",
+    "New York, N.Y.",
+    "USA"
+  ],
+  "tags": [
+    "Contract Agent",
+    "Information",
+    "Services",
+    "Confidential",
+    "Cuban Government",
+    "Political Action",
+    "Covert Operations"
+  ]
 }

@@ -1,25 +1,15 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses statements made by Luis Alberto de Jesus Condo (Cajisal) to MEXI. It mentions individuals who handled Bobby Maduro and Juan Mendez, and suggests if the subject desires travel, AMOTS will assist him.",
-  "tags": [
-    "JMZIP",
-    "AMIRON",
-    "NIL",
-    "ING",
-    "AMOTS",
-    "MEXI",
-    "CIN2645",
-    "WAVE"
-  ],
   "title": "MEXI INFO BELL CITE WAVE 4342",
+  "title_ja": "MEXI INFO BELL CITE WAVE 4342",
+  "summary": "This cable discusses statements made by Luis Alberto de Jesus Condo (Cajisal) to MEXI. It mentions individuals who handled Bobby Maduro and Juan Mendez, and suggests if the subject desires travel, AMOTS will assist him.",
+  "summary_ja": "この電報は、MEXIに対するルイス・アルベルト・デ・ヘスス・コンドーム（Cajisal）の発言について述べている。ボビー・マドゥーロとフアン・メンデスを担当した人物について言及し、対象者が旅行を希望する場合、AMOTSが支援することを提案している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
   "date": "1961-03-09",
-  "locations_mentioned": [
-    "MEXI",
-    "WAVE AREA"
-  ],
   "origin_agency": "WAVE",
+  "sender": "WAVE",
+  "recipient": "BELL",
   "persons_mentioned": [
     "LUIS ALBERTO DE JESUS CONDO",
     "BOBBY MADURO",
@@ -29,6 +19,18 @@
     "EUGEN-08",
     "PLINIO PRIETO"
   ],
-  "recipient": "BELL",
-  "sender": "WAVE"
+  "locations_mentioned": [
+    "MEXI",
+    "WAVE AREA"
+  ],
+  "tags": [
+    "JMZIP",
+    "AMIRON",
+    "NIL",
+    "ING",
+    "AMOTS",
+    "MEXI",
+    "CIN2645",
+    "WAVE"
+  ]
 }

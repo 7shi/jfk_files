@@ -1,21 +1,23 @@
 {
-  "classification": "SECRET",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable identifies James Earl Ray as the accused assassin, providing his physical description, aliases, and criminal history. It also mentions that photos of Ray are being pouched for liaison.",
-  "tags": [
-    "assassination",
-    "James Earl Ray",
-    "identification",
-    "aliases",
-    "criminal history",
-    "LNERGO",
-    "WOMUSE",
-    "RYBAT",
-    "GALT"
-  ],
   "title": "Identification of James Earl Ray as Accused Assassin",
+  "title_ja": "暗殺容疑者ジェームズ・アール・レイの身元確認",
+  "summary": "This cable identifies James Earl Ray as the accused assassin, providing his physical description, aliases, and criminal history. It also mentions that photos of Ray are being pouched for liaison.",
+  "summary_ja": "この電報は、ジェームズ・アール・レイを暗殺容疑者として特定し、彼の身体的特徴、別名、犯罪歴を記載している。また、レイの写真が連絡係に送付されていることも記載されている。",
+  "document_type": "Cable",
+  "classification": "SECRET",
+  "security_level": "SECRET",
   "date": "1968-04-19",
+  "origin_agency": "CIOP/DO",
+  "sender": "DDP by direction, CI/OPIDO",
+  "recipient": "ASUNCION, BANGKOK, BARCELONA, BEIRUT, BERLIN, BERN, BOGOTA, BRASILIA, BRUSSELS, BUENOS AIRES, CARACAS, COPENHAGEN, FRANKFURT, GENEVA, GEORGETOWN, GUATEMALA CITY, GUAYAQUIL, THE HAGUE, HAMBURG, HELSINKI, HONG KONG, KINGSTON, LA PAZ, LIMA, LONDON, MADRID, MANAGUA, MONTEVIDEO, NEW DELHI, LISBON, MANILA, MUNICH, OSLO, PANAMA CITY, PARIS, PORT AU PRINCE, PORT OF SPAIN, PORTO ALEGRE, QUITO, RECIFE, RAWALPINDI, RIO DE HX JANERIO, ROME, SAN JOSE, SANTO DOMINGO, SAN SALVADOR, SANTIAGO, SANTIAGO DE LOS CABALLEROS, SAO PAULO, STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
+  "persons_mentioned": [
+    "Richard Obar",
+    "James Earl Ray",
+    "James McBride",
+    "James Walton",
+    "W. C. Herron",
+    "James O'Connor"
+  ],
   "locations_mentioned": [
     "Illinois",
     "Missouri",
@@ -74,15 +76,15 @@
     "Vienna",
     "Zurich"
   ],
-  "origin_agency": "CIOP/DO",
-  "persons_mentioned": [
-    "Richard Obar",
+  "tags": [
+    "assassination",
     "James Earl Ray",
-    "James McBride",
-    "James Walton",
-    "W. C. Herron",
-    "James O'Connor"
-  ],
-  "recipient": "ASUNCION, BANGKOK, BARCELONA, BEIRUT, BERLIN, BERN, BOGOTA, BRASILIA, BRUSSELS, BUENOS AIRES, CARACAS, COPENHAGEN, FRANKFURT, GENEVA, GEORGETOWN, GUATEMALA CITY, GUAYAQUIL, THE HAGUE, HAMBURG, HELSINKI, HONG KONG, KINGSTON, LA PAZ, LIMA, LONDON, MADRID, MANAGUA, MONTEVIDEO, NEW DELHI, LISBON, MANILA, MUNICH, OSLO, PANAMA CITY, PARIS, PORT AU PRINCE, PORT OF SPAIN, PORTO ALEGRE, QUITO, RECIFE, RAWALPINDI, RIO DE HX JANERIO, ROME, SAN JOSE, SANTO DOMINGO, SAN SALVADOR, SANTIAGO, SANTIAGO DE LOS CABALLEROS, SAO PAULO, STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
-  "sender": "DDP by direction, CI/OPIDO"
+    "identification",
+    "aliases",
+    "criminal history",
+    "LNERGO",
+    "WOMUSE",
+    "RYBAT",
+    "GALT"
+  ]
 }

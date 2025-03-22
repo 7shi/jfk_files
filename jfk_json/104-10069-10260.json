@@ -1,8 +1,28 @@
 {
-  "classification": "Operations",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "Information Council of the Americas (INCA) and Truth Tapes Program",
+  "title_ja": "情報協議会（INCA）およびトゥルース・テープス・プログラム",
   "summary": "This memo discusses the Information Council of the Americas (INCA) and its Truth Tapes program aimed at combating Communist penetration in Latin America. It details interactions with Edward Scannell Butler, INCA's Executive Vice President, and explores the potential of INCA's correspondence files as a source of information on radio broadcasting stations in Latin America. The memo also seeks input on additional topics for INCA's questionnaire to gather technical information about the stations.",
+  "summary_ja": "このメモは、ラテンアメリカにおける共産主義浸透の対策を目的とした米州情報協議会（INCA）と、その「真実テープ」プログラムについて論じている。INCAのエドワード・スキャネル・バトラー副会長とのやりとりについて詳しく述べ、ラテンアメリカのラジオ放送局に関する情報源としてINCAの通信ファイルの可能性を探っている。また、このメモは、放送局に関する技術情報を収集するためのINCAのアンケート調査の追加項目についても意見を求めている。",
+  "document_type": "Memo",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
+  "date": "1965-05-05",
+  "origin_agency": "CIA",
+  "sender": "Chief, New Orleans Office",
+  "recipient": "Chief, Contact Division; Att'n: Nonsov Bloc Area",
+  "persons_mentioned": [
+    "Edward Scannell Butler",
+    "Martin Migueo-Narancio",
+    "LLOYD A. RAY"
+  ],
+  "locations_mentioned": [
+    "New Orleans",
+    "Louisiana",
+    "Latin America",
+    "North America",
+    "Uruguay",
+    "Montevideo"
+  ],
   "tags": [
     "Information Council of the Americas",
     "INCA",
@@ -13,23 +33,5 @@
     "Anti-communism",
     "Questionnaire",
     "Foreign intelligence"
-  ],
-  "title": "Information Council of the Americas (INCA) and Truth Tapes Program",
-  "date": "1965-05-05",
-  "locations_mentioned": [
-    "New Orleans",
-    "Louisiana",
-    "Latin America",
-    "North America",
-    "Uruguay",
-    "Montevideo"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Edward Scannell Butler",
-    "Martin Migueo-Narancio",
-    "LLOYD A. RAY"
-  ],
-  "recipient": "Chief, Contact Division; Att'n: Nonsov Bloc Area",
-  "sender": "Chief, New Orleans Office"
+  ]
 }

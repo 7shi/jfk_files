@@ -1,8 +1,24 @@
 {
-  "classification": "Foreign Political Matters, Cuba, CIA Liaison Material",
-  "document_type": "Memo",
-  "security_level": "Secret",
+  "title": "FOREIGN POLITICAL MATTERS - CUBA",
+  "title_ja": "外国の政治問題 - キューバ",
   "summary": "This document contains a memo from the FBI regarding Raul Roa, Cuban Foreign Minister, commenting on the Sino-Indian conflict and the situation in Cuba in 1963. Roa's evaluation of the situation in Cuba was highly pessimistic and he expressed concerns about the United Nations and the Organization of American States (OAS).",
+  "summary_ja": "この文書には、1963年の中国とインドの紛争とキューバ情勢についてコメントしたキューバ外相ラウル・ロアに関するFBIのメモが含まれている。ロアによるキューバ情勢の評価は非常に悲観的なもので、国連と米州機構（OAS）に対する懸念が示されていた。",
+  "document_type": "Memo",
+  "classification": "Foreign Political Matters, Cuba, CIA Liaison Material",
+  "security_level": "Secret",
+  "date": "1965-05-10",
+  "origin_agency": "FBI",
+  "sender": "FBI HQ",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Raul Roa",
+    "Romulo Betancourt"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "United Nations, New York"
+  ],
   "tags": [
     "Raul Roa",
     "Cuban Foreign Minister",
@@ -16,19 +32,5 @@
     "Soviet Union",
     "Missiles in Cuba",
     "Polish UN Delegation"
-  ],
-  "title": "FOREIGN POLITICAL MATTERS - CUBA",
-  "date": "1965-05-10",
-  "locations_mentioned": [
-    "Cuba",
-    "United Nations, New York"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Raul Roa",
-    "Romulo Betancourt"
-  ],
-  "recipient": "N/A",
-  "sender": "FBI HQ"
+  ]
 }

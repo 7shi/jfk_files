@@ -1,8 +1,22 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Candidate for Contact with PACETTE",
+  "title_ja": "PACETTEとの接触候補",
   "summary": "This cable discusses a candidate mentioned in a previous reference (REF A) who is not intended for travel to Havana as per another reference (REF B), but rather for contact with PACETTE only. AMWHIP-1 was unable to find a candidate in time for the Havana trip mentioned in REF B. The cable also mentions deferring involving AMWHIP-1 with PACETTE pending the outcome of STATION attempts at contact.",
+  "summary_ja": "この電報では、別の資料（REF B）でハバナへの渡航が予定されていない人物（REF A）について言及している。その人物はPACETTEとの接触のみが目的である。AMWHIP-1は、REF Bで言及されているハバナへの渡航に間に合うように候補者を見つけることができなかった。この電報では、STATIONによる接触の試みの結果が出るまで、AMWHIP-1とPACETTEの接触を延期することも言及されている。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "Unknown",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "PARIS BRUSSELS MADRID JAMWAVE",
+  "persons_mentioned": [
+    "PACETTE",
+    "DESMOND FITZGERALD"
+  ],
+  "locations_mentioned": [
+    "Havana"
+  ],
   "tags": [
     "AMWHIP-1",
     "PACETTE",
@@ -10,17 +24,5 @@
     "Travel",
     "Contact",
     "STATION"
-  ],
-  "title": "Candidate for Contact with PACETTE",
-  "date": "Unknown",
-  "locations_mentioned": [
-    "Havana"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "PACETTE",
-    "DESMOND FITZGERALD"
-  ],
-  "recipient": "PARIS BRUSSELS MADRID JAMWAVE",
-  "sender": "DIRECTOR"
+  ]
 }

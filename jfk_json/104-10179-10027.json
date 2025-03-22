@@ -1,19 +1,14 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Requests biographical data for POA on Juan Estevez Ramiros and provides information for crafted Ambaro, Uirera Valdes, Morffi Machado, Ros Perez, and Fernandez Betancourt.",
-  "tags": [
-    "Biographical Data",
-    "Crafted Ambaro",
-    "Uirera Valdes",
-    "Morffi Machado",
-    "Ros Perez",
-    "Fernandez Betancourt",
-    "Juan Estevez Ramiros"
-  ],
   "title": "DIR 09095: Request for Biographical Data and Information on Individuals",
+  "title_ja": "DIR 09095: 個人に関する経歴データおよび情報の要請",
+  "summary": "Requests biographical data for POA on Juan Estevez Ramiros and provides information for crafted Ambaro, Uirera Valdes, Morffi Machado, Ros Perez, and Fernandez Betancourt.",
+  "summary_ja": "フアン・エステベス・ラミロスのPOAに関する経歴情報の提供を要請し、偽装されたアンバロ、ウイレラ・バルデス、モルフィ・マチャド、ロス・ペレス、フェルナンデス・ベタンクールに関する情報を提供する。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1960-10-28",
+  "sender": "DIRECTOR",
+  "recipient": "JHASH HAVARA",
   "persons_mentioned": [
     "Grace Roberts",
     "JHASH HAVARA",
@@ -25,6 +20,13 @@
     "Fernandez Betancourt",
     "J. D. ESTARLINE"
   ],
-  "recipient": "JHASH HAVARA",
-  "sender": "DIRECTOR"
+  "tags": [
+    "Biographical Data",
+    "Crafted Ambaro",
+    "Uirera Valdes",
+    "Morffi Machado",
+    "Ros Perez",
+    "Fernandez Betancourt",
+    "Juan Estevez Ramiros"
+  ]
 }

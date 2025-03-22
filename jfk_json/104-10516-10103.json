@@ -1,8 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "REQUEST PRITY POA TO HOLUDE COMMO TRAINING FOR HARTA (VALDES)",
+  "title_ja": "PRITY POA への要請 HARTA (バルデス) での COMMO 訓練",
   "summary": "This cable discusses training for Harta (Valdes) and his potential return to Cuba. It mentions Valdes's employment as a statistician in the Ministry of Health and Welfare in Havana and his possible completion of studies with the World Health Organization.",
+  "summary_ja": "この電報は、ハルタ（ヴァルデス）の訓練とキューバへの帰国可能性について述べている。ハバナの厚生省で統計学者としてヴァルデスが雇用されていること、および世界保健機関での研究を修了する可能性について言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "Unknown",
+  "origin_agency": "CIA",
+  "sender": "DIR WAVE",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "HARTA (VALDES)",
+    "LUCAS O CULIA"
+  ],
+  "locations_mentioned": [
+    "HAVANA",
+    "Cuba"
+  ],
   "tags": [
     "Training",
     "HARTA",
@@ -11,18 +26,5 @@
     "Ministry of Health",
     "World Health Organization",
     "HAVANA"
-  ],
-  "title": "REQUEST PRITY POA TO HOLUDE COMMO TRAINING FOR HARTA (VALDES)",
-  "date": "Unknown",
-  "locations_mentioned": [
-    "HAVANA",
-    "Cuba"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "HARTA (VALDES)",
-    "LUCAS O CULIA"
-  ],
-  "recipient": "Unknown",
-  "sender": "DIR WAVE"
+  ]
 }

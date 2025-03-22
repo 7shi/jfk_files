@@ -1,8 +1,25 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "IN 55255: RETTIE, LICOOKY-1, and Contacts",
+  "title_ja": "IN 55255：レティー、リクッキー-1、および連絡先",
   "summary": "Cable discusses contact between British newsman RETTIE and LICOOKY-1, as well as RETTIE's attempts to contact Mario Fonteforte Toledo. It also mentions LICOOKY-1's relationship with AREVALO.",
+  "summary_ja": "Cableは、英国のニュースマン、RETTIEとLICOOKY-1の接触、およびRETTIEによるマリオ・フォンテフォルテ・トレドへの接触の試みについても言及している。また、LICOOKY-1とAREVALOの関係についても言及している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-01-24",
+  "origin_agency": "CIA",
+  "sender": "MEXICO CITY",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "OTTO RESARIO",
+    "RETTIE",
+    "LICOOKY-1",
+    "AREVALO",
+    "MARIO FONTEFORTE TOLEDO"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY"
+  ],
   "tags": [
     "LICOOKY-1",
     "RETTIE",
@@ -12,20 +29,5 @@
     "NEWSMAN",
     "CONTACT",
     "EXILE ACTIVITIES"
-  ],
-  "title": "IN 55255: RETTIE, LICOOKY-1, and Contacts",
-  "date": "1963-01-24",
-  "locations_mentioned": [
-    "MEXICO CITY"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "OTTO RESARIO",
-    "RETTIE",
-    "LICOOKY-1",
-    "AREVALO",
-    "MARIO FONTEFORTE TOLEDO"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "MEXICO CITY"
+  ]
 }

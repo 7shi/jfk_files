@@ -1,24 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "Unclassified",
-  "summary": "Request for official documentation (U.S. Army Investigator Credential and Civilian Identification Card) for SAS employee under alias Balmes N. HIDALGO, Jr. (Bernard Forman HILLARY) for use in the Southeastern U.S. and possibly Latin America.",
-  "tags": [
-    "Official Documentation",
-    "Alias",
-    "U.S. Army Investigator Credential",
-    "Civilian Identification Card",
-    "SAS Employee",
-    "JMWAVE",
-    "Identity Sheet"
-  ],
   "title": "Request for Official Documentation",
+  "title_ja": "公式文書の要請",
+  "summary": "Request for official documentation (U.S. Army Investigator Credential and Civilian Identification Card) for SAS employee under alias Balmes N. HIDALGO, Jr. (Bernard Forman HILLARY) for use in the Southeastern U.S. and possibly Latin America.",
+  "summary_ja": "別名バルメス・N・ヒダルゴ・ジュニア（バーナード・フォーマン・ヒラリー）として米国南東部および場合によってはラテンアメリカで使用するためのSAS職員の公式文書（米陸軍捜査官資格および民間人IDカード）の申請。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "Unclassified",
   "date": "1963-05-08",
-  "locations_mentioned": [
-    "Southeastern United States",
-    "Latin America"
-  ],
   "origin_agency": "Office of Security/OSD",
+  "sender": "Vincent J. Heyman, Chief, SAS/Support",
+  "recipient": "Chief, Technical Services Division",
   "persons_mentioned": [
     "Clay Kallander",
     "Gikas",
@@ -28,6 +19,17 @@
     "P. Lewrence",
     "Vincent J. Heyman"
   ],
-  "recipient": "Chief, Technical Services Division",
-  "sender": "Vincent J. Heyman, Chief, SAS/Support"
+  "locations_mentioned": [
+    "Southeastern United States",
+    "Latin America"
+  ],
+  "tags": [
+    "Official Documentation",
+    "Alias",
+    "U.S. Army Investigator Credential",
+    "Civilian Identification Card",
+    "SAS Employee",
+    "JMWAVE",
+    "Identity Sheet"
+  ]
 }

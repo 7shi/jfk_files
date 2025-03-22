@@ -1,8 +1,28 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "TRUCK TRAFFIC AND TUBE-LIKE OBJECTS SEEN ENTERING TORRENS BASE",
+  "title_ja": "トラックの往来と筒状の物体がトーレンス基地に入っていくのが目撃された",
   "summary": "Cable discusses truck traffic and tube-like objects seen entering Torrens base in Cuba between October 9 and November 7, 1963. Source reports trucks covered with canvas traveling towards Torrens, the former reformatory on the Wajay Highway southwest of Habana. Tube-like objects protruding from trucks observed on October 11.",
+  "summary_ja": "電報は、1963年10月9日から11月7日までの間にキューバのトーレンス基地に入っていくトラックの往来とチューブ状の物体について述べている。情報源によると、帆布で覆われたトラックがトーレンスに向かって走行しており、そのトーレンスはハバナ南西部のワジャイ高速道路沿いにある元感化院である。10月11日には、トラックから突き出たチューブ状の物体が確認された。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-12-12",
+  "origin_agency": "CIA",
+  "sender": "UMWAVE",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "ALBERT",
+    "Juan Francisco Hernandez"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Torrens",
+    "Wajay Highway",
+    "Habana",
+    "United States",
+    "Miami"
+  ],
   "tags": [
     "Truck Traffic",
     "Tube-like Objects",
@@ -12,23 +32,5 @@
     "REBECA",
     "ALBERT",
     "Juan Francisco Hernandez"
-  ],
-  "title": "TRUCK TRAFFIC AND TUBE-LIKE OBJECTS SEEN ENTERING TORRENS BASE",
-  "date": "1963-12-12",
-  "locations_mentioned": [
-    "Cuba",
-    "Torrens",
-    "Wajay Highway",
-    "Habana",
-    "United States",
-    "Miami"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "ALBERT",
-    "Juan Francisco Hernandez"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "UMWAVE"
+  ]
 }

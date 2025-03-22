@@ -1,8 +1,24 @@
 {
-  "classification": "Operations",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
+  "title": "Investigation into ACSI Involvement in AMTRUNK-9 Trip",
+  "title_ja": "AMTRUNK-9 への ACSI の関与に関する調査",
   "summary": "This document discusses an investigation into the potential involvement of ACSI (Army Counterintelligence) in sponsoring AMTRUNK-9's trip. It details circumstantial evidence suggesting ACSI involvement, including statements from AMTRUNK-9's wife, a written note from AMFAUNA-3, and the identification of the agent handler \"Torres\". The document also mentions concerns about funds provided for the trip and potential insubordination or misrepresentation within ACSI. It further explores the possibility of KUBARK sponsorship and discrepancies in the stories told by AMTRUNK-9 and his wife regarding the trip's funding.",
+  "summary_ja": "この文書では、AMTRUNK-9の旅行のスポンサーにACSI（陸軍防諜機関）が関与している可能性についての調査について述べている。ACSIの関与を示唆する状況証拠について詳しく説明しており、AMTRUNK-9の妻の供述、AMFAUNA-3のメモ、工作員「トーレス」の身元確認などがある。この文書には、この旅行に提供された資金に関する懸念や、ACSI内部での潜在的な不服従や虚偽の報告についても言及されている。さらに、KUBARKの支援の可能性や、この旅行の資金調達に関するAMTRUNK-9と彼の妻の証言の食い違いについても調査している。",
+  "document_type": "Classified Message",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "Unknown",
+  "origin_agency": "DIA",
+  "sender": "DIR",
+  "recipient": "ANTRUNK",
+  "persons_mentioned": [
+    "AMTRUNK-9",
+    "AMICE-14",
+    "AMFAUNA-3",
+    "Torres",
+    "Jose Vasquez",
+    "AMTRUNK-15"
+  ],
+  "locations_mentioned": [],
   "tags": [
     "ACSI",
     "AMTRUNK-9",
@@ -14,19 +30,5 @@
     "Funding",
     "Trip Sponsorship",
     "ODYOKE"
-  ],
-  "title": "Investigation into ACSI Involvement in AMTRUNK-9 Trip",
-  "date": "Unknown",
-  "locations_mentioned": [],
-  "origin_agency": "DIA",
-  "persons_mentioned": [
-    "AMTRUNK-9",
-    "AMICE-14",
-    "AMFAUNA-3",
-    "Torres",
-    "Jose Vasquez",
-    "AMTRUNK-15"
-  ],
-  "recipient": "ANTRUNK",
-  "sender": "DIR"
+  ]
 }

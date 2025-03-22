@@ -1,8 +1,31 @@
 {
-  "classification": "Security",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "RYBAT FJDUST - CJ MIL/1 - Damage Report",
+  "title_ja": "リバット FJDUST - CJ MIL/1 - 損害報告書",
   "summary": "This dispatch discusses Barry CYFRAIL/1 (201-845063), who is currently residing in Pottstown, Pennsylvania. It also mentions that CYFRAIL/1 was introduced to several WOFIRM personnel and individuals who worked upcountry in Laos. Additionally, the dispatch notes that FRONL/1 was observed visiting IDEN A, and the organization's Vientiane office is under investigation.",
+  "summary_ja": "本報告書では、現在ペンシルベニア州ポッツタウンに居住するバリー・サイフライル/1（201-845063）について言及している。また、サイフライル/1がラオス国内で活動する複数のWOfirm職員および個人に紹介されたことも言及している。さらに、FRONL/1がIDEN Aを訪問したことが確認され、同組織のビエンチャン事務所が調査中であることも報告されている。",
+  "document_type": "Dispatch",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1965-02-22",
+  "origin_agency": "CIA",
+  "sender": "Chief, WOBONE 13-7",
+  "recipient": "Chief, Far East Division; Chief, WOBONE 13-7; Chief of Station, Vientiane",
+  "persons_mentioned": [
+    "Barry CYFRAIL/1",
+    "Drone Tenley",
+    "Dicas Kooh",
+    "Laurere",
+    "Richard Ria",
+    "Frank Nagy",
+    "S. Tephen",
+    "Fritchard"
+  ],
+  "locations_mentioned": [
+    "Pottstown, Pennsylvania",
+    "Caribbean",
+    "Laos",
+    "Vientiane"
+  ],
   "tags": [
     "CYFRAIL/1",
     "WOBONE",
@@ -14,26 +37,5 @@
     "FRONL/1",
     "IDEN A",
     "Investment Overseas Service"
-  ],
-  "title": "RYBAT FJDUST - CJ MIL/1 - Damage Report",
-  "date": "1965-02-22",
-  "locations_mentioned": [
-    "Pottstown, Pennsylvania",
-    "Caribbean",
-    "Laos",
-    "Vientiane"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Barry CYFRAIL/1",
-    "Drone Tenley",
-    "Dicas Kooh",
-    "Laurere",
-    "Richard Ria",
-    "Frank Nagy",
-    "S. Tephen",
-    "Fritchard"
-  ],
-  "recipient": "Chief, Far East Division; Chief, WOBONE 13-7; Chief of Station, Vientiane",
-  "sender": "Chief, WOBONE 13-7"
+  ]
 }

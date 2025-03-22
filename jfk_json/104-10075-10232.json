@@ -1,18 +1,21 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses agent messages, potential reassignment of LUCY (ESTER ARANGO), reporting on military preparations on the north coast, and potential wiretaps.",
-  "tags": [
-    "agent message",
-    "military preparations",
-    "wiretap",
-    "Cuba",
-    "Mexico",
-    "Miami"
-  ],
   "title": "104-10076-10232 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "104-10076-10232 2025 1992年ジョン・F・ケネディ大統領暗殺記録法に基づく開示",
+  "summary": "This cable discusses agent messages, potential reassignment of LUCY (ESTER ARANGO), reporting on military preparations on the north coast, and potential wiretaps.",
+  "summary_ja": "この電報は、諜報員のメッセージ、LUCY（エステル・アランゴ）の潜在的な再配置、北海岸での軍事準備に関する報告、および潜在的な盗聴について議論している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1963-11-28",
+  "origin_agency": "CIA",
+  "sender": "JAJAVE",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "JAJAVE",
+    "ESTER ARANGO",
+    "JUAN CENDRA"
+  ],
   "locations_mentioned": [
     "Mexico",
     "Miami",
@@ -21,13 +24,12 @@
     "North Coast",
     "Cuba"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "JAJAVE",
-    "ESTER ARANGO",
-    "JUAN CENDRA"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "JAJAVE"
+  "tags": [
+    "agent message",
+    "military preparations",
+    "wiretap",
+    "Cuba",
+    "Mexico",
+    "Miami"
+  ]
 }

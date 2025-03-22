@@ -1,8 +1,22 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "UNCLASSIFIED",
+  "title": "BONE PRIORITY 136022",
+  "title_ja": "BONE PRIORITY 136022",
   "summary": "This document discusses potential contacts in SALY (likely a code name for a location) and DEVISTA-1 (possibly an individual or operation). It instructs the station to pass specific names to DEVISTA-1 if PCI doesn't provide contacts in SALY. Mentions possible communist connections.",
+  "summary_ja": "この文書では、SALY（おそらく場所のコード名）とDEVISTA-1（おそらく個人または作戦）における潜在的な接触について議論している。SALYにおける接触先がPCIから提供されない場合、特定の名前をDEVISTA-1に伝えるよう、局に指示している。共産主義者とのつながりの可能性に言及している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "UNCLASSIFIED",
+  "date": "2025",
+  "origin_agency": "CIA",
+  "sender": "Station",
+  "recipient": "DEVISTA-1",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "locations_mentioned": [
+    "Mexico",
+    "Italy"
+  ],
   "tags": [
     "DEVISTA-1",
     "SALY",
@@ -10,17 +24,5 @@
     "Communists",
     "Contacts",
     "Mexico"
-  ],
-  "title": "BONE PRIORITY 136022",
-  "date": "2025",
-  "locations_mentioned": [
-    "Mexico",
-    "Italy"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy"
-  ],
-  "recipient": "DEVISTA-1",
-  "sender": "Station"
+  ]
 }

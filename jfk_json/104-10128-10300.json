@@ -1,8 +1,19 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "STRATTON, Michael Weimer",
+  "title_ja": "ストラットン、マイケル・ワイマー",
   "summary": "This memo discusses the coordination of Michael Weimer Stratton's operational use within the US by WH/4/Propaganda with Mr. McCORD of SRS. It addresses the implications of a CI operation within the US by the Agency and the possibility that Stratton might come to the attention of the FBI through association with Court WOOK. Mr. McCORD suggests not informing the FBI at this time but will review the case in a month.",
+  "summary_ja": "このメモでは、WH/4/PropagandaがSRSのマッコード氏と協議した上で、マイケル・ウェイマー・ストラットンを米国内で運用することについて論じている。また、CIAによる米国内での諜報活動の含みについて、ストラットンがウーク中佐との関係を通じてFBIの知るところとなる可能性についても言及している。マッコード氏は現時点ではFBIに知らせないことを提案したが、1か月後にこの件を再検討することとした。",
+  "document_type": "Memo",
+  "classification": "Liaison",
+  "security_level": "SECRET",
+  "date": "1961-02-01",
+  "sender": "Kammer",
+  "persons_mentioned": [
+    "STRATTON, Michael Weimer",
+    "McCORD",
+    "David Atlee PHILLIPS",
+    "Court WOOK"
+  ],
   "tags": [
     "CI Operation",
     "FBI",
@@ -11,14 +22,5 @@
     "Operational Use",
     "David Atlee PHILLIPS",
     "Court WOOK"
-  ],
-  "title": "STRATTON, Michael Weimer",
-  "date": "1961-02-01",
-  "persons_mentioned": [
-    "STRATTON, Michael Weimer",
-    "McCORD",
-    "David Atlee PHILLIPS",
-    "Court WOOK"
-  ],
-  "sender": "Kammer"
+  ]
 }

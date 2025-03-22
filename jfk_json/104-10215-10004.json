@@ -1,29 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "These documents relate to the request for domestic and military cover for Ross Crozier, including reasons for the request and updates on his location and duties.",
-  "tags": [
-    "cover",
-    "military cover",
-    "domestic cover",
-    "Ross Crozier",
-    "security"
-  ],
   "title": "Request for Domestic Cover for Ross Crozier",
+  "title_ja": "ロス・クロージャーに対する国内監視の要請",
+  "summary": "These documents relate to the request for domestic and military cover for Ross Crozier, including reasons for the request and updates on his location and duties.",
+  "summary_ja": "これらの文書は、ロス・クロージャーの国内および軍事上の偽装工作に関する要請についてであり、その理由や所在地、任務の最新情報などを含む。",
+  "document_type": "Memorandum",
+  "classification": "Personnel",
+  "security_level": "SECRET",
   "date": "1963-06-25",
-  "locations_mentioned": [
-    "Headquarters",
-    "Washington, D.C.",
-    "Costa Rica",
-    "Guatemala",
-    "Cuba",
-    "Mexico City",
-    "Siem Maestra",
-    "Canal Zone",
-    "Coco Solo"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, SAS; Desmond FitzGerald; Chief, SAS/Support; Board J.",
+  "recipient": "Central Cover Staff; Chief, Central Cover Staff; Chief, Finance Division",
   "persons_mentioned": [
     "Ross Crozier",
     "Charlie Danish",
@@ -36,6 +22,22 @@
     "Castro",
     "John F. Kennedy"
   ],
-  "recipient": "Central Cover Staff; Chief, Central Cover Staff; Chief, Finance Division",
-  "sender": "Chief, SAS; Desmond FitzGerald; Chief, SAS/Support; Board J."
+  "locations_mentioned": [
+    "Headquarters",
+    "Washington, D.C.",
+    "Costa Rica",
+    "Guatemala",
+    "Cuba",
+    "Mexico City",
+    "Siem Maestra",
+    "Canal Zone",
+    "Coco Solo"
+  ],
+  "tags": [
+    "cover",
+    "military cover",
+    "domestic cover",
+    "Ross Crozier",
+    "security"
+  ]
 }

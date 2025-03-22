@@ -1,8 +1,25 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "HIDALGO, Jr., Balmes Nieves",
+  "title_ja": "ヒダルゴ、ジュニア、バルメス・ニーブス",
   "summary": "This memo discusses the availability of Balmes Nieves Hidalgo, Jr. for testimony or interviews regarding subversive activities. It details CIA's involvement in potentially facilitating questions and answers between the FBI and Hidalgo, who is a contract employee in Panama under the Travel Control Project.",
+  "summary_ja": "このメモは、破壊活動に関する証言またはインタビューへのバルメス・ニーブス・イダルゴ・ジュニアの出席可能性について論じている。また、旅行管理プロジェクトの下でパナマの契約社員であるイダルゴとFBIとの間の質疑応答をCIAが促進する可能性についても詳細に述べている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1953-10-21",
+  "origin_agency": "Office Memorandum",
+  "sender": "Chief, Special Referral Branch",
+  "recipient": "Deputy Chief, Special Security Division",
+  "persons_mentioned": [
+    "HIDALGO, Jr., Balmes Nieves",
+    "William B. CALDWELL",
+    "Helen POINDEXTER",
+    "Charles W. Kane"
+  ],
+  "locations_mentioned": [
+    "United States",
+    "Panama"
+  ],
   "tags": [
     "Subversive Activities Control Board",
     "FBI",
@@ -12,20 +29,5 @@
     "Contract Employee",
     "Interview",
     "Testimony"
-  ],
-  "title": "HIDALGO, Jr., Balmes Nieves",
-  "date": "1953-10-21",
-  "locations_mentioned": [
-    "United States",
-    "Panama"
-  ],
-  "origin_agency": "Office Memorandum",
-  "persons_mentioned": [
-    "HIDALGO, Jr., Balmes Nieves",
-    "William B. CALDWELL",
-    "Helen POINDEXTER",
-    "Charles W. Kane"
-  ],
-  "recipient": "Deputy Chief, Special Security Division",
-  "sender": "Chief, Special Referral Branch"
+  ]
 }

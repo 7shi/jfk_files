@@ -1,8 +1,28 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "KOPLES, David S.",
+  "title_ja": "コプレス、デビッド・S.",
   "summary": "Memorandum from Joseph F. Langan to the Office of Security regarding backstopped residence addresses for David S. Koples in Washington, D.C. and Los Angeles areas.",
+  "summary_ja": "ワシントンD.C.およびロサンゼルス地域のデイビッド・S・コープルズのバックアップ用住居住所に関する、ジョセフ・F・ランガンから安全保障局への覚書。",
+  "document_type": "Memorandum",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1960-10-24",
+  "origin_agency": "WH/4/SO",
+  "sender": "Joseph F. Langan, Chief, WH/4/So",
+  "recipient": "Office of Security, Support Branch",
+  "persons_mentioned": [
+    "David S. Koples",
+    "John Lavery",
+    "J. J. Mullane, Jr.",
+    "Joseph F. Langan"
+  ],
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Los Angeles",
+    "Phoenix, Arizona",
+    "New England",
+    "Miami"
+  ],
   "tags": [
     "Backstopping",
     "Residence Address",
@@ -11,23 +31,5 @@
     "Department of the Army",
     "Economic Research",
     "Latin American Trade"
-  ],
-  "title": "KOPLES, David S.",
-  "date": "1960-10-24",
-  "locations_mentioned": [
-    "Washington, D.C.",
-    "Los Angeles",
-    "Phoenix, Arizona",
-    "New England",
-    "Miami"
-  ],
-  "origin_agency": "WH/4/SO",
-  "persons_mentioned": [
-    "David S. Koples",
-    "John Lavery",
-    "J. J. Mullane, Jr.",
-    "Joseph F. Langan"
-  ],
-  "recipient": "Office of Security, Support Branch",
-  "sender": "Joseph F. Langan, Chief, WH/4/So"
+  ]
 }

@@ -1,30 +1,15 @@
 {
-  "classification": "FBI",
-  "document_type": "Document",
-  "security_level": "Unclassified",
-  "summary": "This file contains FBI and CIA documents related to Joseph R. Merola and his involvement in Caribbean political activities, particularly concerning Cuba and Panama, during the late 1950s and 1970s. The documents include reports, memos, and correspondence detailing Merola's contacts with the CIA, his alleged ties to anti-Castro groups, and his role as a source of foreign intelligence.",
-  "tags": [
-    "Joseph R. Merola",
-    "Caribbean Political Activities",
-    "Cuba",
-    "Panama",
-    "CIA",
-    "FBI",
-    "Foreign Intelligence",
-    "Anti-Castro",
-    "Watergate"
-  ],
   "title": "Joseph R. Merola File",
+  "title_ja": "ジョセフ・R・メローラのファイル",
+  "summary": "This file contains FBI and CIA documents related to Joseph R. Merola and his involvement in Caribbean political activities, particularly concerning Cuba and Panama, during the late 1950s and 1970s. The documents include reports, memos, and correspondence detailing Merola's contacts with the CIA, his alleged ties to anti-Castro groups, and his role as a source of foreign intelligence.",
+  "summary_ja": "このファイルには、1950年代後半から1970年代にかけて、ジョセフ・R・メローラがカリブ海地域での政治活動に関与したこと、特にキューバとパナマに関するFBIとCIAの文書が含まれている。文書には、メローラのCIAとの接触、反カストロ派とのつながりの疑惑、外国情報源としての役割に関する報告書、メモ、通信文が含まれている。",
+  "document_type": "Document",
+  "classification": "FBI",
+  "security_level": "Unclassified",
   "date": "1958-09-30",
-  "locations_mentioned": [
-    "Cuba",
-    "Panama",
-    "Miami",
-    "San Diego",
-    "Pittsburgh",
-    "Europe"
-  ],
   "origin_agency": "FBI, CIA, Department of Army, Department of Justice",
+  "sender": "Maurice A. Sovern, John K. Greaney, Crocky Br",
+  "recipient": "David M. Curry, John K. Greaney",
   "persons_mentioned": [
     "Joseph R. Merola",
     "Ruben Oscar Miro Guardia",
@@ -54,6 +39,23 @@
     "E Mac Amos, Jr.",
     "Gordon Thompson"
   ],
-  "recipient": "David M. Curry, John K. Greaney",
-  "sender": "Maurice A. Sovern, John K. Greaney, Crocky Br"
+  "locations_mentioned": [
+    "Cuba",
+    "Panama",
+    "Miami",
+    "San Diego",
+    "Pittsburgh",
+    "Europe"
+  ],
+  "tags": [
+    "Joseph R. Merola",
+    "Caribbean Political Activities",
+    "Cuba",
+    "Panama",
+    "CIA",
+    "FBI",
+    "Foreign Intelligence",
+    "Anti-Castro",
+    "Watergate"
+  ]
 }

@@ -1,8 +1,28 @@
 {
-  "classification": "Operations",
-  "document_type": "DDO Instruction",
-  "security_level": "SECRET",
+  "title": "DDO INSTRUCTION NO. 50-10: RESTRICTIONS ON OPERATIONAL USE",
+  "title_ja": "DDO指示第50-10号：作戦上の使用に関する制限",
   "summary": "This document outlines the restrictions on the operational use of individuals or groups by the DDO, covering various categories such as members of ACTION, Fulbright grantees, and employees of other U.S. government agencies. It details the required approvals and concurrences for operational use based on the individual's affiliation or status.",
+  "summary_ja": "この文書では、DDOによる個人またはグループの作戦上の使用に関する制限について概説しており、ACTIONのメンバー、フルブライト奨学生、その他の米国政府機関の職員など、さまざまなカテゴリーを対象としている。個人の所属や地位に基づく作戦上の使用に必要な承認や同意について詳細に説明している。",
+  "document_type": "DDO Instruction",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1973-09-04",
+  "origin_agency": "DDO (Deputy Director for Operations)",
+  "sender": "William E. Nelson, Deputy Director for Operations",
+  "recipient": "DDO Elements",
+  "persons_mentioned": [
+    "William E. Nelson"
+  ],
+  "locations_mentioned": [
+    "United States",
+    "Australia",
+    "Canada",
+    "United Kingdom",
+    "New Zealand",
+    "Norway",
+    "West Germany",
+    "The Netherlands"
+  ],
   "tags": [
     "operational use",
     "restrictions",
@@ -19,23 +39,5 @@
     "Red Cross",
     "Vatican",
     "academic community"
-  ],
-  "title": "DDO INSTRUCTION NO. 50-10: RESTRICTIONS ON OPERATIONAL USE",
-  "date": "1973-09-04",
-  "locations_mentioned": [
-    "United States",
-    "Australia",
-    "Canada",
-    "United Kingdom",
-    "New Zealand",
-    "Norway",
-    "West Germany",
-    "The Netherlands"
-  ],
-  "origin_agency": "DDO (Deputy Director for Operations)",
-  "persons_mentioned": [
-    "William E. Nelson"
-  ],
-  "recipient": "DDO Elements",
-  "sender": "William E. Nelson, Deputy Director for Operations"
+  ]
 }

@@ -1,8 +1,29 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Availability of AMWHIP for Operations in Geneva, Paris, and Rome",
+  "title_ja": "ジュネーブ、パリ、ローマでの作戦におけるAMWHIPの可用性",
   "summary": "This cable discusses the availability of AMWHIP for upcoming operations in Geneva, Paris, and Rome. It details AMWHIP's current commitments in New York and suggests alternative arrangements involving AMWHIP/2 for assistance in Rome prior to AMWHIP's arrival.",
+  "summary_ja": "本電報は、ジュネーブ、パリ、ローマにおける今後の作戦におけるAMWHIPの可用性について議論している。ニューヨークにおけるAMWHIPの現在の任務について詳細に説明し、AMWHIP到着前のローマでの支援については、AMWHIP/2を含む代替案を提案している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1964-04-17",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "GENEVA, BERN, MADRID, ROME, PARIS",
+  "persons_mentioned": [
+    "WAINWRIGHT",
+    "JOHN F. KENNEDY",
+    "CARRILLO",
+    "ROBRENO"
+  ],
+  "locations_mentioned": [
+    "GENEVA",
+    "BERN",
+    "MADRID",
+    "ROME",
+    "PARIS",
+    "NEW YORK"
+  ],
   "tags": [
     "AMWHIP",
     "PERUMEN",
@@ -13,24 +34,5 @@
     "ROBRENO",
     "GNYA",
     "AMWHIP/2"
-  ],
-  "title": "Availability of AMWHIP for Operations in Geneva, Paris, and Rome",
-  "date": "1964-04-17",
-  "locations_mentioned": [
-    "GENEVA",
-    "BERN",
-    "MADRID",
-    "ROME",
-    "PARIS",
-    "NEW YORK"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "WAINWRIGHT",
-    "JOHN F. KENNEDY",
-    "CARRILLO",
-    "ROBRENO"
-  ],
-  "recipient": "GENEVA, BERN, MADRID, ROME, PARIS",
-  "sender": "DIRECTOR"
+  ]
 }

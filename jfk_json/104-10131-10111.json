@@ -1,8 +1,17 @@
 {
-  "classification": "Personnel",
-  "document_type": "Form",
-  "security_level": "SECRET",
+  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
+  "title_ja": "軍事保護バックストップの確立通知",
   "summary": "This document pertains to the establishment of a military cover backstop for an individual. It includes instructions for blocking records, ensuring Army W-2 issuance, submitting forms for changes affecting the cover, and transferring cover responsibility.",
+  "summary_ja": "この文書は、ある個人に対する軍の偽装工作の確立に関するものである。記録のブロック、陸軍W-2発行の確保、偽装工作に影響を与える変更に関する書類の提出、偽装工作責任の移転に関する指示が含まれている。",
+  "document_type": "Form",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "Unknown",
+  "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "CHIEF, PERSONNEL OPERATIONS DIVISION; CHIEF, OPERATING COMPONENT",
+  "persons_mentioned": [],
+  "locations_mentioned": [],
   "tags": [
     "Military Cover",
     "Backstop",
@@ -11,12 +20,5 @@
     "Records",
     "Army W-2",
     "Cover History"
-  ],
-  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
-  "date": "Unknown",
-  "locations_mentioned": [],
-  "origin_agency": "CIA",
-  "persons_mentioned": [],
-  "recipient": "CHIEF, PERSONNEL OPERATIONS DIVISION; CHIEF, OPERATING COMPONENT",
-  "sender": "Unknown"
+  ]
 }

@@ -1,8 +1,29 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Request for Training at ISOLATION",
+  "title_ja": "隔離での訓練要請",
   "summary": "This cable details a request for training for a six-man leader group at ISOLATION, scheduled to arrive on July 11. The training will focus on isotropics, with less emphasis on UDI, stress leadership, and field exercises encompassing tradecraft, caching, and observation reporting. All trainees have completed JMWAVE training and have OA's and recent LCFLUTTERS. The cable also requests airlift for the leader team to ISO on the night of July 11 and return of the AMANCHOR group from ISO to WAVE on the night of July 12.",
+  "summary_ja": "この電報は、7月11日に到着予定のISOLATIONにおける6人の指導者グループの訓練要請について詳細に述べている。訓練はアイソトロピックに重点を置き、UDI、ストレス・リーダーシップ、および技術、隠匿、観測報告を含む実地訓練にはあまり重点を置かない。すべての訓練生はJMWAVE訓練を完了しており、OAおよび最近のLCFLUTTERSを所持している。また、この電報は、7月11日の夜にリーダーチームをISOに空輸し、7月12日の夜にAMANCHORグループをISOからWAVEに帰還させるよう要請している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1965-07-07",
+  "origin_agency": "JMWAVE",
+  "sender": "JMWAVE",
+  "recipient": "DIRECTOR, EGLIN",
+  "persons_mentioned": [
+    "ANLILAC/29 TA IGNACIO",
+    "AMLILAC/33 TA MANUEL",
+    "AMSKIRT/1 TA PABLO",
+    "AMHINT/56 TA FRANK",
+    "AMTRUNK/21 TA LUIS",
+    "AMLUNT/2 TA FILIPE",
+    "AMPOLISH/1 TA SIMON"
+  ],
+  "locations_mentioned": [
+    "EGLIN",
+    "ISO",
+    "JMWAVE"
+  ],
   "tags": [
     "JMWAVE",
     "ISOLATION",
@@ -20,24 +41,5 @@
     "ISOTROPIC",
     "UDI",
     "LCFLUTTERS"
-  ],
-  "title": "Request for Training at ISOLATION",
-  "date": "1965-07-07",
-  "locations_mentioned": [
-    "EGLIN",
-    "ISO",
-    "JMWAVE"
-  ],
-  "origin_agency": "JMWAVE",
-  "persons_mentioned": [
-    "ANLILAC/29 TA IGNACIO",
-    "AMLILAC/33 TA MANUEL",
-    "AMSKIRT/1 TA PABLO",
-    "AMHINT/56 TA FRANK",
-    "AMTRUNK/21 TA LUIS",
-    "AMLUNT/2 TA FILIPE",
-    "AMPOLISH/1 TA SIMON"
-  ],
-  "recipient": "DIRECTOR, EGLIN",
-  "sender": "JMWAVE"
+  ]
 }

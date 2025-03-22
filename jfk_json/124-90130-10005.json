@@ -1,8 +1,27 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "Secret",
+  "title": "FRANCISCO RODRIGUEZ TAMAYO",
+  "title_ja": "フランシスコ・ロドリゲス・タマヨ",
   "summary": "This FBI report discusses Francisco Rodriguez Tamayo and the Pan America Confederation, referencing informants and telephone numbers in Key West, Florida.",
+  "summary_ja": "このFBI報告書は、フランシスコ・ロドリゲス・タマヨとパンアメリカ連合について論じ、フロリダ州キーウェストの情報提供者と電話番号を参照している。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "Secret",
+  "date": "1960-07-09",
+  "origin_agency": "FBI",
+  "sender": "MM",
+  "recipient": "HQ",
+  "persons_mentioned": [
+    "FRANCISCO RODRIGUEZ TAMAYO",
+    "POLLY ANDREW",
+    "LEMAN L. STAFFORD, JR.",
+    "GILBERT BARRERAS",
+    "RAY O'MERA"
+  ],
+  "locations_mentioned": [
+    "Key West, Florida",
+    "Coral Gables, Florida",
+    "Miami"
+  ],
   "tags": [
     "Francisco Rodriguez Tamayo",
     "Pan America Confederation",
@@ -12,22 +31,5 @@
     "Informants",
     "Southern Bell Telephone and Telegraph Company",
     "Coral Gables"
-  ],
-  "title": "FRANCISCO RODRIGUEZ TAMAYO",
-  "date": "1960-07-09",
-  "locations_mentioned": [
-    "Key West, Florida",
-    "Coral Gables, Florida",
-    "Miami"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "FRANCISCO RODRIGUEZ TAMAYO",
-    "POLLY ANDREW",
-    "LEMAN L. STAFFORD, JR.",
-    "GILBERT BARRERAS",
-    "RAY O'MERA"
-  ],
-  "recipient": "HQ",
-  "sender": "MM"
+  ]
 }

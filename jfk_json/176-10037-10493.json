@@ -1,8 +1,25 @@
 {
-  "classification": "CONFIDENTIAL",
-  "document_type": "TELEGRAM INFORMATION REPORT",
-  "security_level": "CONFIDENTIAL",
+  "title": "Information Report Re: Comments",
+  "title_ja": "情報報告書：コメント",
   "summary": "Information Report Re: Comments of Tran Van Ly on the Desirability, Problems and Consequences of a Coup D'Etat",
+  "summary_ja": "情報報告書 Re: トラン・ヴァン・リーによるクーデターの望ましさ、問題、結果に関するコメント",
+  "document_type": "TELEGRAM INFORMATION REPORT",
+  "classification": "CONFIDENTIAL",
+  "security_level": "CONFIDENTIAL",
+  "date": "1962-01-28",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "STATE ARMY/ACSI NAVY AIR JCS SECDEF NSANIC USTA OCI ONE OCR ORR OO DIA EXO VTFS AIDS",
+  "persons_mentioned": [
+    "Tran Van Ly",
+    "General Nghiem",
+    "Diem"
+  ],
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon"
+  ],
   "tags": [
     "coup d'etat",
     "Tran Van Ly",
@@ -11,20 +28,5 @@
     "General Nghiem",
     "Caravelle Opposition Group",
     "Revolutionary Committee"
-  ],
-  "title": "Information Report Re: Comments",
-  "date": "1962-01-28",
-  "locations_mentioned": [
-    "South Vietnam",
-    "Vietnam",
-    "Saigon"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Tran Van Ly",
-    "General Nghiem",
-    "Diem"
-  ],
-  "recipient": "STATE ARMY/ACSI NAVY AIR JCS SECDEF NSANIC USTA OCI ONE OCR ORR OO DIA EXO VTFS AIDS",
-  "sender": "CIA"
+  ]
 }

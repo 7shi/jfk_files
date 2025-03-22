@@ -1,17 +1,24 @@
 {
-  "classification": "Personnel",
-  "document_type": "Supplemental Personal History Statement",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This document is a Supplemental Personal History Statement for Daniel Flores, providing details about his personal history, family, residences, and personal declarations.",
-  "tags": [
-    "Personal History",
-    "Employment",
-    "Residence",
-    "Family",
-    "Security Clearance"
-  ],
   "title": "Supplemental Personal History Statement for Daniel Flores",
+  "title_ja": "ダニエル・フローレスの補足個人経歴書",
+  "summary": "This document is a Supplemental Personal History Statement for Daniel Flores, providing details about his personal history, family, residences, and personal declarations.",
+  "summary_ja": "この文書は、ダニエル・フローレスの補足個人経歴書であり、彼の個人経歴、家族、居住地、および個人による申告の詳細を記載している。",
+  "document_type": "Supplemental Personal History Statement",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
   "date": "1967-03-29",
+  "origin_agency": "Headquarters",
+  "sender": "Daniel Flores",
+  "recipient": "Headquarters",
+  "persons_mentioned": [
+    "Daniel Flores",
+    "Dorothy Arnett Flores",
+    "Kendra Flores",
+    "Zola Marie Flores",
+    "Richard Guerrero",
+    "Harry T. Mahoney",
+    "Dorothy A. Moran Flores"
+  ],
   "locations_mentioned": [
     "San Marcos, Texas",
     "Portland, Oregon",
@@ -22,16 +29,11 @@
     "New Orleans, Louisiana",
     "Ansbach, Germany"
   ],
-  "origin_agency": "Headquarters",
-  "persons_mentioned": [
-    "Daniel Flores",
-    "Dorothy Arnett Flores",
-    "Kendra Flores",
-    "Zola Marie Flores",
-    "Richard Guerrero",
-    "Harry T. Mahoney",
-    "Dorothy A. Moran Flores"
-  ],
-  "recipient": "Headquarters",
-  "sender": "Daniel Flores"
+  "tags": [
+    "Personal History",
+    "Employment",
+    "Residence",
+    "Family",
+    "Security Clearance"
+  ]
 }

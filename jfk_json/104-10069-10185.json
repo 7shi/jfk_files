@@ -1,27 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch discusses agreed activities between JMWAVE and ACSI, including refugee referral procedures, infiltration operations, and coordination of resources like W/T assets and secret writing. It also highlights concerns about cooperation from Lt. Col. Causes and potential issues at the Opa Locka center.",
-  "tags": [
-    "Agreed Activities",
-    "Refugee Referral",
-    "Infiltration Operation",
-    "W/T Assets",
-    "Secret Writing",
-    "Coordination",
-    "Opa Locka",
-    "GYROSE"
-  ],
   "title": "Operational/GYROSE Agreed Activities",
+  "title_ja": "作戦/GYROSE 同意された活動",
+  "summary": "This dispatch discusses agreed activities between JMWAVE and ACSI, including refugee referral procedures, infiltration operations, and coordination of resources like W/T assets and secret writing. It also highlights concerns about cooperation from Lt. Col. Causes and potential issues at the Opa Locka center.",
+  "summary_ja": "この報告書では、JMWAVEとACSI間の合意された活動について論じている。難民の紹介手続き、浸透作戦、無線通信手段や秘密の暗号化手段などのリソースの調整などである。また、オパ・ロッカセンターにおけるコーズ中佐の協力と潜在的な問題についての懸念も強調されている。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1962-07-03",
-  "locations_mentioned": [
-    "Miami",
-    "Opa Locka",
-    "PBRUMEN",
-    "Havana"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief of Station, JMWAVE",
+  "recipient": "Chief, Task Force W",
   "persons_mentioned": [
     "Maj. Watlington",
     "Lt. Col. Carlos Causes",
@@ -34,6 +22,20 @@
     "Antonio ORDONEZ Hernandez",
     "Col. Trudencio Ulibarri"
   ],
-  "recipient": "Chief, Task Force W",
-  "sender": "Chief of Station, JMWAVE"
+  "locations_mentioned": [
+    "Miami",
+    "Opa Locka",
+    "PBRUMEN",
+    "Havana"
+  ],
+  "tags": [
+    "Agreed Activities",
+    "Refugee Referral",
+    "Infiltration Operation",
+    "W/T Assets",
+    "Secret Writing",
+    "Coordination",
+    "Opa Locka",
+    "GYROSE"
+  ]
 }

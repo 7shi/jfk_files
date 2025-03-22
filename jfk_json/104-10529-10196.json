@@ -1,18 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Message",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This document contains information related to the release of records under the President John F. Kennedy Assassination Records Act of 1992. It includes identification information for Joseph Montllor, John E Barber, and Goodwin Shapiro. It also contains names JCKING and BERNHARD ER.",
-  "tags": [
-    "John F. Kennedy Assassination Records Act",
-    "Release",
-    "Identification",
-    "Names"
-  ],
   "title": "104-10529-10196 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "104-10529-10196 2025 1992年ジョン・F・ケネディ大統領暗殺記録法に基づく開示",
+  "summary": "This document contains information related to the release of records under the President John F. Kennedy Assassination Records Act of 1992. It includes identification information for Joseph Montllor, John E Barber, and Goodwin Shapiro. It also contains names JCKING and BERNHARD ER.",
+  "summary_ja": "この文書には、1992年のジョン・F・ケネディ大統領暗殺記録法に基づく記録の公開に関する情報が含まれている。ジョセフ・モンジョール、ジョン・E・バーバー、グッドウィン・シャピロの身元確認情報も含まれている。また、JCKINGとBERNHARD ERという名前も含まれている。",
+  "document_type": "Message",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
   "date": "2025",
-  "locations_mentioned": [],
   "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "CF",
   "persons_mentioned": [
     "Joseph Montllor",
     "John E Barber",
@@ -20,6 +17,11 @@
     "JCKING",
     "BERNHARD ER"
   ],
-  "recipient": "CF",
-  "sender": "Unknown"
+  "locations_mentioned": [],
+  "tags": [
+    "John F. Kennedy Assassination Records Act",
+    "Release",
+    "Identification",
+    "Names"
+  ]
 }

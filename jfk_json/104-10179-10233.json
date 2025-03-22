@@ -1,23 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Report",
-  "security_level": "SECRET",
-  "summary": "Report regarding Subject Resistance Group information in Bavaria, sent under separate cover, per request KMW 8907.",
-  "tags": [
-    "Resistance Group",
-    "Bavaria",
-    "PERIMETER Group",
-    "KMW 8907",
-    "Liaison"
-  ],
   "title": "Liaison Re: PERIMETER Group in Bavaria",
+  "title_ja": "連絡事項：バイエルン州のペリメーター・グループ",
+  "summary": "Report regarding Subject Resistance Group information in Bavaria, sent under separate cover, per request KMW 8907.",
+  "summary_ja": "バイエルン州における対象レジスタンスグループに関する報告書。別便にて送付。KMW 8907の要請による。",
+  "document_type": "Report",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1963-10-17",
-  "locations_mentioned": [
-    "Munich",
-    "Germany",
-    "Bavaria"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief of Base, Munich",
+  "recipient": "Chief of Station, Germany",
   "persons_mentioned": [
     "John F. Kennedy",
     "PRESTON C. INNINEN",
@@ -25,6 +17,16 @@
     "WESTON G. PARKER",
     "R. Wagner"
   ],
-  "recipient": "Chief of Station, Germany",
-  "sender": "Chief of Base, Munich"
+  "locations_mentioned": [
+    "Munich",
+    "Germany",
+    "Bavaria"
+  ],
+  "tags": [
+    "Resistance Group",
+    "Bavaria",
+    "PERIMETER Group",
+    "KMW 8907",
+    "Liaison"
+  ]
 }

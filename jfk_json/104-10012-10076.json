@@ -1,21 +1,16 @@
 {
-  "classification": "Distribution",
-  "document_type": "Field Distribution List",
-  "security_level": "Unclassified",
-  "summary": "This document lists the distribution of materials to various divisions and locations, including WH Division, NE Division, BD, EUR Division, FE Division, SB Division, and internal distributions.",
-  "tags": [
-    "distribution list",
-    "field offices",
-    "internal distribution",
-    "WH Division",
-    "NE Division",
-    "BD",
-    "EUR Division",
-    "FE Division",
-    "SB Division"
-  ],
   "title": "Field Distribution",
+  "title_ja": "分野別配布",
+  "summary": "This document lists the distribution of materials to various divisions and locations, including WH Division, NE Division, BD, EUR Division, FE Division, SB Division, and internal distributions.",
+  "summary_ja": "この文書には、WH部、NE部、BD、EUR部、FE部、SB部、および内部配布を含む、さまざまな部署および場所への資料配布が記載されている。",
+  "document_type": "Field Distribution List",
+  "classification": "Distribution",
+  "security_level": "Unclassified",
   "date": "Unknown",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Various Divisions and Offices",
+  "persons_mentioned": [],
   "locations_mentioned": [
     "Abidjan",
     "Asuncion",
@@ -111,8 +106,15 @@
     "Vientiane",
     "Wellington"
   ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [],
-  "recipient": "Various Divisions and Offices",
-  "sender": "Unknown"
+  "tags": [
+    "distribution list",
+    "field offices",
+    "internal distribution",
+    "WH Division",
+    "NE Division",
+    "BD",
+    "EUR Division",
+    "FE Division",
+    "SB Division"
+  ]
 }

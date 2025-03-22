@@ -1,8 +1,24 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Peter J. DICERVINO",
+  "title_ja": "Peter J. DICERVINO",
   "summary": "Memorandum regarding establishment of non-official cover for Peter J. DICERVINO's assignment to Madrid, Spain. Security files contain no record of declaration or compromise to foreign Governments or intelligence/security services.",
+  "summary_ja": "ピーター・J・ディセルヴィーノのスペイン・マドリードへの非公式任務に関する偽装工作の確立に関する覚書。 セキュリティファイルには、外国政府または情報機関/治安部隊への申告または漏洩の記録は含まれていない。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1967-06-15",
+  "origin_agency": "Deputy Director of Security",
+  "sender": "Victor R. White, Deputy Director of Security",
+  "recipient": "Chief, Central Cover Staff",
+  "persons_mentioned": [
+    "Peter J. DICERVINO",
+    "Thomas K. Strange",
+    "Victor R. White"
+  ],
+  "locations_mentioned": [
+    "Madrid",
+    "Spain"
+  ],
   "tags": [
     "non-official cover",
     "Madrid",
@@ -11,19 +27,5 @@
     "compromise",
     "foreign governments",
     "intelligence services"
-  ],
-  "title": "Peter J. DICERVINO",
-  "date": "1967-06-15",
-  "locations_mentioned": [
-    "Madrid",
-    "Spain"
-  ],
-  "origin_agency": "Deputy Director of Security",
-  "persons_mentioned": [
-    "Peter J. DICERVINO",
-    "Thomas K. Strange",
-    "Victor R. White"
-  ],
-  "recipient": "Chief, Central Cover Staff",
-  "sender": "Victor R. White, Deputy Director of Security"
+  ]
 }

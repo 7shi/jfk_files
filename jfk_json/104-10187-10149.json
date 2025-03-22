@@ -1,8 +1,26 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "STAFF EMPLOYEES WILL TRAVEL SALV",
+  "title_ja": "スタッフ従業員がSALVへ出張",
   "summary": "This cable discusses potential meetings and discussions in El Salvador and Guatemala regarding Cuban subversion, as well as potential pitches to AMMUG leads.",
+  "summary_ja": "この電報では、エルサルバドルとグアテマラにおけるキューバの破壊活動に関する潜在的な会議や議論について、また、AMMUGの主導権を握るための潜在的な売り込みについて論じている。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1964-08-27",
+  "origin_agency": "CIA",
+  "sender": "SALV GUAT",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "RIVERA",
+    "PERALTA"
+  ],
+  "locations_mentioned": [
+    "SAN SALVADOR",
+    "GUATEMALA CITY",
+    "GUAT",
+    "TEGU"
+  ],
   "tags": [
     "AMMUG",
     "Cuban Subversion",
@@ -12,21 +30,5 @@
     "Briefings",
     "Pitches",
     "Liaison"
-  ],
-  "title": "STAFF EMPLOYEES WILL TRAVEL SALV",
-  "date": "1964-08-27",
-  "locations_mentioned": [
-    "SAN SALVADOR",
-    "GUATEMALA CITY",
-    "GUAT",
-    "TEGU"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "RIVERA",
-    "PERALTA"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "SALV GUAT"
+  ]
 }

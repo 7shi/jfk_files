@@ -1,8 +1,20 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
+  "title": "JAMES ANGLETON",
+  "title_ja": "ジェームズ・アングルトン",
   "summary": "This document discusses James Angleton of the CIA providing information to the FBI on a confidential basis and the procedure for handling this information to protect Angleton and the CIA as sources.",
+  "summary_ja": "この文書では、CIAのジェームズ・アングルトンがFBIに機密情報を提供していること、および情報源であるアングルトンとCIAを守るためにこの情報を取り扱う手続きについて述べられている。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1954-04-30",
+  "origin_agency": "FBI",
+  "sender": "BRANIGAN",
+  "recipient": "BELMONT",
+  "persons_mentioned": [
+    "James Angleton",
+    "A. H. Belmont",
+    "W. A. Branigan"
+  ],
   "tags": [
     "James Angleton",
     "CIA",
@@ -11,15 +23,5 @@
     "Informant",
     "Source Protection",
     "Intelligence"
-  ],
-  "title": "JAMES ANGLETON",
-  "date": "1954-04-30",
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "James Angleton",
-    "A. H. Belmont",
-    "W. A. Branigan"
-  ],
-  "recipient": "BELMONT",
-  "sender": "BRANIGAN"
+  ]
 }

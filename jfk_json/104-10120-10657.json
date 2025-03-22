@@ -1,16 +1,14 @@
 {
-  "classification": "Personnel",
-  "document_type": "Cross Reference",
-  "security_level": "CONFIDENTIAL",
-  "summary": "Cross-reference file linking multiple individuals and their associated file numbers, possibly related to an investigation.",
-  "tags": [
-    "relationships",
-    "files",
-    "investigation",
-    "CIA"
-  ],
   "title": "CROSS REFERENCE FOR PERS. SD FILES",
+  "title_ja": "人物SDファイル相互参照",
+  "summary": "Cross-reference file linking multiple individuals and their associated file numbers, possibly related to an investigation.",
+  "summary_ja": "複数の個人と関連するファイル番号をリンクする相互参照ファイル。おそらく調査に関連している。",
+  "document_type": "Cross Reference",
+  "classification": "Personnel",
+  "security_level": "CONFIDENTIAL",
   "date": "1960-08-02",
+  "sender": "FE/tubss",
+  "recipient": "CIA",
   "persons_mentioned": [
     "GETHULE L. CULLY DUPFEY",
     "SL. DUFFY",
@@ -22,6 +20,10 @@
     "Thomas F. MC COY",
     "CLIRE LOUTH LUCE"
   ],
-  "recipient": "CIA",
-  "sender": "FE/tubss"
+  "tags": [
+    "relationships",
+    "files",
+    "investigation",
+    "CIA"
+  ]
 }

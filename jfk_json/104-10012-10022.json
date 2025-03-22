@@ -1,21 +1,23 @@
 {
-  "classification": "Soviet",
-  "document_type": "Memo",
-  "security_level": "SECRET",
-  "summary": "This memo discusses Valeriy Vladimirovich Kostikov's activities, including his tours in Mexico City, attempts to cultivate a U.S. Government employee, handling Lee Harvey Oswald's visa request, and alleged involvement with Central American communist parties. It also mentions his unusual trips to Moscow and Havana, his sudden departure from Mexico, and his reputation as an effective intelligence officer.",
-  "tags": [
-    "Valeriy Vladimirovich Kostikov",
-    "Lee Harvey Oswald",
-    "Mexico City",
-    "Visa Request",
-    "Soviet Embassy",
-    "Central American Communist Parties",
-    "KGB",
-    "Executive Action",
-    "Department 13"
-  ],
   "title": "Valeriy Vladimirovich Kostikov Activities",
+  "title_ja": "ヴァレリー・ウラジミロヴィチ・コスティコフの活動",
+  "summary": "This memo discusses Valeriy Vladimirovich Kostikov's activities, including his tours in Mexico City, attempts to cultivate a U.S. Government employee, handling Lee Harvey Oswald's visa request, and alleged involvement with Central American communist parties. It also mentions his unusual trips to Moscow and Havana, his sudden departure from Mexico, and his reputation as an effective intelligence officer.",
+  "summary_ja": "このメモは、メキシコシティでの勤務、米国政府職員の買収工作、リー・ハーヴェイ・オズワルドのビザ申請の処理、および中央アメリカ共産党との関与の疑惑など、ヴァレリー・ウラジミロヴィッチ・コスティコフの活動について論じている。また、モスクワとハバナへの異例の旅行、メキシコからの突然の出発、および有能な諜報部員としての彼の評判についても言及している。",
+  "document_type": "Memo",
+  "classification": "Soviet",
+  "security_level": "SECRET",
   "date": "1982-05-21",
+  "origin_agency": "CIA",
+  "sender": "David H. Blee",
+  "recipient": "Anthony C. M. DeVere",
+  "persons_mentioned": [
+    "Anthony C. M. DeVere",
+    "Lee Harvey Oswald",
+    "Valeriy Vladimirovich Kostikov",
+    "Lyalin",
+    "David H. Blee",
+    "Joan Paxson"
+  ],
   "locations_mentioned": [
     "Mexico",
     "France",
@@ -28,15 +30,15 @@
     "Havana",
     "Beirut"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Anthony C. M. DeVere",
-    "Lee Harvey Oswald",
+  "tags": [
     "Valeriy Vladimirovich Kostikov",
-    "Lyalin",
-    "David H. Blee",
-    "Joan Paxson"
-  ],
-  "recipient": "Anthony C. M. DeVere",
-  "sender": "David H. Blee"
+    "Lee Harvey Oswald",
+    "Mexico City",
+    "Visa Request",
+    "Soviet Embassy",
+    "Central American Communist Parties",
+    "KGB",
+    "Executive Action",
+    "Department 13"
+  ]
 }

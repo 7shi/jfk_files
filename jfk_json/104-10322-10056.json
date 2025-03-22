@@ -1,20 +1,25 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum and Cable",
-  "security_level": "SECRET",
-  "summary": "This document contains supplementary information on James Earl Ray, including discussions with the FBI and a cable regarding Eric Galt, a suspect in the assassination of Martin Luther King, Jr. It details efforts to determine Galt's whereabouts and requests information from various locations.",
-  "tags": [
-    "James Earl Ray",
-    "Eric Galt",
-    "FBI",
-    "Martin Luther King Jr.",
-    "Assassination",
-    "Liaison",
-    "Fingerprints",
-    "Investigation"
-  ],
   "title": "Supplementary Information on James Earl Ray",
+  "title_ja": "ジェームズ・アール・レイに関する補足情報",
+  "summary": "This document contains supplementary information on James Earl Ray, including discussions with the FBI and a cable regarding Eric Galt, a suspect in the assassination of Martin Luther King, Jr. It details efforts to determine Galt's whereabouts and requests information from various locations.",
+  "summary_ja": "この文書には、ジェームズ・アール・レイに関する補足情報が含まれており、FBIとの協議や、キング牧師暗殺事件の容疑者であるエリック・ガルトに関する電報が含まれている。ガルトの居場所を突き止めるための努力や、さまざまな場所からの情報提供依頼について詳細に述べられている。",
+  "document_type": "Memorandum and Cable",
+  "classification": "Liaison",
+  "security_level": "SECRET",
   "date": "1975-10-24",
+  "origin_agency": "CIA",
+  "sender": "David H. Blee, Associate Deputy Director for Operations",
+  "recipient": "Director of Central Intelligence",
+  "persons_mentioned": [
+    "James Earl Ray",
+    "John F. Kennedy",
+    "Dick Ober",
+    "David H. Blee",
+    "Eric Starvo Galt",
+    "Harvey Lowmyer",
+    "John Willard",
+    "Martin Luther King Jr."
+  ],
   "locations_mentioned": [
     "Asuncion",
     "Bangkok",
@@ -71,17 +76,14 @@
     "Vienna",
     "Zurich"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
+  "tags": [
     "James Earl Ray",
-    "John F. Kennedy",
-    "Dick Ober",
-    "David H. Blee",
-    "Eric Starvo Galt",
-    "Harvey Lowmyer",
-    "John Willard",
-    "Martin Luther King Jr."
-  ],
-  "recipient": "Director of Central Intelligence",
-  "sender": "David H. Blee, Associate Deputy Director for Operations"
+    "Eric Galt",
+    "FBI",
+    "Martin Luther King Jr.",
+    "Assassination",
+    "Liaison",
+    "Fingerprints",
+    "Investigation"
+  ]
 }

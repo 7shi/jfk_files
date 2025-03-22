@@ -1,8 +1,17 @@
 {
-  "classification": "Mexico",
-  "document_type": "Receipt",
-  "security_level": "SECRET",
+  "title": "RECEIPT FOR AUTHENTICATION MATERIALS",
+  "title_ja": "認証資料の受領書",
   "summary": "This document is a receipt for authentication materials related to Jaime Sanchez Papo (Alias). It acknowledges the receipt of a Mexican Driver's License and a Mexican Voters Certificate.",
+  "summary_ja": "この文書は、ハイメ・サンチェス・パポ（別名）に関する認証資料の受領書である。メキシコの運転免許証とメキシコの有権者証明書の受領を証明している。",
+  "document_type": "Receipt",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1964-05-27",
+  "sender": "TSD/DB",
+  "recipient": "TSD/DB",
+  "persons_mentioned": [
+    "Jaime Sanchez Papo"
+  ],
   "tags": [
     "Authentication Materials",
     "Jaime Sanchez Papo",
@@ -12,12 +21,5 @@
     "TSD/DB",
     "Operational Use",
     "Returned Documents"
-  ],
-  "title": "RECEIPT FOR AUTHENTICATION MATERIALS",
-  "date": "1964-05-27",
-  "persons_mentioned": [
-    "Jaime Sanchez Papo"
-  ],
-  "recipient": "TSD/DB",
-  "sender": "TSD/DB"
+  ]
 }

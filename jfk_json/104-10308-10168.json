@@ -1,18 +1,22 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "Unclassified",
-  "summary": "This cable discusses several topics, including Juan Manuel Fernandez's desire to leave Cuba, a request to take Luis Rodriguez into the Jaguar Group, authorization to instruct A-35, information about an assassination attempt against Fidel Castro, the movement of tracked tanks, a Russian ship delivering fertilizer, and the defection of Commandant 'Contreras' and others.",
-  "tags": [
-    "Cuban Communism",
-    "Jaguar Group",
-    "Assassination Attempt",
-    "Fidel Castro",
-    "Military Equipment",
-    "Defection"
-  ],
   "title": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "1992年のジョン・F・ケネディ大統領暗殺記録法に基づく2025年のリリース",
+  "summary": "This cable discusses several topics, including Juan Manuel Fernandez's desire to leave Cuba, a request to take Luis Rodriguez into the Jaguar Group, authorization to instruct A-35, information about an assassination attempt against Fidel Castro, the movement of tracked tanks, a Russian ship delivering fertilizer, and the defection of Commandant 'Contreras' and others.",
+  "summary_ja": "この電報では、フアン・マヌエル・フェルナンデスがキューバを離れたいという希望、ルイス・ロドリゲスをジャガー・グループに引き入れるよう要請、A-35への指示の承認、フィデル・カストロ暗殺未遂事件の情報、キャタピラ式戦車の移動、肥料を輸送するロシア船、コントレラス司令官と他の者の亡命など、いくつかのトピックについて議論されている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "Unclassified",
   "date": "1964-10-11",
+  "origin_agency": "Unknown",
+  "sender": "Juan",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Juan Manuel Fernandez",
+    "Luis Rodriguez",
+    "Fidel Castro",
+    "Julio Cambas",
+    "Contreras"
+  ],
   "locations_mentioned": [
     "Cuba",
     "USSR",
@@ -22,14 +26,12 @@
     "El Cotorro",
     "Calixto Garcia Hospital"
   ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "Juan Manuel Fernandez",
-    "Luis Rodriguez",
+  "tags": [
+    "Cuban Communism",
+    "Jaguar Group",
+    "Assassination Attempt",
     "Fidel Castro",
-    "Julio Cambas",
-    "Contreras"
-  ],
-  "recipient": "Unknown",
-  "sender": "Juan"
+    "Military Equipment",
+    "Defection"
+  ]
 }

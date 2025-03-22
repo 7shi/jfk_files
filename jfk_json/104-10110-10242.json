@@ -1,8 +1,31 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Manuel F. ARTIME Buesa #210 838 - Audio Surveillance Operation",
+  "title_ja": "マニュエル・F・アーティメ ブエサ #210 838 - 音声監視作戦",
   "summary": "This memo discusses the planned audio surveillance of Manuel F. ARTIME Buesa and Rafael Aurelio QUINTERO Ibarbia at a safehouse in Bethesda, Maryland. It details the installation of microphones and a telephone tap, the cover story for the installation, and logistical considerations for servicing the equipment.",
+  "summary_ja": "このメモは、メリーランド州ベセスダの隠れ家におけるマヌエル・F・アーティメ・ブエサとラファエル・アウレリオ・キンテロ・イバルビアに対する計画中の音声監視について述べている。マイクの設置と電話盗聴、そのための口実、および機器の保守に関する後方支援の考慮事項について詳細に述べている。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-07-18",
+  "origin_agency": "SAS",
+  "sender": "Ramon R. Hart",
+  "recipient": "Chief, Support Branch",
+  "persons_mentioned": [
+    "Manuel F. ARTIME Buesa",
+    "Ramon R. Hart",
+    "Fred CHROMASTKA",
+    "Charles MATT",
+    "Rafael Aurelio QUINTERO Ibarbia",
+    "Cond 6. SEFISIER",
+    "STER",
+    "Cuando DEEREST"
+  ],
+  "locations_mentioned": [
+    "Washington, D. C.",
+    "Bethesda",
+    "Franconia",
+    "New York"
+  ],
   "tags": [
     "audio surveillance",
     "safehouse",
@@ -14,26 +37,5 @@
     "cover story",
     "case officers",
     "District Field Office"
-  ],
-  "title": "Manuel F. ARTIME Buesa #210 838 - Audio Surveillance Operation",
-  "date": "1963-07-18",
-  "locations_mentioned": [
-    "Washington, D. C.",
-    "Bethesda",
-    "Franconia",
-    "New York"
-  ],
-  "origin_agency": "SAS",
-  "persons_mentioned": [
-    "Manuel F. ARTIME Buesa",
-    "Ramon R. Hart",
-    "Fred CHROMASTKA",
-    "Charles MATT",
-    "Rafael Aurelio QUINTERO Ibarbia",
-    "Cond 6. SEFISIER",
-    "STER",
-    "Cuando DEEREST"
-  ],
-  "recipient": "Chief, Support Branch",
-  "sender": "Ramon R. Hart"
+  ]
 }

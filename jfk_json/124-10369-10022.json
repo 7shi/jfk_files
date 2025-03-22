@@ -1,24 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Paper, Textual Document",
-  "security_level": "Secret",
-  "summary": "FBI administrative folder regarding the HSCA and Lee Harvey Oswald, including memos, A/Ts, TTYs, letters, notes, LHM, press releases, testimony, news articles, and translations.",
-  "tags": [
-    "HSCA ADMINISTRATIVE FOLDER",
-    "LEE HARVEY OSWALD",
-    "VOLUME XII",
-    "Closed Circuit Television",
-    "Soviet Military Attache",
-    "Joachim Joesten"
-  ],
   "title": "",
+  "title_ja": "",
+  "summary": "FBI administrative folder regarding the HSCA and Lee Harvey Oswald, including memos, A/Ts, TTYs, letters, notes, LHM, press releases, testimony, news articles, and translations.",
+  "summary_ja": "HSCAおよびリー・ハーヴェイ・オズワルドに関するFBIの管理フォルダ。メモ、A/T、TTY、手紙、メモ、LHM、プレスリリース、証言、ニュース記事、翻訳を含む。",
+  "document_type": "Paper, Textual Document",
+  "classification": "Administrative",
+  "security_level": "Secret",
   "date": "1966-12-28",
-  "locations_mentioned": [
-    "Milan",
-    "Italy",
-    "Switzerland"
-  ],
   "origin_agency": "FBI",
+  "sender": "JONES",
+  "recipient": "WICK",
   "persons_mentioned": [
     "LEE HARVEY OSWALD",
     "JONES",
@@ -35,6 +26,17 @@
     "Cal Tenney",
     "Johnson"
   ],
-  "recipient": "WICK",
-  "sender": "JONES"
+  "locations_mentioned": [
+    "Milan",
+    "Italy",
+    "Switzerland"
+  ],
+  "tags": [
+    "HSCA ADMINISTRATIVE FOLDER",
+    "LEE HARVEY OSWALD",
+    "VOLUME XII",
+    "Closed Circuit Television",
+    "Soviet Military Attache",
+    "Joachim Joesten"
+  ]
 }

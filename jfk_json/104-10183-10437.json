@@ -1,8 +1,29 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Meeting with AMBUNNY-1 and AMWHIP-1",
+  "title_ja": "AMBUNNY-1およびAMWHIP-1との面会",
   "summary": "Memorandum regarding a meeting with AMBUNNY-1 and AMWHIP-1 to discuss a possible operation involving the penetration of UNSNAFU-19 office. Concerns are raised about AMBUNNY-1's background and the risk it poses to AMWHIP-1's connections. The possibility of using a cutout is suggested. A planned operation in Paris is canceled, but AMBUNNY-1 may be utilized in Rabat.",
+  "summary_ja": "AMBUNNY-1とAMWHIP-1との会合に関する覚書。UNSNAFU-19事務所への侵入を伴う可能性のある作戦について協議。AMBUNNY-1の経歴と、それがAMWHIP-1のつながりに及ぼすリスクについて懸念が表明された。切り抜きを使う可能性が提案された。パリでの作戦は中止されたが、AMBUNNY-1はラバトで利用される可能性がある。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1965-06-02",
+  "origin_agency": "CIA",
+  "sender": "Norris W. Damicone",
+  "recipient": "Record",
+  "persons_mentioned": [
+    "AMBUNNY-1",
+    "AMWHIP-1",
+    "DAMICONE",
+    "AL MARIN",
+    "DI UBALDO"
+  ],
+  "locations_mentioned": [
+    "New York",
+    "Bolivia",
+    "Paris",
+    "Rabat",
+    "Italy"
+  ],
   "tags": [
     "AMBUNNY-1",
     "AMWHIP-1",
@@ -12,24 +33,5 @@
     "Cutout",
     "Paris",
     "Rabat"
-  ],
-  "title": "Meeting with AMBUNNY-1 and AMWHIP-1",
-  "date": "1965-06-02",
-  "locations_mentioned": [
-    "New York",
-    "Bolivia",
-    "Paris",
-    "Rabat",
-    "Italy"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "AMBUNNY-1",
-    "AMWHIP-1",
-    "DAMICONE",
-    "AL MARIN",
-    "DI UBALDO"
-  ],
-  "recipient": "Record",
-  "sender": "Norris W. Damicone"
+  ]
 }

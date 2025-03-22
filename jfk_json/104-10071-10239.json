@@ -1,8 +1,20 @@
 {
-  "classification": "Security",
-  "document_type": "Memo",
-  "security_level": "Unclassified",
+  "title": "Case Rundown and Incidents",
+  "title_ja": "事件の概要と事件",
   "summary": "This memo discusses a case rundown prepared in SR/3/FI for discussions with the British in 1960 regarding an unstable American woman correspondent in Brussels who revealed anti-Soviet sympathies and later visited the subject in Moscow after being warned to avoid him.",
+  "summary_ja": "このメモは、1960年に英国側と協議するためにSR/3/FIで作成された、ブリュッセルの不安定な米国人女性特派員に関するケース概要について取り上げている。この特派員は反ソ連の共感を露わにし、その後、彼に近づかないよう警告されたにもかかわらずモスクワで彼を訪問した。",
+  "document_type": "Memo",
+  "classification": "Security",
+  "security_level": "Unclassified",
+  "date": "1960-04-18",
+  "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "British Intelligence",
+  "persons_mentioned": [],
+  "locations_mentioned": [
+    "Brussels",
+    "Moscow"
+  ],
   "tags": [
     "SR/3/FI",
     "British",
@@ -10,15 +22,5 @@
     "Moscow",
     "Anti-Soviet",
     "American woman correspondent"
-  ],
-  "title": "Case Rundown and Incidents",
-  "date": "1960-04-18",
-  "locations_mentioned": [
-    "Brussels",
-    "Moscow"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [],
-  "recipient": "British Intelligence",
-  "sender": ""
+  ]
 }

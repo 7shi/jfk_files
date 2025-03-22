@@ -1,31 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "Top Secret",
-  "summary": "Minutes from PFIAB meetings on December 27-28, 1962, discussing the Cuban Arms Buildup report, MONGOOSE activities, and intelligence operations related to Cuba.",
-  "tags": [
-    "ANTI-CASTRO ACTIVITIES",
-    "CLANDESTINE OPERATIONS",
-    "PFIAB",
-    "MC CONE, JOHN",
-    "OPERATION MONGOOSE",
-    "CUBAN EXILES",
-    "Intelligence",
-    "Soviet Military Buildup",
-    "Special Group",
-    "Guantanamo",
-    "U-2 overflights",
-    "SIGINT Operations"
-  ],
   "title": "MEETING OF THE DCI WITH PBIAB, FRIDAY, DECEMBER 28, 0930 A.M.",
+  "title_ja": "12月28日（金）午前9時30分、DCIとPBIABの会議",
+  "summary": "Minutes from PFIAB meetings on December 27-28, 1962, discussing the Cuban Arms Buildup report, MONGOOSE activities, and intelligence operations related to Cuba.",
+  "summary_ja": "1962年12月27日～28日のPFIAB会議の議事録。キューバの軍備増強に関する報告書、モンゴース作戦、キューバ関連の諜報活動について議論。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "Top Secret",
   "date": "1962-12-28",
-  "locations_mentioned": [
-    "Cuba",
-    "USSR",
-    "Berlin",
-    "Guantanamo Naval Base"
-  ],
   "origin_agency": "PFIAB",
+  "sender": "KIRKPATRICK, LYMAN",
+  "recipient": "RECORD",
   "persons_mentioned": [
     "KIRKPATRICK, LYMAN",
     "MC CONE, JOHN",
@@ -45,6 +29,24 @@
     "Kuznetsov",
     "Stevenson"
   ],
-  "recipient": "RECORD",
-  "sender": "KIRKPATRICK, LYMAN"
+  "locations_mentioned": [
+    "Cuba",
+    "USSR",
+    "Berlin",
+    "Guantanamo Naval Base"
+  ],
+  "tags": [
+    "ANTI-CASTRO ACTIVITIES",
+    "CLANDESTINE OPERATIONS",
+    "PFIAB",
+    "MC CONE, JOHN",
+    "OPERATION MONGOOSE",
+    "CUBAN EXILES",
+    "Intelligence",
+    "Soviet Military Buildup",
+    "Special Group",
+    "Guantanamo",
+    "U-2 overflights",
+    "SIGINT Operations"
+  ]
 }

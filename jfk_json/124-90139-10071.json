@@ -1,20 +1,19 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
-  "summary": "FBI memo regarding Cuban government seeking jute bags and hessian cloth through International Ore and Fertilizer Company, and CIA's past connection with Herbert Levy of St. Regis Paper Company for economic information gathering in India.",
-  "tags": [
-    "CIA Liaison",
-    "Economic Matters",
-    "Jute Bags",
-    "Hessian Cloth",
-    "International Ore and Fertilizer Company",
-    "St. Regis Paper Company",
-    "Herbert Levy",
-    "India"
-  ],
   "title": "LARGE QUANTITIES OF JUTE BAGS AND HESSIAN CLOTH SOUGHT BY CUBAN GOVERNMENT BY PURCHASE OR BARTER THROUGH INTERNATIONAL ORE AND FERTILIZER COMPANY, NEW YORK CITY",
+  "title_ja": "大量のジュート袋とヘンプ布がキューバ政府によって購入または交換で求められている。ニューヨーク市の国際鉱物肥料会社を通じて",
+  "summary": "FBI memo regarding Cuban government seeking jute bags and hessian cloth through International Ore and Fertilizer Company, and CIA's past connection with Herbert Levy of St. Regis Paper Company for economic information gathering in India.",
+  "summary_ja": "国際鉱物肥料会社を通じてジュート袋とヘンプ布を求めているキューバ政府に関するFBIのメモ、およびセント・レジス・ペーパー社のハーバート・レヴィとインドにおける経済情報収集に関してCIAが過去に関係を持っていたこと。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1961-11-28",
+  "origin_agency": "FBI",
+  "sender": "SU",
+  "recipient": "Director, FBI",
+  "persons_mentioned": [
+    "John R. Philips Jr.",
+    "Herbert Levy"
+  ],
   "locations_mentioned": [
     "Cuba",
     "New York City",
@@ -24,11 +23,14 @@
     "Texas",
     "India"
   ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "John R. Philips Jr.",
-    "Herbert Levy"
-  ],
-  "recipient": "Director, FBI",
-  "sender": "SU"
+  "tags": [
+    "CIA Liaison",
+    "Economic Matters",
+    "Jute Bags",
+    "Hessian Cloth",
+    "International Ore and Fertilizer Company",
+    "St. Regis Paper Company",
+    "Herbert Levy",
+    "India"
+  ]
 }

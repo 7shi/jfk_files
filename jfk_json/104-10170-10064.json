@@ -1,19 +1,23 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch discusses the AMSPELL exhibit tour of Latin America from February to June 1964. The tour aimed to showcase the dangers and weaknesses of Castro-Communism. While the exhibit achieved excellent results in Guayaquil and La Paz, it was only moderately successful overall, failing in Quito, Santiago, and Montevideo. The dispatch evaluates the tour's effectiveness, highlighting organizational difficulties and the team's inexperience. It includes details on publicity, attendance, and challenges faced in various cities.",
-  "tags": [
-    "AMSPELL",
-    "Latin America",
-    "Castro-Communism",
-    "exhibit",
-    "KUBARK",
-    "publicity",
-    "Cold War"
-  ],
   "title": "TYPIC/ANSPELL/Operational AMSPELL Tour of Latin America",
+  "title_ja": "TYPIC/ANSPELL/Operational AMSPELL ラテンアメリカ視察",
+  "summary": "This dispatch discusses the AMSPELL exhibit tour of Latin America from February to June 1964. The tour aimed to showcase the dangers and weaknesses of Castro-Communism. While the exhibit achieved excellent results in Guayaquil and La Paz, it was only moderately successful overall, failing in Quito, Santiago, and Montevideo. The dispatch evaluates the tour's effectiveness, highlighting organizational difficulties and the team's inexperience. It includes details on publicity, attendance, and challenges faced in various cities.",
+  "summary_ja": "この報告書は、1964年2月から6月にかけてのAMSPELL展示会のラテンアメリカツアーについて論じている。このツアーは、カストロ共産主義の危険性と弱点を明らかにすることを目的としていた。グアヤキルとラパスでは素晴らしい成果を収めたものの、キト、サンティアゴ、モンテビデオでは失敗に終わり、全体的には中程度の成功にとどまった。この報告書は、ツアーの有効性を評価し、組織上の困難やチームの経験不足を強調している。また、広報活動、来場者数、各都市で直面した課題の詳細も記載されている。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1964-07-24",
+  "origin_agency": "JMWAVE/C",
+  "sender": "Chief of Station, JMWAVE/C",
+  "recipient": "Deputy Chief, WH/SA",
+  "persons_mentioned": [
+    "AMSPELL",
+    "Bruce P. Vedder",
+    "Andrew K. Reuteman",
+    "John F. Kennedy",
+    "Fernando SANHUESA",
+    "Goulart"
+  ],
   "locations_mentioned": [
     "Latin America",
     "Guayaquil",
@@ -38,15 +42,13 @@
     "Brazil",
     "Cuba"
   ],
-  "origin_agency": "JMWAVE/C",
-  "persons_mentioned": [
+  "tags": [
     "AMSPELL",
-    "Bruce P. Vedder",
-    "Andrew K. Reuteman",
-    "John F. Kennedy",
-    "Fernando SANHUESA",
-    "Goulart"
-  ],
-  "recipient": "Deputy Chief, WH/SA",
-  "sender": "Chief of Station, JMWAVE/C"
+    "Latin America",
+    "Castro-Communism",
+    "exhibit",
+    "KUBARK",
+    "publicity",
+    "Cold War"
+  ]
 }

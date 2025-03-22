@@ -1,33 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Routing and Record Sheet, Notices, Propaganda, Interview, Article",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This document contains information on Alpha 66 activities in Los Angeles as of September 1970, including notices of meetings, propaganda, a history of Alpha 66, a picture of Vicente Mendez, a tape of a meeting/interview with Los Angeles leader Miguel Talleda, and a press interview with Andreas Nazario Sargent, Alpha 66 Secretary General in the US. It also includes articles and propaganda related to Alpha 66 activities and their impact on Cuba.",
-  "tags": [
-    "Alpha 66",
-    "Cuban exiles",
-    "Vicente Mendez",
-    "Andreas Nazario Sargent",
-    "Los Angeles",
-    "Cuba",
-    "Propaganda",
-    "Meetings",
-    "Guerrilla activities",
-    "Anti-Castro movement"
-  ],
   "title": "Alpha 66 Doings in Los Angeles as of September 1970",
+  "title_ja": "1970年9月現在のロサンゼルスにおけるアルファ66の動向",
+  "summary": "This document contains information on Alpha 66 activities in Los Angeles as of September 1970, including notices of meetings, propaganda, a history of Alpha 66, a picture of Vicente Mendez, a tape of a meeting/interview with Los Angeles leader Miguel Talleda, and a press interview with Andreas Nazario Sargent, Alpha 66 Secretary General in the US. It also includes articles and propaganda related to Alpha 66 activities and their impact on Cuba.",
+  "summary_ja": "この文書には、1970年9月時点におけるロサンゼルスにおけるアルファ66の活動に関する情報が含まれており、集会の通知、プロパガンダ、アルファ66の歴史、ビセンテ・メンデスの写真、ロサンゼルス指導者ミゲル・タレダとの集会/インタビューのテープ、米国アルファ66事務局長のアンドレアス・ナザリオ・サーゲントの報道インタビューなどが含まれている。また、アルファ66の活動とキューバへの影響に関する記事やプロパガンダも含まれている。",
+  "document_type": "Routing and Record Sheet, Notices, Propaganda, Interview, Article",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
   "date": "1970-09-29",
-  "locations_mentioned": [
-    "Los Angeles",
-    "Cuba",
-    "Havana",
-    "Miami",
-    "Washington D.C.",
-    "Connecticut",
-    "Camagüey",
-    "Oriente"
-  ],
   "origin_agency": "Los Angeles Office, Domestic Contact Service",
+  "sender": "Chief, Los Angeles Office, Operational Support Staff",
+  "recipient": "DCS Message Center",
   "persons_mentioned": [
     "John F. Kennedy",
     "Vicente Mendez",
@@ -41,6 +23,26 @@
     "Strom Thurmond",
     "William C. Cramer"
   ],
-  "recipient": "DCS Message Center",
-  "sender": "Chief, Los Angeles Office, Operational Support Staff"
+  "locations_mentioned": [
+    "Los Angeles",
+    "Cuba",
+    "Havana",
+    "Miami",
+    "Washington D.C.",
+    "Connecticut",
+    "Camagüey",
+    "Oriente"
+  ],
+  "tags": [
+    "Alpha 66",
+    "Cuban exiles",
+    "Vicente Mendez",
+    "Andreas Nazario Sargent",
+    "Los Angeles",
+    "Cuba",
+    "Propaganda",
+    "Meetings",
+    "Guerrilla activities",
+    "Anti-Castro movement"
+  ]
 }

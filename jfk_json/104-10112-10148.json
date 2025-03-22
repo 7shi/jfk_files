@@ -1,8 +1,23 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Reassignment of Lucien Conein to Caracas, Venezuela",
+  "title_ja": "ルシアン・コネインのベネズエラ、カラカスへの再配置",
   "summary": "Request for clearance for Lucien Conein's reassignment to Caracas, Venezuela under AID cover.",
+  "summary_ja": "ルシアン・コネインのベネズエラのカラカスへの再配置に関する、AIDの偽装名義での許可申請。",
+  "document_type": "Memorandum",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1965-03-04",
+  "origin_agency": "CIA",
+  "sender": "Desmond FitzGerald, Chief, Western Hemisphere Division",
+  "recipient": "Chief, Personnel Security Division",
+  "persons_mentioned": [
+    "Lucien Conein",
+    "Desmond FitzGerald"
+  ],
+  "locations_mentioned": [
+    "Caracas",
+    "Venezuela"
+  ],
   "tags": [
     "Reassignment",
     "Clearance",
@@ -10,18 +25,5 @@
     "Venezuela",
     "Caracas",
     "Lucien Conein"
-  ],
-  "title": "Reassignment of Lucien Conein to Caracas, Venezuela",
-  "date": "1965-03-04",
-  "locations_mentioned": [
-    "Caracas",
-    "Venezuela"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Lucien Conein",
-    "Desmond FitzGerald"
-  ],
-  "recipient": "Chief, Personnel Security Division",
-  "sender": "Desmond FitzGerald, Chief, Western Hemisphere Division"
+  ]
 }

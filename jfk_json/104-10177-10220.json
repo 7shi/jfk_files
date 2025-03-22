@@ -1,31 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "File",
-  "security_level": "Unclassified",
-  "summary": "This file contains documents related to Gordon Barton McLendon, including memoranda, security clearances, and name checks. The documents cover topics such as McLendon's potential as a witting collaborator, his business interests, and security investigations conducted by the CIA.",
-  "tags": [
-    "McLendon",
-    "Gordon Barton",
-    "CIA",
-    "security clearance",
-    "name check",
-    "witting collaborator",
-    "business interests",
-    "investigation",
-    "WUENTREE",
-    "DTMIKADO"
-  ],
   "title": "McLENDON, GORDON 201-79764",
+  "title_ja": "マクレンドン、ゴードン 201-79764",
+  "summary": "This file contains documents related to Gordon Barton McLendon, including memoranda, security clearances, and name checks. The documents cover topics such as McLendon's potential as a witting collaborator, his business interests, and security investigations conducted by the CIA.",
+  "summary_ja": "このファイルには、ゴードン・バートン・マクレンドンに関する書類が含まれており、覚書、セキュリティクリアランス、名前の照合などが含まれる。書類には、マクレンドンの協力者としての潜在的可能性、彼のビジネス上の利害関係、CIAによるセキュリティ調査などのトピックが含まれている。",
+  "document_type": "File",
+  "classification": "Personnel",
+  "security_level": "Unclassified",
   "date": "1978-05-16",
-  "locations_mentioned": [
-    "Paris, Texas",
-    "Dallas, Texas",
-    "Washington, D.C.",
-    "Stockholm",
-    "Europe",
-    "Japan"
-  ],
   "origin_agency": "CIA",
+  "sender": "CCS/CFE",
+  "recipient": "DO/590",
   "persons_mentioned": [
     "Gordon Barton McLendon",
     "John K. McLean",
@@ -41,6 +25,24 @@
     "James Gl. Kole",
     "JORN F. BREWER"
   ],
-  "recipient": "DO/590",
-  "sender": "CCS/CFE"
+  "locations_mentioned": [
+    "Paris, Texas",
+    "Dallas, Texas",
+    "Washington, D.C.",
+    "Stockholm",
+    "Europe",
+    "Japan"
+  ],
+  "tags": [
+    "McLendon",
+    "Gordon Barton",
+    "CIA",
+    "security clearance",
+    "name check",
+    "witting collaborator",
+    "business interests",
+    "investigation",
+    "WUENTREE",
+    "DTMIKADO"
+  ]
 }

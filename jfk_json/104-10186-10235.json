@@ -1,8 +1,30 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Fernando FUENTES Coba",
+  "title_ja": "フェルナンド・フエンテス・コバ",
   "summary": "This document contains information about Fernando FUENTES Coba, a former lieutenant in the Cuban Police Force who later worked in a printing establishment in Halifax, Canada. The report includes supplemental information from the CIA records regarding FUENTES' involvement with the Departamento Tecnico de Investigaciones (DTI) and his activities related to forging birth certificates and serving as a Castro agent.",
+  "summary_ja": "この文書には、キューバ警察の元警部で、後にカナダのハリファックスの印刷所で働いていたフェルナンド・フエンテス・コバに関する情報が記載されている。報告書には、フエンテスがDepartamento Tecnico de Investigaciones（DTI）に関与していたことや、出生証明書の偽造やカストロのエージェントとしての活動に関するCIAの記録からの補足情報が含まれている。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1964-10-02",
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "sender": "Headquarters",
+  "recipient": "STATE, DIA, ARMY, NAVY, AIR, NSA, XXX, OCR, FBI, REP, CINCLANT, CINCSO, I&NS",
+  "persons_mentioned": [
+    "Fernando FUENTES Coba",
+    "Efigenio ALMEJEIRAS",
+    "Rafael del PINO"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, D. C.",
+    "Halifax",
+    "Canada",
+    "Miami",
+    "Port Everglades",
+    "Habana",
+    "United States"
+  ],
   "tags": [
     "Cuban Intelligence Service",
     "Cuban Police Force",
@@ -23,25 +45,5 @@
     "Castro Agent",
     "Tourist Commission",
     "Habana"
-  ],
-  "title": "Fernando FUENTES Coba",
-  "date": "1964-10-02",
-  "locations_mentioned": [
-    "Cuba",
-    "Washington, D. C.",
-    "Halifax",
-    "Canada",
-    "Miami",
-    "Port Everglades",
-    "Habana",
-    "United States"
-  ],
-  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
-  "persons_mentioned": [
-    "Fernando FUENTES Coba",
-    "Efigenio ALMEJEIRAS",
-    "Rafael del PINO"
-  ],
-  "recipient": "STATE, DIA, ARMY, NAVY, AIR, NSA, XXX, OCR, FBI, REP, CINCLANT, CINCSO, I&NS",
-  "sender": "Headquarters"
+  ]
 }

@@ -1,16 +1,31 @@
 {
-  "classification": "Cuba",
-  "document_type": "Paper, Textual Document",
-  "security_level": "Secret",
-  "summary": "This document is a report on the status of implementation of actions designed to counter Cuban subversion in Latin America during September 1963. It details efforts by various U.S. agencies, including the Department of State, Central Intelligence Agency, Department of Defense, and United States Information Agency, to control travel to and from Cuba, movement of propaganda, clandestine movement of guerrillas and arms, transfer of funds, strengthen counter-insurgency capabilities and exchange intelligence on Cuban subversion. Also includes surveillance of Cuban diplomatic, commercial and cultural and other special actions.",
-  "tags": [
-    "ICCCA",
-    "Subcommittee on Cuban Subversion",
-    "Cuban Subversion",
-    "Restrictions on Travel to and From Cuba"
-  ],
   "title": "ICCCA: REPORT ON STATUS OF IMPLEMENTATION OF ACTIONS DESIGNED TO COUNTER SUBVERSION",
+  "title_ja": "ICCCA：破壊活動に対抗するためにとられた措置の実施状況に関する報告書",
+  "summary": "This document is a report on the status of implementation of actions designed to counter Cuban subversion in Latin America during September 1963. It details efforts by various U.S. agencies, including the Department of State, Central Intelligence Agency, Department of Defense, and United States Information Agency, to control travel to and from Cuba, movement of propaganda, clandestine movement of guerrillas and arms, transfer of funds, strengthen counter-insurgency capabilities and exchange intelligence on Cuban subversion. Also includes surveillance of Cuban diplomatic, commercial and cultural and other special actions.",
+  "summary_ja": "この文書は、1963年9月のラテンアメリカにおけるキューバの破壊活動に対抗するための行動の実施状況に関する報告書である。国務省、中央情報局、国防総省、米国情報局など、米国のさまざまな機関による、キューバとの往来、宣伝活動、ゲリラや武器の秘密移動、資金の移動の管理、対反乱能力の強化、キューバの破壊活動に関する情報交換の取り組みについて詳細に述べている。また、キューバの外交、商業、文化に関する監視活動やその他の特別な措置についても記載されている。",
+  "document_type": "Paper, Textual Document",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1963-11-26",
+  "origin_agency": "Army",
+  "sender": "Joseph A. Califano, Jr.",
+  "recipient": "Multiple",
+  "persons_mentioned": [
+    "Joseph A. Califano, Jr.",
+    "Earle G. Wheeler",
+    "Frank K. Sloan",
+    "J. D. Alger",
+    "W. F. A. Wendt",
+    "J. W. Carpenter",
+    "C. J. Quilter",
+    "Yarmolinsky",
+    "Haig",
+    "Harold Derber",
+    "Roberto Perez Ondarse",
+    "Che Guevara",
+    "Martin",
+    "Richard Joyce"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Latin America",
@@ -47,23 +62,10 @@
     "Montevideo",
     "Chile"
   ],
-  "origin_agency": "Army",
-  "persons_mentioned": [
-    "Joseph A. Califano, Jr.",
-    "Earle G. Wheeler",
-    "Frank K. Sloan",
-    "J. D. Alger",
-    "W. F. A. Wendt",
-    "J. W. Carpenter",
-    "C. J. Quilter",
-    "Yarmolinsky",
-    "Haig",
-    "Harold Derber",
-    "Roberto Perez Ondarse",
-    "Che Guevara",
-    "Martin",
-    "Richard Joyce"
-  ],
-  "recipient": "Multiple",
-  "sender": "Joseph A. Califano, Jr."
+  "tags": [
+    "ICCCA",
+    "Subcommittee on Cuban Subversion",
+    "Cuban Subversion",
+    "Restrictions on Travel to and From Cuba"
+  ]
 }

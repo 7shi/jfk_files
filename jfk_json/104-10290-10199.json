@@ -1,8 +1,26 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Coded Message Regarding Operations and Personnel",
+  "title_ja": "作戦および人員に関する暗号メッセージ",
   "summary": "This document appears to be a coded cable message discussing operations, personnel, and traffic handling. It references individuals or entities such as MEIRV BOW, HAFELE ODXOKE, and mentions traffic being handled by OTTAWA. The document emphasizes secrecy and restrictions on reproduction.",
+  "summary_ja": "この文書は、業務、人員、および通信処理について述べた暗号化された電報メッセージのようだ。MEIRV BOW、HAFELE ODXOKE などの個人または団体について言及しており、OTTAWA によって処理された通信についても言及している。この文書は、秘密保持と複製に関する制限を強調している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "2025-01-01",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "LOLA DODS",
+    "MEIRV BOW",
+    "HAFELE ODXOKE",
+    "OSILY KUBARIK"
+  ],
+  "locations_mentioned": [
+    "LIMA",
+    "OTTAWA"
+  ],
   "tags": [
     "coded message",
     "operations",
@@ -19,21 +37,5 @@
     "OSILY KUBARIK",
     "SITICINA",
     "PROGRILLO"
-  ],
-  "title": "Coded Message Regarding Operations and Personnel",
-  "date": "2025-01-01",
-  "locations_mentioned": [
-    "LIMA",
-    "OTTAWA"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "JOHN F. KENNEDY",
-    "LOLA DODS",
-    "MEIRV BOW",
-    "HAFELE ODXOKE",
-    "OSILY KUBARIK"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

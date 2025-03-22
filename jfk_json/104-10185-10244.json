@@ -1,32 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum and Report",
-  "security_level": "SECRET",
-  "summary": "This document discusses the security approval and survey of a covert site located at Summit Hills Apartments in Silver Spring, Maryland. It details potential security hazards, communication systems, fire and police protection, and biographical data of residents in nearby apartments.",
-  "tags": [
-    "covert site",
-    "safehouse",
-    "security survey",
-    "Summit Hills Apartments",
-    "Silver Spring",
-    "Maryland",
-    "security hazards",
-    "Office of Security",
-    "safehouse procurement"
-  ],
   "title": "COVERT SITE Apartment G 32 Summit Hills Apartments.",
+  "title_ja": "秘密のサイト アパート G 32 サミットヒルズ・アパートメント。",
+  "summary": "This document discusses the security approval and survey of a covert site located at Summit Hills Apartments in Silver Spring, Maryland. It details potential security hazards, communication systems, fire and police protection, and biographical data of residents in nearby apartments.",
+  "summary_ja": "この文書は、メリーランド州シルバースプリングのサミットヒルズアパートにある秘密の場所のセキュリティ承認と調査について述べている。潜在的なセキュリティ上の危険、通信システム、火災および警察の保護、近隣のアパートの居住者の経歴データについて詳細に説明している。",
+  "document_type": "Memorandum and Report",
+  "classification": "Security",
+  "security_level": "SECRET",
   "date": "1964-06-26",
-  "locations_mentioned": [
-    "Summit Hills Apartments",
-    "5500 16th Street, Silver Spring, Maryland",
-    "Bethesda, Maryland",
-    "Washington, D.C.",
-    "Montgomery County, Maryland",
-    "Georgia Avenue, Silver Spring, Maryland",
-    "Baltimore, Maryland",
-    "New York"
-  ],
   "origin_agency": "Office of Security",
+  "sender": "Deputy Director of Security",
+  "recipient": "Chief, WH Division",
   "persons_mentioned": [
     "Leonard Libby",
     "Victor R. White",
@@ -38,6 +21,25 @@
     "Joseph I. JOLLES",
     "Mildred JOLLES"
   ],
-  "recipient": "Chief, WH Division",
-  "sender": "Deputy Director of Security"
+  "locations_mentioned": [
+    "Summit Hills Apartments",
+    "5500 16th Street, Silver Spring, Maryland",
+    "Bethesda, Maryland",
+    "Washington, D.C.",
+    "Montgomery County, Maryland",
+    "Georgia Avenue, Silver Spring, Maryland",
+    "Baltimore, Maryland",
+    "New York"
+  ],
+  "tags": [
+    "covert site",
+    "safehouse",
+    "security survey",
+    "Summit Hills Apartments",
+    "Silver Spring",
+    "Maryland",
+    "security hazards",
+    "Office of Security",
+    "safehouse procurement"
+  ]
 }

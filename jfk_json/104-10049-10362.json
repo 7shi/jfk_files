@@ -1,8 +1,32 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Highlights of Tape-Recorded Conversation in Miami Between Mr. William D. Pawley and an Unidentified Cuban during Period 17-18 October",
+  "title_ja": "マイアミにおけるウィリアム・D・ポーリー氏と身元不明のキューバ人との10月17日～18日のテープ録音会話のハイライト",
   "summary": "William Pawley discusses with an unidentified Cuban the possibility of U.S. support for anti-Castro groups, their need for moral backing and funds, and the fragmented state of the Cuban resistance.",
+  "summary_ja": "ウィリアム・ポーリーが、身元不明のキューバ人男性と、反カストロ派に対する米国の支援の可能性、彼らの道義的支援と資金援助の必要性、キューバの抵抗勢力が分裂状態にあることについて話し合う。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1959-10-20",
+  "origin_agency": "WH/III/CARIB",
+  "sender": "Martha Tharpe",
+  "recipient": "RECORD",
+  "persons_mentioned": [
+    "William D. Pawley",
+    "Owen Faust",
+    "Colonel King",
+    "CASTRO",
+    "Jose Eleutorio PEDRAZA",
+    "Martha Tharpe"
+  ],
+  "locations_mentioned": [
+    "Miami",
+    "Cuba",
+    "Dominican Republic",
+    "Camaguey",
+    "Santa Clara",
+    "Habana",
+    "Matanzas"
+  ],
   "tags": [
     "William Pawley",
     "anti-CASTRO Cubans",
@@ -14,27 +38,5 @@
     "funds",
     "Cuban exiles",
     "Dominican Government"
-  ],
-  "title": "Highlights of Tape-Recorded Conversation in Miami Between Mr. William D. Pawley and an Unidentified Cuban during Period 17-18 October",
-  "date": "1959-10-20",
-  "locations_mentioned": [
-    "Miami",
-    "Cuba",
-    "Dominican Republic",
-    "Camaguey",
-    "Santa Clara",
-    "Habana",
-    "Matanzas"
-  ],
-  "origin_agency": "WH/III/CARIB",
-  "persons_mentioned": [
-    "William D. Pawley",
-    "Owen Faust",
-    "Colonel King",
-    "CASTRO",
-    "Jose Eleutorio PEDRAZA",
-    "Martha Tharpe"
-  ],
-  "recipient": "RECORD",
-  "sender": "Martha Tharpe"
+  ]
 }

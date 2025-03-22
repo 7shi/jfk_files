@@ -1,26 +1,28 @@
 {
-  "classification": "Oswald",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DRAFT BRIEFING PAPER AND OSWALD FILES",
+  "title_ja": "ブリーフィング・ペーパー草案とオズワルド・ファイル",
   "summary": "This cable discusses a draft briefing paper and the Lee Harvey Oswald files. It includes instructions to correct the briefing paper to reflect changes requested, information about the offer to provide the Oswald files being turned over to the FBI due to the sensitivity connected with the Kennedy assassination, and requests to delete or soften certain sections of the briefing paper related to unilateral operations, embassy security, and personnel requirements.",
+  "summary_ja": "この電報では、ブリーフィングペーパーの草案とリー・ハーヴェイ・オズワルドのファイルについて議論している。ブリーフィングペーパーの修正指示、ケネディ暗殺に関連する機密性によりFBIに引き渡されるオズワルドのファイル提供の申し出に関する情報、単独作戦、大使館の安全、人員要件に関するブリーフィングペーパーの特定のセクションの削除または表現の緩和の要請が含まれている。",
+  "document_type": "Cable",
+  "classification": "Oswald",
+  "security_level": "SECRET",
+  "date": "1995-08-12",
+  "origin_agency": "CIA",
+  "sender": "LIMIT C/CE/W/MB",
+  "recipient": "IMMEDIATE MINSK",
+  "persons_mentioned": [
+    "LEE HARVEY OSWALD",
+    "NWBOLTON"
+  ],
+  "locations_mentioned": [
+    "MINSK",
+    "Washington"
+  ],
   "tags": [
     "Lee Harvey Oswald",
     "Briefing Paper",
     "FBI",
     "Embassy Security",
     "Personnel"
-  ],
-  "title": "DRAFT BRIEFING PAPER AND OSWALD FILES",
-  "date": "1995-08-12",
-  "locations_mentioned": [
-    "MINSK",
-    "Washington"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "LEE HARVEY OSWALD",
-    "NWBOLTON"
-  ],
-  "recipient": "IMMEDIATE MINSK",
-  "sender": "LIMIT C/CE/W/MB"
+  ]
 }

@@ -1,17 +1,16 @@
 {
-  "classification": "Administrative",
-  "document_type": "List",
-  "security_level": "SECRET",
-  "summary": "Lists of locations and codes related to various divisions and operations.",
-  "tags": [
-    "locations",
-    "codes",
-    "divisions",
-    "operations",
-    "personnel"
-  ],
   "title": "Location and Code List for Divisions and Operations",
+  "title_ja": "部署および業務の所在地およびコード一覧",
+  "summary": "Lists of locations and codes related to various divisions and operations.",
+  "summary_ja": "さまざまな部門と業務に関連する場所とコードの一覧。",
+  "document_type": "List",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "2025",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [],
   "locations_mentioned": [
     "Johannesburg",
     "Pretoria",
@@ -72,8 +71,11 @@
     "Rawalpindi",
     "Teheran"
   ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  "tags": [
+    "locations",
+    "codes",
+    "divisions",
+    "operations",
+    "personnel"
+  ]
 }

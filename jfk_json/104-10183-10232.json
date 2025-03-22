@@ -1,8 +1,35 @@
 {
-  "classification": "Operations",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "Subject of 201-720615",
+  "title_ja": "件名：201-720615",
   "summary": "This memo discusses a subject (Quenit Siegel) who applied for a tourist visa to the United States and requests that ALEHIP-1 debrief him on his PERUEN contacts and set up a contact in Rio de Janeiro if he appears operationally useful.",
+  "summary_ja": "このメモでは、米国への観光ビザを申請した人物（クエンティ・シーゲル）について議論し、ALEHIP-1が彼のペルーの連絡先について報告し、彼が作戦上有益である場合、リオデジャネイロに連絡先を設定するよう要請している。",
+  "document_type": "Memo",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1964-04-30",
+  "origin_agency": "CIA",
+  "sender": "Chief, WHD",
+  "recipient": "Chief of Station, Rio de Janeiro",
+  "persons_mentioned": [
+    "Quenit Siegel",
+    "Benri Maslich",
+    "John Duys",
+    "H. Gilbert Smith",
+    "Bill Wainwright",
+    "S Bryant",
+    "A-l",
+    "Charlie Davis"
+  ],
+  "locations_mentioned": [
+    "United States",
+    "France",
+    "New York",
+    "Forest Hills",
+    "New Orleans",
+    "Rio de Janeiro",
+    "Cuba",
+    "Brazil"
+  ],
   "tags": [
     "tourist visa",
     "debrief",
@@ -15,30 +42,5 @@
     "Cuban community",
     "Charlie Davis",
     "tegel"
-  ],
-  "title": "Subject of 201-720615",
-  "date": "1964-04-30",
-  "locations_mentioned": [
-    "United States",
-    "France",
-    "New York",
-    "Forest Hills",
-    "New Orleans",
-    "Rio de Janeiro",
-    "Cuba",
-    "Brazil"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Quenit Siegel",
-    "Benri Maslich",
-    "John Duys",
-    "H. Gilbert Smith",
-    "Bill Wainwright",
-    "S Bryant",
-    "A-l",
-    "Charlie Davis"
-  ],
-  "recipient": "Chief of Station, Rio de Janeiro",
-  "sender": "Chief, WHD"
+  ]
 }

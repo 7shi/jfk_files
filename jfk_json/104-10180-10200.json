@@ -1,24 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "SEFLATS SVEN ATTACCA-6710 Information",
+  "title_ja": "SEFLATS SVEN ATTACCA-6710 情報",
   "summary": "Document regarding Juan I. Cessnova Koiriguez, possibly related to SEFLATS SVEN ATTACCA-6710.",
+  "summary_ja": "フアン・I・セスノヴァ・コイリゲスに関する文書。SEFLATS SVEN ATTACCA-6710に関連している可能性がある。",
+  "document_type": "Memo",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1960-08-24",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Juan I. Cessnova Koiriguez"
+  ],
+  "locations_mentioned": [
+    "Habana",
+    "Cuba"
+  ],
   "tags": [
     "Juan I. Cessnova Koiriguez",
     "Habana",
     "Cuba",
     "SEFLATS SVEN ATTACCA-6710"
-  ],
-  "title": "SEFLATS SVEN ATTACCA-6710 Information",
-  "date": "1960-08-24",
-  "locations_mentioned": [
-    "Habana",
-    "Cuba"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "Juan I. Cessnova Koiriguez"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

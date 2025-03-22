@@ -1,8 +1,22 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Salv 5289: WH DIV CUBA CUBAN DEFECTORS",
+  "title_ja": "SAL 5289: WH DIV CUBA CUBAN DEFECTORS",
   "summary": "Cable discusses a plan to move DALTON to a house where a CIA officer can see him alone and verify a cutout story through PLA.",
+  "summary_ja": "DALTONをCIA職員が単独で監視でき、PLA経由の切り抜き記事を検証できる家屋に移動させる計画について議論している電報。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-09-25",
+  "origin_agency": "CIA",
+  "sender": "Station",
+  "recipient": "DIR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "DALTON"
+  ],
+  "locations_mentioned": [
+    "Cuba"
+  ],
   "tags": [
     "Cuban Defectors",
     "CIA",
@@ -11,17 +25,5 @@
     "Cutout",
     "PLA",
     "Interpolation"
-  ],
-  "title": "Salv 5289: WH DIV CUBA CUBAN DEFECTORS",
-  "date": "1962-09-25",
-  "locations_mentioned": [
-    "Cuba"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "DALTON"
-  ],
-  "recipient": "DIR",
-  "sender": "Station"
+  ]
 }

@@ -1,8 +1,23 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "IN 47827: Obtaining Mexican Visa for AMBANG/1",
+  "title_ja": "IN 47827：アンバン/1のメキシコビザ取得",
   "summary": "This cable discusses the difficulty of obtaining a Mexican visa through official channels due to bureaucratic delays and concerns about Cuban immigrants becoming public charges. It suggests alternative methods, such as using high-level Mexican contacts or Cuban friends with connections, and coordinating with the LITEMPO visa channel. The cable also advises on handling inquiries from the Mexican consul in Miami and using a CINODACID cover role.",
+  "summary_ja": "この電報では、官僚的な遅延やキューバ移民が公的扶助を受けることになるのではないかという懸念により、公式ルートでメキシコのビザを取得することが難しいことが述べられている。メキシコ高官とのコネクションやキューバ人の友人など、代替手段の利用や、LITEMPOビザ・チャンネルとの調整が提案されている。また、マイアミのメキシコ領事からの問い合わせへの対応や、シノダシドの偽装工作の使用についても助言している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1962-08-19",
+  "origin_agency": "CIA",
+  "sender": "MEXICO CITY",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "JEREMY X BENADUM"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Miami",
+    "Mexico"
+  ],
   "tags": [
     "LITEMPO",
     "visa",
@@ -12,18 +27,5 @@
     "AMBANG-1",
     "ODYOKE",
     "CINODACID"
-  ],
-  "title": "IN 47827: Obtaining Mexican Visa for AMBANG/1",
-  "date": "1962-08-19",
-  "locations_mentioned": [
-    "Mexico City",
-    "Miami",
-    "Mexico"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "JEREMY X BENADUM"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "MEXICO CITY"
+  ]
 }

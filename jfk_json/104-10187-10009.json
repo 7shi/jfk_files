@@ -1,29 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "File",
-  "security_level": "SECRET",
-  "summary": "This file contains documents related to KDFACTOR, a photographic surveillance operation targeting the MHHARSH installation in Mexico City. The documents include operational reports, cable messages, and administrative information. The operation involved multiple surveillance points (KDLITERAL and KDABSINTHE) and several salaried assets. The file covers the period from 1958 to 1973, detailing the project's activities, security measures, and eventual termination.",
-  "tags": [
-    "KDFACTOR",
-    "Photographic Surveillance",
-    "MHHARSH Installation",
-    "Mexico City",
-    "KDLITERAL",
-    "KDABSINTHE",
-    "Counterintelligence",
-    "Surveillance",
-    "Assets",
-    "Termination Bonus",
-    "Technical Operations",
-    "CKPOLAR"
-  ],
   "title": "Photographic Surveillance Operation",
+  "title_ja": "写真監視活動",
+  "summary": "This file contains documents related to KDFACTOR, a photographic surveillance operation targeting the MHHARSH installation in Mexico City. The documents include operational reports, cable messages, and administrative information. The operation involved multiple surveillance points (KDLITERAL and KDABSINTHE) and several salaried assets. The file covers the period from 1958 to 1973, detailing the project's activities, security measures, and eventual termination.",
+  "summary_ja": "このファイルには、メキシコシティのMHHARSH施設を対象とした写真偵察作戦「KDFACTOR」に関する文書が収められている。文書には、作戦報告書、電報メッセージ、管理情報が含まれる。この作戦には複数の監視地点（KDLITERALおよびKDABSINTHE）と複数の給与受給者である諜報員が関与していた。このファイルは1958年から1973年までの期間をカバーしており、プロジェクトの活動、セキュリティ対策、最終的な終了について詳細に説明している。",
+  "document_type": "File",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1958-01-01",
-  "locations_mentioned": [
-    "Mexico City",
-    "Holland"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief of Station, Mexico City",
+  "recipient": "Director",
   "persons_mentioned": [
     "Oliver J. MANKUNAS",
     "Bruce H. FERNALD",
@@ -45,6 +31,22 @@
     "Julie Paulas",
     "Raymond J. Swider"
   ],
-  "recipient": "Director",
-  "sender": "Chief of Station, Mexico City"
+  "locations_mentioned": [
+    "Mexico City",
+    "Holland"
+  ],
+  "tags": [
+    "KDFACTOR",
+    "Photographic Surveillance",
+    "MHHARSH Installation",
+    "Mexico City",
+    "KDLITERAL",
+    "KDABSINTHE",
+    "Counterintelligence",
+    "Surveillance",
+    "Assets",
+    "Termination Bonus",
+    "Technical Operations",
+    "CKPOLAR"
+  ]
 }

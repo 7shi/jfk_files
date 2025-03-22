@@ -1,8 +1,22 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "O'CONNELL, James P. #66483",
+  "title_ja": "オコネル、ジェームズ P. #66483",
   "summary": "This memo concerns James P. O'Connell and the return of his alias documentation issued by the Technical Services Division. The documentation is no longer needed and should be destroyed. Appreciation is conveyed for the handling of the matter.",
+  "summary_ja": "このメモは、ジェームズ・P・オコネルと、技術サービス部門が発行した彼の偽名の書類の返却に関するものである。その書類はもはや必要なく、破棄すべきである。この件の処理に感謝する。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1962-06-29",
+  "origin_agency": "Deputy Director of Security (Investigations and Operational Support)",
+  "recipient": "Chief, Technical Services Division",
+  "persons_mentioned": [
+    "James P. O'Connell",
+    "Clayton Kallander",
+    "Victor R. White"
+  ],
+  "locations_mentioned": [
+    "California"
+  ],
   "tags": [
     "alias",
     "documentation",
@@ -10,17 +24,5 @@
     "destruction",
     "James P. O'Connell",
     "Clayton Kallander"
-  ],
-  "title": "O'CONNELL, James P. #66483",
-  "date": "1962-06-29",
-  "locations_mentioned": [
-    "California"
-  ],
-  "origin_agency": "Deputy Director of Security (Investigations and Operational Support)",
-  "persons_mentioned": [
-    "James P. O'Connell",
-    "Clayton Kallander",
-    "Victor R. White"
-  ],
-  "recipient": "Chief, Technical Services Division"
+  ]
 }

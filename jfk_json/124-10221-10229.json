@@ -1,8 +1,28 @@
 {
-  "classification": "Secret",
-  "document_type": "PAPER, TEXTUAL DOCUMENT",
-  "security_level": "Secret",
+  "title": "PEDRO LUIS DIAZ LANZ; RENALDO BLANCO HERNANDEZ; ALBERTO EUSEBIO MOJENA IS CUBA",
+  "title_ja": "ペドロ・ルイス・ディアス・ランズ; レナルド・ブランコ・エルナンデス; アルベルト・エウセビオ・モヘナ キューバ",
   "summary": "FBI document regarding PEDRO LUIS DIAZ LANZ, RENALDO BLANCO HERNANDEZ, and ALBERTO EUSEBIO MOJENA, who are suspected of being associated with FIDEL CASTRO and operating from Ft. Lauderdale, Florida.",
+  "summary_ja": "フロリダ州フォートローダーデールを拠点にフィデル・カストロと関連し活動している疑いのあるペドロ・ルイス・ディアス・ランズ、レナルド・ブランコ・エルナンデス、アルベルト・エウセビオ・モヘナに関するFBI文書。",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "classification": "Secret",
+  "security_level": "Secret",
+  "date": "1958-08-27",
+  "origin_agency": "FBI",
+  "sender": "SAC, SJ",
+  "recipient": "DIRECTOR, FBI",
+  "persons_mentioned": [
+    "PEDRO LUIS DIAZ LANZ",
+    "FIDEL CASTRO",
+    "REINALDO BLANCO HERNANDEZ",
+    "ALBERTO EUSEBIO MOJENA",
+    "DAVID R. MCLEAN"
+  ],
+  "locations_mentioned": [
+    "Havana",
+    "Kingston, Jamaica",
+    "Palisades Airport",
+    "Ft. Lauderdale, Florida"
+  ],
   "tags": [
     "PDL",
     "ASSOC",
@@ -13,23 +33,5 @@
     "FLIGHT PLAN",
     "DESTINATION",
     "RCK"
-  ],
-  "title": "PEDRO LUIS DIAZ LANZ; RENALDO BLANCO HERNANDEZ; ALBERTO EUSEBIO MOJENA IS CUBA",
-  "date": "1958-08-27",
-  "locations_mentioned": [
-    "Havana",
-    "Kingston, Jamaica",
-    "Palisades Airport",
-    "Ft. Lauderdale, Florida"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "PEDRO LUIS DIAZ LANZ",
-    "FIDEL CASTRO",
-    "REINALDO BLANCO HERNANDEZ",
-    "ALBERTO EUSEBIO MOJENA",
-    "DAVID R. MCLEAN"
-  ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "SAC, SJ"
+  ]
 }

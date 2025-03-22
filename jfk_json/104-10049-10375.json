@@ -1,8 +1,26 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "GENERAL- Operational. SPECIFIC PAWLEY Business Interests in the Dominican Republic",
+  "title_ja": "全般 - 業務。 特定 ポーリー氏のドミニカ共和国における事業利益",
   "summary": "Dispatch regarding William D. PAWLEY's business interests in the Dominican Republic, including mineral exploitation, purchase of Hotel Hamaca, and a concession for Dominican postage stamps managed by Edward P. PAWLEY.",
+  "summary_ja": "ウィリアム・D・ポーリーのドミニカ共和国における事業利益に関する報告書。鉱物採掘、ホテル・ハマカの購入、エドワード・P・ポーリーが管理するドミニカ共和国の切手発行権などが含まれる。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1958-06-12",
+  "origin_agency": "Chief of Station, Ciudad Trujillo",
+  "sender": "Edward F. STONESET",
+  "recipient": "Chief, WHD",
+  "persons_mentioned": [
+    "William D. PAWLEY",
+    "Edward P. PAWLEY",
+    "Nora BRITZIUS",
+    "Helene I. DAHLERUP"
+  ],
+  "locations_mentioned": [
+    "Dominican Republic",
+    "Ciudad Trujillo",
+    "Boca Chica"
+  ],
   "tags": [
     "William D. PAWLEY",
     "Hotel Hamaca",
@@ -12,21 +30,5 @@
     "mineral exploitation",
     "Nora BRITZIUS",
     "Helene I. DAHLERUP"
-  ],
-  "title": "GENERAL- Operational. SPECIFIC PAWLEY Business Interests in the Dominican Republic",
-  "date": "1958-06-12",
-  "locations_mentioned": [
-    "Dominican Republic",
-    "Ciudad Trujillo",
-    "Boca Chica"
-  ],
-  "origin_agency": "Chief of Station, Ciudad Trujillo",
-  "persons_mentioned": [
-    "William D. PAWLEY",
-    "Edward P. PAWLEY",
-    "Nora BRITZIUS",
-    "Helene I. DAHLERUP"
-  ],
-  "recipient": "Chief, WHD",
-  "sender": "Edward F. STONESET"
+  ]
 }

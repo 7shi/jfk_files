@@ -1,8 +1,26 @@
 {
-  "classification": "Operations",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
+  "title": "Classified Message Regarding Subject's Political Beliefs and Visit to China",
+  "title_ja": "機密メッセージ：対象者の政治的信条および中国訪問について",
   "summary": "This document is a classified message regarding a subject described as leftist but anti-communist and strongly anti-American. The agency wants to develop information on his current political beliefs and why the subject wanted to visit China. They want to evaluate answers to determine his ability to provide intel, with a view toward recruiting him for a briefed mission or residence in China. The message also discusses the possibility that the subject may have been asked to carry back messages, money, or perform other services in Mexico by the Chinese communists.",
+  "summary_ja": "この文書は、左派だが反共産主義で、強く反米であるとされる人物に関する機密扱いのメッセージである。諜報機関は、この人物の現在の政治的信念と、なぜこの人物が中国を訪問したいと思ったのかに関する情報を収集したいと考えている。また、中国での任務や居住のためにこの人物をリクルートすることを視野に入れ、情報提供能力を判断するための回答を評価したいと考えている。また、このメッセージでは、対象者が中国共産党からメキシコでメッセージや金銭を運ぶことやその他の任務を依頼された可能性についても言及している。",
+  "document_type": "Classified Message",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1964-05-20",
+  "origin_agency": "Director",
+  "sender": "DIRECTOR",
+  "recipient": "MEXICO CITY, GUATEMALA CITY",
+  "persons_mentioned": [
+    "RICHARDSON",
+    "HEITSMAN",
+    "DESMOND FITZGERALD",
+    "WILLIAM E. COLBY"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Guatemala City",
+    "China"
+  ],
   "tags": [
     "China",
     "Recruitment",
@@ -13,21 +31,5 @@
     "LINLUCK-1",
     "LICOOKY-1",
     "ODYOKE"
-  ],
-  "title": "Classified Message Regarding Subject's Political Beliefs and Visit to China",
-  "date": "1964-05-20",
-  "locations_mentioned": [
-    "Mexico City",
-    "Guatemala City",
-    "China"
-  ],
-  "origin_agency": "Director",
-  "persons_mentioned": [
-    "RICHARDSON",
-    "HEITSMAN",
-    "DESMOND FITZGERALD",
-    "WILLIAM E. COLBY"
-  ],
-  "recipient": "MEXICO CITY, GUATEMALA CITY",
-  "sender": "DIRECTOR"
+  ]
 }

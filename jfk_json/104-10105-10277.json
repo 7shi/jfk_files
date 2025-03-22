@@ -1,8 +1,34 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Meeting with E. Howard Hunt Re His Memoirs, \"Undercover\"",
+  "title_ja": "E.ハワード・ハントとの面談、回想録『Undercover』について",
   "summary": "This memorandum details a meeting between CIA representatives and E. Howard Hunt regarding his memoirs, 'Undercover.' The meeting focused on reviewing the manuscript for classified information and potentially sensitive content. Agreed changes were made to several items, and other concerns were discussed with Hunt and his lawyers.",
+  "summary_ja": "この覚書は、回想録『Undercover』に関するCIA代表者とE・ハワード・ハントの会合の詳細を述べている。会合では、機密情報および潜在的に機密性の高い内容について原稿の確認に重点が置かれた。合意された変更がいくつかの項目に対して行われ、その他の懸念事項についてはハントおよび彼の弁護士と協議された。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1974-09-30",
+  "origin_agency": "CIA",
+  "sender": "John D. Morrison, Jr., Acting General Counsel",
+  "recipient": "Acting DDO, SAB/DDO, DC/CI Staff, O/Security, Asst. to DCI, Mr. Walter Pforzheimer, C/CCS",
+  "persons_mentioned": [
+    "E. Howard Hunt",
+    "Ray Rocca",
+    "William A. Snyder, Jr.",
+    "Thomas W. Coons",
+    "John D. Morrison, Jr.",
+    "Henry Pleasants",
+    "Frank Holcomb",
+    "Walter Pforzheimer"
+  ],
+  "locations_mentioned": [
+    "Washington Field Office",
+    "Shanghai",
+    "Mexico City",
+    "Guatemala",
+    "Uruguay",
+    "Hong Kong",
+    "China"
+  ],
   "tags": [
     "E. Howard Hunt",
     "Memoirs",
@@ -18,29 +44,5 @@
     "Henry Pleasants",
     "Frank Holcomb",
     "Watergate"
-  ],
-  "title": "Meeting with E. Howard Hunt Re His Memoirs, \"Undercover\"",
-  "date": "1974-09-30",
-  "locations_mentioned": [
-    "Washington Field Office",
-    "Shanghai",
-    "Mexico City",
-    "Guatemala",
-    "Uruguay",
-    "Hong Kong",
-    "China"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "E. Howard Hunt",
-    "Ray Rocca",
-    "William A. Snyder, Jr.",
-    "Thomas W. Coons",
-    "John D. Morrison, Jr.",
-    "Henry Pleasants",
-    "Frank Holcomb",
-    "Walter Pforzheimer"
-  ],
-  "recipient": "Acting DDO, SAB/DDO, DC/CI Staff, O/Security, Asst. to DCI, Mr. Walter Pforzheimer, C/CCS",
-  "sender": "John D. Morrison, Jr., Acting General Counsel"
+  ]
 }

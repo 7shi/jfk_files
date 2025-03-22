@@ -1,8 +1,23 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "HITCH, Cal William (A)",
+  "title_ja": "ウィッチ、カル・ウィリアム (A)",
   "summary": "Memorandum from the Deputy Director of Security confirming security approval for the issuance of documentation in the alias \"HITCH, Cal William (A)\" for an operational assignment in Florida.",
+  "summary_ja": "フロリダでの作戦任務のために「HITCH, Cal William (A)」という偽名で書類を発行することのセキュリティ承認を確認する、セキュリティ担当副部長の覚書。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "UNCLASSIFIED",
+  "date": "1961-05-18",
+  "origin_agency": "Office of Security",
+  "sender": "Deputy Director of Security",
+  "recipient": "Chief, WE Division",
+  "persons_mentioned": [
+    "Calvin W. Hicks",
+    "Richard Major",
+    "Victor White"
+  ],
+  "locations_mentioned": [
+    "Florida"
+  ],
   "tags": [
     "alias",
     "documentation",
@@ -12,18 +27,5 @@
     "driver's license",
     "social security card",
     "AAA insurance card"
-  ],
-  "title": "HITCH, Cal William (A)",
-  "date": "1961-05-18",
-  "locations_mentioned": [
-    "Florida"
-  ],
-  "origin_agency": "Office of Security",
-  "persons_mentioned": [
-    "Calvin W. Hicks",
-    "Richard Major",
-    "Victor White"
-  ],
-  "recipient": "Chief, WE Division",
-  "sender": "Deputy Director of Security"
+  ]
 }

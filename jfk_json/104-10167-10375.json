@@ -1,8 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "Transmittal of Memorandum of Oral Commitment for Alberto PONZOA y Alvarez",
+  "title_ja": "アルベルト・ポンソア・イ・アルバレスに対する口頭での約束に関する覚書の送付",
   "summary": "Transmittal of Memorandum of Oral Commitment for Alberto PONZOA y Alvarez. Subject was a contact of the Havana Station and made sea rendezvous operations. He now wishes to disassociate himself completely from any Cuban political group and desires to place himself under KUBARK control. It is proposed to use Subject as a small boat captain in maritime operations.",
+  "summary_ja": "アルベルト・ポンソア・イ・アルバレスの口頭による誓約覚書の伝達。対象者はハバナ支局の連絡員であり、海上での合流作戦を行っていた。彼は現在、いかなるキューバの政治グループからも完全に手を引き、KUBARKの管理下に置かれることを希望している。海上作戦において、対象者を小型船の船長として起用することが提案されている。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1961-08-10",
+  "origin_agency": "CIA",
+  "sender": "Chief of Base, JMWAVE",
+  "recipient": "Chief, Nestern Hemisphere Division",
+  "persons_mentioned": [
+    "Alberto PONZOA y Alvarez",
+    "Junior"
+  ],
+  "locations_mentioned": [
+    "Havana",
+    "Cuba"
+  ],
   "tags": [
     "Memorandum of Oral Commitment",
     "Alberto PONZOA y Alvarez",
@@ -16,18 +31,5 @@
     "Beach Landings",
     "Interpreter",
     "Training"
-  ],
-  "title": "Transmittal of Memorandum of Oral Commitment for Alberto PONZOA y Alvarez",
-  "date": "1961-08-10",
-  "locations_mentioned": [
-    "Havana",
-    "Cuba"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Alberto PONZOA y Alvarez",
-    "Junior"
-  ],
-  "recipient": "Chief, Nestern Hemisphere Division",
-  "sender": "Chief of Base, JMWAVE"
+  ]
 }

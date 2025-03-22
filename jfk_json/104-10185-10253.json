@@ -1,8 +1,27 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DIR 20506: KURIOT PREPARING TWO DOCUMENTS",
+  "title_ja": "DIR 20506：クリオット、2つの文書を作成中",
   "summary": "Cable discussing the preparation of two documents for a case, including a driver's license and voter registration, and instructions for forwarding them to a specific address.",
+  "summary_ja": "電報が、運転免許証と選挙人登録を含む2つの書類の準備について話し合い、それらを特定の住所に転送する指示を出している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1964-05-11",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "MEXICO CITY",
+  "persons_mentioned": [
+    "KURIOT",
+    "BRUCE EL CHEEVER",
+    "DESMOND FITZGERALD",
+    "M. Walker",
+    "Dick Scutt"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "WASHINGTON, D.C.",
+    "S.W. STATION"
+  ],
   "tags": [
     "KURIOT",
     "Driver's License",
@@ -11,22 +30,5 @@
     "Mail Recovery",
     "EMPLEADO",
     "Travelers Advisory Service"
-  ],
-  "title": "DIR 20506: KURIOT PREPARING TWO DOCUMENTS",
-  "date": "1964-05-11",
-  "locations_mentioned": [
-    "MEXICO CITY",
-    "WASHINGTON, D.C.",
-    "S.W. STATION"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "KURIOT",
-    "BRUCE EL CHEEVER",
-    "DESMOND FITZGERALD",
-    "M. Walker",
-    "Dick Scutt"
-  ],
-  "recipient": "MEXICO CITY",
-  "sender": "DIRECTOR"
+  ]
 }

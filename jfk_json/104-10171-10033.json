@@ -1,8 +1,30 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "Activities of the DRE (Directorio Revolucionario Estudiantil)",
+  "title_ja": "DRE（革命学生ディレクトリ）の活動",
   "summary": "This memo discusses the activities of the Directorio Revolucionario Estudiantil (DRE) in Cuba, including information about arms shipments and planned sabotage activities against the Castro regime.",
+  "summary_ja": "このメモでは、キューバにおける革命学生評議会（DRE）の活動について、カストロ政権に対する武器の輸送と計画された妨害活動に関する情報を含めて議論する。",
+  "document_type": "Memo",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-07-20",
+  "origin_agency": "CIA",
+  "sender": "Neil T. PICKWORTH",
+  "recipient": "Chief of Station, JMWAVE; Chief, Task Force W",
+  "persons_mentioned": [
+    "Jose Ricardo Rabel Ortega",
+    "Jose Ricardo Rabel Hunez",
+    "Fernando Gomez Fonseca",
+    "Laureano (\"Lino\") Pequeno",
+    "Manuel Gomez",
+    "Neil T. PICKWORTH"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Minas del rrio, Oriente Province",
+    "Miami, Florida, USA",
+    "Latin American country"
+  ],
   "tags": [
     "Directorio Revolucionario Estudiantil",
     "DRE",
@@ -20,25 +42,5 @@
     "JMWAVE",
     "GYROSE/PW",
     "Task Force W"
-  ],
-  "title": "Activities of the DRE (Directorio Revolucionario Estudiantil)",
-  "date": "1962-07-20",
-  "locations_mentioned": [
-    "Cuba",
-    "Havana",
-    "Minas del rrio, Oriente Province",
-    "Miami, Florida, USA",
-    "Latin American country"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Jose Ricardo Rabel Ortega",
-    "Jose Ricardo Rabel Hunez",
-    "Fernando Gomez Fonseca",
-    "Laureano (\"Lino\") Pequeno",
-    "Manuel Gomez",
-    "Neil T. PICKWORTH"
-  ],
-  "recipient": "Chief of Station, JMWAVE; Chief, Task Force W",
-  "sender": "Neil T. PICKWORTH"
+  ]
 }

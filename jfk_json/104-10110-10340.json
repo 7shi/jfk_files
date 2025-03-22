@@ -1,8 +1,14 @@
 {
-  "classification": "Administrative",
-  "document_type": "Notification",
-  "security_level": "SECRET",
+  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
+  "title_ja": "軍事援護バックストップの確立に関する通知",
   "summary": "Notification of establishment of military cover backstop for U.S. Army Joint Operations Group (8739) in August 1962, outlining procedures for record management, W-2 issuance, and cover changes.",
+  "summary_ja": "1962年8月、米国陸軍統合作戦グループ（8739）の軍事保護のバックアップ体制の確立に関する通知。記録管理、W-2発行、および保護変更の手順を概説している。",
+  "document_type": "Notification",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1962-08",
+  "origin_agency": "U.S. Army",
+  "recipient": "Chief, Records and Services Division",
   "tags": [
     "Military Cover",
     "Backstop",
@@ -15,9 +21,5 @@
     "OSD/OS",
     "PSD/OS",
     "ADPD/COMPTE"
-  ],
-  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
-  "date": "1962-08",
-  "origin_agency": "U.S. Army",
-  "recipient": "Chief, Records and Services Division"
+  ]
 }

@@ -1,8 +1,24 @@
 {
-  "classification": "Personnel",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Personnel File Excerpt",
+  "title_ja": "人事ファイル抜粋",
   "summary": "This document discusses an individual's employment history with the CIA, including assignments in Panama, Washington D.C., Havana, and Guatemala. It also mentions security concerns related to alleged affairs in Cuba and a relationship with an individual wanted by the FBI.",
+  "summary_ja": "この文書は、パナマ、ワシントンD.C.、ハバナ、グアテマラでの任務を含む、CIAでの個人の雇用歴について述べている。また、キューバでの不倫疑惑とFBIが指名手配している人物との関係に関連するセキュリティ上の懸念についても言及している。",
+  "document_type": "Report",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1961",
+  "origin_agency": "CIA",
+  "recipient": "Security",
+  "persons_mentioned": [
+    "Ronald Stanley DAVIC",
+    "Dave CHRIST"
+  ],
+  "locations_mentioned": [
+    "Panama",
+    "Washington, D.C.",
+    "Havana, Cuba",
+    "Guatemala"
+  ],
   "tags": [
     "employment history",
     "security",
@@ -14,19 +30,5 @@
     "JMARC",
     "DDP/WH",
     "Logistics Section"
-  ],
-  "title": "Personnel File Excerpt",
-  "date": "1961",
-  "locations_mentioned": [
-    "Panama",
-    "Washington, D.C.",
-    "Havana, Cuba",
-    "Guatemala"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Ronald Stanley DAVIC",
-    "Dave CHRIST"
-  ],
-  "recipient": "Security"
+  ]
 }

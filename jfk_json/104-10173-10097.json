@@ -1,8 +1,34 @@
 {
-  "classification": "Personnel",
-  "document_type": "Report",
-  "security_level": "UNCLASSIFIED",
+  "title": "Valentin Sergeyevich Loginov Personnel File",
+  "title_ja": "Valentin Sergeyevich Loginov 人事ファイル",
   "summary": "Report on Valentin Sergeyevich Loginov, a Soviet Attache stationed in Havana. The report details his background, personality, activities, and potential vulnerabilities.",
+  "summary_ja": "ハバナに駐在するソ連アタッシェ、ヴァレンティン・セルゲイエヴィチ・ロギノフに関する報告書。この報告書は、彼の経歴、性格、活動、潜在的な脆弱性について詳細に述べている。",
+  "document_type": "Report",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
+  "date": "1966",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Valentin Sergeyevich Loginov",
+    "NECHIPORENKO",
+    "LICOZY/5",
+    "YATSKOV",
+    "Elizabeth Duncan Wilde",
+    "Faul Dillon",
+    "BARANOV",
+    "Uriy DRUSS",
+    "AMSLOUCH/3"
+  ],
+  "locations_mentioned": [
+    "Havana",
+    "Moscow",
+    "Latin America",
+    "USSR",
+    "U.S. Embassy",
+    "Soviet Embassy"
+  ],
   "tags": [
     "Soviet",
     "KGB",
@@ -15,29 +41,5 @@
     "AMSLOUCH/3",
     "BARANOV",
     "DRUSS"
-  ],
-  "title": "Valentin Sergeyevich Loginov Personnel File",
-  "date": "1966",
-  "locations_mentioned": [
-    "Havana",
-    "Moscow",
-    "Latin America",
-    "USSR",
-    "U.S. Embassy",
-    "Soviet Embassy"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "Valentin Sergeyevich Loginov",
-    "NECHIPORENKO",
-    "LICOZY/5",
-    "YATSKOV",
-    "Elizabeth Duncan Wilde",
-    "Faul Dillon",
-    "BARANOV",
-    "Uriy DRUSS",
-    "AMSLOUCH/3"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

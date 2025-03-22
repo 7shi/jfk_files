@@ -1,22 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum details tests conducted on modified sights for the 7.62 Belgium (FAL) Rifle. The tests involved a Williams Peep sight and a telescopic sight, with the aim of improving the rifle's accuracy and range. The tests revealed issues with both sights, including erratic performance and mounting difficulties.",
-  "tags": [
-    "7.62 Belgium (FAL) Rifle",
-    "Williams Peep sight",
-    "Telescopic sight",
-    "Weapon Testing",
-    "Ammunition",
-    "Accuracy"
-  ],
   "title": "Tests of Modified Sights for 7.62 Belgium (FAL) Rifle",
+  "title_ja": "7.62mmベルギー（FAL）ライフル用照準器の改良テスト",
+  "summary": "This memorandum details tests conducted on modified sights for the 7.62 Belgium (FAL) Rifle. The tests involved a Williams Peep sight and a telescopic sight, with the aim of improving the rifle's accuracy and range. The tests revealed issues with both sights, including erratic performance and mounting difficulties.",
+  "summary_ja": "この覚書は、7.62ベルギー（FAL）ライフル用に改良された照準器のテストについて詳細に説明している。テストには、ウィリアムズ・ピープサイトと望遠照準器が使用され、ライフルの精度と射程距離の改善を目的としていた。テストにより、両方の照準器に不安定な性能や取り付けの難しさなどの問題があることが明らかになった。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1964-06-10",
-  "locations_mentioned": [
-    "Isolation"
-  ],
   "origin_agency": "TSD/EB",
+  "sender": "DANIEL J. HOGAN",
+  "recipient": "Record",
   "persons_mentioned": [
     "Donald R. Dunn",
     "James Barb",
@@ -24,6 +17,15 @@
     "Daniel J. Hogan",
     "Cal Hicks"
   ],
-  "recipient": "Record",
-  "sender": "DANIEL J. HOGAN"
+  "locations_mentioned": [
+    "Isolation"
+  ],
+  "tags": [
+    "7.62 Belgium (FAL) Rifle",
+    "Williams Peep sight",
+    "Telescopic sight",
+    "Weapon Testing",
+    "Ammunition",
+    "Accuracy"
+  ]
 }

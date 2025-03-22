@@ -1,8 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Telegram Information Report",
-  "security_level": "SECRET",
+  "title": "EFFORTS OF CUBAN GOVERNMENT TO INITIATE COMMERCIAL BARTER WITH WEST EUROPEAN COUNTRIES",
+  "title_ja": "西ヨーロッパ諸国との商業的バーター取引開始に向けたキューバ政府の取り組み",
   "summary": "Cuban government efforts to initiate commercial barter with Western European countries, including negotiations for debt payments and offers to sell tobacco at discount prices. Cuba seeks fertilizer, transportation, and chemical products in exchange for sugar, anticipating a bumper crop in 1964.",
+  "summary_ja": "西欧諸国との商業的物々交換を開始するためのキューバ政府の取り組み。これには、債務支払いに関する交渉や、タバコの割引価格での販売が含まれる。キューバは、1964年の豊作を見込んで、砂糖と引き換えに肥料、輸送手段、化学製品を求めている。",
+  "document_type": "Telegram Information Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-12-20",
+  "origin_agency": "Central Intelligence Agency",
+  "sender": "MEXICO CITY",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [],
+  "locations_mentioned": [
+    "Cuba",
+    "West Germany",
+    "Italy",
+    "France",
+    "Mexico City"
+  ],
   "tags": [
     "Commercial Barter",
     "Debt Negotiations",
@@ -11,18 +26,5 @@
     "Fertilizer",
     "Transportation",
     "Chemical Products"
-  ],
-  "title": "EFFORTS OF CUBAN GOVERNMENT TO INITIATE COMMERCIAL BARTER WITH WEST EUROPEAN COUNTRIES",
-  "date": "1963-12-20",
-  "locations_mentioned": [
-    "Cuba",
-    "West Germany",
-    "Italy",
-    "France",
-    "Mexico City"
-  ],
-  "origin_agency": "Central Intelligence Agency",
-  "persons_mentioned": [],
-  "recipient": "DIRECTOR",
-  "sender": "MEXICO CITY"
+  ]
 }

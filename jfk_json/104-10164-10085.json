@@ -1,19 +1,21 @@
 {
-  "classification": "Administrative",
-  "document_type": "Cross Reference",
-  "security_level": "SECRET",
+  "title": "DOCUMENT TRANSFER AND CROSS REFERENCE - CROWDER, EDWARD/JR.",
+  "title_ja": "文書転送と相互参照 - CROWDER, EDWARD/JR.",
   "summary": "Document transfer and cross reference for Edward Crowder Jr., indicating derogatory information held by the Panamanian Dept of National Investigations.",
+  "summary_ja": "エドワード・クラウダー・ジュニアに関する文書移管および相互参照（パナマ国家捜査局が保有する中傷的情報を示す）。",
+  "document_type": "Cross Reference",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1962-03-23",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "Edward Crowder Jr."
+  ],
   "tags": [
     "Document Transfer",
     "Cross Reference",
     "Edward Crowder Jr.",
     "Panamanian Dept of National Investigations",
     "Derogatory Information"
-  ],
-  "title": "DOCUMENT TRANSFER AND CROSS REFERENCE - CROWDER, EDWARD/JR.",
-  "date": "1962-03-23",
-  "persons_mentioned": [
-    "Edward Crowder Jr."
-  ],
-  "recipient": "CIA"
+  ]
 }

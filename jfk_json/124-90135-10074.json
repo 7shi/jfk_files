@@ -1,35 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Textual Document",
-  "security_level": "Secret",
-  "summary": "This document is a correlation summary regarding Eloy Gutierrez Menoyo, including information about his activities, associations, and reputation among Cuban exiles and intelligence agencies. It contains reports from informants, CIA information, and references to other documents related to Menoyo and his involvement with various anti-Castro groups and activities.",
-  "tags": [
-    "Eloy Gutierrez Menoyo",
-    "Kiko Pernas",
-    "II Front",
-    "Cuban Revolution",
-    "Anti-Castro",
-    "Miami",
-    "Operation Alpha 66",
-    "DRIL",
-    "William Alexander Morgan",
-    "Trujillo",
-    "CIA",
-    "FBI"
-  ],
   "title": "Eloy Gutierrez Menoyo",
+  "title_ja": "エロイ・グティエレス・メノヨ",
+  "summary": "This document is a correlation summary regarding Eloy Gutierrez Menoyo, including information about his activities, associations, and reputation among Cuban exiles and intelligence agencies. It contains reports from informants, CIA information, and references to other documents related to Menoyo and his involvement with various anti-Castro groups and activities.",
+  "summary_ja": "この文書は、エロイ・グティエレス・メノヨに関する相関関係の概要であり、彼の活動、交友関係、およびキューバ亡命者や情報機関の間での評判に関する情報を含む。情報提供者からの報告、CIAの情報、およびメノヨと彼が関与したさまざまな反カストロ派グループや活動に関する他の文書への言及が含まれている。",
+  "document_type": "Textual Document",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1963-01-18",
-  "locations_mentioned": [
-    "Cuba",
-    "Havana",
-    "Miami",
-    "Tampa",
-    "Isle of Pines",
-    "Madrid",
-    "Spain",
-    "Portugal"
-  ],
   "origin_agency": "FBI",
+  "sender": "HQ",
+  "recipient": "To:",
   "persons_mentioned": [
     "Eloy Gutierrez Menoyo",
     "Fidel Castro",
@@ -62,6 +42,28 @@
     "Generoso Campos Marquetti",
     "Tony Cuesta"
   ],
-  "recipient": "To:",
-  "sender": "HQ"
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Miami",
+    "Tampa",
+    "Isle of Pines",
+    "Madrid",
+    "Spain",
+    "Portugal"
+  ],
+  "tags": [
+    "Eloy Gutierrez Menoyo",
+    "Kiko Pernas",
+    "II Front",
+    "Cuban Revolution",
+    "Anti-Castro",
+    "Miami",
+    "Operation Alpha 66",
+    "DRIL",
+    "William Alexander Morgan",
+    "Trujillo",
+    "CIA",
+    "FBI"
+  ]
 }

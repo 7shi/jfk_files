@@ -1,8 +1,22 @@
 {
-  "classification": "Security",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "LIRING-3",
+  "title_ja": "LIRING-3",
   "summary": "This document appears to be a technical interrogation report from the Office of Security. It is marked as 'GROUP 1'. It also mentions the House Select Committee on Assassinations.",
+  "summary_ja": "この文書は、セキュリティ局による技術的な尋問報告書のようだ。「グループ1」とマークされている。暗殺に関する下院特別委員会についても言及されている。",
+  "document_type": "Report",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1978-08-01",
+  "origin_agency": "CIA",
+  "sender": "Office of Security",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "ED LOPEZ"
+  ],
+  "locations_mentioned": [
+    "CIA Headquarters"
+  ],
   "tags": [
     "LIRING-3",
     "C-798301",
@@ -12,17 +26,5 @@
     "CCS/NC",
     "House Select Committee on Assassinations",
     "John F. Kennedy Assassination Records Act of 1992"
-  ],
-  "title": "LIRING-3",
-  "date": "1978-08-01",
-  "locations_mentioned": [
-    "CIA Headquarters"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "ED LOPEZ"
-  ],
-  "recipient": "Unknown",
-  "sender": "Office of Security"
+  ]
 }

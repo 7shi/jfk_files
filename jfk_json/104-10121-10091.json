@@ -1,8 +1,16 @@
 {
-  "classification": "Security",
-  "document_type": "Travel Briefing Data",
-  "security_level": "SECRET",
+  "title": "Travel Briefing Data",
+  "title_ja": "旅行ブリーフィングデータ",
   "summary": "This document contains travel briefing data for an individual with file number 70418, rank GS-15, and TCS status. The briefing covers various aspects such as previous travel, security regulations, travel precautions, personal affairs, personal conduct, association with foreigners, hostile audio surveillance, cover problems, and responsibility abroad. The briefing was conducted on 6/28/87 by a security officer.",
+  "summary_ja": "この文書には、ファイル番号70418、階級GS-15、TCSステータスの人物の渡航に関する説明が記載されている。説明には、過去の渡航、セキュリティ規定、渡航上の注意、私用、行動、外国人との接触、敵対的な音声監視、偽装の問題、海外での責任など、さまざまな側面が含まれている。説明は1987年6月28日にセキュリティ担当官によって行われた。",
+  "document_type": "Travel Briefing Data",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1987-06-28",
+  "origin_agency": "Security",
+  "sender": "Security Officer",
+  "recipient": "Subject File",
+  "persons_mentioned": [],
   "tags": [
     "Travel Briefing",
     "Security",
@@ -10,11 +18,5 @@
     "Counterintelligence",
     "Personal Conduct",
     "Foreign Travel"
-  ],
-  "title": "Travel Briefing Data",
-  "date": "1987-06-28",
-  "origin_agency": "Security",
-  "persons_mentioned": [],
-  "recipient": "Subject File",
-  "sender": "Security Officer"
+  ]
 }

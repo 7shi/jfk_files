@@ -1,36 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch from the Chief of Station, JMWAVE, details operational debriefings of individuals processing through the CAC in May 1962. Subjects include former professionals, members of resistance groups, and individuals with potential connections to intelligence or counter-revolutionary activities. The debriefings covered topics like intelligence on Cuban infrastructure, potential recruitment, and leads for further operational exploitation.",
-  "tags": [
-    "JMWAVE",
-    "CAC",
-    "Operational Debriefing",
-    "Intelligence",
-    "Recruitment",
-    "Counter-Revolutionary Activities",
-    "Cuba",
-    "FND",
-    "MRAC",
-    "ODYOKE",
-    "AMTAUP",
-    "Soviet COMINT"
-  ],
   "title": "Operational/GYROSE Operational Debriefings",
+  "title_ja": "作戦/GYROSE 作戦報告会",
+  "summary": "This dispatch from the Chief of Station, JMWAVE, details operational debriefings of individuals processing through the CAC in May 1962. Subjects include former professionals, members of resistance groups, and individuals with potential connections to intelligence or counter-revolutionary activities. The debriefings covered topics like intelligence on Cuban infrastructure, potential recruitment, and leads for further operational exploitation.",
+  "summary_ja": "JMWAVEのチーフ・オブ・ステーションからのこの報告書は、1962年5月にCACを通過した個人の作戦報告の詳細を述べている。対象には、元プロフェッショナル、レジスタンスグループのメンバー、諜報活動や反革命活動に関与している可能性のある個人などが含まれる。報告書では、キューバのインフラに関する情報、潜在的な勧誘、さらなる作戦利用のための手掛かりなどのトピックが取り上げられている。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1962-06-25",
-  "locations_mentioned": [
-    "Cuba",
-    "Havana",
-    "Camaguey",
-    "Pinar del Rio",
-    "Miami",
-    "Isle of Pines",
-    "Santa Fe",
-    "Las Villas",
-    "Remedios"
-  ],
   "origin_agency": "JMWAVE",
+  "sender": "Chief of Station, JMWAVE",
+  "recipient": "Chief, Task Force",
   "persons_mentioned": [
     "Rafael ARRIBAS Rodriguez",
     "Jose Francisco AZOR Ores",
@@ -58,6 +37,29 @@
     "Miguel Archangel SUAREZ Valdez",
     "Miguel Angel YANES Garcia"
   ],
-  "recipient": "Chief, Task Force",
-  "sender": "Chief of Station, JMWAVE"
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Camaguey",
+    "Pinar del Rio",
+    "Miami",
+    "Isle of Pines",
+    "Santa Fe",
+    "Las Villas",
+    "Remedios"
+  ],
+  "tags": [
+    "JMWAVE",
+    "CAC",
+    "Operational Debriefing",
+    "Intelligence",
+    "Recruitment",
+    "Counter-Revolutionary Activities",
+    "Cuba",
+    "FND",
+    "MRAC",
+    "ODYOKE",
+    "AMTAUP",
+    "Soviet COMINT"
+  ]
 }

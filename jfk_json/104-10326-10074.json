@@ -1,26 +1,28 @@
 {
-  "classification": "Oswald",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "BRIEFING PAPER AND OSWALD FILES",
+  "title_ja": "ブリーフィング・ペーパーとオズワルド・ファイル",
   "summary": "This cable discusses a briefing paper for CODEL Shelby regarding Oswald files, a historical conversation with a local service about those files, and a diplomatic note submitted by the Ambassador requesting the files on Oswald.",
+  "summary_ja": "本電報では、オズワルドのファイルに関するCODELシェルビーへのブリーフィングペーパー、当該ファイルに関する現地サービスとの過去の会話、および大使が当該ファイルを要求した外交公電について議論する。",
+  "document_type": "Cable",
+  "classification": "Oswald",
+  "security_level": "SECRET",
+  "date": "1995-08-16",
+  "origin_agency": "CIA",
+  "sender": "STAFF",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "LEE HARVEY OSWALD",
+    "SHELBY",
+    "ANDREI SANIKOV"
+  ],
+  "locations_mentioned": [
+    "MINSK"
+  ],
   "tags": [
     "Oswald files",
     "briefing paper",
     "CODEL Shelby",
     "diplomatic note",
     "Kennedy assassination"
-  ],
-  "title": "BRIEFING PAPER AND OSWALD FILES",
-  "date": "1995-08-16",
-  "locations_mentioned": [
-    "MINSK"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "LEE HARVEY OSWALD",
-    "SHELBY",
-    "ANDREI SANIKOV"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "STAFF"
+  ]
 }

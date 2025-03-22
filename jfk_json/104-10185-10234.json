@@ -1,8 +1,25 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "SAFEHOUSE FOR AMMUG-1",
+  "title_ja": "AMMUG-1用セーフハウス",
   "summary": "This memo discusses the procurement of a safehouse for AMMUG-1 at Summit Hill Apartments in Silver Spring, Maryland. It details the arrangement made with John Ryan, the placement of a deposit on apartment G-32, and the notification of security. Roger Shea will sign the lease under the name Vladimir Rodriguez Lahera, starting July 1, 1964.",
+  "summary_ja": "このメモでは、メリーランド州シルバースプリングスのサミットヒルアパートメントにおけるAMMUG-1の隠れ家の調達について述べている。ジョン・ライアンとの取り決め、G-32号室への保証金の支払い、警備員への通知について詳細に説明している。ロジャー・シーは1964年7月1日より、ウラジミール・ロドリゲス・ラヘラの名義で賃貸契約を結ぶ。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
+  "date": "1964-06-16",
+  "origin_agency": "GIPV",
+  "sender": "Vivion A. Petrowski",
+  "recipient": "THE RECORD",
+  "persons_mentioned": [
+    "John Ryan",
+    "Roger Shea",
+    "Vladimir Rodriguez Lahera",
+    "Vivion A. Petrowski"
+  ],
+  "locations_mentioned": [
+    "Silver Spring, Maryland",
+    "Arlington, Virginia"
+  ],
   "tags": [
     "safehouse",
     "AMMUG-1",
@@ -11,20 +28,5 @@
     "security",
     "lease",
     "Vladimir Rodriguez Lahera"
-  ],
-  "title": "SAFEHOUSE FOR AMMUG-1",
-  "date": "1964-06-16",
-  "locations_mentioned": [
-    "Silver Spring, Maryland",
-    "Arlington, Virginia"
-  ],
-  "origin_agency": "GIPV",
-  "persons_mentioned": [
-    "John Ryan",
-    "Roger Shea",
-    "Vladimir Rodriguez Lahera",
-    "Vivion A. Petrowski"
-  ],
-  "recipient": "THE RECORD",
-  "sender": "Vivion A. Petrowski"
+  ]
 }

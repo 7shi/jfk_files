@@ -1,8 +1,24 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Cable Regarding Agent S/1 and Wife's Visit to Mexico City",
+  "title_ja": "エージェント S/1 と妻のメキシコシティ訪問に関する電報",
   "summary": "This cable discusses an agent (S/1) and his wife's upcoming visit to Mexico City. It includes a request for funds to cover the visit and to purchase gifts for the children. The cable also mentions S/1's assignment and living arrangements, as well as a scheduled meeting with ATS.",
+  "summary_ja": "この電報では、エージェント（S/1）と彼の妻がメキシコシティを訪問する予定について述べている。その訪問と子供たちへの贈り物を購入するための資金提供の要請が含まれている。また、S/1の任務と生活環境、およびATSとの予定されている会議についても言及されている。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-12-16",
+  "origin_agency": "CIA",
+  "sender": "HM 8",
+  "recipient": "TEGU",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "SVLUCK",
+    "ELIODORINA GARCIA"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "MERIDA"
+  ],
   "tags": [
     "CI",
     "CI/OPS",
@@ -20,19 +36,5 @@
     "POR",
     "PCA READERS",
     "ATS"
-  ],
-  "title": "Cable Regarding Agent S/1 and Wife's Visit to Mexico City",
-  "date": "1963-12-16",
-  "locations_mentioned": [
-    "MEXICO CITY",
-    "MERIDA"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "JOHN F. KENNEDY",
-    "SVLUCK",
-    "ELIODORINA GARCIA"
-  ],
-  "recipient": "TEGU",
-  "sender": "HM 8"
+  ]
 }

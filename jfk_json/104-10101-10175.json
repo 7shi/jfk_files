@@ -1,8 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "CONF",
+  "title": "Instructions for Anti-Castro Activities",
+  "title_ja": "反カストロ活動に関する指示",
   "summary": "This cable outlines suggested activities to influence public opinion and local governments in favor of a firm stance against Castro's regime, emphasizing the issue before the OAS, the theme of 'no coexistence with Castro,' and the portrayal of Cuba as an exporter of crime rather than revolution.",
+  "summary_ja": "この電報は、カストロ政権に対する強硬姿勢を支持する世論と地方自治体に影響を与えるための提案された活動について概説し、OASでの問題、｢カストロとの共存なし｣というテーマ、キューバを革命ではなく犯罪の輸出国として描くことを強調する。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "CONF",
+  "date": "2025",
+  "origin_agency": "DIR",
+  "sender": "DIRECTOR",
+  "recipient": "MONT GUAT BOGO SDOM",
+  "persons_mentioned": [
+    "Castro",
+    "John F. Kennedy"
+  ],
+  "locations_mentioned": [
+    "Venezuela",
+    "Cuba"
+  ],
   "tags": [
     "OAS",
     "Castro",
@@ -12,18 +27,5 @@
     "Crime",
     "Revolution",
     "Propaganda"
-  ],
-  "title": "Instructions for Anti-Castro Activities",
-  "date": "2025",
-  "locations_mentioned": [
-    "Venezuela",
-    "Cuba"
-  ],
-  "origin_agency": "DIR",
-  "persons_mentioned": [
-    "Castro",
-    "John F. Kennedy"
-  ],
-  "recipient": "MONT GUAT BOGO SDOM",
-  "sender": "DIRECTOR"
+  ]
 }

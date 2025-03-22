@@ -1,8 +1,31 @@
 {
-  "classification": "Personnel",
-  "document_type": "Textual Document",
-  "security_level": "Secret",
+  "title": "Interview with ROBERT GLENN THOMPSON regarding CIA and Army Intelligence Personnel in Berlin",
+  "title_ja": "ベルリンのCIAおよび陸軍情報部要員に関するロバート・グレン・トンプソンへのインタビュー",
   "summary": "This document contains an interview with ROBERT GLENN THOMPSON regarding his knowledge of individuals associated with the CIA and Army Intelligence in Berlin, including WILLIAM K. HARVEY and CLARK JUNG. THOMPSON was interviewed about his time with OSI, Berlin, and his interactions with a Soviet principal named STEVEN.",
+  "summary_ja": "この文書には、ベルリンのCIAおよび陸軍情報部（Army Intelligence）関係者に関するロバート・グレン・トンプソン氏の知識について、ウィリアム・K・ハーヴェイやクラーク・ユングを含む人物に関するインタビューが含まれている。トンプソン氏は、OSI（Office of Strategic Intelligence）での勤務やベルリンでの活動、スティーブンというソ連の要人とのやりとりについてインタビューに答えている。",
+  "document_type": "Textual Document",
+  "classification": "Personnel",
+  "security_level": "Secret",
+  "date": "1965-03-15",
+  "origin_agency": "FBI",
+  "sender": "NY",
+  "recipient": "HQ",
+  "persons_mentioned": [
+    "ROBERT GLENN THOMPSON",
+    "WILLIAM K. HARVEY",
+    "CLARK JUNG",
+    "ROBERT A ACKERMANN",
+    "STEVEN",
+    "PAUL BOYCE TOMPKINS",
+    "GEORGE W. O'CONNOR"
+  ],
+  "locations_mentioned": [
+    "Berlin",
+    "Bay Shore, Long Island, New York",
+    "Argentinische Allee",
+    "Onkel Toms Strasse",
+    "Dahlem"
+  ],
   "tags": [
     "OXTANK",
     "WILLIAM K. HARVEY",
@@ -14,26 +37,5 @@
     "Berlin",
     "Army Intelligence",
     "CIA"
-  ],
-  "title": "Interview with ROBERT GLENN THOMPSON regarding CIA and Army Intelligence Personnel in Berlin",
-  "date": "1965-03-15",
-  "locations_mentioned": [
-    "Berlin",
-    "Bay Shore, Long Island, New York",
-    "Argentinische Allee",
-    "Onkel Toms Strasse",
-    "Dahlem"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "ROBERT GLENN THOMPSON",
-    "WILLIAM K. HARVEY",
-    "CLARK JUNG",
-    "ROBERT A ACKERMANN",
-    "STEVEN",
-    "PAUL BOYCE TOMPKINS",
-    "GEORGE W. O'CONNOR"
-  ],
-  "recipient": "HQ",
-  "sender": "NY"
+  ]
 }

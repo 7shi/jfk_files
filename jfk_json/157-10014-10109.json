@@ -1,39 +1,15 @@
 {
-  "classification": "JFK Assassination Records Act",
-  "document_type": "Report",
-  "security_level": "Top Secret",
-  "summary": "This document contains information pertaining to William Harvey, ZRRIFLE, and Operation Mongoose. It includes meeting agendas, chronologies, and memorandums related to intelligence activities and potential assassination plots involving Fidel Castro.",
-  "tags": [
-    "William Harvey",
-    "ZRRIFLE",
-    "Operation Mongoose",
-    "Assassination",
-    "CIA",
-    "Cuba",
-    "Criminal Syndicate",
-    "Intelligence Activities",
-    "Sheffield Edwards",
-    "James O'Connell",
-    "Roselli",
-    "Gottlieb",
-    "Helms",
-    "McCone",
-    "Lansdale",
-    "Kennedy"
-  ],
   "title": "Miscellaneous Records of the Church Committee",
+  "title_ja": "チャーチ委員会の雑多な記録",
+  "summary": "This document contains information pertaining to William Harvey, ZRRIFLE, and Operation Mongoose. It includes meeting agendas, chronologies, and memorandums related to intelligence activities and potential assassination plots involving Fidel Castro.",
+  "summary_ja": "この文書には、ウィリアム・ハーヴェイ、ZRRIFLE、およびオペレーション・マングースに関する情報が含まれている。フィデル・カストロを巻き込んだ諜報活動および暗殺計画の可能性に関する会議議題、年表、覚書が含まれている。",
+  "document_type": "Report",
+  "classification": "JFK Assassination Records Act",
+  "security_level": "Top Secret",
   "date": "1975-06-25",
-  "locations_mentioned": [
-    "Berlin",
-    "Cuba",
-    "New York",
-    "Miami",
-    "Washington",
-    "Los Angeles",
-    "Chicago",
-    "Europe"
-  ],
   "origin_agency": "SSCIA",
+  "sender": "SSCIA",
+  "recipient": "",
   "persons_mentioned": [
     "John F. Kennedy",
     "William Harvey",
@@ -59,6 +35,32 @@
     "Silverthorne",
     "Khokhlov"
   ],
-  "recipient": "",
-  "sender": "SSCIA"
+  "locations_mentioned": [
+    "Berlin",
+    "Cuba",
+    "New York",
+    "Miami",
+    "Washington",
+    "Los Angeles",
+    "Chicago",
+    "Europe"
+  ],
+  "tags": [
+    "William Harvey",
+    "ZRRIFLE",
+    "Operation Mongoose",
+    "Assassination",
+    "CIA",
+    "Cuba",
+    "Criminal Syndicate",
+    "Intelligence Activities",
+    "Sheffield Edwards",
+    "James O'Connell",
+    "Roselli",
+    "Gottlieb",
+    "Helms",
+    "McCone",
+    "Lansdale",
+    "Kennedy"
+  ]
 }

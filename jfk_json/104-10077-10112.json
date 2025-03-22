@@ -1,8 +1,24 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "104-10077-10112 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "104-10077-10112 1992年ジョン・F・ケネディ大統領暗殺記録法に基づく2025年公開",
   "summary": "Cable discusses traces of GARCIA and VALDES. Suggests MEXI Principal Agent Asset handle lead.",
+  "summary_ja": "電報はGARCIAとVALDESの痕跡について議論する。MEXIの主任エージェント資産が主導権を握ることを提案する。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-11-23",
+  "origin_agency": "CIA",
+  "sender": "WH/S/Mexico",
+  "recipient": "LOOP CI/OA, SAS 8, VR",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "GARCIA",
+    "VALDES",
+    "Barthe Tales"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY"
+  ],
   "tags": [
     "GARCIA",
     "VALDES",
@@ -10,19 +26,5 @@
     "AMCONCERT",
     "Barthe Tales",
     "World Health Organization"
-  ],
-  "title": "104-10077-10112 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
-  "date": "1963-11-23",
-  "locations_mentioned": [
-    "MEXICO CITY"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "JOHN F. KENNEDY",
-    "GARCIA",
-    "VALDES",
-    "Barthe Tales"
-  ],
-  "recipient": "LOOP CI/OA, SAS 8, VR",
-  "sender": "WH/S/Mexico"
+  ]
 }

@@ -1,37 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum/Agreement",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This document contains an agreement between the United States Secret Service and the Central Intelligence Agency concerning presidential protection in the United States. It also includes memorandums for record discussing meetings, trips, and actions.",
-  "tags": [
-    "Presidential Protection",
-    "Secret Service",
-    "CIA",
-    "Agreement",
-    "Disarmament",
-    "Cuba",
-    "Panama",
-    "Special Group"
-  ],
   "title": "Agreement Between the United States Secret Service and the Central Intelligence Agency Concerning Presidential Protection in the United States",
+  "title_ja": "米国における大統領警護に関する米国シークレットサービスと中央情報局の間の合意",
+  "summary": "This document contains an agreement between the United States Secret Service and the Central Intelligence Agency concerning presidential protection in the United States. It also includes memorandums for record discussing meetings, trips, and actions.",
+  "summary_ja": "この文書には、米国における大統領の警護に関する米国シークレットサービスと中央情報局（CIA）間の合意が含まれている。また、会議、出張、行動に関する記録用覚書も含まれている。",
+  "document_type": "Memorandum/Agreement",
+  "classification": "Administrative",
+  "security_level": "CONFIDENTIAL",
   "date": "1965-04-07",
-  "locations_mentioned": [
-    "United States",
-    "Cuba",
-    "Saigon",
-    "Norfolk",
-    "Fort Bragg",
-    "Panama",
-    "Manila",
-    "Philippines",
-    "Taiwan",
-    "Latin America",
-    "Africa",
-    "Geneva",
-    "West Germany",
-    "France"
-  ],
   "origin_agency": "Central Intelligence Agency",
+  "sender": "Marshall S. Carter, Lieutenant General, USA, Deputy Director",
+  "recipient": "Deputy Director for Plans, Deputy Director for Intelligence, Deputy Director for Science & Technology, Deputy Director for support",
   "persons_mentioned": [
     "John F. Kennedy",
     "Marshall S. Carter",
@@ -50,6 +28,30 @@
     "Khrushchev",
     "Harriman"
   ],
-  "recipient": "Deputy Director for Plans, Deputy Director for Intelligence, Deputy Director for Science & Technology, Deputy Director for support",
-  "sender": "Marshall S. Carter, Lieutenant General, USA, Deputy Director"
+  "locations_mentioned": [
+    "United States",
+    "Cuba",
+    "Saigon",
+    "Norfolk",
+    "Fort Bragg",
+    "Panama",
+    "Manila",
+    "Philippines",
+    "Taiwan",
+    "Latin America",
+    "Africa",
+    "Geneva",
+    "West Germany",
+    "France"
+  ],
+  "tags": [
+    "Presidential Protection",
+    "Secret Service",
+    "CIA",
+    "Agreement",
+    "Disarmament",
+    "Cuba",
+    "Panama",
+    "Special Group"
+  ]
 }

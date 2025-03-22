@@ -1,18 +1,14 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This memorandum discusses a proposal for A&E assessment of potential REDSKIN Agent candidates using nonofficial cover and the establishment of notional cover for the program. It also details credit checks conducted on staff A&E members.",
-  "tags": [
-    "REDSKIN Agent",
-    "A&E assessment",
-    "nonofficial cover",
-    "credit check",
-    "Psychological Assessment Associates"
-  ],
   "title": "COVER, NONOFFICIAL - GENERAL (Proposal for A&E Assessment of Potential REDSKIN Agent Candidates)",
+  "title_ja": "非公式 - 一般（潜在的なREDスキン諜報要員候補のA&E評価に関する提案",
+  "summary": "This memorandum discusses a proposal for A&E assessment of potential REDSKIN Agent candidates using nonofficial cover and the establishment of notional cover for the program. It also details credit checks conducted on staff A&E members.",
+  "summary_ja": "本覚書では、非公式の身分を隠して REDSKIN エージェント候補者の A&E 評価を行うこと、および本プログラムのための仮の身分を確立することに関する提案について説明している。また、A&E メンバーのスタッフに対して実施された信用調査についても詳細に説明している。",
+  "document_type": "Memorandum",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
   "date": "1961-02-20",
   "origin_agency": "CIA",
+  "sender": "Chief, SB/2 Desk",
   "persons_mentioned": [
     "Jacob GOLDER",
     "Thomas STRANGE",
@@ -23,5 +19,11 @@
     "James B. Lau",
     "Michael G. Hcker"
   ],
-  "sender": "Chief, SB/2 Desk"
+  "tags": [
+    "REDSKIN Agent",
+    "A&E assessment",
+    "nonofficial cover",
+    "credit check",
+    "Psychological Assessment Associates"
+  ]
 }

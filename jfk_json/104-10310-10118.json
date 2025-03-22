@@ -1,8 +1,22 @@
 {
-  "classification": "Oswald",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Chief, CI Meeting with Mr. Paul Wallach, Chief Counsel of Senate Select Committee on Intelligence",
+  "title_ja": "情報部長、上院情報特別委員会主任弁護士ポール・ワラチ氏と面会",
   "summary": "Memorandum regarding a meeting between the Chief of CI and Mr. Paul Wallach, Chief Counsel of the Senate Select Committee on Intelligence, concerning access to Agency files related to the Lee Harvey Oswald case. The meeting addressed concerns about the Agency's cooperation and the sanitization of sensitive information. An agreement was reached for Senate Committee reviewers to work with the original files, with certain sensitive items sterilized or summarized, subject to spot checks. The agreement was approved by Mr. Blee.",
+  "summary_ja": "リー・ハーヴェイ・オズワルド事件に関連する諜報機関のファイルへのアクセスに関する、中央情報局（CIA）長官とポール・ワラッチ上院情報特別委員会主任弁護士との会合に関する覚書。この会合では、CIAの協力と機密情報の削除に関する懸念が取り上げられた。上院委員会の審査員が原本のファイルを調査し、特定の機密事項は抜き打ち検査の対象として、削除または要約するという合意に達した。この合意はBlee氏によって承認された。",
+  "document_type": "Memorandum",
+  "classification": "Oswald",
+  "security_level": "UNCLASSIFIED",
+  "date": "1975-10-30",
+  "sender": "Robert G. Wall, Deputy Chief, CI/OG",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "John F. Kennedy",
+    "Paul Wallach",
+    "Kalaris",
+    "Belin",
+    "Blee",
+    "Proctor"
+  ],
   "tags": [
     "Lee Harvey Oswald",
     "Senate Select Committee on Intelligence",
@@ -15,17 +29,5 @@
     "Cuban Embassy",
     "Security",
     "Review"
-  ],
-  "title": "Chief, CI Meeting with Mr. Paul Wallach, Chief Counsel of Senate Select Committee on Intelligence",
-  "date": "1975-10-30",
-  "persons_mentioned": [
-    "Lee Harvey Oswald",
-    "John F. Kennedy",
-    "Paul Wallach",
-    "Kalaris",
-    "Belin",
-    "Blee",
-    "Proctor"
-  ],
-  "sender": "Robert G. Wall, Deputy Chief, CI/OG"
+  ]
 }

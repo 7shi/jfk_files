@@ -1,21 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable regarding traces on STOLIAKOV and ALFIRIEV. Concerned BIOGENESIS is traces on STOLYAROV and ALFIROV.",
-  "tags": [
-    "STOLIAKOV",
-    "ALFIRIEV",
-    "BIOGENESIS",
-    "Traces",
-    "Counterintelligence"
-  ],
   "title": "Traces on STOLIAKOV and ALFIRIEV",
+  "title_ja": "STOLIAKOVとALFIRIEVの足取り",
+  "summary": "Cable regarding traces on STOLIAKOV and ALFIRIEV. Concerned BIOGENESIS is traces on STOLYAROV and ALFIROV.",
+  "summary_ja": "STOLIAKOVとALFIRIEVの足取りに関する電報。BIOGENESISが懸念しているのは、STOLYAROVとALFIROVの足取りである。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1958-09-26",
-  "locations_mentioned": [
-    "BUENOS AIRES"
-  ],
   "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "BUENOS AIRES",
   "persons_mentioned": [
     "S. VINCENT BARONE",
     "GADWELL KIM ALIASINI",
@@ -23,6 +17,14 @@
     "STOLYAROV",
     "ALFIROV"
   ],
-  "recipient": "BUENOS AIRES",
-  "sender": "DIRECTOR"
+  "locations_mentioned": [
+    "BUENOS AIRES"
+  ],
+  "tags": [
+    "STOLIAKOV",
+    "ALFIRIEV",
+    "BIOGENESIS",
+    "Traces",
+    "Counterintelligence"
+  ]
 }

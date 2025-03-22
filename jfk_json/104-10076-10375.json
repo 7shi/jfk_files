@@ -1,8 +1,30 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "ARRESTS AND MILITIA VIGILANCE IN THE NORTHERN COASTAL AREA",
+  "title_ja": "北部沿岸地域における逮捕と民兵の監視",
   "summary": "Reports arrests and increased militia vigilance in the northern coastal area of Matanzas Province, Cuba, as of December 1963.",
+  "summary_ja": "1963年12月時点で、キューバのマタンサス州北部沿岸地域における逮捕と民兵の警戒強化について報告している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-12-12",
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "sender": "JMWAVE",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "Humberto Bergara",
+    "Irene (Milian)",
+    "Juan Manuel (Milian)",
+    "Magdalena ((Montesino))",
+    "Lazaro Coralio (Alejandro) Montesino)"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Matanzas Province",
+    "Rio Palma",
+    "Marti",
+    "Itabo",
+    "Maximo Gomez"
+  ],
   "tags": [
     "arrests",
     "militia",
@@ -13,25 +35,5 @@
     "Marti",
     "Itabo",
     "Maximo Gomez"
-  ],
-  "title": "ARRESTS AND MILITIA VIGILANCE IN THE NORTHERN COASTAL AREA",
-  "date": "1963-12-12",
-  "locations_mentioned": [
-    "Cuba",
-    "Matanzas Province",
-    "Rio Palma",
-    "Marti",
-    "Itabo",
-    "Maximo Gomez"
-  ],
-  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
-  "persons_mentioned": [
-    "Humberto Bergara",
-    "Irene (Milian)",
-    "Juan Manuel (Milian)",
-    "Magdalena ((Montesino))",
-    "Lazaro Coralio (Alejandro) Montesino)"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "JMWAVE"
+  ]
 }

@@ -1,8 +1,20 @@
 {
-  "classification": "Security",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Inquiry Regarding PCSA Validity After Name Change",
+  "title_ja": "名称変更後のPCSAの妥当性に関する照会",
   "summary": "Cable regarding PCSA validity for subject Emma Harris (formerly Ora Ercuns), now known as Exma Harris Johnson. Asks for advice on whether the original PCSA is still valid and indicates that there should be no traces on the new name.",
+  "summary_ja": "エマ・ハリス（旧姓オラ・エルクンス）に関するPCSAの有効性に関する電報（現在はエクスマ・ハリス・ジョンソンとして知られている）。元のPCSAが依然として有効であるかどうかについての助言を求め、新しい名前には痕跡がないはずであると示している。",
+  "document_type": "Cable",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1963-12-13",
+  "sender": "JAMINE",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "EMMA HARRIS",
+    "ORA ERCUNS",
+    "EXMA HARRIS JOHNSON"
+  ],
   "tags": [
     "PCSA",
     "Emma Harris",
@@ -10,15 +22,5 @@
     "Exma Harris Johnson",
     "Name Change",
     "Security"
-  ],
-  "title": "Inquiry Regarding PCSA Validity After Name Change",
-  "date": "1963-12-13",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "EMMA HARRIS",
-    "ORA ERCUNS",
-    "EXMA HARRIS JOHNSON"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "JAMINE"
+  ]
 }

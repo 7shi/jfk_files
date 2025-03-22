@@ -1,8 +1,25 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
+  "title": "LANE, MARK, ADMIN",
+  "title_ja": "LANE, MARK, ADMIN",
   "summary": "FBI document regarding Mark Lane, dated January 5, 1965, discussing information received from various international police agencies and the CIA regarding Lee Harvey Oswald.",
+  "summary_ja": "1965年1月5日付のマーク・レーンに関するFBI文書。リー・ハーヴェイ・オズワルドに関するさまざまな国際警察機関およびCIAからの情報を論じている。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "Secret",
+  "date": "1965-01-05",
+  "origin_agency": "FBI",
+  "sender": "LEG, BR",
+  "recipient": "Director, FBI",
+  "persons_mentioned": [
+    "MARK LANE",
+    "Lee Harvey Oswald"
+  ],
+  "locations_mentioned": [
+    "Bern",
+    "Vienna",
+    "Austria",
+    "Switzerland"
+  ],
   "tags": [
     "Mark Lane",
     "Lee Harvey Oswald",
@@ -12,20 +29,5 @@
     "Schweizerisches Zentralpolizeibureau",
     "Austrian Federal Security Police",
     "Swiss Federal Police"
-  ],
-  "title": "LANE, MARK, ADMIN",
-  "date": "1965-01-05",
-  "locations_mentioned": [
-    "Bern",
-    "Vienna",
-    "Austria",
-    "Switzerland"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "MARK LANE",
-    "Lee Harvey Oswald"
-  ],
-  "recipient": "Director, FBI",
-  "sender": "LEG, BR"
+  ]
 }

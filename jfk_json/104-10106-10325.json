@@ -1,32 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This document pertains to the Herbert Itkin file, focusing on his involvement as an informant and the subsequent legal and security implications for the CIA, particularly concerning agent Bernard E. MONCURE. It also touches on Itkin's connections with Mafia syndicates and labor unions and his efforts to involve CIA in a custody battle.",
-  "tags": [
-    "Herbert Itkin",
-    "Bernard E. MONCURE",
-    "Mafia",
-    "custody battle",
-    "informant",
-    "Haiti",
-    "Duvalier",
-    "legal",
-    "FBI"
-  ],
   "title": "Herbert Itkin File",
+  "title_ja": "ハーバート・イティキン ファイル",
+  "summary": "This document pertains to the Herbert Itkin file, focusing on his involvement as an informant and the subsequent legal and security implications for the CIA, particularly concerning agent Bernard E. MONCURE. It also touches on Itkin's connections with Mafia syndicates and labor unions and his efforts to involve CIA in a custody battle.",
+  "summary_ja": "この文書はハーバート・イートキンに関するもので、特にエージェントのバーナード・E・モンキュアに関する情報提供者としての彼の関与と、それに伴うCIAの法的および安全保障上の影響に焦点を当てている。また、マフィア組織や労働組合とのイートキンのつながりや、親権争いにCIAを巻き込もうとした彼の努力についても触れている。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1977-11-01",
-  "locations_mentioned": [
-    "New York",
-    "Washington",
-    "Dominican Republic",
-    "Puerto Rico",
-    "England",
-    "Europe",
-    "Frankfurt",
-    "Africa"
-  ],
   "origin_agency": "CIA",
+  "sender": "William H. Godson, CI/R&A/O",
+  "recipient": "Chief, Counterintelligence Staff",
   "persons_mentioned": [
     "William H. Godson",
     "Herbert Itkin",
@@ -43,6 +26,25 @@
     "Seymour Hersh",
     "Lenzieri"
   ],
-  "recipient": "Chief, Counterintelligence Staff",
-  "sender": "William H. Godson, CI/R&A/O"
+  "locations_mentioned": [
+    "New York",
+    "Washington",
+    "Dominican Republic",
+    "Puerto Rico",
+    "England",
+    "Europe",
+    "Frankfurt",
+    "Africa"
+  ],
+  "tags": [
+    "Herbert Itkin",
+    "Bernard E. MONCURE",
+    "Mafia",
+    "custody battle",
+    "informant",
+    "Haiti",
+    "Duvalier",
+    "legal",
+    "FBI"
+  ]
 }

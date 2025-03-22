@@ -1,8 +1,36 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "CLASSIFIED",
+  "title": "IN 2645: PRITY SELL INFO PRITY WAVE CITE MEXI 754 JMEIP SECUR",
+  "title_ja": "IN 2645: PRITY SELL INFO PRITY WAVE CITE MEXI 754 JMEIP SECUR",
   "summary": "Cable from Mexico City regarding Luis Alberto de Jesus Condom Cajigal rejoining the anti-communist underground and his involvement with the FRD.",
+  "summary_ja": "メキシコシティからのルイス・アルベルト・デ・ヘスス・コンドーム・カヒサルが反共産主義地下組織に再加入し、FRDに関与していることに関する電報。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "CLASSIFIED",
+  "date": "1961-03-06",
+  "origin_agency": "MEXICO CITY",
+  "sender": "MEXICO CITY",
+  "recipient": "EELL",
+  "persons_mentioned": [
+    "Luis Alberto de Jesus Condom Cajigal",
+    "Cody Maduro",
+    "Juan Mendez",
+    "Rivero",
+    "El Rubio",
+    "Jorge Piloto",
+    "Jorge Pino",
+    "Emilio Fernandez",
+    "Eugenio",
+    "Pinio Prieto",
+    "Fabio"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Edificio FOCSA",
+    "Havana",
+    "Pinar del Rio",
+    "Matanzas",
+    "Miami"
+  ],
   "tags": [
     "anti-communist underground",
     "FRD",
@@ -27,31 +55,5 @@
     "arms caches",
     "drop zones",
     "HKI Embassy"
-  ],
-  "title": "IN 2645: PRITY SELL INFO PRITY WAVE CITE MEXI 754 JMEIP SECUR",
-  "date": "1961-03-06",
-  "locations_mentioned": [
-    "Mexico City",
-    "Edificio FOCSA",
-    "Havana",
-    "Pinar del Rio",
-    "Matanzas",
-    "Miami"
-  ],
-  "origin_agency": "MEXICO CITY",
-  "persons_mentioned": [
-    "Luis Alberto de Jesus Condom Cajigal",
-    "Cody Maduro",
-    "Juan Mendez",
-    "Rivero",
-    "El Rubio",
-    "Jorge Piloto",
-    "Jorge Pino",
-    "Emilio Fernandez",
-    "Eugenio",
-    "Pinio Prieto",
-    "Fabio"
-  ],
-  "recipient": "EELL",
-  "sender": "MEXICO CITY"
+  ]
 }

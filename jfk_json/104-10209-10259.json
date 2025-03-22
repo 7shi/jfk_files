@@ -1,22 +1,28 @@
 {
-  "classification": "Security",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "THE LEE HARVEY OSWALD CASE",
+  "title_ja": "リー・ハーヴェイ・オズワルド事件",
   "summary": "This memo discusses Abram Chayes, Llewellyn Thompson, and Samuel Wiese's alleged involvement in Lee Harvey Oswald's return to the United States from the Soviet Union in June 1962. It also details security clearances, associations, and investigations related to these individuals.",
-  "tags": [
-    "Lee Harvey Oswald",
+  "summary_ja": "このメモは、アブラム・チェイース、ルウェリン・トンプソン、サミュエル・ヴィーズが、1962年6月にソビエト連邦からアメリカ合衆国に帰国したリー・ハーヴェイ・オズワルドに関与したとされる疑惑について論じている。また、これらの個人に関連するセキュリティクリアランス、関連、調査についても詳細に述べている。",
+  "document_type": "Memo",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1964-01-29",
+  "origin_agency": "CIA",
+  "sender": "H. D. Stevens",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "H. D. Stevens",
+    "Allen and Scott",
     "Abram Chayes",
     "Llewellyn Thompson",
     "Samuel Wiese",
-    "Soviet Union",
-    "Defection",
-    "Security Clearance",
-    "Communist Influence",
-    "ADAPTIVE",
-    "Project QJACTIVE"
+    "J. Foster Collins",
+    "Archibald Roosevelt, Jr.",
+    "Francis F. Walter",
+    "Chester Bowles",
+    "Bruce Frederick Davis",
+    "William Orville Marcell"
   ],
-  "title": "THE LEE HARVEY OSWALD CASE",
-  "date": "1964-01-29",
   "locations_mentioned": [
     "Chicago",
     "United States",
@@ -31,20 +37,16 @@
     "Dhahran",
     "Saudi Arabia"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "H. D. Stevens",
-    "Allen and Scott",
+  "tags": [
+    "Lee Harvey Oswald",
     "Abram Chayes",
     "Llewellyn Thompson",
     "Samuel Wiese",
-    "J. Foster Collins",
-    "Archibald Roosevelt, Jr.",
-    "Francis F. Walter",
-    "Chester Bowles",
-    "Bruce Frederick Davis",
-    "William Orville Marcell"
-  ],
-  "recipient": "N/A",
-  "sender": "H. D. Stevens"
+    "Soviet Union",
+    "Defection",
+    "Security Clearance",
+    "Communist Influence",
+    "ADAPTIVE",
+    "Project QJACTIVE"
+  ]
 }

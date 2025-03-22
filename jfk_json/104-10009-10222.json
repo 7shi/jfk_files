@@ -1,22 +1,24 @@
 {
-  "classification": "Liaison",
-  "document_type": "Letter",
-  "security_level": "SECRET",
-  "summary": "Letter from Richard Helms to Sir Charles C. F. Spry regarding the declassification of Warren Commission document CD-971. Helms mentions that there is no intention to release CD-971 and that Spry's points provide every reason to keep the document out of the public domain.",
-  "tags": [
-    "Warren Commission",
-    "declassification",
-    "CD-971",
-    "Australian Security Intelligence Organization",
-    "FOIA Review"
-  ],
   "title": "Letter regarding Warren Commission document CD-971",
+  "title_ja": "ウォーレン委員会文書CD-971に関する書簡",
+  "summary": "Letter from Richard Helms to Sir Charles C. F. Spry regarding the declassification of Warren Commission document CD-971. Helms mentions that there is no intention to release CD-971 and that Spry's points provide every reason to keep the document out of the public domain.",
+  "summary_ja": "ウォレン委員会文書CD-971の機密解除に関するリチャード・ヘルムズからチャールズ・C・F・スプライ卿への書簡。ヘルムズはCD-971を公開するつもりはないと述べ、スプライの指摘は文書を公有地から排除しておくあらゆる理由を提供していると述べている。",
+  "document_type": "Letter",
+  "classification": "Liaison",
+  "security_level": "SECRET",
   "date": "1968-11-26",
+  "sender": "Richard Helms, Director (DCI)",
   "persons_mentioned": [
     "Richard Helms",
     "Sir Charles C. F. Spry",
     "Amos Taylor, Jr.",
     "John F. Kennedy"
   ],
-  "sender": "Richard Helms, Director (DCI)"
+  "tags": [
+    "Warren Commission",
+    "declassification",
+    "CD-971",
+    "Australian Security Intelligence Organization",
+    "FOIA Review"
+  ]
 }

@@ -1,8 +1,19 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "Unclear",
+  "title": "Gregory, Peter Paul",
+  "title_ja": "グレゴリー、ピーター・ポール",
   "summary": "This document pertains to an investigation of Gregory, Peter Paul. It outlines instructions for conducting NAC's (National Agency Checks) and field investigations, and includes information on distribution and attachments such as bio data and control cards.",
+  "summary_ja": "この文書は、グレゴリー、ピーター・ポールの調査に関するものである。NAC（国家機関チェック）および現地調査の実施に関する指示の概要が記載されており、配布および添付資料（バイオデータや管理カードなど）に関する情報も含まれている。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "Unclear",
+  "date": "1965-09-16",
+  "origin_agency": "FBI",
+  "sender": "Headquarters",
+  "recipient": "Special Agent in Charge, DFO",
+  "persons_mentioned": [
+    "Gregory, Peter Paul"
+  ],
+  "locations_mentioned": [],
   "tags": [
     "Gregory, Peter Paul",
     "NAC",
@@ -13,14 +24,5 @@
     "Control Cards",
     "DODD",
     "CFTCODE"
-  ],
-  "title": "Gregory, Peter Paul",
-  "date": "1965-09-16",
-  "locations_mentioned": [],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "Gregory, Peter Paul"
-  ],
-  "recipient": "Special Agent in Charge, DFO",
-  "sender": "Headquarters"
+  ]
 }

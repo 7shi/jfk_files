@@ -1,18 +1,13 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum and Telegram",
-  "security_level": "SECRET",
-  "summary": "This collection of documents pertains to a payment issue involving Edvard G. Tichborn. It includes a memorandum discussing a delayed payment and a telegram from Tichborn (under the alias Henry Lopez) inquiring about the status of the payment from Ashmead, Hanniferd & Associates.",
-  "tags": [
-    "Payment",
-    "Edvard G. Tichborn",
-    "Ashmead, Hanniferd & Associates",
-    "Telegram",
-    "Delay",
-    "Henry Lopez"
-  ],
   "title": "Payment to Edvard G. Tichborn",
+  "title_ja": "エドワード・G・ティチボーンへの支払い",
+  "summary": "This collection of documents pertains to a payment issue involving Edvard G. Tichborn. It includes a memorandum discussing a delayed payment and a telegram from Tichborn (under the alias Henry Lopez) inquiring about the status of the payment from Ashmead, Hanniferd & Associates.",
+  "summary_ja": "この文書集は、エドワード・G・ティチボーンが関与する支払い問題に関するものである。この中には、支払いの遅延について論じた覚書と、ティチボーン（別名ヘンリー・ロペス）がアシュミード、ハニファード＆アソシエーツに支払いの状況を問い合わせた電報が含まれている。",
+  "document_type": "Memorandum and Telegram",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1960-05-10",
+  "sender": "Evalena S. Vidal, Political Action Division and Henry Lopez (Edvard G. Tichborn)",
   "persons_mentioned": [
     "Edvard G. Tichborn",
     "Thomas Strange",
@@ -20,5 +15,12 @@
     "Henry Darkin",
     "Henry Lopez"
   ],
-  "sender": "Evalena S. Vidal, Political Action Division and Henry Lopez (Edvard G. Tichborn)"
+  "tags": [
+    "Payment",
+    "Edvard G. Tichborn",
+    "Ashmead, Hanniferd & Associates",
+    "Telegram",
+    "Delay",
+    "Henry Lopez"
+  ]
 }

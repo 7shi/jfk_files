@@ -1,8 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Cables regarding PBRUMEN Exiles and Manuel Perez Borroto",
+  "title_ja": "PBRUMENの亡命者とマヌエル・ペレス・ボロトに関する電報",
   "summary": "These cables discuss PBRUMEN exiles in Miami and their proposed security proposals. It also mentions Manuel Perez Borroto, an ex-Batista police captain.",
+  "summary_ja": "これらの電報は、マイアミに追放されたPBRUMENとその提案された安全保障案について述べている。また、元バティスタ政権の警察大佐であるマヌエル・ペレス・ボロトについても言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-01-14",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "SAN JOSE, JMWAVE, JLWAVE",
+  "persons_mentioned": [
+    "H.F.SWENSON",
+    "J.C.KING",
+    "E.A.MARELIUS",
+    "Manuel Perez Borroto"
+  ],
+  "locations_mentioned": [
+    "Miami",
+    "Costa Rica",
+    "Cienfuegos"
+  ],
   "tags": [
     "PBRUMEN",
     "exiles",
@@ -11,21 +29,5 @@
     "Manuel Perez Borroto",
     "Batista",
     "police captain"
-  ],
-  "title": "Cables regarding PBRUMEN Exiles and Manuel Perez Borroto",
-  "date": "1963-01-14",
-  "locations_mentioned": [
-    "Miami",
-    "Costa Rica",
-    "Cienfuegos"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "H.F.SWENSON",
-    "J.C.KING",
-    "E.A.MARELIUS",
-    "Manuel Perez Borroto"
-  ],
-  "recipient": "SAN JOSE, JMWAVE, JLWAVE",
-  "sender": "DIRECTOR"
+  ]
 }

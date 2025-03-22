@@ -1,8 +1,22 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "MEXI 7200: PO Box Acquisition for Cuban Agents",
+  "title_ja": "MEXI 7200: キューバのエージェントのための私書箱の取得",
   "summary": "This cable discusses obtaining post office boxes in Mexico City for use by agents being dispatched to Cuba. It includes a specific PO Box address and mentions the effort to acquire additional boxes.",
+  "summary_ja": "この電報では、キューバに派遣されるエージェントが使用するメキシコシティの私書箱の入手について議論されている。具体的な私書箱の住所が記載されており、追加の私書箱の入手に向けた取り組みについても言及されている。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1961-01-27",
+  "origin_agency": "CIA",
+  "sender": "MEXICO CITY",
+  "recipient": "BELL",
+  "persons_mentioned": [
+    "ANTONIO GOMEZ DURAN"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba"
+  ],
   "tags": [
     "PO Box",
     "Mexico City",
@@ -10,17 +24,5 @@
     "Agents",
     "JMZIP",
     "ANTONIO GOMEZ DURAN"
-  ],
-  "title": "MEXI 7200: PO Box Acquisition for Cuban Agents",
-  "date": "1961-01-27",
-  "locations_mentioned": [
-    "Mexico City",
-    "Cuba"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "ANTONIO GOMEZ DURAN"
-  ],
-  "recipient": "BELL",
-  "sender": "MEXICO CITY"
+  ]
 }

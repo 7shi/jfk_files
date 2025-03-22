@@ -1,8 +1,29 @@
 {
-  "classification": "Commission",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
+  "title": "WC, ASSISTANCE, NEWS MEDIA",
+  "title_ja": "WC、支援、報道機関は",
   "summary": "FBI investigation into a letter alleging possession of a document stolen from the Warren Commission, potentially harmful to President Johnson, and attempts to sell it to Paris-Match. The letter's author, Antilin PERIS, is believed to be using an alias and claims involvement of someone from the UK Embassy in Paris. The investigation involves the High General Staff (HGS) in Madrid, Spain, to locate and interview the letter's sender.",
+  "summary_ja": "ウォレン委員会から盗まれた文書を所有しており、それがジョンソン大統領にとって有害であり、それをパリ・マッチ誌に売却しようとしたという内容の手紙に関するFBIの調査。手紙の差出人であるアンティリン・ペリスは偽名を使用していると思われ、パリの英国大使館関係者の関与を主張している。この調査には、手紙の差出人の特定と事情聴取を行うため、スペインのマドリードにある最高参謀本部（HGS）が関与している。",
+  "document_type": "Memorandum",
+  "classification": "Commission",
+  "security_level": "Secret",
+  "date": "1964-10-28",
+  "origin_agency": "FBI",
+  "sender": "Legat, Paris",
+  "recipient": "Director, FBI",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "President Johnson",
+    "Norman Philcox",
+    "John Hanly",
+    "Antilin PERIS"
+  ],
+  "locations_mentioned": [
+    "Paris",
+    "Madrid",
+    "Spain",
+    "Barcelona",
+    "Dallas"
+  ],
   "tags": [
     "Warren Commission",
     "Assassination",
@@ -13,24 +34,5 @@
     "Madrid",
     "HGS",
     "Alias"
-  ],
-  "title": "WC, ASSISTANCE, NEWS MEDIA",
-  "date": "1964-10-28",
-  "locations_mentioned": [
-    "Paris",
-    "Madrid",
-    "Spain",
-    "Barcelona",
-    "Dallas"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "President Johnson",
-    "Norman Philcox",
-    "John Hanly",
-    "Antilin PERIS"
-  ],
-  "recipient": "Director, FBI",
-  "sender": "Legat, Paris"
+  ]
 }

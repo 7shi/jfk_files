@@ -1,27 +1,29 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Intel Service Chief LIGIBON to attend President Rivera's briefing",
+  "title_ja": "情報サービス主任LIGIBONがリベラ大統領のブリーフィングに出席",
   "summary": "This cable discusses the importance of the Intel Service Chief LIGIBON attending President Rivera's briefing, as he will likely try to move in on leads and take full credit for the Cuban defector information.",
+  "summary_ja": "この電報では、リベラ大統領のブリーフィングに情報部長リギボンが出席することの重要性を論じている。リギボンは、キューバ亡命者情報について、主導権を握り、その功績を独り占めしようとする可能性が高い。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1964-09-03",
+  "origin_agency": "CIA",
+  "sender": "Director",
+  "recipient": "Director",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "LIGIBON",
+    "Rivera"
+  ],
+  "locations_mentioned": [
+    "San Salvador",
+    "Cuba"
+  ],
   "tags": [
     "Cuban Defector",
     "Intelligence",
     "Briefing",
     "LIGIBON",
     "President Rivera"
-  ],
-  "title": "Intel Service Chief LIGIBON to attend President Rivera's briefing",
-  "date": "1964-09-03",
-  "locations_mentioned": [
-    "San Salvador",
-    "Cuba"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "LIGIBON",
-    "Rivera"
-  ],
-  "recipient": "Director",
-  "sender": "Director"
+  ]
 }

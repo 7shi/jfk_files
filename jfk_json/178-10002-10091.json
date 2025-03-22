@@ -1,8 +1,36 @@
 {
-  "classification": "Cuba",
-  "document_type": "Deposition",
-  "security_level": "Secret",
+  "title": "Deposition of William C. Sturbitts",
+  "title_ja": "ウィリアム・C・スタービッツの宣誓供述",
   "summary": "This document is a deposition of William C. Sturbitts taken on April 16, 1975, regarding anti-Castro activities, assassinations of foreign leaders, CIA clandestine operations, Cuban exiles, David Ferrie, Frank Sturgis, E. Howard Hunt, Miami, New Orleans, Clay Shaw, Jim Garrison, and other related topics.",
+  "summary_ja": "この文書は、1975年4月16日にウィリアム・C・スタービットが行った宣誓証言を記録したもので、カストロ打倒活動、外国指導者の暗殺、CIA秘密工作、キューバ亡命者、デビッド・フェリー、フランク・スタージス、E・ハワード・ハント、マイアミ、ニューオーリンズ、クレイ・ショー、ジム・ギャリソン、およびその他の関連事項に関するものである。",
+  "document_type": "Deposition",
+  "classification": "Cuba",
+  "security_level": "Secret",
+  "date": "1975-04-16",
+  "origin_agency": "Rockefeller Commission",
+  "sender": "Rockefeller Commission",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "William C. Sturbitts",
+    "Fidel Castro",
+    "Ted Shackley",
+    "Paul Henze",
+    "Jake Esterline",
+    "Desmond Fitzgerald",
+    "Bill Harvey",
+    "Mr. Karamessines",
+    "Helms",
+    "Nestor Sanchez",
+    "Bobby Kennedy"
+  ],
+  "locations_mentioned": [
+    "Miami",
+    "New Orleans",
+    "Paris",
+    "Europe",
+    "Langley, Virginia",
+    "Washington, D.C."
+  ],
   "tags": [
     "Anti-Castro Activities",
     "Assassinations",
@@ -18,31 +46,5 @@
     "Clay Shaw",
     "William C. Sturbitts",
     "Jim Garrison"
-  ],
-  "title": "Deposition of William C. Sturbitts",
-  "date": "1975-04-16",
-  "locations_mentioned": [
-    "Miami",
-    "New Orleans",
-    "Paris",
-    "Europe",
-    "Langley, Virginia",
-    "Washington, D.C."
-  ],
-  "origin_agency": "Rockefeller Commission",
-  "persons_mentioned": [
-    "William C. Sturbitts",
-    "Fidel Castro",
-    "Ted Shackley",
-    "Paul Henze",
-    "Jake Esterline",
-    "Desmond Fitzgerald",
-    "Bill Harvey",
-    "Mr. Karamessines",
-    "Helms",
-    "Nestor Sanchez",
-    "Bobby Kennedy"
-  ],
-  "recipient": "N/A",
-  "sender": "Rockefeller Commission"
+  ]
 }

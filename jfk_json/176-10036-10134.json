@@ -1,25 +1,15 @@
 {
-  "classification": "CIA",
-  "document_type": "Telegram",
-  "security_level": "CONFIDENTIAL",
-  "summary": "CIA Information Telegram regarding Pham Ngoc Thao and the Tuyen Group's plan to launch a coup d'etat in South Vietnam.",
-  "tags": [
-    "coup d'etat",
-    "Pham Ngoc Thao",
-    "Tuyen Group",
-    "South Vietnam",
-    "Nguyen Khanh",
-    "Duong Van Minh",
-    "Le Van Kim"
-  ],
   "title": "CIA Information Telegram",
+  "title_ja": "CIA情報電報",
+  "summary": "CIA Information Telegram regarding Pham Ngoc Thao and the Tuyen Group's plan to launch a coup d'etat in South Vietnam.",
+  "summary_ja": "南ベトナムでクーデターを起こすファム・ゴック・タオとトゥエン・グループの計画に関するCIA情報電報。",
+  "document_type": "Telegram",
+  "classification": "CIA",
+  "security_level": "CONFIDENTIAL",
   "date": "1963-09-21",
-  "locations_mentioned": [
-    "South Vietnam",
-    "Saigon",
-    "Hue"
-  ],
   "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "",
   "persons_mentioned": [
     "PHAM NGỌC THAO",
     "NGUYEN HUU DUONG",
@@ -31,6 +21,18 @@
     "HuyNH VAN LANG",
     "DIEM"
   ],
-  "recipient": "",
-  "sender": ""
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon",
+    "Hue"
+  ],
+  "tags": [
+    "coup d'etat",
+    "Pham Ngoc Thao",
+    "Tuyen Group",
+    "South Vietnam",
+    "Nguyen Khanh",
+    "Duong Van Minh",
+    "Le Van Kim"
+  ]
 }

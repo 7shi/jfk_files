@@ -1,19 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum discusses the Garrison Investigation of Emilio Santana Galindo, who was recruited by the Agency in October 1962 and participated in an infiltration operation in May 1963. The memo lists staff and agent personnel who had contact with Galindo.",
-  "tags": [
-    "Garrison Investigation",
-    "Emilio Santana Galindo",
-    "JMWAVE",
-    "Infiltration Operation",
-    "Area Guide"
-  ],
   "title": "Garrison Investigation: Emilio SANTANA Galindo",
+  "title_ja": "Garrison Investigation: Emilio SANTANA Galindo",
+  "summary": "This memorandum discusses the Garrison Investigation of Emilio Santana Galindo, who was recruited by the Agency in October 1962 and participated in an infiltration operation in May 1963. The memo lists staff and agent personnel who had contact with Galindo.",
+  "summary_ja": "この覚書は、1962年10月にCIAに採用され、1963年5月に潜入作戦に参加したエミリオ・サンタナ・ガリンドのギャリソン調査について述べている。この覚書には、ガリンドと接触した職員および諜報員が列挙されている。",
+  "document_type": "Memorandum",
+  "classification": "Personnel",
+  "security_level": "SECRET",
   "date": "1967-07-09",
-  "locations_mentioned": [],
   "origin_agency": "CIA",
+  "sender": "AC/R/COG",
+  "recipient": "DC/CI/R&A",
   "persons_mentioned": [
     "Emilio SANTANA Galindo",
     "Eugene E. Norwinsk",
@@ -39,6 +35,12 @@
     "Diego Mario GIMENEZ Cadenas",
     "Heriberto SARDINA Del Campo"
   ],
-  "recipient": "DC/CI/R&A",
-  "sender": "AC/R/COG"
+  "locations_mentioned": [],
+  "tags": [
+    "Garrison Investigation",
+    "Emilio Santana Galindo",
+    "JMWAVE",
+    "Infiltration Operation",
+    "Area Guide"
+  ]
 }

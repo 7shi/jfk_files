@@ -1,8 +1,25 @@
 {
-  "classification": "Intel",
-  "document_type": "Telegram Information Report",
-  "security_level": "CONFIDENTIAL",
+  "title": "Information Report: Proposed Joint Chinese Nationalist-South Vietnamese Intelligence Operations in Laos",
+  "title_ja": "情報報告書：中国国民党と南ベトナムによるラオスでの共同諜報活動の提案について",
   "summary": "This document discusses a proposed joint intelligence operation between South Vietnam and Nationalist China in Laos.",
+  "summary_ja": "この文書は、ラオスにおける南ベトナムと中国国民党の共同諜報活動の提案について述べている。",
+  "document_type": "Telegram Information Report",
+  "classification": "Intel",
+  "security_level": "CONFIDENTIAL",
+  "date": "1962-09-25",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "STATE/INR DIA ARMY/ACSI NAVY AIR JCS SECDEF NSA NIC AID USIA OC.I ONE OCR ORR. ов! 00 EXO STATE DIR",
+  "persons_mentioned": [
+    "Tran Kim Tuyen",
+    "Huang Tien-Mai"
+  ],
+  "locations_mentioned": [
+    "Laos",
+    "South Vietnam",
+    "Taiwan",
+    "Saigon"
+  ],
   "tags": [
     "intelligence operations",
     "Laos",
@@ -10,20 +27,5 @@
     "Nationalist China",
     "Tran Kim Tuyen",
     "Huang Tien-Mai"
-  ],
-  "title": "Information Report: Proposed Joint Chinese Nationalist-South Vietnamese Intelligence Operations in Laos",
-  "date": "1962-09-25",
-  "locations_mentioned": [
-    "Laos",
-    "South Vietnam",
-    "Taiwan",
-    "Saigon"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Tran Kim Tuyen",
-    "Huang Tien-Mai"
-  ],
-  "recipient": "STATE/INR DIA ARMY/ACSI NAVY AIR JCS SECDEF NSA NIC AID USIA OC.I ONE OCR ORR. ов! 00 EXO STATE DIR",
-  "sender": "CIA"
+  ]
 }

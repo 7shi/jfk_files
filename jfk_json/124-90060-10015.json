@@ -1,28 +1,15 @@
 {
-  "classification": "Liaison",
-  "document_type": "MEMO",
-  "security_level": "SECRET",
-  "summary": "This document is a memo from the FBI regarding Lucien Conein. It discusses his affiliation with the CIA and his current assignment in Saigon, South Vietnam. It also details a request from the CIA that no information be furnished to the French regarding Conein's affiliation or whereabouts.",
-  "tags": [
-    "LUCIEN CONEIN",
-    "CIA",
-    "FBI",
-    "SAIGON",
-    "SOUTH VIETNAM",
-    "FRENCH"
-  ],
   "title": "LUCIEN CONEIN",
+  "title_ja": "ルシアン・コーネイン",
+  "summary": "This document is a memo from the FBI regarding Lucien Conein. It discusses his affiliation with the CIA and his current assignment in Saigon, South Vietnam. It also details a request from the CIA that no information be furnished to the French regarding Conein's affiliation or whereabouts.",
+  "summary_ja": "この文書は、FBIによるルシアン・コネインに関するメモである。コネインのCIAとの関係と、南ベトナム・サイゴンでの現在の任務について述べている。また、CIAからの要請として、コネインの所属や居場所に関する情報をフランス側に一切提供しないよう詳細に述べている。",
+  "document_type": "MEMO",
+  "classification": "Liaison",
+  "security_level": "SECRET",
   "date": "1966-07-12",
-  "locations_mentioned": [
-    "Saigon, South Vietnam",
-    "Paris",
-    "Washington, D. C.",
-    "McLean, Virginia",
-    "Arlington County, Virginia",
-    "Fairfax County, Virginia",
-    "St. Louis"
-  ],
   "origin_agency": "FBI",
+  "sender": "HQ",
+  "recipient": "PA",
   "persons_mentioned": [
     "LUCIEN CONEIN",
     "Tolson",
@@ -42,6 +29,21 @@
     "Rosen",
     "Monique Veber"
   ],
-  "recipient": "PA",
-  "sender": "HQ"
+  "locations_mentioned": [
+    "Saigon, South Vietnam",
+    "Paris",
+    "Washington, D. C.",
+    "McLean, Virginia",
+    "Arlington County, Virginia",
+    "Fairfax County, Virginia",
+    "St. Louis"
+  ],
+  "tags": [
+    "LUCIEN CONEIN",
+    "CIA",
+    "FBI",
+    "SAIGON",
+    "SOUTH VIETNAM",
+    "FRENCH"
+  ]
 }

@@ -1,8 +1,31 @@
 {
-  "classification": "Cuba",
-  "document_type": "Message",
-  "security_level": "SECRET",
+  "title": "Intelligence on POES Activities and Concerns",
+  "title_ja": "POESの活動と懸念に関する情報",
   "summary": "This document discusses meetings and intelligence related to the POES (Communist Party of El Salvador), including potential risks of discovery and the need to maintain operational security. It mentions individuals involved in the POES and their activities, as well as concerns about security leaks and potential damage to relations. The document also outlines actions taken to gather information on guerrilla warfare and other activities.",
+  "summary_ja": "この文書では、POES（エルサルバドル共産党）に関する会議と情報について論じられており、発見される可能性のあるリスクと、作戦上の安全を維持する必要性についても言及されている。POESに関与する人物と彼らの活動、および機密漏洩と関係悪化の可能性に関する懸念についても言及されている。また、ゲリラ戦やその他の活動に関する情報を収集するためにとられた措置についても概説されている。",
+  "document_type": "Message",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-09-27",
+  "origin_agency": "CIA",
+  "sender": "ESCIATE",
+  "recipient": "DIR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Shafick Handal",
+    "Jorge Arias Gomez",
+    "Raul Castellanos Figueroa",
+    "Jose Manlio Argueta",
+    "Renan Rodas Lazo",
+    "Pedro Raul Farsan Medrano",
+    "Roberto Armijo Navarrete",
+    "Borne Dalton"
+  ],
+  "locations_mentioned": [
+    "Moscow",
+    "San Salvador",
+    "Mexico"
+  ],
   "tags": [
     "POES",
     "Communist Party",
@@ -18,26 +41,5 @@
     "AUS Leads",
     "President",
     "Meetings"
-  ],
-  "title": "Intelligence on POES Activities and Concerns",
-  "date": "1963-09-27",
-  "locations_mentioned": [
-    "Moscow",
-    "San Salvador",
-    "Mexico"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Shafick Handal",
-    "Jorge Arias Gomez",
-    "Raul Castellanos Figueroa",
-    "Jose Manlio Argueta",
-    "Renan Rodas Lazo",
-    "Pedro Raul Farsan Medrano",
-    "Roberto Armijo Navarrete",
-    "Borne Dalton"
-  ],
-  "recipient": "DIR",
-  "sender": "ESCIATE"
+  ]
 }

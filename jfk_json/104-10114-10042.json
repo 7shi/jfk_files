@@ -1,26 +1,28 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Operational Clearance for Agent in Costa Rica",
+  "title_ja": "コスタリカのエージェントに対する業務許可",
   "summary": "Memorandum from the Chief of Special Security Division regarding an Operational Clearance for an agent in Costa Rica, referencing a request from July 21, 1954. Includes attached information and requests notification of the decision. Notes that no field investigation was conducted due to the subject residing outside the US since at least 1945.",
+  "summary_ja": "コスタリカのエージェントに対する業務許可に関する特別保安課課長からの覚書。1954年7月21日付の要請を参照している。添付情報および決定通知の要請を含む。少なくとも1945年以来、対象者は米国国外に居住しているため、現地調査は実施されていない。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1954-10-15",
+  "origin_agency": "Special Security Division",
+  "sender": "Chief, Special Security Division",
+  "recipient": "Chief, Special Security Division",
+  "persons_mentioned": [
+    "Robert H. Cunningham",
+    "John F. Kennedy"
+  ],
+  "locations_mentioned": [
+    "Costa Rica",
+    "United States"
+  ],
   "tags": [
     "Operational Clearance",
     "Agent",
     "Costa Rica",
     "Special Security Division",
     "Field Investigation"
-  ],
-  "title": "Operational Clearance for Agent in Costa Rica",
-  "date": "1954-10-15",
-  "locations_mentioned": [
-    "Costa Rica",
-    "United States"
-  ],
-  "origin_agency": "Special Security Division",
-  "persons_mentioned": [
-    "Robert H. Cunningham",
-    "John F. Kennedy"
-  ],
-  "recipient": "Chief, Special Security Division",
-  "sender": "Chief, Special Security Division"
+  ]
 }

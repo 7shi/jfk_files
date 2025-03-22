@@ -1,31 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "A meeting was held regarding Anna Tarasoff's father's potential visit to the Russian Embassy to obtain a visa. It was decided not to brief him in advance and to provide an army cover for Anna Tarasoff.",
-  "tags": [
-    "visa",
-    "Russian Embassy",
-    "cover story",
-    "credit check",
-    "employment",
-    "Tarasoff",
-    "travel",
-    "Soviet Union"
-  ],
   "title": "TARASOFF, Anna",
+  "title_ja": "タラソフ、アンナ",
+  "summary": "A meeting was held regarding Anna Tarasoff's father's potential visit to the Russian Embassy to obtain a visa. It was decided not to brief him in advance and to provide an army cover for Anna Tarasoff.",
+  "summary_ja": "アンナ・タラソフの父親がロシア大使館を訪れビザを取得する可能性について、会議が開催された。事前に彼に説明を行わず、アンナ・タラソフには軍の保護を与えることが決定された。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
   "date": "1960-10-13",
-  "locations_mentioned": [
-    "Russian Embassy",
-    "Russia",
-    "Mexico",
-    "Washington",
-    "Ohio",
-    "VZDEN SKIY RAYON",
-    "MINSKAYA",
-    "U.S.S.R."
-  ],
   "origin_agency": "Office of Security",
+  "sender": "Mr. Robert J. Leonard",
+  "recipient": "Chief, Cover Support Desk",
   "persons_mentioned": [
     "Anna Tarasoff",
     "Robert J. Leonard",
@@ -40,6 +24,24 @@
     "Sherry Comella",
     "M.K. Holbik"
   ],
-  "recipient": "Chief, Cover Support Desk",
-  "sender": "Mr. Robert J. Leonard"
+  "locations_mentioned": [
+    "Russian Embassy",
+    "Russia",
+    "Mexico",
+    "Washington",
+    "Ohio",
+    "VZDEN SKIY RAYON",
+    "MINSKAYA",
+    "U.S.S.R."
+  ],
+  "tags": [
+    "visa",
+    "Russian Embassy",
+    "cover story",
+    "credit check",
+    "employment",
+    "Tarasoff",
+    "travel",
+    "Soviet Union"
+  ]
 }

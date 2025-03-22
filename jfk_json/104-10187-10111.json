@@ -1,21 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DIR 52099: ALTERNATIVE UNDER CIRCUMSTANCES",
+  "title_ja": "DIR 52099：状況下での代替案",
   "summary": "Cable discusses potential alternative under certain circumstances, mentioning CUBA SLUBAN DETECTOR and RAFS SALY MOLEX 5296.",
+  "summary_ja": "電報は、特定の状況下での潜在的な代替案について議論し、CUBA SLUBAN DETECTORとRafs Saly MOLEX 5296について言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1964-09-20",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "SALF",
+  "persons_mentioned": [],
+  "locations_mentioned": [
+    "Cuba"
+  ],
   "tags": [
     "CUBA",
     "SLUBAN DETECTOR",
     "RAFS SALY MOLEX 5296",
     "FRIGER"
-  ],
-  "title": "DIR 52099: ALTERNATIVE UNDER CIRCUMSTANCES",
-  "date": "1964-09-20",
-  "locations_mentioned": [
-    "Cuba"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [],
-  "recipient": "SALF",
-  "sender": "DIRECTOR"
+  ]
 }

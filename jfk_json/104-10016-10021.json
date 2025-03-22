@@ -1,26 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
-  "summary": "Cable regarding preliminary checks on recorded conversations revealing information about a dark blue Buick, license plates, and individuals mentioned in previous communications. Mentions arrangements with PMG Liasion Officer Ted Young to trace further calls.",
-  "tags": [
-    "Soviet",
-    "Australia",
-    "CNBR",
-    "License Plate",
-    "Telephone Calls"
-  ],
   "title": "DIR INFO CNBR CITE MELB 2517",
+  "title_ja": "DIR INFO CNBR CITE MELB 2517",
+  "summary": "Cable regarding preliminary checks on recorded conversations revealing information about a dark blue Buick, license plates, and individuals mentioned in previous communications. Mentions arrangements with PMG Liasion Officer Ted Young to trace further calls.",
+  "summary_ja": "以前の通信で言及されたダークブルーのビュイック、ナンバープレート、および個人の情報に関する録音された会話の予備調査に関する電報。さらに電話を追跡するために、テッド・ヤング連邦捜査官（PMG連絡担当）との協議について言及している。",
+  "document_type": "Classified Message",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1963-12-02",
-  "locations_mentioned": [
-    "MELBOURNE",
-    "SYDNEY",
-    "Wentworthville",
-    "Binalong",
-    "Wahroonga",
-    "Australia"
-  ],
   "origin_agency": "CIA",
+  "sender": "MELBOURNE",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "R. Haufton",
     "Herman Satrapinsky",
@@ -29,6 +18,19 @@
     "R. Willy Sastranegara",
     "Ted Young"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "MELBOURNE"
+  "locations_mentioned": [
+    "MELBOURNE",
+    "SYDNEY",
+    "Wentworthville",
+    "Binalong",
+    "Wahroonga",
+    "Australia"
+  ],
+  "tags": [
+    "Soviet",
+    "Australia",
+    "CNBR",
+    "License Plate",
+    "Telephone Calls"
+  ]
 }

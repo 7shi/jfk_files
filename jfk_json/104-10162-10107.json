@@ -1,8 +1,29 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Transmittal of Documentation for use of Manuel Artime y Buesa",
+  "title_ja": "Manuel Artime y Buesaの使用に関する書類の送付",
   "summary": "This document confirms the transmittal of Cuban documentation for Manuel Artime y Buesa, including passport, exit permit, and vaccination certificate. It details the U.S. non-immigrant visa, its validity, and the plan for Artime's 'black' departure from the U.S., with instructions for returning the documentation to TSD/IB after use.",
+  "summary_ja": "この文書は、マヌエル・アーティメ・イ・ブエサのキューバの書類（パスポート、出国許可証、予防接種証明書を含む）の送付を確認するものである。米国非移民ビザ、その有効期間、アーティメの米国からの「秘密裏」の出国計画について詳細に説明しており、使用後はTSD/IBに書類を返却するよう指示している。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1961-01-10",
+  "origin_agency": "TSD/IB",
+  "sender": "CHIEF, TSD/IB",
+  "recipient": "Chief, WH/4",
+  "persons_mentioned": [
+    "Manuel Artime y Buesa",
+    "Stanley Shultz",
+    "Lou Napoli",
+    "Charles Yech, Jr.",
+    "MT. Thorpe"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Santiago de Cuba",
+    "Miami",
+    "U.S.",
+    "U.S. Non-Immigrant Visa, B-2"
+  ],
   "tags": [
     "Manuel Artime y Buesa",
     "Cuban Documentation",
@@ -13,24 +34,5 @@
     "Black Departure",
     "TSD/IB",
     "Stanley Shultz"
-  ],
-  "title": "Transmittal of Documentation for use of Manuel Artime y Buesa",
-  "date": "1961-01-10",
-  "locations_mentioned": [
-    "Cuba",
-    "Santiago de Cuba",
-    "Miami",
-    "U.S.",
-    "U.S. Non-Immigrant Visa, B-2"
-  ],
-  "origin_agency": "TSD/IB",
-  "persons_mentioned": [
-    "Manuel Artime y Buesa",
-    "Stanley Shultz",
-    "Lou Napoli",
-    "Charles Yech, Jr.",
-    "MT. Thorpe"
-  ],
-  "recipient": "Chief, WH/4",
-  "sender": "CHIEF, TSD/IB"
+  ]
 }

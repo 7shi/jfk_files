@@ -1,17 +1,14 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Memorandum regarding alias documentation for Bernard N. Hillary, requesting new documentation with a Virginia address.",
-  "tags": [
-    "alias documentation",
-    "Bernard N. Hillary",
-    "Virginia address",
-    "drivers license",
-    "Social Security card"
-  ],
   "title": "HILLARY, Bernard N. #65.077",
+  "title_ja": "ヒラリー、バーナード・N. #65.077",
+  "summary": "Memorandum regarding alias documentation for Bernard N. Hillary, requesting new documentation with a Virginia address.",
+  "summary_ja": "バーナード・N・ヒラリーの別名書類に関する覚書。バージニア州の住所が記載された新しい書類を要求する。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
   "date": "1962-08-15",
+  "sender": "Jeremiah J. Mullane Jr., Chief, WH Security",
+  "recipient": "Chief, TSD",
   "persons_mentioned": [
     "Bernard N. Hillary",
     "Clay Kallender",
@@ -19,6 +16,11 @@
     "Jeremiah J. Mullane Jr.",
     "John F. Kennedy"
   ],
-  "recipient": "Chief, TSD",
-  "sender": "Jeremiah J. Mullane Jr., Chief, WH Security"
+  "tags": [
+    "alias documentation",
+    "Bernard N. Hillary",
+    "Virginia address",
+    "drivers license",
+    "Social Security card"
+  ]
 }

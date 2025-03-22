@@ -1,24 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "Personnel Action Forms and Memoranda",
-  "security_level": "SECRET",
-  "summary": "This document contains various personnel action forms and memoranda related to James S. Woods, including requests for reassignment, promotion, voluntary retirement, and commendation for exceptional performance. It covers actions from 1976 to 1978.",
-  "tags": [
-    "personnel action",
-    "reassignment",
-    "promotion",
-    "retirement",
-    "commendation",
-    "records management"
-  ],
   "title": "Personnel Actions for James S. Woods",
+  "title_ja": "ジェームズ・S・ウッズの人事記録",
+  "summary": "This document contains various personnel action forms and memoranda related to James S. Woods, including requests for reassignment, promotion, voluntary retirement, and commendation for exceptional performance. It covers actions from 1976 to 1978.",
+  "summary_ja": "この文書には、ジェームズ・S・ウッズに関するさまざまな人事関連書類や覚書が含まれており、配置転換、昇進、自己都合退職、並外れた業績に対する表彰の要請などが記載されている。1976年から1978年までの行動が対象となっている。",
+  "document_type": "Personnel Action Forms and Memoranda",
+  "classification": "Personnel",
+  "security_level": "SECRET",
   "date": "1978-08-04",
-  "locations_mentioned": [
-    "Warrenton",
-    "Washington, D.C.",
-    "Rockville, MD"
-  ],
   "origin_agency": "CIA",
+  "sender": "Kenneth Corbat",
+  "recipient": "Director of Personnel",
   "persons_mentioned": [
     "James S. Woods",
     "John N. McMahon",
@@ -30,6 +21,17 @@
     "Abraham Schwartz",
     "Margaret Solty"
   ],
-  "recipient": "Director of Personnel",
-  "sender": "Kenneth Corbat"
+  "locations_mentioned": [
+    "Warrenton",
+    "Washington, D.C.",
+    "Rockville, MD"
+  ],
+  "tags": [
+    "personnel action",
+    "reassignment",
+    "promotion",
+    "retirement",
+    "commendation",
+    "records management"
+  ]
 }

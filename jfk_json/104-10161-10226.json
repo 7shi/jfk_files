@@ -1,8 +1,28 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Vladimir RODRIGUEZ Lahera",
+  "title_ja": "Vladimir RODRIGUEZ Lahera",
   "summary": "Memorandum regarding Vladimir RODRIGUEZ Lahera, a WHD asset residing in Silver Spring, MD. Requests investigation into a phone call made by the subject to a number in New York.",
+  "summary_ja": "メモ：メリーランド州シルバースプリング在住のWHD工作員、Vladimir RODRIGUEZ Laheraに関するもの。対象者がニューヨークの番号にかけた電話の調査を要請する。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1964-08-17",
+  "origin_agency": "Western Hemisphere Division",
+  "sender": "Desmond FitzGerald, Chief, Western Hemisphere Division",
+  "recipient": "Chief, OSD/OS",
+  "persons_mentioned": [
+    "Vladimir RODRIGUEZ Lahera",
+    "Michael Shortley",
+    "Roger MCK. SHEA",
+    "Pablo Rodriguez",
+    "Desmond FitzGerald"
+  ],
+  "locations_mentioned": [
+    "Silver Spring, MD",
+    "Arlington",
+    "New York, NY",
+    "Manhattan"
+  ],
   "tags": [
     "Vladimir RODRIGUEZ Lahera",
     "Safehouse",
@@ -11,23 +31,5 @@
     "Summit Hills Apartments",
     "Roger MCK. SHEA",
     "Pablo Rodriguez"
-  ],
-  "title": "Vladimir RODRIGUEZ Lahera",
-  "date": "1964-08-17",
-  "locations_mentioned": [
-    "Silver Spring, MD",
-    "Arlington",
-    "New York, NY",
-    "Manhattan"
-  ],
-  "origin_agency": "Western Hemisphere Division",
-  "persons_mentioned": [
-    "Vladimir RODRIGUEZ Lahera",
-    "Michael Shortley",
-    "Roger MCK. SHEA",
-    "Pablo Rodriguez",
-    "Desmond FitzGerald"
-  ],
-  "recipient": "Chief, OSD/OS",
-  "sender": "Desmond FitzGerald, Chief, Western Hemisphere Division"
+  ]
 }

@@ -1,8 +1,22 @@
 {
-  "classification": "Personnel",
-  "document_type": "Travel Briefing",
-  "security_level": "SECRET",
+  "title": "TRAVEL BRIEFING",
+  "title_ja": "渡航説明",
   "summary": "This document is a travel briefing for Boris D. Tarasoff, an employee of the FDD/00 office, for a trip to Mexico City in August 1960. The briefing covers topics such as security regulations, travel precautions, personal conduct, and cover.",
+  "summary_ja": "本書類は、1960年8月にメキシコシティーへ出張するFDB/00事務所の職員、ボリス・D・タラソフのための旅行説明書である。説明書では、安全保障規定、旅行上の注意、個人的な行動、身分証明などについて取り上げている。",
+  "document_type": "Travel Briefing",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1960-08-13",
+  "origin_agency": "CIA",
+  "sender": "Thomas L. Claft",
+  "recipient": "Boris D. Tarasoff",
+  "persons_mentioned": [
+    "TARASOFF, Boris D",
+    "Thomas L. Claft"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY"
+  ],
   "tags": [
     "Travel",
     "Briefing",
@@ -10,17 +24,5 @@
     "Security",
     "Foreign Travel",
     "TDY"
-  ],
-  "title": "TRAVEL BRIEFING",
-  "date": "1960-08-13",
-  "locations_mentioned": [
-    "MEXICO CITY"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "TARASOFF, Boris D",
-    "Thomas L. Claft"
-  ],
-  "recipient": "Boris D. Tarasoff",
-  "sender": "Thomas L. Claft"
+  ]
 }

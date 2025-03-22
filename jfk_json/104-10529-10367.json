@@ -1,8 +1,24 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "MEXI",
+  "title_ja": "MEXI",
   "summary": "Cable regarding cartridges delivered to Corpus Christi.",
+  "summary_ja": "コーパスクリスティに届けられたカートリッジに関する電報。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-10-16",
+  "origin_agency": "CIA",
+  "sender": "MIDW",
+  "recipient": "MEXI",
+  "persons_mentioned": [
+    "Polly Pike",
+    "William E. Brooks",
+    "Charles F. Reimer"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Corpus Christi"
+  ],
   "tags": [
     "cartridges",
     "Corpus Christi",
@@ -12,19 +28,5 @@
     "Logistics",
     "Ammunition",
     "Cargo"
-  ],
-  "title": "MEXI",
-  "date": "1963-10-16",
-  "locations_mentioned": [
-    "Mexico City",
-    "Corpus Christi"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Polly Pike",
-    "William E. Brooks",
-    "Charles F. Reimer"
-  ],
-  "recipient": "MEXI",
-  "sender": "MIDW"
+  ]
 }

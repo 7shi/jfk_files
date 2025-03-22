@@ -1,8 +1,31 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "RIOD 2944: GRYBAI TYPIC YORITE ANSTRUT",
+  "title_ja": "RIOD 2944: GRYBAI TYPIC YORITE ANSTRUT",
   "summary": "This cable discusses a visit by Mario Rogerio Mestrinho de Mello to Cuba, rumors of an assassination attempt on Fidel Castro, travel restrictions, rumors about Lee Harvey Oswald in Mexico, and correspondence between Marianna Argüelles and A-1.",
+  "summary_ja": "この電報では、マリオ・ロジェリオ・メストリニョ・デ・メロのキューバ訪問、フィデル・カストロ暗殺未遂の噂、渡航制限、メキシコにおけるリー・ハーヴェイ・オズワルドの噂、マリアンナ・アルグエレスとA-1間の通信について議論されている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1969-12-18",
+  "origin_agency": "CIA",
+  "sender": "RIO DE JANEIRO",
+  "recipient": "Director",
+  "persons_mentioned": [
+    "Mario Rogerio Mestrinho de Mello",
+    "Fidel Castro",
+    "Lee Harvey Oswald",
+    "Marianna Argüelles",
+    "BASTIGO PINTO",
+    "JOSE GLANUZAKHET"
+  ],
+  "locations_mentioned": [
+    "Brazil",
+    "Havana",
+    "Cuba",
+    "Mexico",
+    "Algiers",
+    "Moscow"
+  ],
   "tags": [
     "Marianna Argüelles",
     "Mario Rogerio Mestrinho de Mello",
@@ -14,26 +37,5 @@
     "Travel Restrictions",
     "A-1",
     "ANSTRUT"
-  ],
-  "title": "RIOD 2944: GRYBAI TYPIC YORITE ANSTRUT",
-  "date": "1969-12-18",
-  "locations_mentioned": [
-    "Brazil",
-    "Havana",
-    "Cuba",
-    "Mexico",
-    "Algiers",
-    "Moscow"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Mario Rogerio Mestrinho de Mello",
-    "Fidel Castro",
-    "Lee Harvey Oswald",
-    "Marianna Argüelles",
-    "BASTIGO PINTO",
-    "JOSE GLANUZAKHET"
-  ],
-  "recipient": "Director",
-  "sender": "RIO DE JANEIRO"
+  ]
 }

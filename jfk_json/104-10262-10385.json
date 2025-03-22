@@ -1,8 +1,29 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "Traces on Alberto Lleras Camargo and the Hudson Institute",
+  "title_ja": "アルベルト・レラス・カマルゴとハドソン研究所に関する痕跡",
   "summary": "This memo discusses Alberto Lleras Camargo and the Hudson Institute, including Lleras's background, political career, and relationship with the United States. It also mentions derogatory information on several members of the Hudson Institute and seeks guidance on future association with AMRASZ/1.",
+  "summary_ja": "このメモでは、アルベルト・レラス・カマルゴとハドソン研究所について、レラスの経歴、政治経歴、米国との関係を含めて論じている。また、ハドソン研究所の複数のメンバーに関する中傷的な情報にも触れ、AMRASZ/1との今後の関係について指導を求めている。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1960-08-23",
+  "origin_agency": "Headquarters",
+  "sender": "Howard E. Colmary",
+  "recipient": "JEWAVE",
+  "persons_mentioned": [
+    "Alberto Lleras Camargo",
+    "Alfonso Lopez",
+    "Laureano Gomez",
+    "Rojas",
+    "Berta Puga"
+  ],
+  "locations_mentioned": [
+    "Bogota",
+    "Buenos Aires",
+    "Argentina",
+    "Colombia",
+    "Spain"
+  ],
   "tags": [
     "Alberto Lleras Camargo",
     "Hudson Institute",
@@ -11,24 +32,5 @@
     "Pan American Union",
     "Special Operation",
     "AMRASZ/1"
-  ],
-  "title": "Traces on Alberto Lleras Camargo and the Hudson Institute",
-  "date": "1960-08-23",
-  "locations_mentioned": [
-    "Bogota",
-    "Buenos Aires",
-    "Argentina",
-    "Colombia",
-    "Spain"
-  ],
-  "origin_agency": "Headquarters",
-  "persons_mentioned": [
-    "Alberto Lleras Camargo",
-    "Alfonso Lopez",
-    "Laureano Gomez",
-    "Rojas",
-    "Berta Puga"
-  ],
-  "recipient": "JEWAVE",
-  "sender": "Howard E. Colmary"
+  ]
 }

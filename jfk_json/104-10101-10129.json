@@ -1,27 +1,29 @@
 {
-  "classification": "John F. Kennedy Assassination Records Act of 1992",
-  "document_type": "Cable",
-  "security_level": "CONF",
+  "title": "104-10101-10129 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "104-10101-10129 2025 1992年ジョン・F・ケネディ大統領暗殺記録法に基づく公開",
   "summary": "This cable discusses IMA NR. KANSAHI WATANABE and KENNETH K. SUZUKI of Trans Pacific Commerce Consultants.",
+  "summary_ja": "この電報は、トランス・パシフィック・コマース・コンサルタントのKANSAHI WATANABEとKENNETH K. SUZUKIについて言及している。",
+  "document_type": "Cable",
+  "classification": "John F. Kennedy Assassination Records Act of 1992",
+  "security_level": "CONF",
+  "date": "2025",
+  "origin_agency": "CIA",
+  "sender": "STUAR",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "KANSAHI WATANABE",
+    "KENNETH K. SUZUKI",
+    "TOBY"
+  ],
+  "locations_mentioned": [
+    "San Francisco",
+    "California"
+  ],
   "tags": [
     "Assassination Records Act",
     "KANSAHI WATANABE",
     "KENNETH K. SUZUKI",
     "Trans Pacific Commerce Consultants",
     "San Francisco"
-  ],
-  "title": "104-10101-10129 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
-  "date": "2025",
-  "locations_mentioned": [
-    "San Francisco",
-    "California"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "KANSAHI WATANABE",
-    "KENNETH K. SUZUKI",
-    "TOBY"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "STUAR"
+  ]
 }

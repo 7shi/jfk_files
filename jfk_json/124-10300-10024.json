@@ -1,19 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Airtel",
-  "security_level": "Secret",
+  "title": "JORGE RAUL ROBLEJO LORIE INTERNAL SECURITY CUBA",
+  "title_ja": "ホルヘ・ラウル・ロブレホ・ロリー キューバ国内治安",
   "summary": "This document discusses Jorge Raul Roblejo Lorie and Sergio Oswaldo Betancourt Collazo's activities related to seeking the release of Cuban political prisoners and potential intelligence gathering on Cuban refugees.",
-  "tags": [
+  "summary_ja": "この文書では、Jorge Raul Roblejo LorieとSergio Oswaldo Betancourt Collazoのキューバ政治犯の釈放を求める活動と、キューバ難民に関する潜在的な諜報活動について述べられている。",
+  "document_type": "Airtel",
+  "classification": "Cuba",
+  "security_level": "Secret",
+  "date": "1967-07-10",
+  "origin_agency": "FBI",
+  "sender": "SAC, MM",
+  "recipient": "DIRECTOR, FBI",
+  "persons_mentioned": [
     "Jorge Raul Roblejo Lorie",
     "Sergio Oswaldo Betancourt Collazo",
-    "Comite Pro-Liberacion de los Cien (CPLLC)",
-    "Cuban political prisoners",
-    "Cuban refugees",
-    "intelligence gathering",
-    "30th of November Movement"
+    "Fidel Castro",
+    "ANGEL ESTEVEZ",
+    "MANOLO RAY",
+    "RUFO LOPEZ FRESQUET"
   ],
-  "title": "JORGE RAUL ROBLEJO LORIE INTERNAL SECURITY CUBA",
-  "date": "1967-07-10",
   "locations_mentioned": [
     "Miami",
     "Mexico City",
@@ -23,15 +27,13 @@
     "Ottawa, Canada",
     "Cuba"
   ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
+  "tags": [
     "Jorge Raul Roblejo Lorie",
     "Sergio Oswaldo Betancourt Collazo",
-    "Fidel Castro",
-    "ANGEL ESTEVEZ",
-    "MANOLO RAY",
-    "RUFO LOPEZ FRESQUET"
-  ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "SAC, MM"
+    "Comite Pro-Liberacion de los Cien (CPLLC)",
+    "Cuban political prisoners",
+    "Cuban refugees",
+    "intelligence gathering",
+    "30th of November Movement"
+  ]
 }

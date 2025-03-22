@@ -1,8 +1,19 @@
 {
-  "classification": "John F. Kennedy Assassination Records Act",
-  "document_type": "Record",
-  "security_level": "Unclassified",
+  "title": "104-10100-10152 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "104-10100-10152 2025 1992年ジョン・F・ケネディ大統領暗殺記録法に基づく公開",
   "summary": "This document contains information related to Manuel Aragon, CA/35, and PARIS/L/PIPIT. It also mentions MEDURIC EXPITODE and IDSA A (ALFONSO BIBILIOX) FRADIOMERE OLE. The document includes references to DELTASINS OFFICES and COORDINATION OFFICERS, and indicates a return to CIA for background use only.",
+  "summary_ja": "この文書には、マヌエル・アラゴン（CA/35）、パリ/L/ピピットに関する情報が記載されている。また、MEDURIC EXPITODEとIDSA A（ALFONSO BIBILIOX）FRADIOMERE OLEについても言及している。この文書には、DELTASINS OFFICESとCOORDINATION OFFICERSへの言及が含まれており、CIAへの背景情報としての使用のみを目的とした返却が示されている。",
+  "document_type": "Record",
+  "classification": "John F. Kennedy Assassination Records Act",
+  "security_level": "Unclassified",
+  "date": "1963-10-08",
+  "sender": "C/CA/DS",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "Manuel Aragon",
+    "ALFONSO BIBILIOX",
+    "FRADIOMERE OLE"
+  ],
   "tags": [
     "Manuel Aragon",
     "PARIS/L/PIPIT",
@@ -13,14 +24,5 @@
     "DELTASINS OFFICES",
     "COORDINATION OFFICERS",
     "CIA"
-  ],
-  "title": "104-10100-10152 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
-  "date": "1963-10-08",
-  "persons_mentioned": [
-    "Manuel Aragon",
-    "ALFONSO BIBILIOX",
-    "FRADIOMERE OLE"
-  ],
-  "recipient": "CIA",
-  "sender": "C/CA/DS"
+  ]
 }

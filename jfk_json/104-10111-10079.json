@@ -1,30 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memo",
-  "security_level": "Background Use Only",
-  "summary": "This memo details information shared with Mrs. Christ regarding her husband's arrest in Cuba, his role in audio surveillance, and efforts for his release. It outlines what she knows about the situation, including her husband's clandestine work, the involvement of other individuals, and the risks associated with disclosing information to the Cuban government. It also specifies what information should not be discussed with her.",
-  "tags": [
-    "audio surveillance",
-    "clandestine operations",
-    "Cuban prisoners",
-    "release efforts",
-    "Kessler",
-    "Colomer",
-    "Fordson",
-    "Bay of Pigs",
-    "Robert D. Asmus",
-    "Vachats Associates"
-  ],
   "title": "Mrs. Christ Information Briefing",
+  "title_ja": "クリスト夫人 情報ブリーフィング",
+  "summary": "This memo details information shared with Mrs. Christ regarding her husband's arrest in Cuba, his role in audio surveillance, and efforts for his release. It outlines what she knows about the situation, including her husband's clandestine work, the involvement of other individuals, and the risks associated with disclosing information to the Cuban government. It also specifies what information should not be discussed with her.",
+  "summary_ja": "このメモは、キューバでの夫の逮捕、音声監視における彼の役割、および釈放に向けた取り組みについて、クリスト夫人と共有された情報を詳細に説明している。彼女の夫の秘密任務、他の個人の関与、キューバ政府への情報開示に伴うリスクなど、彼女が知る状況の概要が説明されている。また、彼女に話してはならない情報も明記されている。",
+  "document_type": "Memo",
+  "classification": "Cuba",
+  "security_level": "Background Use Only",
   "date": "1961-08-14",
-  "locations_mentioned": [
-    "Havana",
-    "New York City",
-    "London",
-    "Washington, D.C.",
-    "Honduras"
-  ],
   "origin_agency": "CIA",
+  "sender": "N/A",
+  "recipient": "N/A",
   "persons_mentioned": [
     "David Christ",
     "Mrs. Christ",
@@ -36,6 +21,23 @@
     "Mr. Gusky",
     "Gen. Taylor"
   ],
-  "recipient": "N/A",
-  "sender": "N/A"
+  "locations_mentioned": [
+    "Havana",
+    "New York City",
+    "London",
+    "Washington, D.C.",
+    "Honduras"
+  ],
+  "tags": [
+    "audio surveillance",
+    "clandestine operations",
+    "Cuban prisoners",
+    "release efforts",
+    "Kessler",
+    "Colomer",
+    "Fordson",
+    "Bay of Pigs",
+    "Robert D. Asmus",
+    "Vachats Associates"
+  ]
 }

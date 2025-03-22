@@ -1,8 +1,30 @@
 {
-  "classification": "Operations",
-  "document_type": "Contact Report",
-  "security_level": "Unclassified",
+  "title": "CONTACT REPORT",
+  "title_ja": "接触報告",
   "summary": "This contact report details a conversation with WUBRINY/1 regarding various operations including a tire recap plant in Greece, difficulties with WUBRINY/4, pumice operations in Martinique, and an encounter with M. Charles and George de Mohrenschildt who discussed the situation in Haiti.",
+  "summary_ja": "この連絡報告書には、ギリシャのタイヤ再被覆工場、WUBRINY/4との問題、マルチニークの軽石事業、ハイチの情勢について話し合ったM.チャールズとジョージ・ド・モレンシルトとの遭遇など、さまざまな事業に関するWUBRINY/1との会話の詳細が記載されている。",
+  "document_type": "Contact Report",
+  "classification": "Operations",
+  "security_level": "Unclassified",
+  "date": "1963-05-09",
+  "origin_agency": "CIA",
+  "sender": "C. FRANK STONE ITI, Chief DO/CORO",
+  "recipient": "Q subject",
+  "persons_mentioned": [
+    "WUBRINY/1",
+    "Luis Borme",
+    "RECKREY",
+    "M. Charles",
+    "George de Mohrenschildt"
+  ],
+  "locations_mentioned": [
+    "Washington",
+    "New York",
+    "Greece",
+    "Martinique",
+    "Haiti",
+    "Chicago"
+  ],
   "tags": [
     "WUBRINY",
     "Tire Recap",
@@ -13,25 +35,5 @@
     "Haiti",
     "M. Charles",
     "George de Mohrenschildt"
-  ],
-  "title": "CONTACT REPORT",
-  "date": "1963-05-09",
-  "locations_mentioned": [
-    "Washington",
-    "New York",
-    "Greece",
-    "Martinique",
-    "Haiti",
-    "Chicago"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "WUBRINY/1",
-    "Luis Borme",
-    "RECKREY",
-    "M. Charles",
-    "George de Mohrenschildt"
-  ],
-  "recipient": "Q subject",
-  "sender": "C. FRANK STONE ITI, Chief DO/CORO"
+  ]
 }

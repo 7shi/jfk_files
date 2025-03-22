@@ -1,8 +1,23 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Cover for Luis POSADA Carriles and Alberto de Jesus ALBERTY Garcia",
+  "title_ja": "ルイス・ポサダ・カリーレスおよびアルベルト・デ・ヘスス・アルベルティ・ガルシアの身分証明書",
   "summary": "This memorandum outlines cover arrangements for Luis POSADA Carriles and Alberto de Jesus ALBERTY Garcia with Tri-State Engineering Service, Inc., including their acknowledged positions, salaries, and the company's background for cover purposes.",
+  "summary_ja": "本覚書は、トライステート・エンジニアリング・サービス社におけるルイス・ポサダ・カリーレスとアルベルト・デ・ヘスス・アルベルティ・ガルシアの偽装工作の手配について概説する。これには、彼らの認められた役職、給与、偽装工作目的の同社の経歴が含まれる。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
+  "date": "1965-10-25",
+  "origin_agency": "Cover Branch",
+  "sender": "Chief, Cover Er",
+  "recipient": "Chief, Training Br",
+  "persons_mentioned": [
+    "Luis POSADA Carriles",
+    "Alberto de Jesus ALBERTY Garcia",
+    "Peter T. Vay"
+  ],
+  "locations_mentioned": [
+    "Miami, Florida"
+  ],
   "tags": [
     "cover story",
     "employment",
@@ -11,18 +26,5 @@
     "Alberto de Jesus ALBERTY Garcia",
     "Technical Supervisor",
     "Technician/Instructor"
-  ],
-  "title": "Cover for Luis POSADA Carriles and Alberto de Jesus ALBERTY Garcia",
-  "date": "1965-10-25",
-  "locations_mentioned": [
-    "Miami, Florida"
-  ],
-  "origin_agency": "Cover Branch",
-  "persons_mentioned": [
-    "Luis POSADA Carriles",
-    "Alberto de Jesus ALBERTY Garcia",
-    "Peter T. Vay"
-  ],
-  "recipient": "Chief, Training Br",
-  "sender": "Chief, Cover Er"
+  ]
 }

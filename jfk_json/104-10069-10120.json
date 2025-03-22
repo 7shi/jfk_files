@@ -1,28 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET SENSITIVE",
-  "summary": "Memorandum from the Chief of the Minneapolis Office to the Chief of the Contact Division regarding a Cuban refugee group and their activities. The memo discusses providing assistance to the group in exchange for agency control and includes a list of key individuals involved in shuttling supplies and people between Cuba and the US.",
-  "tags": [
-    "Cuban refugees",
-    "supply routes",
-    "medical supplies",
-    "ammunition",
-    "weapons",
-    "recruiting",
-    "executive personnel"
-  ],
   "title": "Cuban Refugee Group",
+  "title_ja": "キューバ難民グループ",
+  "summary": "Memorandum from the Chief of the Minneapolis Office to the Chief of the Contact Division regarding a Cuban refugee group and their activities. The memo discusses providing assistance to the group in exchange for agency control and includes a list of key individuals involved in shuttling supplies and people between Cuba and the US.",
+  "summary_ja": "ミネアポリス支局長から連絡部長へのキューバ難民グループとその活動に関する覚書。この覚書では、機関の管理と引き換えにグループへの支援を行うことについて議論されており、キューバと米国間の物資と人の輸送に関与する主要人物のリストも含まれている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET SENSITIVE",
   "date": "1962-08-31",
-  "locations_mentioned": [
-    "Cuba",
-    "Cleveland, Ohio",
-    "Minneapolis",
-    "Marathon Shores, Florida",
-    "Miami, Florida",
-    "Havana"
-  ],
   "origin_agency": "Minneapolis Office",
+  "sender": "Chief, Minneapolis Office",
+  "recipient": "Chief, Contact Division",
   "persons_mentioned": [
     "George Hauer",
     "Gene Rittenburg",
@@ -33,6 +20,21 @@
     "Augustin Batista",
     "Crowley"
   ],
-  "recipient": "Chief, Contact Division",
-  "sender": "Chief, Minneapolis Office"
+  "locations_mentioned": [
+    "Cuba",
+    "Cleveland, Ohio",
+    "Minneapolis",
+    "Marathon Shores, Florida",
+    "Miami, Florida",
+    "Havana"
+  ],
+  "tags": [
+    "Cuban refugees",
+    "supply routes",
+    "medical supplies",
+    "ammunition",
+    "weapons",
+    "recruiting",
+    "executive personnel"
+  ]
 }

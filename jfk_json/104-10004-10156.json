@@ -1,8 +1,24 @@
 {
-  "classification": "Commission",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "MEMO FOR THE RECORD",
+  "title_ja": "記録用メモ",
   "summary": "Memo for the record regarding Warren Commission inquiry concerning the timetable of Oswald's stay in Finland in October 1959, including his contact with the Soviet Consulate there.",
+  "summary_ja": "ウォレン委員会による、1959年10月のオズワルドのフィンランド滞在のタイムテーブルに関する問い合わせに関する記録用メモ。ソ連領事館との接触を含む。",
+  "document_type": "Memo",
+  "classification": "Commission",
+  "security_level": "UNCLASSIFIED",
+  "date": "1964-06-01",
+  "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "RECORD",
+  "persons_mentioned": [
+    "Frank Friberg",
+    "Oswald",
+    "Robert Fulton"
+  ],
+  "locations_mentioned": [
+    "Finland",
+    "Helsinki"
+  ],
   "tags": [
     "Warren Commission",
     "Oswald",
@@ -11,19 +27,5 @@
     "Helsinki",
     "timetable",
     "Friberg"
-  ],
-  "title": "MEMO FOR THE RECORD",
-  "date": "1964-06-01",
-  "locations_mentioned": [
-    "Finland",
-    "Helsinki"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Frank Friberg",
-    "Oswald",
-    "Robert Fulton"
-  ],
-  "recipient": "RECORD",
-  "sender": "Unknown"
+  ]
 }

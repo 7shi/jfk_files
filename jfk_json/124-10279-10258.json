@@ -1,8 +1,41 @@
 {
-  "classification": "Mexico",
-  "document_type": "Intelligence Summary",
-  "security_level": "Secret",
+  "title": "MONTHLY INTELLIGENCE SUMMARY",
+  "title_ja": "月刊インテリジェンス概要",
   "summary": "Monthly intelligence summary from Legat, Mexico to Director, FBI. Topics include Lopez Mateos' South American trip, Caribbean political situation, Cuban exile activities, Soviet intelligence activities, and Mexican political parties.",
+  "summary_ja": "メキシコのレガットからFBI長官宛ての月例情報概要。トピックには、ロペス・マテオの南米旅行、カリブ海地域の政治情勢、キューバ亡命活動、ソビエト情報活動、メキシコの政党などが含まれる。",
+  "document_type": "Intelligence Summary",
+  "classification": "Mexico",
+  "security_level": "Secret",
+  "date": "1960-02-10",
+  "origin_agency": "FBI",
+  "sender": "LEG, MX",
+  "recipient": "DIRECTOR, FBI",
+  "persons_mentioned": [
+    "LOPEZ MATEOS",
+    "DAVID ALFARC SIQUEIROS",
+    "EISENHOWER",
+    "EMILIO NUNEZ PORTUONDO",
+    "JOSE ELEUTERIO PEDRAZA CABRERA",
+    "PEDRO LUIS DIAZ LANZ",
+    "FIDEL CASTRO",
+    "ROLANDO MASFERRER",
+    "ROBERTO FERNANDEZ MIRANDA",
+    "NORMAN ROTHMAN",
+    "ERNESTO \"CHE\" GUEVARA",
+    "VICENTE LOMBARDO TOLEDANO",
+    "VALENTIN VASILEVICH BAKULIN"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Caracas",
+    "Venezuela",
+    "Cuba",
+    "Nicaragua",
+    "Haiti",
+    "Los Angeles",
+    "Miami",
+    "Dominican Republic"
+  ],
   "tags": [
     "Intelligence Summary",
     "Lopez Mateos",
@@ -33,36 +66,5 @@
     "Lombardo Toledano",
     "Valentin Vasilevich Bakulin",
     "MEX-87"
-  ],
-  "title": "MONTHLY INTELLIGENCE SUMMARY",
-  "date": "1960-02-10",
-  "locations_mentioned": [
-    "Mexico City",
-    "Caracas",
-    "Venezuela",
-    "Cuba",
-    "Nicaragua",
-    "Haiti",
-    "Los Angeles",
-    "Miami",
-    "Dominican Republic"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "LOPEZ MATEOS",
-    "DAVID ALFARC SIQUEIROS",
-    "EISENHOWER",
-    "EMILIO NUNEZ PORTUONDO",
-    "JOSE ELEUTERIO PEDRAZA CABRERA",
-    "PEDRO LUIS DIAZ LANZ",
-    "FIDEL CASTRO",
-    "ROLANDO MASFERRER",
-    "ROBERTO FERNANDEZ MIRANDA",
-    "NORMAN ROTHMAN",
-    "ERNESTO \"CHE\" GUEVARA",
-    "VICENTE LOMBARDO TOLEDANO",
-    "VALENTIN VASILEVICH BAKULIN"
-  ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "LEG, MX"
+  ]
 }

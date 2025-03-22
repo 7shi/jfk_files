@@ -1,29 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum details an audio operation, STESCALADE, against the New China News Agency in Havana. It covers the installation of surveillance equipment, the apprehension of technicians by Cuban authorities, and subsequent actions taken by the Agency.",
-  "tags": [
-    "Audio Operation",
-    "Surveillance",
-    "New China News Agency",
-    "Havana",
-    "Detention",
-    "Covert Operation"
-  ],
   "title": "Summary of STESCALADE - Audio Operation Against the New China News Agency in Havana",
+  "title_ja": "STESCALADEの概要 - ハバナにおける新中国通信社に対する音響作戦",
+  "summary": "This memorandum details an audio operation, STESCALADE, against the New China News Agency in Havana. It covers the installation of surveillance equipment, the apprehension of technicians by Cuban authorities, and subsequent actions taken by the Agency.",
+  "summary_ja": "この覚書は、ハバナの「新中国通信社」に対する「STESCALADE」という音声作戦の詳細を述べている。監視装置の設置、キューバ当局による技術者の拘束、それに続く同通信社による対応について述べている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1960-09-20",
-  "locations_mentioned": [
-    "Havana",
-    "Cuba",
-    "Mexico City",
-    "Switzerland",
-    "Boston",
-    "Japan",
-    "New York",
-    "Baltimore"
-  ],
   "origin_agency": "Central Intelligence Agency",
+  "sender": "Rudolph E. Gomez, Acting Chief, WH",
+  "recipient": "Director of Central Intelligence",
   "persons_mentioned": [
     "John F. Kennedy",
     "Ambassador Bonsal",
@@ -41,6 +27,22 @@
     "Billy B. Campbell",
     "Kenneth R. Burton"
   ],
-  "recipient": "Director of Central Intelligence",
-  "sender": "Rudolph E. Gomez, Acting Chief, WH"
+  "locations_mentioned": [
+    "Havana",
+    "Cuba",
+    "Mexico City",
+    "Switzerland",
+    "Boston",
+    "Japan",
+    "New York",
+    "Baltimore"
+  ],
+  "tags": [
+    "Audio Operation",
+    "Surveillance",
+    "New China News Agency",
+    "Havana",
+    "Detention",
+    "Covert Operation"
+  ]
 }

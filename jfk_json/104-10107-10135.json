@@ -1,39 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "Unclassified",
-  "summary": "This memorandum discusses the ramifications of a confrontation with the New York FBI office regarding Herbert Itkin and seeks additional information on Thomas L. Roberts and Robert Delson. It covers Roberts' affiliations with the FBI, CIA, and Itkin, including his operational use by the CIA and his contacts with Itkin in Geneva. The memo also addresses potential legal issues for Roberts and Delson, including possible prosecution and concerns about their affiliations.",
-  "tags": [
-    "Herbert Itkin",
-    "Thomas L. Roberts",
-    "Robert Delson",
-    "FBI",
-    "CIA",
-    "Security",
-    "CP GLOBE",
-    "DTPILLAR",
-    "WUBRINY",
-    "New York FBI",
-    "Prosecution",
-    "Communist Party",
-    "Geneva",
-    "Switzerland",
-    "West Africa"
-  ],
   "title": "Herbert Itkin",
+  "title_ja": "ハーバート・イティキン",
+  "summary": "This memorandum discusses the ramifications of a confrontation with the New York FBI office regarding Herbert Itkin and seeks additional information on Thomas L. Roberts and Robert Delson. It covers Roberts' affiliations with the FBI, CIA, and Itkin, including his operational use by the CIA and his contacts with Itkin in Geneva. The memo also addresses potential legal issues for Roberts and Delson, including possible prosecution and concerns about their affiliations.",
+  "summary_ja": "この覚書は、ハーバート・イティキンに関するニューヨークのFBI事務所との対立の影響について論じ、トーマス・L・ロバーツとロバート・デルソンに関する追加情報を求めている。この覚書は、ロバーツのFBI、CIA、およびイティキンとの関係について触れており、CIAによるロバーツの活動利用や、ジュネーブにおけるイティキンとの接触についても記載されている。また、この覚書は、ロバーツとデルソンに関する潜在的な法的問題についても言及しており、起訴の可能性や、両者の関係に関する懸念についても記載されている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "Unclassified",
   "date": "1969-01-31",
-  "locations_mentioned": [
-    "New York",
-    "West Africa",
-    "Dakar",
-    "Geneva, Switzerland",
-    "Austria",
-    "England",
-    "Boston",
-    "Paris",
-    "Washington"
-  ],
   "origin_agency": "CIA",
+  "sender": "John K. Greaney, Assistant General Counsel",
+  "recipient": "C/CI/R&A",
   "persons_mentioned": [
     "Herbert Itkin",
     "Thomas L. Roberts",
@@ -50,6 +26,32 @@
     "Robert Amory",
     "Aida Itkin"
   ],
-  "recipient": "C/CI/R&A",
-  "sender": "John K. Greaney, Assistant General Counsel"
+  "locations_mentioned": [
+    "New York",
+    "West Africa",
+    "Dakar",
+    "Geneva, Switzerland",
+    "Austria",
+    "England",
+    "Boston",
+    "Paris",
+    "Washington"
+  ],
+  "tags": [
+    "Herbert Itkin",
+    "Thomas L. Roberts",
+    "Robert Delson",
+    "FBI",
+    "CIA",
+    "Security",
+    "CP GLOBE",
+    "DTPILLAR",
+    "WUBRINY",
+    "New York FBI",
+    "Prosecution",
+    "Communist Party",
+    "Geneva",
+    "Switzerland",
+    "West Africa"
+  ]
 }

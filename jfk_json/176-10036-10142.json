@@ -1,28 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "CIA Information Report/Telegram",
-  "security_level": "SECRET",
-  "summary": "This document is a CIA information report detailing a planned coup in South Vietnam against President Diem, scheduled for late September or early October 1963. It identifies key figures involved, including Generals Tran Thien Khiem, Nguyen Khanh, and Duong Van Minh, and outlines the planned military actions and forces to be used. The report also mentions the challenges in executing the coup, such as breaching Diem's bunker, and the concerns about potential U.S. involvement or disapproval.",
-  "tags": [
-    "coup",
-    "South Vietnam",
-    "HUYNH VAN LANG",
-    "Tran Thien Khiem",
-    "Nguyen Khanh",
-    "Duong Van Minh",
-    "President Diem",
-    "military action",
-    "revolutionary committee",
-    "National Assembly Election",
-    "National Day Parade"
-  ],
   "title": "CIA Information Report: HUYNH VAN LANG COUP MOVE TIMING",
+  "title_ja": "CIA情報報告書：フイン・ヴァン・ラングによるクーデターのタイミング",
+  "summary": "This document is a CIA information report detailing a planned coup in South Vietnam against President Diem, scheduled for late September or early October 1963. It identifies key figures involved, including Generals Tran Thien Khiem, Nguyen Khanh, and Duong Van Minh, and outlines the planned military actions and forces to be used. The report also mentions the challenges in executing the coup, such as breaching Diem's bunker, and the concerns about potential U.S. involvement or disapproval.",
+  "summary_ja": "この文書は、1963年9月下旬から10月初旬に予定されていた、南ベトナムにおけるディエム大統領に対するクーデター計画の詳細を記したCIA情報報告書である。この文書は、トラン・ティエン・キエム（Tran Thien Khiem）、グエン・カーン（Nguyen Khanh）、ズオン・ヴァン・ミン（Duong Van Minh）の各将軍を含む主要人物を特定し、計画された軍事行動と使用される部隊の概要を説明している。また、ディエムの掩蔽壕を爆破するなど、クーデター実行上の課題や、米国の関与または不支持の可能性に対する懸念についても言及している。",
+  "document_type": "CIA Information Report/Telegram",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1963-09-24",
-  "locations_mentioned": [
-    "South Vietnam",
-    "Saigon"
-  ],
   "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "STATE (AMBASSADOR LODGE) USMACV (GENERAL HARKINS) CINCPAC PACAF ARPAC PACFLT",
   "persons_mentioned": [
     "HUYNH VAN LANG",
     "TRAN THIEN KHIEM",
@@ -40,6 +27,21 @@
     "NGUYEN VAN TU",
     "BUI DZINH"
   ],
-  "recipient": "STATE (AMBASSADOR LODGE) USMACV (GENERAL HARKINS) CINCPAC PACAF ARPAC PACFLT",
-  "sender": "CIA"
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "tags": [
+    "coup",
+    "South Vietnam",
+    "HUYNH VAN LANG",
+    "Tran Thien Khiem",
+    "Nguyen Khanh",
+    "Duong Van Minh",
+    "President Diem",
+    "military action",
+    "revolutionary committee",
+    "National Assembly Election",
+    "National Day Parade"
+  ]
 }

@@ -1,8 +1,25 @@
 {
-  "classification": "Security",
-  "document_type": "Memo",
-  "security_level": "Secret",
+  "title": "MARTIN GREENDLINGER, aka SECURITY MATTER - C",
+  "title_ja": "マーティン・グリーンディングナー、別名セキュリティ・マター - C",
   "summary": "Memo from LEGAT, BONN to DIRECTOR, FBI regarding MARTIN GREENDLINGER and inquiries made to various agencies about his travels and activities.",
+  "summary_ja": "LEGAT（ボン）からFBI長官宛のメモ。マーティン・グリーンディンジャーに関する内容で、彼の旅行や活動について、さまざまな機関に問い合わせた内容が記載されている。",
+  "document_type": "Memo",
+  "classification": "Security",
+  "security_level": "Secret",
+  "date": "1959-01-29",
+  "origin_agency": "FBI",
+  "sender": "LEGAT, BONN",
+  "recipient": "DIRECTOR, FBI",
+  "persons_mentioned": [
+    "MARTIN GREENDLINGER",
+    "DAVID GREENDLINGER",
+    "ELENA IVANOVNA Greendlinger"
+  ],
+  "locations_mentioned": [
+    "Bonn, Germany",
+    "Vienna, Austria",
+    "Europe"
+  ],
   "tags": [
     "MARTIN GREENDLINGER",
     "Security Matter",
@@ -30,20 +47,5 @@
     "Austria",
     "DAVID GREENDLINGER",
     "ELENA IVANOVNA Greendlinger"
-  ],
-  "title": "MARTIN GREENDLINGER, aka SECURITY MATTER - C",
-  "date": "1959-01-29",
-  "locations_mentioned": [
-    "Bonn, Germany",
-    "Vienna, Austria",
-    "Europe"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "MARTIN GREENDLINGER",
-    "DAVID GREENDLINGER",
-    "ELENA IVANOVNA Greendlinger"
-  ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "LEGAT, BONN"
+  ]
 }

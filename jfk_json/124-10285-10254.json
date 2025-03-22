@@ -1,28 +1,15 @@
 {
-  "classification": "JFK Assassination",
-  "document_type": "Textual Document",
-  "security_level": "Secret",
-  "summary": "This document discusses a Cuban alien, code named FISHFACE, who is providing information on anti-Castro activities in the United States to a Cuban intelligence service. The document requests clearance for the Cuban alien to furnish data regarding a meeting of anti-Castro leaders to his Cuban principal.",
-  "tags": [
-    "FBI",
-    "DOLPHIN",
-    "CUBA",
-    "Anti-Castro Activities",
-    "FISHFACE",
-    "Cuban Intelligence Service",
-    "Double Agent",
-    "Political Prisoners",
-    "Soviet Union",
-    "Miami"
-  ],
   "title": "[Restricted]",
+  "title_ja": "[制限]",
+  "summary": "This document discusses a Cuban alien, code named FISHFACE, who is providing information on anti-Castro activities in the United States to a Cuban intelligence service. The document requests clearance for the Cuban alien to furnish data regarding a meeting of anti-Castro leaders to his Cuban principal.",
+  "summary_ja": "この文書は、FISHFACEというコードネームを持つキューバ系外国人が、米国における反カストロ活動に関する情報をキューバ情報局に提供していることについて論じている。この文書は、反カストロ指導者たちの会議に関する情報を、キューバの主要人物に提供するキューバ系外国人の許可を求めている。",
+  "document_type": "Textual Document",
+  "classification": "JFK Assassination",
+  "security_level": "Secret",
   "date": "1967-03-23",
-  "locations_mentioned": [
-    "Cuba",
-    "United States",
-    "Miami"
-  ],
   "origin_agency": "FBI",
+  "sender": "SAC, MM",
+  "recipient": "Director, FBI",
   "persons_mentioned": [
     "John F. Kennedy",
     "Fidel Castro",
@@ -37,6 +24,21 @@
     "Elena Mederos",
     "Efreu Gonzalez"
   ],
-  "recipient": "Director, FBI",
-  "sender": "SAC, MM"
+  "locations_mentioned": [
+    "Cuba",
+    "United States",
+    "Miami"
+  ],
+  "tags": [
+    "FBI",
+    "DOLPHIN",
+    "CUBA",
+    "Anti-Castro Activities",
+    "FISHFACE",
+    "Cuban Intelligence Service",
+    "Double Agent",
+    "Political Prisoners",
+    "Soviet Union",
+    "Miami"
+  ]
 }

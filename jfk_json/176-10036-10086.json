@@ -1,8 +1,24 @@
 {
-  "classification": "Operations",
-  "document_type": "Telegram Information Report",
-  "security_level": "CONFIDENTIAL",
+  "title": "Views... Possible Coup D'Etat",
+  "title_ja": "見解...クーデターの可能性",
   "summary": "This document discusses the views of Colonel Ton That Xung regarding the possibility of a coup d'etat in South Vietnam. He indicates that plans for such action would not be communicated to the Americans due to the US opposition to unlawful acts.",
+  "summary_ja": "この文書は、南ベトナムにおけるクーデターの可能性に関するトン・ザット・スング大佐の見解について述べている。同大佐は、米国が不法行為に反対しているため、そのような行動の計画は米国側に伝えられないだろうと指摘している。",
+  "document_type": "Telegram Information Report",
+  "classification": "Operations",
+  "security_level": "CONFIDENTIAL",
+  "date": "1962-06-15",
+  "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "STATE, ARMY/ACSI, NAVY, AIR, JCS, SECDEF, NSA, NIC, USIA, OCI, ONE, OCR, LORR",
+  "persons_mentioned": [
+    "Ton That Xung",
+    "Ton That Chu"
+  ],
+  "locations_mentioned": [
+    "South Vietnam",
+    "Pleiku Province",
+    "Saigon"
+  ],
   "tags": [
     "coup d'etat",
     "South Vietnam",
@@ -10,19 +26,5 @@
     "political instability",
     "CIA",
     "National Security"
-  ],
-  "title": "Views... Possible Coup D'Etat",
-  "date": "1962-06-15",
-  "locations_mentioned": [
-    "South Vietnam",
-    "Pleiku Province",
-    "Saigon"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Ton That Xung",
-    "Ton That Chu"
-  ],
-  "recipient": "STATE, ARMY/ACSI, NAVY, AIR, JCS, SECDEF, NSA, NIC, USIA, OCI, ONE, OCR, LORR",
-  "sender": ""
+  ]
 }

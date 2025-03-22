@@ -1,8 +1,26 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Howard Hunt",
+  "title_ja": "ハワード・ハント",
   "summary": "The Director of Finance reports on a search of records to determine if any payment was made to Howard Hunt for approximately $30,000 that required no accounting. The office searched expense runs, Madrid Station, JMWAVE, and FR/Washington Office accountings, Mr. Hunt's travel claims, and Mr. Hunt's advance account. No operational expenditures were found except for $1,600 approved for write-off by Desmond Fitzgerald without further accounting.",
+  "summary_ja": "財務部長は、ハワード・ハント氏に対して約3万ドルの支払いがなされたが、その支払いの会計報告が一切なされていない件について、記録の調査結果を報告する。 事務所では、経費、マドリード局、JMWAVE、ワシントン支局の会計、ハント氏の旅費請求書、ハント氏の立替金について調査した。 デズモンド・フィッツジェラルドが会計報告なしに損金処理を承認した1,600ドルを除いて、運用経費は発見されなかった。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1974-02-27",
+  "origin_agency": "Office of Finance",
+  "sender": "Director of Finance",
+  "recipient": "Inspector General",
+  "persons_mentioned": [
+    "Howard Hunt",
+    "Desmond Fitzgerald",
+    "Thomas B. Yale",
+    "Karamessines"
+  ],
+  "locations_mentioned": [
+    "Madrid",
+    "Paris",
+    "Washington"
+  ],
   "tags": [
     "Howard Hunt",
     "Office of Finance",
@@ -16,21 +34,5 @@
     "Desmond Fitzgerald",
     "Chase Manhattan Bank",
     "Operational Expenditures"
-  ],
-  "title": "Howard Hunt",
-  "date": "1974-02-27",
-  "locations_mentioned": [
-    "Madrid",
-    "Paris",
-    "Washington"
-  ],
-  "origin_agency": "Office of Finance",
-  "persons_mentioned": [
-    "Howard Hunt",
-    "Desmond Fitzgerald",
-    "Thomas B. Yale",
-    "Karamessines"
-  ],
-  "recipient": "Inspector General",
-  "sender": "Director of Finance"
+  ]
 }

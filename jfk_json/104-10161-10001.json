@@ -1,8 +1,14 @@
 {
-  "classification": "Administrative",
-  "document_type": "Form",
-  "security_level": "SECRET",
+  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
+  "title_ja": "軍の偽装工作バックストップの確立通知",
   "summary": "Notification of establishment of military cover backstop for an individual, including instructions for handling records and changes to cover.",
+  "summary_ja": "個人に対する軍事的保護の確立の通知、および記録の取り扱いと保護の変更に関する指示。",
+  "document_type": "Form",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "109709",
+  "origin_agency": "Records and Services Division",
+  "recipient": "Chief, Records and Services Division; Chief, Operating Component",
   "tags": [
     "military cover",
     "backstop",
@@ -12,9 +18,5 @@
     "HB 20-800-2",
     "HB 20-661-1",
     "R 240-250"
-  ],
-  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
-  "date": "109709",
-  "origin_agency": "Records and Services Division",
-  "recipient": "Chief, Records and Services Division; Chief, Operating Component"
+  ]
 }

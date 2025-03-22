@@ -1,25 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses the Department of State authorizing visas to the AMLASH family, with a proviso that they are bona fide visitors and not immigrants. It also includes a debriefing of AMLASH-1 in Madrid, where he expressed his intention to settle in Spain. The file number is 201-252234.",
-  "tags": [
-    "visa",
-    "AMLASH",
-    "refugee",
-    "debriefing",
-    "immigration",
-    "Spain",
-    "medical practice"
-  ],
   "title": "Director 627921",
+  "title_ja": "ディレクター 627921",
+  "summary": "This cable discusses the Department of State authorizing visas to the AMLASH family, with a proviso that they are bona fide visitors and not immigrants. It also includes a debriefing of AMLASH-1 in Madrid, where he expressed his intention to settle in Spain. The file number is 201-252234.",
+  "summary_ja": "この電報では、国務省がAMLASH一家にビザを発給することを承認しているが、それは彼らが誠実な訪問者であり、移民ではないという条件付きである。また、マドリードにおけるAMLASH-1の報告書も含まれており、彼はスペインに定住する意思を表明している。ファイル番号は201-252234である。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1980-03-04",
-  "locations_mentioned": [
-    "Madrid",
-    "US",
-    "Spain"
-  ],
   "origin_agency": "DIRECTOR",
+  "sender": "STAFF",
+  "recipient": "MADRID",
   "persons_mentioned": [
     "AMLASH-1",
     "KHO",
@@ -28,6 +18,18 @@
     "STOVER",
     "BERGER"
   ],
-  "recipient": "MADRID",
-  "sender": "STAFF"
+  "locations_mentioned": [
+    "Madrid",
+    "US",
+    "Spain"
+  ],
+  "tags": [
+    "visa",
+    "AMLASH",
+    "refugee",
+    "debriefing",
+    "immigration",
+    "Spain",
+    "medical practice"
+  ]
 }

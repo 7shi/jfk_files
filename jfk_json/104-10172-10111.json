@@ -1,8 +1,34 @@
 {
-  "classification": "Assassination Records",
-  "document_type": "File",
-  "security_level": "SECRET",
+  "title": "HALPERIN, MAURICE HYMAN",
+  "title_ja": "HALPERIN、MAURICE HYMAN",
   "summary": "This file contains material reviewed at CIA Headquarters by House Select Committee on Assassinations staff members regarding Maurice Hyman Halperin. It includes FBI and State Department reports and telegrams, as well as a document transfer and cross-reference sheet, a routing and record sheet, and a dispatch from the Chief of Station, Mexico City concerning a booklet written by Halperin.",
+  "summary_ja": "このファイルには、モーリス・ハイマン・ハルペリンに関する下院暗殺問題調査委員会のスタッフがCIA本部で検討した資料が含まれている。FBIおよび国務省の報告書と電報、文書送付および相互参照シート、ルーティングおよび記録シート、ハルペリンが執筆した小冊子に関するメキシコシティの支局長からの報告書が含まれている。",
+  "document_type": "File",
+  "classification": "Assassination Records",
+  "security_level": "SECRET",
+  "date": "1961-10-20",
+  "origin_agency": "CIA",
+  "sender": "Chief of Station, Mexico City",
+  "recipient": "Chief, WH Division",
+  "persons_mentioned": [
+    "JOHANNA SMITH",
+    "Jane Constance Kroll Rogers",
+    "Benjamin FASTOV",
+    "David C. HALPERIN",
+    "Albert Maltz",
+    "Vicente LOMBARDO Toledano",
+    "Millard C. CURTIS",
+    "Maurice Halperin"
+  ],
+  "locations_mentioned": [
+    "CIA Headquarters",
+    "New York",
+    "Boston",
+    "Washington",
+    "Moscow",
+    "Mexico City",
+    "USSR"
+  ],
   "tags": [
     "HALPERIN",
     "MAURICE HYMAN",
@@ -15,29 +41,5 @@
     "Soviet Union",
     "McCarran Act",
     "Communist"
-  ],
-  "title": "HALPERIN, MAURICE HYMAN",
-  "date": "1961-10-20",
-  "locations_mentioned": [
-    "CIA Headquarters",
-    "New York",
-    "Boston",
-    "Washington",
-    "Moscow",
-    "Mexico City",
-    "USSR"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "JOHANNA SMITH",
-    "Jane Constance Kroll Rogers",
-    "Benjamin FASTOV",
-    "David C. HALPERIN",
-    "Albert Maltz",
-    "Vicente LOMBARDO Toledano",
-    "Millard C. CURTIS",
-    "Maurice Halperin"
-  ],
-  "recipient": "Chief, WH Division",
-  "sender": "Chief of Station, Mexico City"
+  ]
 }

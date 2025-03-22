@@ -1,17 +1,20 @@
 {
-  "classification": "Mexico",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
-  "summary": "Memorandum regarding Alfonso Rudolph MICHIRICH, a subject of covert interest, including investigation assignments, known locations, and character references.",
-  "tags": [
-    "Covert Interest",
-    "Investigation",
-    "National Agency Checks",
-    "Character References",
-    "Alfonso Rudolph MICHIRICH"
-  ],
   "title": "MICHIRICH, Alfonso Rudolph CA/ID/3",
+  "title_ja": "ミチリッチ、アルフォンソ・ルドルフ CA/ID/3",
+  "summary": "Memorandum regarding Alfonso Rudolph MICHIRICH, a subject of covert interest, including investigation assignments, known locations, and character references.",
+  "summary_ja": "アルフォンゾ・ルドルフ・ミチリッチに関する覚書。秘密裏に関心のある対象者であり、調査の割り当て、既知の場所、人物照会を含む。",
+  "document_type": "Memorandum",
+  "classification": "Mexico",
+  "security_level": "UNCLASSIFIED",
   "date": "1962-03-29",
+  "origin_agency": "Headquarters",
+  "sender": "BYRNEXpe",
+  "recipient": "Special Agent in Charge, Washington Field Office",
+  "persons_mentioned": [
+    "Alfonso Rudolph MICHIRICH",
+    "Milton C. FRANKLIN",
+    "T. H. HANLEY"
+  ],
   "locations_mentioned": [
     "Washington, D. C.",
     "Columbus, Georgia",
@@ -20,12 +23,11 @@
     "Mexico",
     "Baltimore, Md"
   ],
-  "origin_agency": "Headquarters",
-  "persons_mentioned": [
-    "Alfonso Rudolph MICHIRICH",
-    "Milton C. FRANKLIN",
-    "T. H. HANLEY"
-  ],
-  "recipient": "Special Agent in Charge, Washington Field Office",
-  "sender": "BYRNEXpe"
+  "tags": [
+    "Covert Interest",
+    "Investigation",
+    "National Agency Checks",
+    "Character References",
+    "Alfonso Rudolph MICHIRICH"
+  ]
 }

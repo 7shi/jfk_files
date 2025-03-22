@@ -1,25 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable discusses the sequestration of information regarding Carlos (Evans) Roman and Mariano Virgilio de la Caridad (Ramirez) Alarcon.",
-  "tags": [
-    "sequestration",
-    "Carlos (Evans) Roman",
-    "Mariano Virgilio de la Caridad (Ramirez) Alarcon",
-    "ANTAUP",
-    "YOACRE",
-    "ODENVY"
-  ],
   "title": "BOUTING",
+  "title_ja": "BOUTING",
+  "summary": "Cable discusses the sequestration of information regarding Carlos (Evans) Roman and Mariano Virgilio de la Caridad (Ramirez) Alarcon.",
+  "summary_ja": "この電報は、カルロス（エバンス）・ロマンとマリアーノ・ビルジリオ・デ・ラ・カリダッド（ラミレス）・アルコンに関する情報の隔離について議論している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-12-11",
-  "locations_mentioned": [
-    "GUANTANAMO, CUBA",
-    "CAIMANERA",
-    "CAMAGUEY, CUBA",
-    "NIAMI"
-  ],
   "origin_agency": "JWAVE",
+  "sender": "JWAVE",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "CARLOS (EVANS) ROMAN",
     "MARIANO VIRGILIO DE LA CARIDAD (RAMIREZ) ALARCON",
@@ -27,6 +17,18 @@
     "MARIANO (RAMIREZ) HERNANDEZ",
     "DELFIA (MOLINA) GONZALEZ"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "JWAVE"
+  "locations_mentioned": [
+    "GUANTANAMO, CUBA",
+    "CAIMANERA",
+    "CAMAGUEY, CUBA",
+    "NIAMI"
+  ],
+  "tags": [
+    "sequestration",
+    "Carlos (Evans) Roman",
+    "Mariano Virgilio de la Caridad (Ramirez) Alarcon",
+    "ANTAUP",
+    "YOACRE",
+    "ODENVY"
+  ]
 }

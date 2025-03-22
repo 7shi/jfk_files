@@ -1,8 +1,24 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "MEXICO JMWAVE",
+  "title_ja": "メキシコ JMWAVE",
   "summary": "Cable regarding Michel Chidiac, Lebanese Charge in Havana, and his recent travel.",
+  "summary_ja": "ハバナのレバノン人公使ミシェル・キディアックと彼の最近の旅行に関する電報。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-10-18",
+  "origin_agency": "CIA",
+  "sender": "SAS/BOB",
+  "recipient": "C/OPO, CI/PA, FI, NE 4, WH",
+  "persons_mentioned": [
+    "Michel Chidiac",
+    "A. MARELI"
+  ],
+  "locations_mentioned": [
+    "Mexico",
+    "Havana",
+    "Lebanon"
+  ],
   "tags": [
     "Michel Chidiac",
     "Lebanese Charge",
@@ -14,19 +30,5 @@
     "CIA",
     "IRAQ",
     "A. MARELI"
-  ],
-  "title": "MEXICO JMWAVE",
-  "date": "1963-10-18",
-  "locations_mentioned": [
-    "Mexico",
-    "Havana",
-    "Lebanon"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Michel Chidiac",
-    "A. MARELI"
-  ],
-  "recipient": "C/OPO, CI/PA, FI, NE 4, WH",
-  "sender": "SAS/BOB"
+  ]
 }

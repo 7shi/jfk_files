@@ -1,8 +1,22 @@
 {
-  "classification": "Operations",
-  "document_type": "Memo",
-  "security_level": "Background Use Only",
+  "title": "Edward G. Tichborn's Bank Account Details and Payment Instructions",
+  "title_ja": "エドワード・G・ティクボーンの銀行口座の詳細と支払い指示",
   "summary": "This memo details Edward G. Tichborn's bank account at Bank of America, Wilshire-Sweetzer Branch, Los Angeles. It includes instructions for depositing operational advances and salary payments into his Commercial Account. The memo mentions a $2,000 operational advance check mailed from Washington on January 15, 1960, and a $650 salary check to be mailed to the same bank.",
+  "summary_ja": "このメモは、バンク・オブ・アメリカ、ロサンゼルス支店、ウィルシャー・スウィッツァー支店のエドワード・G・ティクボーン氏の銀行口座の詳細を記載している。 業務前払い金および給与の商業口座への入金に関する指示が含まれている。 このメモには、1960年1月15日にワシントンから郵送された2,000ドルの業務前払い金小切手と、同じ銀行に郵送される650ドルの給与小切手について言及されている。",
+  "document_type": "Memo",
+  "classification": "Operations",
+  "security_level": "Background Use Only",
+  "date": "1960-01-19",
+  "origin_agency": "CIA",
+  "sender": "E.S.V.",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "Edward G. Tichborn"
+  ],
+  "locations_mentioned": [
+    "Washington",
+    "Los Angeles"
+  ],
   "tags": [
     "Bank Account",
     "Operational Advance",
@@ -10,17 +24,5 @@
     "Commercial Account",
     "Edward G. Tichborn",
     "Bank of America"
-  ],
-  "title": "Edward G. Tichborn's Bank Account Details and Payment Instructions",
-  "date": "1960-01-19",
-  "locations_mentioned": [
-    "Washington",
-    "Los Angeles"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Edward G. Tichborn"
-  ],
-  "recipient": "CIA",
-  "sender": "E.S.V."
+  ]
 }

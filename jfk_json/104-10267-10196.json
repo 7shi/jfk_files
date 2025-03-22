@@ -1,26 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
-  "summary": "This document details a request for training for a six-man leader group scheduled to arrive at SOLATIO on July 11. It includes details on their previous training, specific skills requested for training, and logistical support for transportation.",
-  "tags": [
-    "Training",
-    "SOLATIO",
-    "Leadership",
-    "Tradecraft",
-    "Caching",
-    "Observation",
-    "Reporting",
-    "Airlift",
-    "AMANCHOR",
-    "JMWAVE"
-  ],
   "title": "Request for Training for Six-Man Leader Group",
+  "title_ja": "6人グループのリーダーに対する訓練の要請",
+  "summary": "This document details a request for training for a six-man leader group scheduled to arrive at SOLATIO on July 11. It includes details on their previous training, specific skills requested for training, and logistical support for transportation.",
+  "summary_ja": "この文書は、7月11日にソラティオに到着予定の6人の指導者グループの訓練要請の詳細を述べている。これには、彼らの過去の訓練、訓練で要求される特定のスキル、輸送の支援に関する詳細が含まれている。",
+  "document_type": "Classified Message",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1966-07-07",
-  "locations_mentioned": [
-    "EGLIN"
-  ],
   "origin_agency": "JMWAVE",
+  "sender": "JMWAVE",
+  "recipient": "DIRECTOR, EGLIN",
   "persons_mentioned": [
     "ANLILAC/29",
     "IGNACIO",
@@ -37,6 +26,19 @@
     "AMPOLISH/1",
     "SIMON"
   ],
-  "recipient": "DIRECTOR, EGLIN",
-  "sender": "JMWAVE"
+  "locations_mentioned": [
+    "EGLIN"
+  ],
+  "tags": [
+    "Training",
+    "SOLATIO",
+    "Leadership",
+    "Tradecraft",
+    "Caching",
+    "Observation",
+    "Reporting",
+    "Airlift",
+    "AMANCHOR",
+    "JMWAVE"
+  ]
 }

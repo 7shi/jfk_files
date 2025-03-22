@@ -1,23 +1,15 @@
 {
-  "classification": "JFK Assassination",
-  "document_type": "CIA Information Report",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This document is a CIA information report about Ngo Dinh Nhu's intention to deal with the Viet Cong and attempts of Pham Ngoc Thao to arrange VNAF support for a coup d'etat.",
-  "tags": [
-    "Vietnam",
-    "Ngo Dinh Nhu",
-    "Pham Ngoc Thao",
-    "Viet Cong",
-    "Coup d'etat",
-    "VNAF"
-  ],
   "title": "CIA Information Report",
+  "title_ja": "CIA情報報告書",
+  "summary": "This document is a CIA information report about Ngo Dinh Nhu's intention to deal with the Viet Cong and attempts of Pham Ngoc Thao to arrange VNAF support for a coup d'etat.",
+  "summary_ja": "この文書は、ベトコンへの対応に関するゴ・ディン・ジュの意図と、ファム・ゴック・タオによるベトナム国民軍のクーデター支援の試みに関するCIAの情報報告書である。",
+  "document_type": "CIA Information Report",
+  "classification": "JFK Assassination",
+  "security_level": "CONFIDENTIAL",
   "date": "1963-09-24",
-  "locations_mentioned": [
-    "SOUTH VIETNAM",
-    "SAIGON"
-  ],
   "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "1",
   "persons_mentioned": [
     "NGO DINH NHU",
     "PHAM NGOC THAO",
@@ -26,6 +18,16 @@
     "HUYNH HUU HIEN",
     "LODGE"
   ],
-  "recipient": "1",
-  "sender": "CIA"
+  "locations_mentioned": [
+    "SOUTH VIETNAM",
+    "SAIGON"
+  ],
+  "tags": [
+    "Vietnam",
+    "Ngo Dinh Nhu",
+    "Pham Ngoc Thao",
+    "Viet Cong",
+    "Coup d'etat",
+    "VNAF"
+  ]
 }

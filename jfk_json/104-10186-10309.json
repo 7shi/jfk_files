@@ -1,8 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Policy Guidance Directives for Cuban Intelligence Representatives in the Dominican Republic",
+  "title_ja": "ドミニカ共和国におけるキューバ情報機関代表者に対する政策指導指令",
   "summary": "This document outlines policy guidance directives for Cuban intelligence representatives in the Dominican Republic, prepared by the General Directorate of Intelligence (DGI). It prioritizes information gathering on collective action against Cuba, the status of leftist forces, the Dominican Republic Armed Forces, the Dominican Communist Party, training camps, counterrevolutionary organizations, repressive corps, CIA Santo Domingo, political parties, solidarity with Cuba movement, relations with the United States, the Church, and internal situation of the armed forces.",
+  "summary_ja": "この文書は、ドミニカ共和国におけるキューバ情報機関代表者向けの政策指導指令の概要を記したもので、情報総局（DGI）が作成した。キューバに対する集団行動、左派勢力の状況、ドミニカ共和国軍、ドミニカ共産党、訓練キャンプ、反革命組織、弾圧部隊、CIAサントドミンゴ支部、政党、キューバ支援運動、米国との関係、教会、軍の国内情勢に関する情報収集を優先する。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-06-1964",
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "sender": "General Directorate of Intelligence (Direccion General de Inteligencia--DGI)",
+  "recipient": "REPCINCLANT I&NS",
+  "persons_mentioned": [
+    "Juan Bosch Gaviño",
+    "Miguel Angel Quevedo",
+    "Carlos Prío"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Dominican Republic",
+    "Santo Domingo",
+    "Miami"
+  ],
   "tags": [
     "intelligence",
     "Dominican Republic",
@@ -16,21 +34,5 @@
     "solidarity with Cuba",
     "United States",
     "Church"
-  ],
-  "title": "Policy Guidance Directives for Cuban Intelligence Representatives in the Dominican Republic",
-  "date": "1963-06-1964",
-  "locations_mentioned": [
-    "Cuba",
-    "Dominican Republic",
-    "Santo Domingo",
-    "Miami"
-  ],
-  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
-  "persons_mentioned": [
-    "Juan Bosch Gaviño",
-    "Miguel Angel Quevedo",
-    "Carlos Prío"
-  ],
-  "recipient": "REPCINCLANT I&NS",
-  "sender": "General Directorate of Intelligence (Direccion General de Inteligencia--DGI)"
+  ]
 }

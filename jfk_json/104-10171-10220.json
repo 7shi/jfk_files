@@ -1,26 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This memorandum discusses a conversation between President Lopez Mateos of Mexico and Mr. Winston Scott, Chief of Station, Mexico, regarding President Lopez Mateos's relationship with the United States and his stance on inviting Fidel Castro to Mexico. It also mentions CIA intentions to overthrow Castro and suggests informing President Eisenhower of Lopez Mateos's views.",
-  "tags": [
-    "Lopez Mateos",
-    "Winston Scott",
-    "Eisenhower",
-    "Dorticos",
-    "Fidel Castro",
-    "CIA",
-    "Overthrow",
-    "Mexico",
-    "Cuba"
-  ],
   "title": "Conversation between President Lopez Mateos of Mexico and Mr. Winston Scott, Chief of Station, Mexico",
+  "title_ja": "メキシコ大統領ロペス・マテオスとメキシコ支局長ウィンストン・スコット氏との会話",
+  "summary": "This memorandum discusses a conversation between President Lopez Mateos of Mexico and Mr. Winston Scott, Chief of Station, Mexico, regarding President Lopez Mateos's relationship with the United States and his stance on inviting Fidel Castro to Mexico. It also mentions CIA intentions to overthrow Castro and suggests informing President Eisenhower of Lopez Mateos's views.",
+  "summary_ja": "この覚書は、メキシコ大統領ロペス・マテオスとメキシコ支局長ウィンストン・スコット氏との会話を論じており、ロペス・マテオス大統領の米国との関係と、フィデル・カストロをメキシコに招待することに対する同大統領の姿勢について述べている。また、カストロを打倒しようとするCIAの意図にも触れ、アイゼンハワー大統領にロペス・マテオスの見解を伝えることを提案している。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
   "date": "1960-06-09",
-  "locations_mentioned": [
-    "Mexico",
-    "Cuba"
-  ],
   "origin_agency": "CIA",
+  "sender": "J. C. King, Chief, Western Hemisphere Division",
+  "recipient": "Acting Director of Central Intelligence",
   "persons_mentioned": [
     "John F. Kennedy",
     "Lopez Mateos",
@@ -32,6 +21,19 @@
     "Jose Lorenzo Cossio",
     "J. C. King"
   ],
-  "recipient": "Acting Director of Central Intelligence",
-  "sender": "J. C. King, Chief, Western Hemisphere Division"
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba"
+  ],
+  "tags": [
+    "Lopez Mateos",
+    "Winston Scott",
+    "Eisenhower",
+    "Dorticos",
+    "Fidel Castro",
+    "CIA",
+    "Overthrow",
+    "Mexico",
+    "Cuba"
+  ]
 }

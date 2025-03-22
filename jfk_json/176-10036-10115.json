@@ -1,24 +1,15 @@
 {
-  "classification": "JFK Assassination Records Act",
-  "document_type": "Telegram Information Report",
-  "security_level": "SECRET",
-  "summary": "This document discusses the status of a coup d'etat plan by Tran Kim Tuyen's group against President Diem in South Vietnam, including details of the plan and the timing of the coup.",
-  "tags": [
-    "coup d'etat",
-    "Tran Kim Tuyen",
-    "Vietnam",
-    "CIA",
-    "President Diem",
-    "Nguyen Ngoc Tho",
-    "Geneva Accords"
-  ],
   "title": "CIA Information Telegram",
+  "title_ja": "CIA情報電報",
+  "summary": "This document discusses the status of a coup d'etat plan by Tran Kim Tuyen's group against President Diem in South Vietnam, including details of the plan and the timing of the coup.",
+  "summary_ja": "この文書は、南ベトナムのディエム大統領に対するチャン・キム・トゥエン（Tran Kim Tuyen）グループによるクーデター計画の現状について論じている。計画の詳細やクーデターのタイミングについても言及している。",
+  "document_type": "Telegram Information Report",
+  "classification": "JFK Assassination Records Act",
+  "security_level": "SECRET",
   "date": "1963-07-16",
-  "locations_mentioned": [
-    "South Vietnam",
-    "Vietnam, Saigon"
-  ],
   "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "STATE, USMACY, CINCPAC, PACFLT, ARPACO, PACAF, CORS",
   "persons_mentioned": [
     "John F. Kennedy",
     "Tran Kim Tuyen",
@@ -27,6 +18,17 @@
     "Nguyen Ngoc Tho",
     "Harkins"
   ],
-  "recipient": "STATE, USMACY, CINCPAC, PACFLT, ARPACO, PACAF, CORS",
-  "sender": "CIA"
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam, Saigon"
+  ],
+  "tags": [
+    "coup d'etat",
+    "Tran Kim Tuyen",
+    "Vietnam",
+    "CIA",
+    "President Diem",
+    "Nguyen Ngoc Tho",
+    "Geneva Accords"
+  ]
 }

@@ -1,21 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses an agent ASG's message regarding the retrieval of a pouch, the potential exfiltration of 'IMINA SILIO', and a pick-up from 'MANOLO (DIEGO)' in Mexico. It also includes information for the Director only, identifying individuals like EMILIO as EXILIO CARBO, TONY as ARCANOE-3, JUDE as ARRIPE-2, and MANOLO (DIEGO) as a relative of ASGIPE-1.",
-  "tags": [
-    "agent communication",
-    "exfiltration",
-    "Mexico",
-    "code names",
-    "intelligence"
-  ],
   "title": "Classified Message Regarding Agent ASG and Related Operations",
+  "title_ja": "エージェントASGおよび関連業務に関する機密メッセージ",
+  "summary": "This cable discusses an agent ASG's message regarding the retrieval of a pouch, the potential exfiltration of 'IMINA SILIO', and a pick-up from 'MANOLO (DIEGO)' in Mexico. It also includes information for the Director only, identifying individuals like EMILIO as EXILIO CARBO, TONY as ARCANOE-3, JUDE as ARRIPE-2, and MANOLO (DIEGO) as a relative of ASGIPE-1.",
+  "summary_ja": "この電報では、ポーチの回収、IMINA SILIOの潜在的な脱出、メキシコのMANOLO (DIEGO)からの受け取りに関するエージェントASGのメッセージについて議論されている。また、ディレクターのみを対象とした情報として、エミリオをEXILIO CARBO、トニーをARCANOE-3、ジュードをARRIPE-2、マノーロ（ディエゴ）をASGIPE-1の親族として特定する情報も含まれている。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1963-12-03",
-  "locations_mentioned": [
-    "Mexico"
-  ],
   "origin_agency": "CIA",
+  "sender": "JONAVE",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "EMILIO",
     "EXILIO CARBO",
@@ -26,6 +20,14 @@
     "MANOLO (DIEGO)",
     "ASGIPE-1"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "JONAVE"
+  "locations_mentioned": [
+    "Mexico"
+  ],
+  "tags": [
+    "agent communication",
+    "exfiltration",
+    "Mexico",
+    "code names",
+    "intelligence"
+  ]
 }

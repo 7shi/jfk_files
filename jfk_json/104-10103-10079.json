@@ -1,25 +1,20 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Draft Memorandum to the DCI from William Harvey, dated 27 November 1962, outlining an operational plan for continuing operations against Cuba.",
-  "tags": [
-    "Operational Plan",
-    "CIA",
-    "Cuba",
-    "William Harvey",
-    "Intelligence",
-    "Counterintelligence",
-    "Sabotage",
-    "Paramilitary Operations",
-    "Economic Warfare",
-    "Political Action",
-    "Propaganda",
-    "Psychological Warfare",
-    "Exile Groups"
-  ],
   "title": "Operational Plan for Continuing Operations Against Cuba",
+  "title_ja": "キューバに対する継続作戦の運用計画",
+  "summary": "Draft Memorandum to the DCI from William Harvey, dated 27 November 1962, outlining an operational plan for continuing operations against Cuba.",
+  "summary_ja": "1962年11月27日付、ウィリアム・ハーヴェイからDCI宛の覚書草案。キューバに対する作戦継続のための作戦計画の概要。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-11-27",
+  "origin_agency": "CIA",
+  "sender": "William K. Harvey, Chief, Task Force W",
+  "recipient": "Director of Central Intelligence (DCI)",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "William Harvey",
+    "Castro"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Havana",
@@ -38,12 +33,19 @@
     "Pinar del Rio",
     "Oriente"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
+  "tags": [
+    "Operational Plan",
+    "CIA",
+    "Cuba",
     "William Harvey",
-    "Castro"
-  ],
-  "recipient": "Director of Central Intelligence (DCI)",
-  "sender": "William K. Harvey, Chief, Task Force W"
+    "Intelligence",
+    "Counterintelligence",
+    "Sabotage",
+    "Paramilitary Operations",
+    "Economic Warfare",
+    "Political Action",
+    "Propaganda",
+    "Psychological Warfare",
+    "Exile Groups"
+  ]
 }

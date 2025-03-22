@@ -1,15 +1,31 @@
 {
-  "classification": "Cuba",
-  "document_type": "Paper, Textual Document",
-  "security_level": "Secret",
-  "summary": "Army memo from Joseph Califano to Mr. Crimmins on status of actions to counter Cuban subversion in Latin America with other related documents.",
-  "tags": [
-    "COUNTERINSURGENCY",
-    "CUBAN SUBVERSION",
-    "LATIN AMERICA SECURITY"
-  ],
   "title": "INTERDEPARTMENTAL COORDINATING COMMITTEE OF CUBAN AFFAIRS: REPORT ON THE STATUS OF ACTIONS DESIGNED TO COUNTER SUBVERSION",
+  "title_ja": "キューバ問題に関する省庁間調整委員会：破壊活動対策行動の現状に関する報告書",
+  "summary": "Army memo from Joseph Califano to Mr. Crimmins on status of actions to counter Cuban subversion in Latin America with other related documents.",
+  "summary_ja": "ラテンアメリカにおけるキューバの破壊活動に対抗する活動の現状に関するジョセフ・カリファノ陸軍次官補からクリミンズ氏宛のメモ、および関連文書。",
+  "document_type": "Paper, Textual Document",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1964-01-10",
+  "origin_agency": "ARMY",
+  "sender": "JOSEPH A. CALIFANO, JR.",
+  "recipient": "MR. JOHN H. CRIMMINS",
+  "persons_mentioned": [
+    "Joseph A. Califano, Jr.",
+    "John H. Crimmins",
+    "General A. P. O'Meara",
+    "Ray C. Needham",
+    "William Bowdler",
+    "Herold Derber",
+    "Richard Joyce",
+    "Frank K. Sloan",
+    "Earle G. Wheeler",
+    "J. D. Alger",
+    "W. F. A. Wendt",
+    "J. W. Carpenter",
+    "C. J. Quilter",
+    "John Reynolds"
+  ],
   "locations_mentioned": [
     "Latin America",
     "Caribbean",
@@ -45,23 +61,9 @@
     "Mexico City",
     "Belize"
   ],
-  "origin_agency": "ARMY",
-  "persons_mentioned": [
-    "Joseph A. Califano, Jr.",
-    "John H. Crimmins",
-    "General A. P. O'Meara",
-    "Ray C. Needham",
-    "William Bowdler",
-    "Herold Derber",
-    "Richard Joyce",
-    "Frank K. Sloan",
-    "Earle G. Wheeler",
-    "J. D. Alger",
-    "W. F. A. Wendt",
-    "J. W. Carpenter",
-    "C. J. Quilter",
-    "John Reynolds"
-  ],
-  "recipient": "MR. JOHN H. CRIMMINS",
-  "sender": "JOSEPH A. CALIFANO, JR."
+  "tags": [
+    "COUNTERINSURGENCY",
+    "CUBAN SUBVERSION",
+    "LATIN AMERICA SECURITY"
+  ]
 }

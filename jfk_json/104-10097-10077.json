@@ -1,8 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "REQUEST PRITY POA TO INCLUDE COMMO TRAINING FOR MARTA (VALDES) IERNANDEZ",
+  "title_ja": "マルタ（バルデス）イエルナンデスへのCOMMO訓練を含めるよう、PRITY POAを要求",
   "summary": "This cable requests training for Marta (Valdes) Iernandez, an employee of the Ministry of Health and Welfare in Havana, who recently completed studies in Mexico under the World Health Organization. No traces were found in Mexico.",
+  "summary_ja": "この電報では、最近メキシコで世界保健機関の研修を修了したハバナの厚生省職員マルタ・（ヴァルデス）・イエルナンデスへの研修を要請している。メキシコでは痕跡が見つからなかった。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-12-09",
+  "origin_agency": "LOVECEN C",
+  "sender": "HEXI 7300",
+  "recipient": "DIR ILFO",
+  "persons_mentioned": [
+    "MARTA (VALDES) IERNANDEZ",
+    "LUCAS",
+    "JULIA"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "CUBA",
+    "HAVANA",
+    "MEXI"
+  ],
   "tags": [
     "training",
     "Marta Valdes Iernandez",
@@ -11,21 +29,5 @@
     "Mexico",
     "Havana",
     "statistician"
-  ],
-  "title": "REQUEST PRITY POA TO INCLUDE COMMO TRAINING FOR MARTA (VALDES) IERNANDEZ",
-  "date": "1963-12-09",
-  "locations_mentioned": [
-    "MEXICO CITY",
-    "CUBA",
-    "HAVANA",
-    "MEXI"
-  ],
-  "origin_agency": "LOVECEN C",
-  "persons_mentioned": [
-    "MARTA (VALDES) IERNANDEZ",
-    "LUCAS",
-    "JULIA"
-  ],
-  "recipient": "DIR ILFO",
-  "sender": "HEXI 7300"
+  ]
 }

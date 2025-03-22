@@ -1,8 +1,30 @@
 {
-  "classification": "Operations",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Mexico City Station Operations Report",
+  "title_ja": "メキシコシティ局業務報告書",
   "summary": "This document provides an overview of the Mexico City Station's operations, including Cuban, Soviet, and other activities. It discusses personnel, resources, and recommendations for improving effectiveness.",
+  "summary_ja": "この文書は、メキシコシティ支局の業務概要を記載しており、キューバ、ソビエト連邦、その他の活動を含む。人員、リソース、効果を高めるための推奨事項についても述べられている。",
+  "document_type": "Report",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1964",
+  "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "Chief, WE Division",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Lee Harvey Oswald",
+    "Lopes Mateos"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba",
+    "Havana",
+    "Soviet Union",
+    "United States",
+    "Latin America",
+    "Guatemala",
+    "Philippines"
+  ],
   "tags": [
     "Mexico City",
     "Station Operations",
@@ -29,25 +51,5 @@
     "Polygraph",
     "Files",
     "Housing"
-  ],
-  "title": "Mexico City Station Operations Report",
-  "date": "1964",
-  "locations_mentioned": [
-    "Mexico City",
-    "Cuba",
-    "Havana",
-    "Soviet Union",
-    "United States",
-    "Latin America",
-    "Guatemala",
-    "Philippines"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Lee Harvey Oswald",
-    "Lopes Mateos"
-  ],
-  "recipient": "Chief, WE Division",
-  "sender": "Unknown"
+  ]
 }

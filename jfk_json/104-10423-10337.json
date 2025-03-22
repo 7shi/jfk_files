@@ -1,8 +1,31 @@
 {
-  "classification": "Commission",
-  "document_type": "Dispatch",
-  "security_level": "S-E-C-R-E-T",
+  "title": "Warren Commission Testimony - Selected Excerpts",
+  "title_ja": "ウォーレン委員会証言 - 抜粋",
   "summary": "This document is a dispatch from the Chief of KUDOVE regarding Warren Commission testimony excerpts related to Presidential protection and interagency cooperation.",
+  "summary_ja": "この文書は、大統領の警護および省庁間の協力に関するウォーレン委員会の証言抜粋について、クドベ署長からの報告書である。",
+  "document_type": "Dispatch",
+  "classification": "Commission",
+  "security_level": "S-E-C-R-E-T",
+  "date": "1965-02-02",
+  "origin_agency": "CIA",
+  "sender": "Chief, KUDOVE",
+  "recipient": "Chiefs of all Stations",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Fletcher M. Knight",
+    "Alan H. Belmont",
+    "J. Edgar Hoover",
+    "Lee Harvey Oswald",
+    "Allen Dulles",
+    "John McCloy"
+  ],
+  "locations_mentioned": [
+    "United States",
+    "Moscow",
+    "Switzerland",
+    "Paris",
+    "Mexico"
+  ],
   "tags": [
     "Warren Commission",
     "Presidential Protection",
@@ -13,26 +36,5 @@
     "Lee Harvey Oswald",
     "Defector",
     "Security"
-  ],
-  "title": "Warren Commission Testimony - Selected Excerpts",
-  "date": "1965-02-02",
-  "locations_mentioned": [
-    "United States",
-    "Moscow",
-    "Switzerland",
-    "Paris",
-    "Mexico"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Fletcher M. Knight",
-    "Alan H. Belmont",
-    "J. Edgar Hoover",
-    "Lee Harvey Oswald",
-    "Allen Dulles",
-    "John McCloy"
-  ],
-  "recipient": "Chiefs of all Stations",
-  "sender": "Chief, KUDOVE"
+  ]
 }

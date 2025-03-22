@@ -1,24 +1,15 @@
 {
-  "classification": "Soviet",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses a trace on Vladimir Kuznetsov, possibly identical with Vladimir Sergeyevich Kuznetsov, a GRU staff officer. Mentions his rank, assignment to the Third Anglo-American Directorate, and attendance at the Military Diplomatic Academy. Notes that the subject is not identical with another Vladimir Sergeyevich Kuznetsov who served in Jakarta. Requests further tracing upon receipt of patronymic and additional bio data.",
-  "tags": [
-    "GRU",
-    "Kuznetsov",
-    "Trace",
-    "Counterintelligence",
-    "Liaison"
-  ],
   "title": "WNINTEL CKTOP (PDGRAVE WIGALE) TRACE ON VLADIMIR KUZNETSOV",
+  "title_ja": "WNINTEL CKTOP（PDGRAVE WIGALE）VLADIMIR KUZNETSOVに関する追跡",
+  "summary": "This cable discusses a trace on Vladimir Kuznetsov, possibly identical with Vladimir Sergeyevich Kuznetsov, a GRU staff officer. Mentions his rank, assignment to the Third Anglo-American Directorate, and attendance at the Military Diplomatic Academy. Notes that the subject is not identical with another Vladimir Sergeyevich Kuznetsov who served in Jakarta. Requests further tracing upon receipt of patronymic and additional bio data.",
+  "summary_ja": "この電報は、ウラジーミル・クズネツォフの足取りについて述べている。おそらく、GRU参謀のウラジーミル・セルゲイエヴィチ・クズネツォフと同一人物である。彼の階級、英米第3局への配属、軍事外交アカデミーへの出席について言及している。また、ジャカルタに勤務していた別のウラジーミル・セルゲイエヴィチ・クズネツォフとは同一人物ではないと指摘している。父称と追加の経歴データを受け取ったら、さらに追跡調査を行うよう要請している。",
+  "document_type": "Cable",
+  "classification": "Soviet",
+  "security_level": "SECRET",
   "date": "1976-09-17",
-  "locations_mentioned": [
-    "Brussels",
-    "Washington",
-    "Moscow",
-    "Jakarta"
-  ],
   "origin_agency": "SE/BIO INFO SE/CI/X, SE/X/EU, EABNLYBY",
+  "sender": "SE/BIO",
+  "recipient": "BRUSSELS",
   "persons_mentioned": [
     "VLADIMIR KUZNETSOV",
     "VLADIMIR SERGEYEVICH KUZNETSOV",
@@ -26,6 +17,17 @@
     "P.W. JÓNSSONAL. SULLIVAN",
     "M. NOSTER"
   ],
-  "recipient": "BRUSSELS",
-  "sender": "SE/BIO"
+  "locations_mentioned": [
+    "Brussels",
+    "Washington",
+    "Moscow",
+    "Jakarta"
+  ],
+  "tags": [
+    "GRU",
+    "Kuznetsov",
+    "Trace",
+    "Counterintelligence",
+    "Liaison"
+  ]
 }

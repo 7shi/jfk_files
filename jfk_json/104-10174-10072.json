@@ -1,33 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This file contains memoranda regarding Grayston Lynch, a retired CIA employee, and his involvement with LNCOLLAR, a drug enforcement agency. It details his recruitment, activities, and subsequent issues with the agency.",
-  "tags": [
-    "CIA",
-    "Grayston Lynch",
-    "LNCOLLAR",
-    "Drug Enforcement",
-    "Cuban Community",
-    "Key West",
-    "BKHERALD",
-    "IDEN A",
-    "Internal Affairs",
-    "Compromised Operation",
-    "Death Threats",
-    "Tampa"
-  ],
   "title": "LYNCH, GRAYSON",
+  "title_ja": "リンチ、グレイソン",
+  "summary": "This file contains memoranda regarding Grayston Lynch, a retired CIA employee, and his involvement with LNCOLLAR, a drug enforcement agency. It details his recruitment, activities, and subsequent issues with the agency.",
+  "summary_ja": "このファイルには、CIAの元職員であるグレイストン・リンチに関する覚書が含まれており、麻薬取締局であるLNCOLLARとの関わりについて述べられている。彼の採用、活動、およびその後の同局との問題について詳細に述べられている。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "CONFIDENTIAL",
   "date": "1978-04-10",
-  "locations_mentioned": [
-    "Tampa, Florida",
-    "Key West, Florida",
-    "Miami",
-    "Cuba",
-    "Venezuela",
-    "Washington"
-  ],
   "origin_agency": "CIA",
+  "sender": "Ruth Elliff, DCD/FIO/PAO",
+  "recipient": "DDO/ISS/IP/EIS",
   "persons_mentioned": [
     "Grayson Lynch",
     "Carlos Quiroga",
@@ -56,6 +38,26 @@
     "Bruce E. Mainharing",
     "San Gibbons"
   ],
-  "recipient": "DDO/ISS/IP/EIS",
-  "sender": "Ruth Elliff, DCD/FIO/PAO"
+  "locations_mentioned": [
+    "Tampa, Florida",
+    "Key West, Florida",
+    "Miami",
+    "Cuba",
+    "Venezuela",
+    "Washington"
+  ],
+  "tags": [
+    "CIA",
+    "Grayston Lynch",
+    "LNCOLLAR",
+    "Drug Enforcement",
+    "Cuban Community",
+    "Key West",
+    "BKHERALD",
+    "IDEN A",
+    "Internal Affairs",
+    "Compromised Operation",
+    "Death Threats",
+    "Tampa"
+  ]
 }

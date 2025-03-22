@@ -1,29 +1,15 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Memorandum regarding a briefing of Mr. Maurice Oldfield, MI-6, by WR/4, Clark Simmons concerning Robert Horton Geddes and his contacts with the CIA regarding potential Cuban Navy defection.",
-  "tags": [
-    "Robert Horton Geddes",
-    "Maurice Oldfield",
-    "MI-6",
-    "CIA",
-    "Cuban Navy",
-    "Defection",
-    "Counterintelligence",
-    "Provocateur"
-  ],
   "title": "Briefing of Mr. Maurice Oldfield, MI-6, by WR/4, Clark Simmons",
+  "title_ja": "WR/4によるMI-6モーリス・オールドフィールド氏へのブリーフィング、クラーク・シモンズ",
+  "summary": "Memorandum regarding a briefing of Mr. Maurice Oldfield, MI-6, by WR/4, Clark Simmons concerning Robert Horton Geddes and his contacts with the CIA regarding potential Cuban Navy defection.",
+  "summary_ja": "WR/4、クラーク・シモンズによるモーリス・オールドフィールド氏（MI-6）へのブリーフィングに関する覚書。ロバート・ホートン・ゲデスと、キューバ海軍の潜在的な亡命に関するCIAとの接触について。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "SECRET",
   "date": "1961-05-04",
-  "locations_mentioned": [
-    "Lima, Peru",
-    "Nassau",
-    "Havana",
-    "Miami",
-    "Boca Raton",
-    "Cuba"
-  ],
   "origin_agency": "CIA",
+  "sender": "John G. Roberts, DC/WR/6",
+  "recipient": "Record",
   "persons_mentioned": [
     "Maurice Oldfield",
     "Clark Simmons",
@@ -34,6 +20,22 @@
     "Cabbage/1",
     "R. Hopkins"
   ],
-  "recipient": "Record",
-  "sender": "John G. Roberts, DC/WR/6"
+  "locations_mentioned": [
+    "Lima, Peru",
+    "Nassau",
+    "Havana",
+    "Miami",
+    "Boca Raton",
+    "Cuba"
+  ],
+  "tags": [
+    "Robert Horton Geddes",
+    "Maurice Oldfield",
+    "MI-6",
+    "CIA",
+    "Cuban Navy",
+    "Defection",
+    "Counterintelligence",
+    "Provocateur"
+  ]
 }

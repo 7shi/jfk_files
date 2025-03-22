@@ -1,8 +1,23 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "WOMUSE: \"Peace\" Demonstrations",
+  "title_ja": "WOMUSE：「平和」デモ",
   "summary": "This document discusses 'Peace' Demonstrations and the Catholic Association for International Peace (CAIP). It includes information on literature mailed by CAIP to its members concerning \"Negotiation Now!\" and its 40th Annual Conference, which is themed \"Selective Conscientious Objection in an Age of Conflict.\"",
+  "summary_ja": "この文書は、「平和」デモと国際平和カトリック協会（CAIP）について論じている。CAIPが「交渉の今！」と「紛争の時代における選択的良心的兵役拒否」をテーマとした第40回年次会議について、会員に郵送した資料に関する情報が含まれている。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1967-10-11",
+  "origin_agency": "CIA",
+  "sender": "Chief of Base, Washington",
+  "recipient": "Chief, DO/I",
+  "persons_mentioned": [
+    "Oliver H. CORBUSTON"
+  ],
+  "locations_mentioned": [
+    "Washington, D. C.",
+    "Dunbarton College of Holy Cross",
+    "2935 Upton Street N.W."
+  ],
   "tags": [
     "Peace Demonstrations",
     "Catholic Association for International Peace",
@@ -10,18 +25,5 @@
     "Selective Conscientious Objection",
     "Dunbarton College of Holy Cross",
     "Oliver H. CORBUSTON"
-  ],
-  "title": "WOMUSE: \"Peace\" Demonstrations",
-  "date": "1967-10-11",
-  "locations_mentioned": [
-    "Washington, D. C.",
-    "Dunbarton College of Holy Cross",
-    "2935 Upton Street N.W."
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Oliver H. CORBUSTON"
-  ],
-  "recipient": "Chief, DO/I",
-  "sender": "Chief of Base, Washington"
+  ]
 }

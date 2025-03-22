@@ -1,8 +1,27 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Robert Prachett/ Cuban Counterrevolutionary Group, Alpha-66",
+  "title_ja": "ロバート・プラチェット/キューバ反革命グループ、アルファ66",
   "summary": "Memorandum from the Chief of the New York Office to the Chief of the Contact Division regarding Robert Prachett, a US citizen with contacts in the Cuban counterrevolutionary group Alpha-66, and his potential use as a source of information.",
+  "summary_ja": "ニューヨーク支局長から連絡部長宛の覚書、キューバの反革命組織アルファ66の関係者である米国市民ロバート・プラチェット氏に関する情報、および情報提供者としての可能性について。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
+  "date": "1962-08-31",
+  "origin_agency": "New York Office",
+  "sender": "Chief, New York Office",
+  "recipient": "Chief, Contact Division",
+  "persons_mentioned": [
+    "Robert Prachett",
+    "John F. Kennedy",
+    "DJ. Connor",
+    "JAY B. B. L. REEVES"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "New York",
+    "New Providence, New Jersey"
+  ],
   "tags": [
     "Robert Prachett",
     "Alpha-66",
@@ -14,22 +33,5 @@
     "Havana",
     "BINY 45002",
     "SECK"
-  ],
-  "title": "Robert Prachett/ Cuban Counterrevolutionary Group, Alpha-66",
-  "date": "1962-08-31",
-  "locations_mentioned": [
-    "Cuba",
-    "Havana",
-    "New York",
-    "New Providence, New Jersey"
-  ],
-  "origin_agency": "New York Office",
-  "persons_mentioned": [
-    "Robert Prachett",
-    "John F. Kennedy",
-    "DJ. Connor",
-    "JAY B. B. L. REEVES"
-  ],
-  "recipient": "Chief, Contact Division",
-  "sender": "Chief, New York Office"
+  ]
 }

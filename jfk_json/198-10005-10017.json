@@ -1,19 +1,21 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "Secret",
-  "summary": "This document is a Cuba Project Progress Report from April 10, 1962, detailing operational activities, CAC information reports, and Cuban refugee interrogations.",
-  "tags": [
-    "Anti-Castro Cubans",
-    "MRR Group",
-    "Clandestine Resistance",
-    "Refugee Interrogation",
-    "Soviet Military Equipment",
-    "Trade",
-    "Propaganda"
-  ],
   "title": "CUBA PROJECT PROGRESS REPORT",
+  "title_ja": "キューバ・プロジェクト進捗状況報告書",
+  "summary": "This document is a Cuba Project Progress Report from April 10, 1962, detailing operational activities, CAC information reports, and Cuban refugee interrogations.",
+  "summary_ja": "この文書は、1962年4月10日付のキューバ・プロジェクト進捗報告書であり、活動内容、中央軍情報報告書、キューバ難民の尋問について詳細に述べている。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1962-04-10",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Amando Hart",
+    "Huber Matos",
+    "Eva Matos"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Havana",
@@ -25,13 +27,13 @@
     "Germany",
     "South America"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Fidel Castro",
-    "Amando Hart",
-    "Huber Matos",
-    "Eva Matos"
-  ],
-  "recipient": "N/A",
-  "sender": "CIA"
+  "tags": [
+    "Anti-Castro Cubans",
+    "MRR Group",
+    "Clandestine Resistance",
+    "Refugee Interrogation",
+    "Soviet Military Equipment",
+    "Trade",
+    "Propaganda"
+  ]
 }

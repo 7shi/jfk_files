@@ -1,30 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable reports on a widespread purge underway in Cuba of military officers, government officials, and Communist Party leaders. It also discusses the trial of Cubans for plotting to overthrow Fidel Castro and the resulting student reactions. The document analyzes the underlying causes of the purges and suggests potential PSYCH EXPLOITATION in media.",
-  "tags": [
-    "purge",
-    "military officers",
-    "government officials",
-    "Communist Party",
-    "Fidel Castro",
-    "trial",
-    "student reactions",
-    "economy",
-    "PSYCH EXPLOITATION"
-  ],
   "title": "Report on Purge in Cuba",
+  "title_ja": "キューバにおける粛清に関する報告",
+  "summary": "This cable reports on a widespread purge underway in Cuba of military officers, government officials, and Communist Party leaders. It also discusses the trial of Cubans for plotting to overthrow Fidel Castro and the resulting student reactions. The document analyzes the underlying causes of the purges and suggests potential PSYCH EXPLOITATION in media.",
+  "summary_ja": "この電報は、キューバで進行中の軍人、政府高官、共産党指導者に対する大規模な粛清について報告している。また、フィデル・カストロの打倒を企てたとして起訴されたキューバ人の裁判と、それを受けた学生たちの反応についても論じている。この文書は、粛清の根本的な原因を分析し、メディアにおける潜在的な心理的搾取を示唆している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1966-03-18",
-  "locations_mentioned": [
-    "Havana",
-    "Cuba",
-    "U.S.",
-    "China",
-    "Yugoslavia",
-    "Indonesia"
-  ],
   "origin_agency": "DIRECTOR",
+  "sender": "DIRECTOR",
+  "recipient": "TO",
   "persons_mentioned": [
     "Fidel Castro",
     "Efigenio Ameijeiras",
@@ -36,6 +21,23 @@
     "NKRUMAH",
     "SUKARNO"
   ],
-  "recipient": "TO",
-  "sender": "DIRECTOR"
+  "locations_mentioned": [
+    "Havana",
+    "Cuba",
+    "U.S.",
+    "China",
+    "Yugoslavia",
+    "Indonesia"
+  ],
+  "tags": [
+    "purge",
+    "military officers",
+    "government officials",
+    "Communist Party",
+    "Fidel Castro",
+    "trial",
+    "student reactions",
+    "economy",
+    "PSYCH EXPLOITATION"
+  ]
 }

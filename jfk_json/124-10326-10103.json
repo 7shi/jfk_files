@@ -1,25 +1,15 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Memorandum regarding Bureau Informant 200, a procedure approved in 1954 to attribute information received from James Angleton, CIA, sourced from the Israeli Intelligence Service and other sources under Angleton's control. The information concerns the travel of U.S. citizens to Russia via Israel.",
-  "tags": [
-    "Bureau Informant 200",
-    "James Angleton",
-    "CIA",
-    "Israeli Intelligence Service",
-    "Travel to Russia",
-    "SAC Letter 54-27"
-  ],
   "title": "BUREAU INFORMANT 200",
+  "title_ja": "情報局の密告者 200",
+  "summary": "Memorandum regarding Bureau Informant 200, a procedure approved in 1954 to attribute information received from James Angleton, CIA, sourced from the Israeli Intelligence Service and other sources under Angleton's control. The information concerns the travel of U.S. citizens to Russia via Israel.",
+  "summary_ja": "局情報提供者200に関する覚書：1954年に承認された手続きで、CIAのジェームズ・アングルトンから得た情報をイスラエル諜報局およびアングルトンが管理するその他の情報源から得た情報であると認定するもの。情報は、イスラエル経由でロシアに渡航する米国市民に関するもの。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "SECRET",
   "date": "1965-03-17",
-  "locations_mentioned": [
-    "Russia",
-    "Israel",
-    "U. S.",
-    "various parts of the U. S"
-  ],
   "origin_agency": "FBI",
+  "sender": "Mr. D. J. Brennan, Jr",
+  "recipient": "Mr. W. C. Sullivan",
   "persons_mentioned": [
     "W. C. Sullivan",
     "D. J. Brennan, Jr",
@@ -47,6 +37,18 @@
     "Bland",
     "Papich"
   ],
-  "recipient": "Mr. W. C. Sullivan",
-  "sender": "Mr. D. J. Brennan, Jr"
+  "locations_mentioned": [
+    "Russia",
+    "Israel",
+    "U. S.",
+    "various parts of the U. S"
+  ],
+  "tags": [
+    "Bureau Informant 200",
+    "James Angleton",
+    "CIA",
+    "Israeli Intelligence Service",
+    "Travel to Russia",
+    "SAC Letter 54-27"
+  ]
 }

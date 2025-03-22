@@ -1,8 +1,17 @@
 {
-  "classification": "Personnel",
-  "document_type": "Regulation",
-  "security_level": "SECRET",
+  "title": "CIA Regulations on Relationships with Individuals",
+  "title_ja": "個人との関係に関するCIA規則",
   "summary": "This document outlines CIA regulations and definitions regarding its relationships with individuals, including agents, assets, sources, collaborators, and contract personnel. It details the criteria and approvals required for using individuals in various capacities, restrictions on operational use, and management policies for non-staff personnel.",
+  "summary_ja": "この文書は、エージェント、アセット（情報提供者）、情報源、協力者、契約職員など、個人との関係に関するCIAの規定と定義を概説している。さまざまな立場の個人を利用するために必要な基準と承認、業務上の利用に関する制限、非職員の管理方針について詳細に述べている。",
+  "document_type": "Regulation",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1978-03-09",
+  "origin_agency": "CIA",
+  "recipient": "HCSA",
+  "persons_mentioned": [
+    "Webster"
+  ],
   "tags": [
     "AGENT",
     "ASSET",
@@ -16,12 +25,5 @@
     "Covert Approvals",
     "Operational Use",
     "Restrictions"
-  ],
-  "title": "CIA Regulations on Relationships with Individuals",
-  "date": "1978-03-09",
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Webster"
-  ],
-  "recipient": "HCSA"
+  ]
 }

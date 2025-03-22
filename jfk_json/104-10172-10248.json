@@ -1,24 +1,15 @@
 {
-  "classification": "Soviet",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch discusses a meeting with WEYDE where AELADLE mentioned a KGB officer in Germany who shares his political views and should be left alone by Western intelligence. WEYDE believes the officer's name may be AKHLUYEV, but is not certain. The dispatch suggests querying AELADLE further to confirm the officer's identity.",
-  "tags": [
-    "KGB",
-    "AELADLE",
-    "WEYDE",
-    "AKHLUYEV",
-    "Counterintelligence",
-    "Germany"
-  ],
   "title": "REDCAP LUIMPROVE AELADLE",
+  "title_ja": "REDCAP LUIMPROVE AELADLE",
+  "summary": "This dispatch discusses a meeting with WEYDE where AELADLE mentioned a KGB officer in Germany who shares his political views and should be left alone by Western intelligence. WEYDE believes the officer's name may be AKHLUYEV, but is not certain. The dispatch suggests querying AELADLE further to confirm the officer's identity.",
+  "summary_ja": "この報告書では、AELADLEがWEYDEとの会合で、自身の政治的見解を共有するドイツのKGB諜報員について言及し、西側情報機関はそっとしておくべきだと述べたことについて議論している。ヴェイドは、その将校の名前は「アクルイェフ」ではないかと考えていたが、確信は持てなかった。この電報は、アエラドルにさらに問い合わせて、その将校の身元を確認するよう提案している。",
+  "document_type": "Dispatch",
+  "classification": "Soviet",
+  "security_level": "SECRET",
   "date": "1963-05-24",
-  "locations_mentioned": [
-    "Washington",
-    "Germany",
-    "West Germany"
-  ],
   "origin_agency": "CUS:G",
+  "sender": "CUS:G, SR, F08",
+  "recipient": "CHIEF OF BASE, BUNN",
   "persons_mentioned": [
     "WEYDE",
     "AELADLE",
@@ -26,6 +17,17 @@
     "AKHLUYEV",
     "LESTER S. REDNILES"
   ],
-  "recipient": "CHIEF OF BASE, BUNN",
-  "sender": "CUS:G, SR, F08"
+  "locations_mentioned": [
+    "Washington",
+    "Germany",
+    "West Germany"
+  ],
+  "tags": [
+    "KGB",
+    "AELADLE",
+    "WEYDE",
+    "AKHLUYEV",
+    "Counterintelligence",
+    "Germany"
+  ]
 }

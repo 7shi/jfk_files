@@ -1,28 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
-  "summary": "Report on Juan Rodriguez Jobolca's interview, detailing his involvement with the DRF and DRE, and information about Salvador Jomolca, a guerrilla leader in Las Villas Province.",
-  "tags": [
-    "DRF",
-    "DRE",
-    "Guerrilla",
-    "Political Assassination",
-    "Las Villas",
-    "Havana"
-  ],
   "title": "CITCUBA",
+  "title_ja": "CITCUBA",
+  "summary": "Report on Juan Rodriguez Jobolca's interview, detailing his involvement with the DRF and DRE, and information about Salvador Jomolca, a guerrilla leader in Las Villas Province.",
+  "summary_ja": "フアン・ロドリゲス・ジョボルカのインタビュー報告では、DRFとDREへの関与の詳細と、ラス・ヴィラス州のゲリラ指導者であるサルバドール・ジョボルカに関する情報を提供する。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-07-16",
-  "locations_mentioned": [
-    "Havana",
-    "Las Villas Province",
-    "Rancho Veloz",
-    "Maywood, Los Angeles, California",
-    "Playa Ciron",
-    "Matenzas",
-    "Corralillo"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief of Station, GYROSE/Operational",
+  "recipient": "PM, KUTUBE",
   "persons_mentioned": [
     "Juan Rodriguez Jobolca",
     "Jose Deetjen",
@@ -32,6 +19,21 @@
     "Campito",
     "Nelson L. RAYNOCK"
   ],
-  "recipient": "PM, KUTUBE",
-  "sender": "Chief of Station, GYROSE/Operational"
+  "locations_mentioned": [
+    "Havana",
+    "Las Villas Province",
+    "Rancho Veloz",
+    "Maywood, Los Angeles, California",
+    "Playa Ciron",
+    "Matenzas",
+    "Corralillo"
+  ],
+  "tags": [
+    "DRF",
+    "DRE",
+    "Guerrilla",
+    "Political Assassination",
+    "Las Villas",
+    "Havana"
+  ]
 }

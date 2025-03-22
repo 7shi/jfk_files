@@ -1,21 +1,28 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This dispatch details information provided by Francisco Luis Rodrigues Gonzales, a Cuban refugee, regarding resistance activity in Cuba. It includes details about the Revolutionary Student Directorate, sabotage activities, and a planned insurrection in the Sierra Maestra area. It also mentions the capture and imprisonment of group members, including two Americans from Guantanamo Naval Base.",
-  "tags": [
-    "Revolutionary Student Directorate",
-    "Resistance Activity",
-    "Sabotage",
-    "Insurrection",
-    "Sierra Maestra",
-    "Prisoners",
-    "G-2",
-    "Boniato Prison",
-    "Guantanamo Naval Base"
-  ],
   "title": "WEB/PBRUEN - Resistance Activity in Cuba",
+  "title_ja": "WEB/PBRUEN - キューバにおけるレジスタンス活動",
+  "summary": "This dispatch details information provided by Francisco Luis Rodrigues Gonzales, a Cuban refugee, regarding resistance activity in Cuba. It includes details about the Revolutionary Student Directorate, sabotage activities, and a planned insurrection in the Sierra Maestra area. It also mentions the capture and imprisonment of group members, including two Americans from Guantanamo Naval Base.",
+  "summary_ja": "この電報は、キューバ難民であるフランシスコ・ルイス・ロドリゲス・ゴンザレスが提供した、キューバにおける抵抗活動に関する詳細情報を伝えている。内容は、革命学生評議会、破壊活動、シエラ・マエストラ地域における計画蜂起の詳細などである。また、グアンタナモ米海軍基地の2人のアメリカ人を含むグループメンバーの逮捕と投獄についても言及している。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
   "date": "1962-08-31",
+  "origin_agency": "CIA",
+  "sender": "Chief, Task Force",
+  "recipient": "Acting Chief, WE; Chief of Station, Madrid",
+  "persons_mentioned": [
+    "Francisco Luis Rodrigues Gonzales",
+    "Diaz Lanz",
+    "Angel 06 Fontanills",
+    "Alberto Muller",
+    "Rolando Valdés D'Wolf",
+    "Eduardo Díaz Lanz",
+    "Jorge Cruz Peña",
+    "Castro",
+    "Aníbal Rodriguez",
+    "Hans",
+    "Helen Caporla"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Spain",
@@ -34,20 +41,15 @@
     "Pinar del Rio",
     "Wajay"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Francisco Luis Rodrigues Gonzales",
-    "Diaz Lanz",
-    "Angel 06 Fontanills",
-    "Alberto Muller",
-    "Rolando Valdés D'Wolf",
-    "Eduardo Díaz Lanz",
-    "Jorge Cruz Peña",
-    "Castro",
-    "Aníbal Rodriguez",
-    "Hans",
-    "Helen Caporla"
-  ],
-  "recipient": "Acting Chief, WE; Chief of Station, Madrid",
-  "sender": "Chief, Task Force"
+  "tags": [
+    "Revolutionary Student Directorate",
+    "Resistance Activity",
+    "Sabotage",
+    "Insurrection",
+    "Sierra Maestra",
+    "Prisoners",
+    "G-2",
+    "Boniato Prison",
+    "Guantanamo Naval Base"
+  ]
 }

@@ -1,8 +1,32 @@
 {
-  "classification": "Soviet",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Student Protests in Moscow over Alleged Killing of Ghanaian Student",
+  "title_ja": "ガーナ人学生殺害疑惑でモスクワで学生デモ",
   "summary": "Cable discusses the reaction to the alleged killing of a Ghanaian student in Moscow and suggests using the incident to highlight racist attitudes in the Soviet Union and to undermine Soviet influence in Africa.",
+  "summary_ja": "モスクワにおけるガーナ人学生殺害容疑に対する反応について議論し、この事件をソ連における人種差別的態度を浮き彫りにし、アフリカにおけるソ連の影響力を弱体化させるために利用することを提案する電報。",
+  "document_type": "Cable",
+  "classification": "Soviet",
+  "security_level": "SECRET",
+  "date": "1963-12-19",
+  "origin_agency": "Director",
+  "sender": "DIRECTOR",
+  "recipient": "DIR",
+  "persons_mentioned": [
+    "Kary Parrish",
+    "Asaro Addeo",
+    "Wayne Murphy",
+    "Harris",
+    "Willem Deurt",
+    "Joka Istill"
+  ],
+  "locations_mentioned": [
+    "Moscow",
+    "Ghana Embassy",
+    "Kremlin",
+    "Soviet Union",
+    "Kalinin",
+    "Africa",
+    "Congo"
+  ],
   "tags": [
     "African Students",
     "Ghana",
@@ -16,27 +40,5 @@
     "Congo",
     "Soviet Diplomats",
     "Economic Aid"
-  ],
-  "title": "Student Protests in Moscow over Alleged Killing of Ghanaian Student",
-  "date": "1963-12-19",
-  "locations_mentioned": [
-    "Moscow",
-    "Ghana Embassy",
-    "Kremlin",
-    "Soviet Union",
-    "Kalinin",
-    "Africa",
-    "Congo"
-  ],
-  "origin_agency": "Director",
-  "persons_mentioned": [
-    "Kary Parrish",
-    "Asaro Addeo",
-    "Wayne Murphy",
-    "Harris",
-    "Willem Deurt",
-    "Joka Istill"
-  ],
-  "recipient": "DIR",
-  "sender": "DIRECTOR"
+  ]
 }

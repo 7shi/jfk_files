@@ -1,8 +1,22 @@
 {
-  "classification": "Intelligence Report",
-  "document_type": "Telegram",
-  "security_level": "CONFIDENTIAL",
+  "title": "Vietnamese Communist Analysis of Effects",
+  "title_ja": "影響の分析",
   "summary": "This document is a Vietnamese Communist analysis of the effects of increased U.S. military aid to the Government of Vietnam, written in early May 1962 by a VC company commander in Ba Xuyen Province.",
+  "summary_ja": "この文書は、ベトナム政府に対する米国の軍事援助の増加の影響に関するベトナム共産党の分析であり、1962年5月初旬にバ・スエン省のベトナム共産党中隊司令官によって書かれたものである。",
+  "document_type": "Telegram",
+  "classification": "Intelligence Report",
+  "security_level": "CONFIDENTIAL",
+  "date": "1962-06-13",
+  "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "STATE, ARMY, NAVY, AIR, JCS, SECDEF, NSA, NIC, USIA, OCI, ONE, OCR, ORR, AID, DIA",
+  "persons_mentioned": [],
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon",
+    "Ba Xuyen Province"
+  ],
   "tags": [
     "Vietnamese Communist",
     "US Military Aid",
@@ -11,17 +25,5 @@
     "Revolutionary Party",
     "Land Expropriations",
     "Neutralist Solution"
-  ],
-  "title": "Vietnamese Communist Analysis of Effects",
-  "date": "1962-06-13",
-  "locations_mentioned": [
-    "South Vietnam",
-    "Vietnam",
-    "Saigon",
-    "Ba Xuyen Province"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [],
-  "recipient": "STATE, ARMY, NAVY, AIR, JCS, SECDEF, NSA, NIC, USIA, OCI, ONE, OCR, ORR, AID, DIA",
-  "sender": ""
+  ]
 }

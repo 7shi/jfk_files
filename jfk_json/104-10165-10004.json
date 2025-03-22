@@ -1,24 +1,28 @@
 {
-  "classification": "Operations",
-  "document_type": "Report",
-  "security_level": "UNCLASSIFIED",
-  "summary": "Report on Robin Moore and Blue Hole as a potential base of operations for activities related to Cuba, including personnel landing. Discusses Moore's background, site evaluation, and operational considerations. Mentions potential resources and contacts in Jamaica.",
-  "tags": [
-    "Robin Moore",
-    "Blue Hole",
-    "Jamaica",
-    "Cuba",
-    "Operations",
-    "Special Forces",
-    "Guerilla Warfare",
-    "Boat Landing",
-    "CIA",
-    "Kingston",
-    "Port Antonio",
-    "Teahouse of the Blue Lagoon"
-  ],
   "title": "Report on Robin Moore and Blue Hole as a Potential Base of Operations",
+  "title_ja": "活動拠点の可能性があるロビン・ムーアとブルーホールに関する報告書",
+  "summary": "Report on Robin Moore and Blue Hole as a potential base of operations for activities related to Cuba, including personnel landing. Discusses Moore's background, site evaluation, and operational considerations. Mentions potential resources and contacts in Jamaica.",
+  "summary_ja": "キューバ関連の活動の拠点として、人員上陸を含むブルーホールとロビン・ムーアに関する報告。ムーアの経歴、現地評価、活動に関する考察について言及。ジャマイカにおける潜在的なリソースと連絡先について言及。",
+  "document_type": "Report",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
   "date": "1964-06-20",
+  "origin_agency": "CIA",
+  "sender": "Jack Reed",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "Robin Moore",
+    "Antonio de la Carrera",
+    "Fred Barrett",
+    "George Munroe",
+    "Anthony Gason",
+    "George Eubanks",
+    "Mike Hedges",
+    "Burke Hedges",
+    "Jack Youngblood",
+    "Margot Palzer",
+    "Rita Palner"
+  ],
   "locations_mentioned": [
     "Miami",
     "Kingston",
@@ -40,20 +44,18 @@
     "Chile",
     "Turtle Cove"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
+  "tags": [
     "Robin Moore",
-    "Antonio de la Carrera",
-    "Fred Barrett",
-    "George Munroe",
-    "Anthony Gason",
-    "George Eubanks",
-    "Mike Hedges",
-    "Burke Hedges",
-    "Jack Youngblood",
-    "Margot Palzer",
-    "Rita Palner"
-  ],
-  "recipient": "CIA",
-  "sender": "Jack Reed"
+    "Blue Hole",
+    "Jamaica",
+    "Cuba",
+    "Operations",
+    "Special Forces",
+    "Guerilla Warfare",
+    "Boat Landing",
+    "CIA",
+    "Kingston",
+    "Port Antonio",
+    "Teahouse of the Blue Lagoon"
+  ]
 }

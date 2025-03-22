@@ -1,8 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "CIA Information Report, Telegram",
-  "security_level": "UNCLASSIFIED",
+  "title": "CIA INFORMATION REPORT: UNDIMINISHED PRESTIGE OF FIDEL CASTRO IN LATIN AMERICA",
+  "title_ja": "CIA情報報告書：ラテンアメリカにおけるフィデル・カストロの威信は衰えていない",
   "summary": "This document discusses the undiminished prestige of Fidel Castro in Latin America, the division of Latin American communist parties, and British comments on the Cuban crisis.",
+  "summary_ja": "この文書は、ラテンアメリカにおけるフィデル・カストロの依然として衰えない威信、ラテンアメリカ共産党の分裂、キューバ危機に関する英国のコメントについて論じている。",
+  "document_type": "CIA Information Report, Telegram",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
+  "date": "1963-01-04",
+  "origin_agency": "CIA",
+  "sender": "USA",
+  "recipient": "STATE, CINCLANT, CINCARIB",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "PFUNTNER, JORDAN J."
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Latin America",
+    "England",
+    "London",
+    "Venezuela"
+  ],
   "tags": [
     "Fidel Castro",
     "Latin America",
@@ -12,21 +30,5 @@
     "Cuban Exiles",
     "Directorio Revolucionario Estudiantil (DRE)",
     "ALPHA 66"
-  ],
-  "title": "CIA INFORMATION REPORT: UNDIMINISHED PRESTIGE OF FIDEL CASTRO IN LATIN AMERICA",
-  "date": "1963-01-04",
-  "locations_mentioned": [
-    "Cuba",
-    "Latin America",
-    "England",
-    "London",
-    "Venezuela"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Fidel Castro",
-    "PFUNTNER, JORDAN J."
-  ],
-  "recipient": "STATE, CINCLANT, CINCARIB",
-  "sender": "USA"
+  ]
 }

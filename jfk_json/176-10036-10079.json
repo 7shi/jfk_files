@@ -1,8 +1,24 @@
 {
-  "classification": "TELEGRAM",
-  "document_type": "TELEGRAM INFORMATION REPORT",
-  "security_level": "CONFIDENTIAL",
+  "title": "Possible severence of Cambodian",
+  "title_ja": "カンボジア・ベトナム共産党の分離の可能性",
   "summary": "This document discusses the possible severance of Cambodian-South Vietnamese diplomatic relations.",
+  "summary_ja": "この文書は、カンボジアと南ベトナムの外交関係の断絶の可能性について論じている。",
+  "document_type": "TELEGRAM INFORMATION REPORT",
+  "classification": "TELEGRAM",
+  "security_level": "CONFIDENTIAL",
+  "date": "1962-09-17",
+  "origin_agency": "CIA",
+  "sender": "CENTRAL INTELLIGENCE AGENG",
+  "recipient": "STATE ARMY NAVY AIR USMACV MAAG USOM CINCPAC PACFLT ARPAC PACAF 9TH FIELD STATION",
+  "persons_mentioned": [
+    "LE VAN DONG"
+  ],
+  "locations_mentioned": [
+    "SOUTH VIETNAM",
+    "CAMBODIA",
+    "VIETNAM",
+    "SAIGON"
+  ],
   "tags": [
     "diplomatic relations",
     "Cambodia",
@@ -12,19 +28,5 @@
     "Royal Cambodian Government",
     "RKG",
     "cabinet meeting"
-  ],
-  "title": "Possible severence of Cambodian",
-  "date": "1962-09-17",
-  "locations_mentioned": [
-    "SOUTH VIETNAM",
-    "CAMBODIA",
-    "VIETNAM",
-    "SAIGON"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "LE VAN DONG"
-  ],
-  "recipient": "STATE ARMY NAVY AIR USMACV MAAG USOM CINCPAC PACFLT ARPAC PACAF 9TH FIELD STATION",
-  "sender": "CENTRAL INTELLIGENCE AGENG"
+  ]
 }

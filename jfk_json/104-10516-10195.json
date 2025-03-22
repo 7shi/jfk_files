@@ -1,8 +1,24 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Cable Regarding VASLOUCH-2 and Doctor's Bag",
+  "title_ja": "VASLOUCH-2 と医師の鞄に関する電報",
   "summary": "This cable details a situation involving VASLOUCH-2 and a doctor's bag being transported through Mexico. There are difficulties with customs, concerns about the contents of the bag, and the involvement of the local embassy to obtain free entry. The station will not have access to the doctor's bag until VASLOUCH-1 arrives to recover it. The cable also mentions concerns about potential security risks and the tardiness of VASLOUCH-2's arrival.",
+  "summary_ja": "この電報は、VASLOUCH-2と医師の鞄がメキシコを通過する状況について詳細に述べている。税関での問題、鞄の中身に関する懸念、無償通過許可を得るための現地大使館の関与などがある。VASLOUCH-1が到着して鞄を回収するまで、ステーションは医師の鞄にアクセスできない。この電報は、潜在的なセキュリティリスクとVASLOUCH-2の到着の遅延に関する懸念についても言及している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-12-13",
+  "origin_agency": "MEXICO C!",
+  "sender": "MEXICO C!",
+  "recipient": "JAVE",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "VASLOUCH-2",
+    "VASLOUCH-1"
+  ],
+  "locations_mentioned": [
+    "Mexico",
+    "Airport"
+  ],
   "tags": [
     "Customs",
     "VASLOUCH",
@@ -11,19 +27,5 @@
     "Embassy",
     "Security Risk",
     "MEXI"
-  ],
-  "title": "Cable Regarding VASLOUCH-2 and Doctor's Bag",
-  "date": "1963-12-13",
-  "locations_mentioned": [
-    "Mexico",
-    "Airport"
-  ],
-  "origin_agency": "MEXICO C!",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "VASLOUCH-2",
-    "VASLOUCH-1"
-  ],
-  "recipient": "JAVE",
-  "sender": "MEXICO C!"
+  ]
 }

@@ -1,8 +1,24 @@
 {
-  "classification": "Cuba",
-  "document_type": "REPORT",
-  "security_level": "SECRET",
+  "title": "CUBAN GOVERNMENT POLICY TOWARDS PRESIDENT JOHNSON'S ADMINISTRATION",
+  "title_ja": "ジョンソン大統領政権に対するキューバ政府の政策",
   "summary": "This document discusses the Cuban government's policy towards President Johnson's administration following President Kennedy's assassination. Fidel Castro was reportedly upset by the change in the U.S. administration and the Cuban government decided not to attack President Johnson publicly, waiting to see his stance on Cuba.",
+  "summary_ja": "この文書は、ケネディ大統領暗殺後のジョンソン大統領政権に対するキューバ政府の政策について論じている。フィデル・カストロは米国政権の交代に動揺したと伝えられ、キューバ政府はジョンソン大統領を公に攻撃せず、同大統領のキューバに対する姿勢を見極めることにした。",
+  "document_type": "REPORT",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-12-18",
+  "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "STATE/INR DIA ARMY/ACS1 NAVY AIR JCS SECDEF NSA NIC XXXXX OCI ONE OCR ORR EXO STATE/DIR REPCINCLANT I&NS TREASURY...",
+  "persons_mentioned": [
+    "FIDEL CASTRO",
+    "JOHNSON",
+    "KENNEDY"
+  ],
+  "locations_mentioned": [
+    "CUBA",
+    "WESTERN EUROPE"
+  ],
   "tags": [
     "Cuban Government",
     "Fidel Castro",
@@ -13,19 +29,5 @@
     "Diplomacy",
     "TDCSDB-3/658",
     "TDCSDB-3/658, 582"
-  ],
-  "title": "CUBAN GOVERNMENT POLICY TOWARDS PRESIDENT JOHNSON'S ADMINISTRATION",
-  "date": "1963-12-18",
-  "locations_mentioned": [
-    "CUBA",
-    "WESTERN EUROPE"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "FIDEL CASTRO",
-    "JOHNSON",
-    "KENNEDY"
-  ],
-  "recipient": "STATE/INR DIA ARMY/ACS1 NAVY AIR JCS SECDEF NSA NIC XXXXX OCI ONE OCR ORR EXO STATE/DIR REPCINCLANT I&NS TREASURY...",
-  "sender": ""
+  ]
 }

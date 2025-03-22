@@ -1,22 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Information Report",
-  "security_level": "CONFIDENTIAL",
-  "summary": "Report discussing Castro agents in the US attempting to determine military training camp locations and operations. Includes names of suspected individuals such as Mowerco Nunez and Angel Banos.",
-  "tags": [
-    "Castro agents",
-    "military training camps",
-    "Mowerco Nunez",
-    "Angel Banos",
-    "Cuban national",
-    "Carlos Prio Socarras"
-  ],
   "title": "Information Report on Castro Agents in the US",
+  "title_ja": "米国におけるカストロのエージェントに関する情報報告書",
+  "summary": "Report discussing Castro agents in the US attempting to determine military training camp locations and operations. Includes names of suspected individuals such as Mowerco Nunez and Angel Banos.",
+  "summary_ja": "米国におけるカストロのエージェントが、軍事訓練キャンプの場所と作戦を特定しようとしているという報告。Mowerco NunezやAngel Banosといった容疑者の名前が記載されている。",
+  "document_type": "Information Report",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
   "date": "1961-06-01",
-  "locations_mentioned": [
-    "US"
-  ],
   "origin_agency": "Army",
+  "sender": "Army representative assigned to the office of preparation",
+  "recipient": "STATE, ARMY, NAVY, AIR, FBI",
   "persons_mentioned": [
     "Fidel Castro",
     "Carlos Prio Socarras",
@@ -25,6 +18,15 @@
     "Gutierrez Menoyor Jesus Dieguez",
     "Eva Gutiérrez"
   ],
-  "recipient": "STATE, ARMY, NAVY, AIR, FBI",
-  "sender": "Army representative assigned to the office of preparation"
+  "locations_mentioned": [
+    "US"
+  ],
+  "tags": [
+    "Castro agents",
+    "military training camps",
+    "Mowerco Nunez",
+    "Angel Banos",
+    "Cuban national",
+    "Carlos Prio Socarras"
+  ]
 }

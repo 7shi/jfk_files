@@ -1,8 +1,30 @@
 {
-  "classification": "Operations",
-  "document_type": "Contact Report",
-  "security_level": "Secret",
+  "title": "CONTACT REPORT #11",
+  "title_ja": "連絡報告書 #11",
   "summary": "Report on a meeting held on January 25, 1963, concerning Kulpa's trip to the Congo, instructions to Meinturff, Serge Michel's agreement to use K.K.'s photos for a new trique Revolutionaire (I), and contact from Gibson regarding Dave Watts' request for photos. Also includes accounting matters and the schedule for the next meeting.",
+  "summary_ja": "1963年1月25日に開かれた会議の報告書。クルパのコンゴへの旅、マイントルフへの指示、セルジュ・ミシェルが革命（I）の新しいトリックにK.K.の写真を使用することへの同意、デイブ・ワッツが写真の提供を求めたことに関するギブソンからの連絡。会計事項と次の会議のスケジュールも記載されている。",
+  "document_type": "Contact Report",
+  "classification": "Operations",
+  "security_level": "Secret",
+  "date": "1963-01-25",
+  "origin_agency": "Unknown",
+  "sender": "Tulpa",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Kulpa",
+    "Tipteft",
+    "Lavton",
+    "Meinturff",
+    "Holden",
+    "Serge Michel",
+    "Gibson",
+    "Dave Watts",
+    "K.K"
+  ],
+  "locations_mentioned": [
+    "Congo",
+    "New York City"
+  ],
   "tags": [
     "Congo",
     "Meinturff",
@@ -17,25 +39,5 @@
     "Holden",
     "K.K.",
     "New York City"
-  ],
-  "title": "CONTACT REPORT #11",
-  "date": "1963-01-25",
-  "locations_mentioned": [
-    "Congo",
-    "New York City"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "Kulpa",
-    "Tipteft",
-    "Lavton",
-    "Meinturff",
-    "Holden",
-    "Serge Michel",
-    "Gibson",
-    "Dave Watts",
-    "K.K"
-  ],
-  "recipient": "Unknown",
-  "sender": "Tulpa"
+  ]
 }

@@ -1,25 +1,27 @@
 {
-  "classification": "Cuba",
-  "document_type": "Daily Summary",
-  "security_level": "TOP SECRET",
-  "summary": "Daily summary of intelligence related to Cuba, including military developments, international relations, internal situation, economic development, insurgency, foreign service, air flight connections, shipping support, relations with China and other blocs, and support of external subversive activities.",
-  "tags": [
-    "Military",
-    "International Relations",
-    "Internal Situation",
-    "Economic Development",
-    "Insurgency",
-    "Foreign Service",
-    "Air Flight Connections",
-    "Shipping",
-    "China",
-    "Bloc Relations",
-    "Subversion",
-    "OAS",
-    "Venezuela"
-  ],
   "title": "Daily Summary - 6 December 1963",
+  "title_ja": "日次要約 - 1963年12月6日",
+  "summary": "Daily summary of intelligence related to Cuba, including military developments, international relations, internal situation, economic development, insurgency, foreign service, air flight connections, shipping support, relations with China and other blocs, and support of external subversive activities.",
+  "summary_ja": "キューバに関連する情報に関する日々の要約。軍事動向、国際関係、国内情勢、経済発展、反乱、外交、航空便の接続、船舶支援、中国およびその他のブロックとの関係、外部破壊活動の支援を含む。",
+  "document_type": "Daily Summary",
+  "classification": "Cuba",
+  "security_level": "TOP SECRET",
   "date": "1963-12-06",
+  "origin_agency": "Central Intelligence Agency",
+  "sender": "Office of Current Intelligence",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Fidel Castro",
+    "Carlos Rafael Rodriguez",
+    "Dolores Ibarruri",
+    "Wang Yu-ping",
+    "Serafim Nikichev",
+    "Frank Emmick",
+    "Robert Gerardo Sanchez",
+    "Pedro Duno",
+    "Walter Kring"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Moscow",
@@ -51,19 +53,19 @@
     "Puerto Plata",
     "Central America"
   ],
-  "origin_agency": "Central Intelligence Agency",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Fidel Castro",
-    "Carlos Rafael Rodriguez",
-    "Dolores Ibarruri",
-    "Wang Yu-ping",
-    "Serafim Nikichev",
-    "Frank Emmick",
-    "Robert Gerardo Sanchez",
-    "Pedro Duno",
-    "Walter Kring"
-  ],
-  "recipient": "N/A",
-  "sender": "Office of Current Intelligence"
+  "tags": [
+    "Military",
+    "International Relations",
+    "Internal Situation",
+    "Economic Development",
+    "Insurgency",
+    "Foreign Service",
+    "Air Flight Connections",
+    "Shipping",
+    "China",
+    "Bloc Relations",
+    "Subversion",
+    "OAS",
+    "Venezuela"
+  ]
 }

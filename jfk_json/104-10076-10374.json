@@ -1,24 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable discusses individuals and operations related to ANYUM in Cuba, including potential cut-outs for intelligence operations. Mentions individuals like MARIA TERESA (SACRE) ABIRAFHED, CARLOS (CUPANCA) GARCIA, DR FRANCISCO (RENE DE LA MUERTA) AQUIAR, and DR MARIO ENRIQUE (YAPTIVEZ) DELGADO.",
-  "tags": [
-    "ANYUM",
-    "CUERTLER",
-    "SWMSG",
-    "Cutout",
-    "Intelligence Operations"
-  ],
   "title": "ZAVE 9926 RYSST TYPIC YOBITE AMWORLD",
+  "title_ja": "ZAVE 9926 RYSST TYPIC YOBITE AMWORLD",
+  "summary": "Cable discusses individuals and operations related to ANYUM in Cuba, including potential cut-outs for intelligence operations. Mentions individuals like MARIA TERESA (SACRE) ABIRAFHED, CARLOS (CUPANCA) GARCIA, DR FRANCISCO (RENE DE LA MUERTA) AQUIAR, and DR MARIO ENRIQUE (YAPTIVEZ) DELGADO.",
+  "summary_ja": "電報は、キューバにおけるANYUMに関連する個人および活動について述べている。これには、諜報活動における潜在的な協力者も含まれる。MARIA TERESA (SACRE) ABIRAFHED、CARLOS (CUPANCA) GARCIA、DR FRANCISCO (RENE DE LA MUERTA) AQUIAR、DR MARIO ENRIQUE (YAPTIVEZ) DELGADOといった個人について言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-08-06",
-  "locations_mentioned": [
-    "Cuba",
-    "HAVA",
-    "SANTO DOMINGO",
-    "LAS VILLAS PROVINCE"
-  ],
   "origin_agency": "JMWAVE",
+  "sender": "JMWAVE",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "MARIA TERESA (SACRE) ABIRAFHED",
     "CARLOS (CUPANCA) GARCIA",
@@ -28,6 +19,17 @@
     "CUERTLER",
     "CUANT UM/51"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "JMWAVE"
+  "locations_mentioned": [
+    "Cuba",
+    "HAVA",
+    "SANTO DOMINGO",
+    "LAS VILLAS PROVINCE"
+  ],
+  "tags": [
+    "ANYUM",
+    "CUERTLER",
+    "SWMSG",
+    "Cutout",
+    "Intelligence Operations"
+  ]
 }

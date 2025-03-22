@@ -1,28 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "Background Use Only",
-  "summary": "This dispatch discusses the debriefing of an individual (Subject) removed from CAC. The debriefing focused on his relationship with Cuba and other security organizations. The subject claimed no relationship with Cuban C-2 but admitted knowing Ramiro VALOI. He was granted asylum in Uruguay in 1962. The subject also admitted to criminal activities in Los Angeles and involvement in an attempt to take items out of the country in April 1961.",
-  "tags": [
-    "debriefing",
-    "asylum",
-    "C-2",
-    "criminal activities",
-    "Los Angeles",
-    "Uruguay",
-    "Communism"
-  ],
   "title": "DISPATCH Chile",
+  "title_ja": "DISPATCHチリ",
+  "summary": "This dispatch discusses the debriefing of an individual (Subject) removed from CAC. The debriefing focused on his relationship with Cuba and other security organizations. The subject claimed no relationship with Cuban C-2 but admitted knowing Ramiro VALOI. He was granted asylum in Uruguay in 1962. The subject also admitted to criminal activities in Los Angeles and involvement in an attempt to take items out of the country in April 1961.",
+  "summary_ja": "この報告書では、CACから引き離された人物（対象者）の報告内容について述べている。報告内容は、彼とキューバおよび他の安全保障組織との関係に焦点を当てたものだった。対象者はキューバのC-2との関係を否定したが、ラミロ・バロイとの面識は認めた。彼は1962年にウルグアイに亡命した。また、対象者はロサンゼルスでの犯罪行為と、1961年4月に国外へ物品を持ち出そうとした容疑についても認めた。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "Background Use Only",
   "date": "1962-09",
-  "locations_mentioned": [
-    "Chile",
-    "Cuba",
-    "Uruguay",
-    "Los Angeles",
-    "California",
-    "Habana"
-  ],
   "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "Chief of Systems, YROSE/AUDESK",
   "persons_mentioned": [
     "John F. Kennedy",
     "Ramiro VALOI",
@@ -35,6 +22,21 @@
     "Domingo",
     "General Genoveva Chavez"
   ],
-  "recipient": "Chief of Systems, YROSE/AUDESK",
-  "sender": ""
+  "locations_mentioned": [
+    "Chile",
+    "Cuba",
+    "Uruguay",
+    "Los Angeles",
+    "California",
+    "Habana"
+  ],
+  "tags": [
+    "debriefing",
+    "asylum",
+    "C-2",
+    "criminal activities",
+    "Los Angeles",
+    "Uruguay",
+    "Communism"
+  ]
 }

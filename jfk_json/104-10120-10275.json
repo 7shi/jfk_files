@@ -1,8 +1,20 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Establishment of Official Cover Backstop for Calvin W. HICKS",
+  "title_ja": "カルヴィン・W・ヒックスの公式カバーバックストップの確立",
   "summary": "This memo details the establishment of official cover backstopping for Calvin W. Hicks, utilizing the U.S. Army Staff Group. It outlines procedures for notification when the cover is no longer needed, coordination for changes in Hicks' status, and handling of his Unit ID card.",
+  "summary_ja": "このメモは、米陸軍スタッフグループを活用して、カルヴィン・W・ヒックスの公式な偽装工作を裏付けるための詳細を述べている。偽装工作が不要になった場合の通知手続き、ヒックスのステータス変更の調整、および彼の部隊IDカードの取り扱いについて概説している。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1960-09-29",
+  "sender": "Joseph M. Adams, Chief, Official Cover & Liaison, CCD Branch, CCG",
+  "recipient": "Chief, NE",
+  "persons_mentioned": [
+    "Calvin W. Hicks",
+    "Gardner",
+    "Paul P. Stewart",
+    "Joseph M. Adams"
+  ],
   "tags": [
     "Official Cover",
     "Backstopping",
@@ -10,15 +22,5 @@
     "U.S. Army Staff Group",
     "Unit ID Card",
     "Personnel Security"
-  ],
-  "title": "Establishment of Official Cover Backstop for Calvin W. HICKS",
-  "date": "1960-09-29",
-  "persons_mentioned": [
-    "Calvin W. Hicks",
-    "Gardner",
-    "Paul P. Stewart",
-    "Joseph M. Adams"
-  ],
-  "recipient": "Chief, NE",
-  "sender": "Joseph M. Adams, Chief, Official Cover & Liaison, CCD Branch, CCG"
+  ]
 }

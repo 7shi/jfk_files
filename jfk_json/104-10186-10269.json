@@ -1,17 +1,20 @@
 {
-  "classification": "Cuba",
-  "document_type": "Information Report",
-  "security_level": "SECRET",
-  "summary": "Report on Julian NOVAS Fernandez, identified as a Cuban Intelligence Officer, including details of his assignment to the Cuban Consulate in Kingston, Jamaica, as Commercial Attache, his background, and his wife's arrival in Kingston.",
-  "tags": [
-    "Cuban Intelligence",
-    "Commercial Attache",
-    "Jamaica",
-    "Kingston",
-    "Diplomatic Passport"
-  ],
   "title": "Julian NOVAS Fernandez",
+  "title_ja": "ジュリアン・ノバス・フェルナンデス",
+  "summary": "Report on Julian NOVAS Fernandez, identified as a Cuban Intelligence Officer, including details of his assignment to the Cuban Consulate in Kingston, Jamaica, as Commercial Attache, his background, and his wife's arrival in Kingston.",
+  "summary_ja": "キューバ情報局員と特定されたジュリアン・ノバス・フェルナンデスに関する報告書。ジャマイカのキングストンにあるキューバ領事館への商務官としての赴任の詳細、経歴、および彼の妻のキングストン到着を含む。",
+  "document_type": "Information Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1964-08-27",
+  "origin_agency": "Central Intelligence Agency",
+  "sender": "CSCI",
+  "recipient": "DIA, ARMY, NAVY, AIR, NSA, OCR, FBI, I&NS, CINCLANT, CINCSO",
+  "persons_mentioned": [
+    "Julian NOVAS Fernandez",
+    "Amarilis Marta VALDES Hijuelos",
+    "Gerardo SANCHEZ Robert"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Mexico City",
@@ -19,12 +22,11 @@
     "Habana, Cuba",
     "Jiquani, Oriente, Cuba"
   ],
-  "origin_agency": "Central Intelligence Agency",
-  "persons_mentioned": [
-    "Julian NOVAS Fernandez",
-    "Amarilis Marta VALDES Hijuelos",
-    "Gerardo SANCHEZ Robert"
-  ],
-  "recipient": "DIA, ARMY, NAVY, AIR, NSA, OCR, FBI, I&NS, CINCLANT, CINCSO",
-  "sender": "CSCI"
+  "tags": [
+    "Cuban Intelligence",
+    "Commercial Attache",
+    "Jamaica",
+    "Kingston",
+    "Diplomatic Passport"
+  ]
 }

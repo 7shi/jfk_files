@@ -1,8 +1,18 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "Serasoft, Bares Dimitri # 104027",
+  "title_ja": "Serasoft、Bares Dimitri # 104027",
   "summary": "Memo regarding Jarima WE, Dr. and his processing. Advised that a review of the subject's file indicated no reason why subject should not be processed. But because of the subject's background, the final decision would be made Topside.",
+  "summary_ja": "ジャリマ・WE博士とその処理に関するメモ。対象者のファイルを再調査した結果、対象者を処理すべきでない理由はないことが示された。しかし、対象者の経歴を考慮し、最終決定はトップサイドで行われる。",
+  "document_type": "Memo",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
+  "date": "2025-01-01",
+  "sender": "Unknown",
+  "recipient": "Topside",
+  "persons_mentioned": [
+    "Jarima WE",
+    "Bares Dimitri"
+  ],
   "tags": [
     "Background Check",
     "Processing",
@@ -10,13 +20,5 @@
     "Bares Dimitri",
     "Jarima WE",
     "Narimany"
-  ],
-  "title": "Serasoft, Bares Dimitri # 104027",
-  "date": "2025-01-01",
-  "persons_mentioned": [
-    "Jarima WE",
-    "Bares Dimitri"
-  ],
-  "recipient": "Topside",
-  "sender": "Unknown"
+  ]
 }

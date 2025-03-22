@@ -1,8 +1,24 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Identities of Donald Emerson and Raul Avila",
+  "title_ja": "ドナルド・エマーソンとラウル・アヴィラの身元",
   "summary": "Cable discusses identities of Donald Emerson and Raul Avila, both secretaries in COSSC and COSEC respectively. Mentions HERPITONE.",
+  "summary_ja": "ドナルド・エマーソンとラウル・アヴィラの正体について議論する。両者はそれぞれCOSSCとCOSECの書記官である。HERPITONEについて言及する。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-12-05",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "PARIS/LOFTMEXICO CITY",
+  "persons_mentioned": [
+    "Manuel Ar",
+    "Donald Emerson",
+    "Raul Avila"
+  ],
+  "locations_mentioned": [
+    "PARIS",
+    "MEXICO CITY"
+  ],
   "tags": [
     "COSSC",
     "COSEC",
@@ -10,19 +26,5 @@
     "HERPITONE",
     "Donald Emerson",
     "Raul Avila"
-  ],
-  "title": "Identities of Donald Emerson and Raul Avila",
-  "date": "1963-12-05",
-  "locations_mentioned": [
-    "PARIS",
-    "MEXICO CITY"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Manuel Ar",
-    "Donald Emerson",
-    "Raul Avila"
-  ],
-  "recipient": "PARIS/LOFTMEXICO CITY",
-  "sender": "DIRECTOR"
+  ]
 }

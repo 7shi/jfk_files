@@ -1,8 +1,20 @@
 {
-  "classification": "Liaison",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "IS AMUG-1 DEBRIEFING (SPANISH VERSION) FORWARDED",
+  "title_ja": "AMUG-1の報告（スペイン語版）を転送した",
   "summary": "Cable regarding IS AMUG-1 debriefing and forwarding of Spanish version, requesting guidance on passing a copy to COL ARRIAGA and sending an additional copy for station retention.",
+  "summary_ja": "IS AMUG-1の報告とスペイン語版の転送に関する電報、COL ARRIAGAへのコピーの渡し方についての指示を求め、局の保管用に追加のコピーを送るよう要請している。",
+  "document_type": "Cable",
+  "classification": "Liaison",
+  "security_level": "SECRET",
+  "date": "1966-05-25",
+  "origin_agency": "CIA",
+  "sender": "ANPI/APOTHALP",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "COL ARRIAGA"
+  ],
+  "locations_mentioned": [],
   "tags": [
     "AMUG-1",
     "debriefing",
@@ -10,15 +22,5 @@
     "liaison",
     "COL ARRIAGA",
     "station retention"
-  ],
-  "title": "IS AMUG-1 DEBRIEFING (SPANISH VERSION) FORWARDED",
-  "date": "1966-05-25",
-  "locations_mentioned": [],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "COL ARRIAGA"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "ANPI/APOTHALP"
+  ]
 }

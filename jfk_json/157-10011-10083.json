@@ -1,35 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Transcript",
-  "security_level": "SECRET",
-  "summary": "This is a deposition/transcript of William C. Sturbitts. He discusses Cuban operations, Miami Station, and Task Force W. He also discusses possible assassination attempts against Fidel Castro.",
-  "tags": [
-    "SSCIA",
-    "William C. Sturbitts",
-    "Cuban Operations",
-    "Miami Station",
-    "Task Force W",
-    "Assassination attempts",
-    "Fidel Castro",
-    "Nestor Sanchez",
-    "Frank Sturgis",
-    "Eugenio Martinez",
-    "paramilitary activities"
-  ],
   "title": "DESPOSITION/TRANSCRIPT OF STURBITTS, WILLIAM C.",
+  "title_ja": "ストゥービット、ウィリアム C. の供述調書/記録",
+  "summary": "This is a deposition/transcript of William C. Sturbitts. He discusses Cuban operations, Miami Station, and Task Force W. He also discusses possible assassination attempts against Fidel Castro.",
+  "summary_ja": "これは、ウィリアム・C・スタービッツの宣誓証言/記録である。彼は、キューバでの作戦、マイアミ・ステーション、タスクフォースWについて述べている。また、フィデル・カストロに対する暗殺未遂の可能性についても言及している。",
+  "document_type": "Transcript",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "04/16/75",
-  "locations_mentioned": [
-    "Langley, Virginia",
-    "Washington, D.C.",
-    "FAIRFAX, VIRGINIA",
-    "Europe",
-    "Miami",
-    "Cuba",
-    "Rome",
-    "Coral Gables",
-    "Paris"
-  ],
   "origin_agency": "SSCIA",
+  "sender": "ROCKEFELLER COMMISSION",
+  "recipient": "N/A",
   "persons_mentioned": [
     "John F. Kennedy",
     "John Dimmer",
@@ -47,6 +27,28 @@
     "Eugenio Martinez",
     "Fidel Castro"
   ],
-  "recipient": "N/A",
-  "sender": "ROCKEFELLER COMMISSION"
+  "locations_mentioned": [
+    "Langley, Virginia",
+    "Washington, D.C.",
+    "FAIRFAX, VIRGINIA",
+    "Europe",
+    "Miami",
+    "Cuba",
+    "Rome",
+    "Coral Gables",
+    "Paris"
+  ],
+  "tags": [
+    "SSCIA",
+    "William C. Sturbitts",
+    "Cuban Operations",
+    "Miami Station",
+    "Task Force W",
+    "Assassination attempts",
+    "Fidel Castro",
+    "Nestor Sanchez",
+    "Frank Sturgis",
+    "Eugenio Martinez",
+    "paramilitary activities"
+  ]
 }

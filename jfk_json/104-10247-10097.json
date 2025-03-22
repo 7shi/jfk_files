@@ -1,38 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Memorandum detailing a meeting with AMLASH-1 in Paris from January 31 to February 3, 1965, discussing security implications related to Modesto Orlando Orozco Basulto's infiltration into Cuba, updates on AMLASH-1's activities, and information gathering on Cuban officials and political developments.",
-  "tags": [
-    "AMLASH-1",
-    "ANTRUNK-10",
-    "Orozco",
-    "Cuba",
-    "Security",
-    "Intelligence",
-    "FEU elections",
-    "Locomotive Sabotage",
-    "Cuban Officials"
-  ],
   "title": "Meeting with AMLASH-1 in Paris, 31 January to 3 February 1965",
+  "title_ja": "1965年1月31日～2月3日、パリにおけるAMLASH-1との会議",
+  "summary": "Memorandum detailing a meeting with AMLASH-1 in Paris from January 31 to February 3, 1965, discussing security implications related to Modesto Orlando Orozco Basulto's infiltration into Cuba, updates on AMLASH-1's activities, and information gathering on Cuban officials and political developments.",
+  "summary_ja": "1965年1月31日から2月3日にかけてパリで行われたAMLASH-1との会合の詳細を記した覚書。モデスト・オルランド・オロスコ・バスルトのキューバへの潜入に関連する安全保障上の影響、AMLASH-1の活動に関する最新情報、キューバの政府高官および政治情勢に関する情報収集について議論されている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1965-02-15",
-  "locations_mentioned": [
-    "Rome",
-    "Paris",
-    "Cuba",
-    "Vedado Havana",
-    "Miami",
-    "Geneva",
-    "New York",
-    "Matanzas",
-    "Caracas, Venezuela",
-    "La Rochelle",
-    "Madrid",
-    "Brazil",
-    "Bern",
-    "Rabat"
-  ],
   "origin_agency": "CIA",
+  "sender": "Nestor D. Sanchez, WH/EA/AMWORLD",
+  "recipient": "THE RECORD",
   "persons_mentioned": [
     "AMLASH-1",
     "ONTRICH",
@@ -78,6 +55,31 @@
     "Lucy Echevarria",
     "Nestor D. Sanchez"
   ],
-  "recipient": "THE RECORD",
-  "sender": "Nestor D. Sanchez, WH/EA/AMWORLD"
+  "locations_mentioned": [
+    "Rome",
+    "Paris",
+    "Cuba",
+    "Vedado Havana",
+    "Miami",
+    "Geneva",
+    "New York",
+    "Matanzas",
+    "Caracas, Venezuela",
+    "La Rochelle",
+    "Madrid",
+    "Brazil",
+    "Bern",
+    "Rabat"
+  ],
+  "tags": [
+    "AMLASH-1",
+    "ANTRUNK-10",
+    "Orozco",
+    "Cuba",
+    "Security",
+    "Intelligence",
+    "FEU elections",
+    "Locomotive Sabotage",
+    "Cuban Officials"
+  ]
 }

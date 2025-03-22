@@ -1,8 +1,27 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "LCHARVEST - LIANG Szu-cheng Contact in Mexico City",
+  "title_ja": "LCHARVEST - LIANG Szu-cheng メキシコシティの連絡先",
   "summary": "This document discusses LIANG Szu-cheng, his background, and potential contact with STPLATE 1 in Mexico City. It includes information about his past, architectural theories, and travel to Havana. It also mentions operational funds for STPLATE 1 and instructions for contact procedures.",
+  "summary_ja": "この文書は、リアン・スーチェン、彼の経歴、およびメキシコシティのSTPLATE 1との接触の可能性について論じている。彼の過去、建築理論、ハバナへの旅行に関する情報が含まれている。また、STPLATE 1の運用資金と接触手順の指示についても言及している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-10-12",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "MEXICO CETY",
+  "persons_mentioned": [
+    "LIANG Szu-cheng",
+    "STPLATE 1",
+    "Everetning",
+    "Herbert"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Peking",
+    "Havana",
+    "Yale"
+  ],
   "tags": [
     "LIANG Szu-cheng",
     "STPLATE 1",
@@ -15,22 +34,5 @@
     "Yale University",
     "China Architectural Society",
     "Everetning"
-  ],
-  "title": "LCHARVEST - LIANG Szu-cheng Contact in Mexico City",
-  "date": "1963-10-12",
-  "locations_mentioned": [
-    "Mexico City",
-    "Peking",
-    "Havana",
-    "Yale"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "LIANG Szu-cheng",
-    "STPLATE 1",
-    "Everetning",
-    "Herbert"
-  ],
-  "recipient": "MEXICO CETY",
-  "sender": "DIRECTOR"
+  ]
 }

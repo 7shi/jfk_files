@@ -1,36 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Memorandum for the record regarding a meeting with Dr. MIRO Cardona on 6 October 1961. Topics discussed include propaganda efforts, underground activities, commando action plans, requests for arms, information on arms received by the Castro regime, a proposal for the Council to establish a government on Cuban soil, views on judges and lawyers, members of the Revolutionary Council, the probable Argentine rupture of relations with Cuba, MIRO's attendance at a homage for LACERDA, organization of the Propaganda Commission, MIRO's views on potential leaders of a provisional government, offices of the Council, coordination of exile group activities, and a telephone conversation with MIRO.",
-  "tags": [
-    "MIRO Cardona",
-    "Revolutionary Council",
-    "Propaganda",
-    "Underground Activities",
-    "Commando Action",
-    "Arms Request",
-    "Castro Regime",
-    "Government in Cuba",
-    "Argentine Relations",
-    "Exile Groups",
-    "ALABAU"
-  ],
   "title": "Meeting with Dr. MIRO Cardona on 6 October",
+  "title_ja": "10月6日、ミロ・カルドナ博士との面会",
+  "summary": "Memorandum for the record regarding a meeting with Dr. MIRO Cardona on 6 October 1961. Topics discussed include propaganda efforts, underground activities, commando action plans, requests for arms, information on arms received by the Castro regime, a proposal for the Council to establish a government on Cuban soil, views on judges and lawyers, members of the Revolutionary Council, the probable Argentine rupture of relations with Cuba, MIRO's attendance at a homage for LACERDA, organization of the Propaganda Commission, MIRO's views on potential leaders of a provisional government, offices of the Council, coordination of exile group activities, and a telephone conversation with MIRO.",
+  "summary_ja": "1961年10月6日、ミロ・カルドナ博士との会合に関する記録のための覚書。議題には、プロパガンダ活動、地下活動、コマンドー作戦計画、武器の要請、カストロ政権が入手した武器に関する情報、キューバ国内に政府を樹立するための評議会への提案、裁判官と弁護士に関する見解、革命評議会のメンバー、アルゼンチンがキューバとの国交を断絶する可能性、ラセルダ氏への追悼式へのミロの出席、 宣伝委員会の組織、MIROによる暫定政府の潜在的な指導者に関する見解、評議会の事務所、亡命グループの活動の調整、MIROとの電話での会話。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1961-10-10",
-  "locations_mentioned": [
-    "Cuba",
-    "Key West",
-    "Miami",
-    "U. S.",
-    "Latin America",
-    "Escambray",
-    "Guantanamo",
-    "New York City",
-    "Washington",
-    "Buenos Aires"
-  ],
   "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "THE RECORD",
   "persons_mentioned": [
     "MIRO Cardona",
     "Manuel VARELA Castro",
@@ -52,6 +31,29 @@
     "Clark",
     "Thompson"
   ],
-  "recipient": "THE RECORD",
-  "sender": "Unknown"
+  "locations_mentioned": [
+    "Cuba",
+    "Key West",
+    "Miami",
+    "U. S.",
+    "Latin America",
+    "Escambray",
+    "Guantanamo",
+    "New York City",
+    "Washington",
+    "Buenos Aires"
+  ],
+  "tags": [
+    "MIRO Cardona",
+    "Revolutionary Council",
+    "Propaganda",
+    "Underground Activities",
+    "Commando Action",
+    "Arms Request",
+    "Castro Regime",
+    "Government in Cuba",
+    "Argentine Relations",
+    "Exile Groups",
+    "ALABAU"
+  ]
 }

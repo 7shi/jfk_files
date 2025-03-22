@@ -1,34 +1,15 @@
 {
-  "classification": "FBI",
-  "document_type": "File Content List",
-  "security_level": "SECRET",
-  "summary": "This document is a file content list for file number 201-0191098, which pertains to Susan Heiligman Frank. The list includes various documents, their dates, symbols and numbers, types, and subjects related to Richard Cyril Frank, Yung Koon-Man, Ivan Gerald Shapiro, Frederick Vanderbilt Field, and others. The list also includes references to internal security matters and China.",
-  "tags": [
-    "Susan Heiligman Frank",
-    "Richard Cyril Frank",
-    "Internal Security",
-    "China",
-    "Yung Koon-Man",
-    "Ivan Gerald Shapiro",
-    "Frederick Vanderbilt Field",
-    "Progressive Labor Party"
-  ],
   "title": "File Content List of File No. 201-0191098",
+  "title_ja": "ファイル内容リスト ファイル番号201-0191098",
+  "summary": "This document is a file content list for file number 201-0191098, which pertains to Susan Heiligman Frank. The list includes various documents, their dates, symbols and numbers, types, and subjects related to Richard Cyril Frank, Yung Koon-Man, Ivan Gerald Shapiro, Frederick Vanderbilt Field, and others. The list also includes references to internal security matters and China.",
+  "summary_ja": "本ドキュメントは、ファイル番号201-0191098のファイル内容リストであり、スーザン・ヘイリグマン・フランクに関するものである。リストには、リチャード・シリル・フランク、ユン・クンマン、アイヴァン・ジェラルド・シャピロ、フレデリック・ヴァンダービルト・フィールドなどに関連するさまざまな文書、日付、記号と番号、種類、主題が含まれている。リストには、内部の安全保障問題と中国に関する言及も含まれている。",
+  "document_type": "File Content List",
+  "classification": "FBI",
+  "security_level": "SECRET",
   "date": "1955-1973",
-  "locations_mentioned": [
-    "New York City",
-    "London",
-    "Paris",
-    "Tokyo",
-    "England",
-    "France",
-    "Japan",
-    "Prague",
-    "Western Europe",
-    "Canada",
-    "Albania"
-  ],
   "origin_agency": "FBI",
+  "sender": "Deputy Director for Plans",
+  "recipient": "Director Federal Bureau of Investigation",
   "persons_mentioned": [
     "Susan Heiligman Frank",
     "Richard Cyril Frank",
@@ -45,6 +26,27 @@
     "Eugene J. Welch",
     "Robert W. Groven"
   ],
-  "recipient": "Director Federal Bureau of Investigation",
-  "sender": "Deputy Director for Plans"
+  "locations_mentioned": [
+    "New York City",
+    "London",
+    "Paris",
+    "Tokyo",
+    "England",
+    "France",
+    "Japan",
+    "Prague",
+    "Western Europe",
+    "Canada",
+    "Albania"
+  ],
+  "tags": [
+    "Susan Heiligman Frank",
+    "Richard Cyril Frank",
+    "Internal Security",
+    "China",
+    "Yung Koon-Man",
+    "Ivan Gerald Shapiro",
+    "Frederick Vanderbilt Field",
+    "Progressive Labor Party"
+  ]
 }

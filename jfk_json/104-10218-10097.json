@@ -1,8 +1,26 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "ANUPAS-1 Incident in Guatemala",
+  "title_ja": "グアテマラにおけるANUPAS-1事件",
   "summary": "Cable details the arrest and expulsion of ANUPAS-1 from Guatemala for attempting to transport Coxie propaganda. ANUPAS-1 tried to enter Guatemala on November 3, was denied entry, returned on November 7, arrested on November 8, and expelled to Mexico on November 8. The arrest received press coverage.",
+  "summary_ja": "この電報では、コクシーの宣伝物を輸送しようとしたとしてグアテマラからANUPAS-1が逮捕され、国外追放されたことが詳細に説明されている。ANUPAS-1は11月3日にグアテマラに入国しようとしたが拒否され、11月7日に戻り、11月8日に逮捕され、メキシコに追放された。この逮捕は報道機関によって報道された。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1961-11-03",
+  "origin_agency": "CIA",
+  "sender": "GUATEMALA CITY",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "ANUPAS-1",
+    "Rodrigo Asturias Amado",
+    "MONZON"
+  ],
+  "locations_mentioned": [
+    "Guatemala",
+    "Guatemala City",
+    "Mexico",
+    "Tapachula"
+  ],
   "tags": [
     "ANUPAS-1",
     "Coxie propaganda",
@@ -12,21 +30,5 @@
     "Mexico",
     "Tourist Card",
     "US Passports"
-  ],
-  "title": "ANUPAS-1 Incident in Guatemala",
-  "date": "1961-11-03",
-  "locations_mentioned": [
-    "Guatemala",
-    "Guatemala City",
-    "Mexico",
-    "Tapachula"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "ANUPAS-1",
-    "Rodrigo Asturias Amado",
-    "MONZON"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "GUATEMALA CITY"
+  ]
 }

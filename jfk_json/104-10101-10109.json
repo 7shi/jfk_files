@@ -1,8 +1,31 @@
 {
-  "classification": "Mexico",
-  "document_type": "Dispatch",
-  "security_level": "UNCLASSIFIED",
+  "title": "MEXICO CITY - Information on Individuals",
+  "title_ja": "メキシコシティー - 個人に関する情報",
   "summary": "This document lists three individuals: FERNANDO PALENZUKIA VAQUET, MARIA FRANCISCA CRESPO FALCON, and HOWARD ANDERSON, along with their personal information such as date and place of birth, physical attributes, passport number, and address. The document also mentions operational details and codes.",
+  "summary_ja": "この文書には、FERNANDO PALENZUKIA VAQUET、MARIA FRANCISCA CRESPO FALCON、HOWARD ANDERSONの3人の個人名と、生年月日、出生地、身体的特徴、パスポート番号、住所などの個人情報が記載されている。また、この文書には、作戦の詳細とコードについても言及されている。",
+  "document_type": "Dispatch",
+  "classification": "Mexico",
+  "security_level": "UNCLASSIFIED",
+  "date": "2025",
+  "origin_agency": "CIA",
+  "sender": "DESMOND FITZGERALD",
+  "recipient": "G.L.",
+  "persons_mentioned": [
+    "FERNANDO PALENZUKIA VAQUET",
+    "MARIA FRANCISCA CRESPO FALCON",
+    "HOWARD ANDERSON",
+    "MATEO PALENZUKIA",
+    "JOSEFA PALENZUKIA",
+    "ARTURO CRESPO",
+    "JOSEFINA CRESPO",
+    "DESMOND FITZGERALD"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "ARTEMISA, PINAR DEL RIO, CUBA",
+    "GUIRA DE MELENA, HABANA, CUBA",
+    "AVENIDA 35 No. 9809, MARIANAO, CUBA"
+  ],
   "tags": [
     "FERNANDO PALENZUKIA VAQUET",
     "MARIA FRANCISCA CRESPO FALCON",
@@ -16,26 +39,5 @@
     "C/SAS",
     "JU/3/MEXI",
     "C/WB/3"
-  ],
-  "title": "MEXICO CITY - Information on Individuals",
-  "date": "2025",
-  "locations_mentioned": [
-    "MEXICO CITY",
-    "ARTEMISA, PINAR DEL RIO, CUBA",
-    "GUIRA DE MELENA, HABANA, CUBA",
-    "AVENIDA 35 No. 9809, MARIANAO, CUBA"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "FERNANDO PALENZUKIA VAQUET",
-    "MARIA FRANCISCA CRESPO FALCON",
-    "HOWARD ANDERSON",
-    "MATEO PALENZUKIA",
-    "JOSEFA PALENZUKIA",
-    "ARTURO CRESPO",
-    "JOSEFINA CRESPO",
-    "DESMOND FITZGERALD"
-  ],
-  "recipient": "G.L.",
-  "sender": "DESMOND FITZGERALD"
+  ]
 }

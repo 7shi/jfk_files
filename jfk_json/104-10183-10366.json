@@ -1,8 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Amendment to Operational Approval for AMMUG/1",
+  "title_ja": "AMMUG/1の作戦承認の修正",
   "summary": "Operational Approval for AMMUG/1 is amended to authorize operational use outside the United States as set forth in PRQ Part II dated 13 February 1965, per memorandum request of 31 December 1970.",
+  "summary_ja": "AMMUG/1の作戦承認は、1970年12月31日付の覚書要請に従い、1965年2月13日付のPRQ Part IIに規定されているように、米国国外での作戦使用を認めるよう修正された。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1971-01-06",
+  "origin_agency": "CI/OPERATIONAL APPAOVAL AND SUPPORT DIVISION",
+  "sender": "John E. Howard",
+  "recipient": "Chief, WH/COG/OPS - B. Turbeville",
   "tags": [
     "Operational Approval",
     "AMMUG/1",
@@ -10,10 +17,5 @@
     "Operational Use",
     "United States",
     "Authorization"
-  ],
-  "title": "Amendment to Operational Approval for AMMUG/1",
-  "date": "1971-01-06",
-  "origin_agency": "CI/OPERATIONAL APPAOVAL AND SUPPORT DIVISION",
-  "recipient": "Chief, WH/COG/OPS - B. Turbeville",
-  "sender": "John E. Howard"
+  ]
 }

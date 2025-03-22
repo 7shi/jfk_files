@@ -1,8 +1,21 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "Request for LISTAN Project Renewal",
+  "title_ja": "LISTANプロジェクト更新の要請",
   "summary": "This memo requests the renewal of the LISTAN Project, adjusting the budget to reflect the new policy of charging Staff Agent costs to Station Support.",
+  "summary_ja": "この覚書は、スタッフエージェントの費用をステーションサポートに請求するという新しい方針を反映して予算を調整し、LISTANプロジェクトの更新を要請している。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
+  "date": "1962-01-25",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "LIENVOY/Support, LIENVOY/Dev & Plan",
+  "persons_mentioned": [
+    "Arnold F. AREHART"
+  ],
+  "locations_mentioned": [
+    "Mexico City"
+  ],
   "tags": [
     "LISTAN Project",
     "Project Renewal",
@@ -14,16 +27,5 @@
     "Fiscal Year 1963",
     "Mexico City Support",
     "Arnold F. AREHART"
-  ],
-  "title": "Request for LISTAN Project Renewal",
-  "date": "1962-01-25",
-  "locations_mentioned": [
-    "Mexico City"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "Arnold F. AREHART"
-  ],
-  "recipient": "LIENVOY/Support, LIENVOY/Dev & Plan",
-  "sender": "Unknown"
+  ]
 }

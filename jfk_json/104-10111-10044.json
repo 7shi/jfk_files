@@ -1,17 +1,14 @@
 {
-  "classification": "Personnel",
-  "document_type": "Seminar Room Roster",
-  "security_level": "SECRET",
-  "summary": "Roster of participants in Operations Familiarization Course #24, listing names and badge numbers for Seminar Rooms D and F.",
-  "tags": [
-    "Operations Familiarization Course",
-    "Seminar Room",
-    "Roster",
-    "Participant List",
-    "Training"
-  ],
   "title": "OPERATIONS FAMILIARIZATION COURSE #24 SEMINAR ROOM ROSTER",
+  "title_ja": "業務習熟コース #24 セミナー室名簿",
+  "summary": "Roster of participants in Operations Familiarization Course #24, listing names and badge numbers for Seminar Rooms D and F.",
+  "summary_ja": "オペレーション・ファミリアライゼーション・コース#24の参加者名簿、セミナー室DおよびFの氏名とバッジ番号の一覧。",
+  "document_type": "Seminar Room Roster",
+  "classification": "Personnel",
+  "security_level": "SECRET",
   "date": "1964-09-09",
+  "sender": "COS/150",
+  "recipient": "ODTR",
   "persons_mentioned": [
     "AFFINITO, Thomas J.",
     "BOSTON, M. David",
@@ -45,6 +42,11 @@
     "SHINN, Jerry L.",
     "WEBB, Daniel D."
   ],
-  "recipient": "ODTR",
-  "sender": "COS/150"
+  "tags": [
+    "Operations Familiarization Course",
+    "Seminar Room",
+    "Roster",
+    "Participant List",
+    "Training"
+  ]
 }

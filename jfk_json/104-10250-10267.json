@@ -1,19 +1,14 @@
 {
-  "classification": "Personnel",
-  "document_type": "Report",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This document details information about Balmes N. Hidalgo Jr., a GS-11 employee in the WH division, including his past work with the FBI, his operational and security clearances, and information about his parents' security clearances.",
-  "tags": [
-    "Employee",
-    "Security Clearance",
-    "FBI",
-    "Communist Party",
-    "Contract Agent",
-    "Operational Clearance",
-    "Covert Security Clearance"
-  ],
   "title": "HIDALGO, BALMES N., JR. - OVERT AND COVERT",
+  "title_ja": "ヒダルゴ、バルメス・N・ジュニア - 公然および秘密の",
+  "summary": "This document details information about Balmes N. Hidalgo Jr., a GS-11 employee in the WH division, including his past work with the FBI, his operational and security clearances, and information about his parents' security clearances.",
+  "summary_ja": "この文書にはWH部門のGS-11職員であるバルメス・N・イダルゴ・ジュニアに関する詳細な情報が記載されており、これにはFBIでの過去の勤務、業務およびセキュリティ上の機密情報、両親のセキュリティ上の機密情報などが含まれる。",
+  "document_type": "Report",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
   "date": "1962-05-03",
+  "sender": "FBI",
+  "recipient": "WH Div",
   "persons_mentioned": [
     "John F. Kennedy",
     "HIDALGO, LUZ MARIA",
@@ -22,6 +17,13 @@
     "DH.WOLDORF",
     "MB"
   ],
-  "recipient": "WH Div",
-  "sender": "FBI"
+  "tags": [
+    "Employee",
+    "Security Clearance",
+    "FBI",
+    "Communist Party",
+    "Contract Agent",
+    "Operational Clearance",
+    "Covert Security Clearance"
+  ]
 }

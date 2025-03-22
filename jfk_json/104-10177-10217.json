@@ -1,35 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This document discusses concerns about Ricardo Morales, potential connections between Orlando Bosch and the assassination of Orlando Letelier, and related investigations.",
-  "tags": [
-    "Ricardo Morales",
-    "Orlando Letelier",
-    "Orlando Bosch",
-    "Cuban exiles",
-    "DISIP",
-    "Assassination",
-    "Miami",
-    "Venezuela",
-    "Terrorism",
-    "C.I.A.",
-    "F.B.I."
-  ],
   "title": "Caracas Station Cable Regarding Ricardo Morales and Letelier Investigation",
+  "title_ja": "カラカス局電 リカルド・モラレスとレティエリ捜査に関するもの",
+  "summary": "This document discusses concerns about Ricardo Morales, potential connections between Orlando Bosch and the assassination of Orlando Letelier, and related investigations.",
+  "summary_ja": "この文書では、リカルド・モラレスに関する懸念、オルランド・ボッシュとオルランド・レティエリ暗殺事件の関連性、関連調査について論じている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1977-04-15",
-  "locations_mentioned": [
-    "Caracas",
-    "Miami",
-    "Cuba",
-    "United States",
-    "Washington, D.C.",
-    "Venezuela",
-    "Costa Rica",
-    "Dominican Republic",
-    "Barbados"
-  ],
   "origin_agency": "CIA",
+  "sender": "Caracas Station",
+  "recipient": "Director, LA/MIAMI",
   "persons_mentioned": [
     "Orlando Letelier",
     "Ricardo Morales",
@@ -46,6 +26,28 @@
     "Raúl Diaz",
     "Roberto Parsons"
   ],
-  "recipient": "Director, LA/MIAMI",
-  "sender": "Caracas Station"
+  "locations_mentioned": [
+    "Caracas",
+    "Miami",
+    "Cuba",
+    "United States",
+    "Washington, D.C.",
+    "Venezuela",
+    "Costa Rica",
+    "Dominican Republic",
+    "Barbados"
+  ],
+  "tags": [
+    "Ricardo Morales",
+    "Orlando Letelier",
+    "Orlando Bosch",
+    "Cuban exiles",
+    "DISIP",
+    "Assassination",
+    "Miami",
+    "Venezuela",
+    "Terrorism",
+    "C.I.A.",
+    "F.B.I."
+  ]
 }

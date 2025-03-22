@@ -1,30 +1,15 @@
 {
-  "classification": "Soviet",
-  "document_type": "Report",
-  "security_level": "Secret",
-  "summary": "This document contains information from an interview with Yuri Ivanovich Nosenko on April 2, 1964, where he provides details on various cases and individuals of interest to the FBI, including potential KGB contacts, American tourists, and defectors.",
-  "tags": [
-    "NOSENKO 1964 REPORTINGS",
-    "YURI IVANOVICH NOSENKO",
-    "KGB",
-    "Defector",
-    "Espionage",
-    "Counterintelligence",
-    "American Tourists",
-    "Soviet Nationals",
-    "Recruitment",
-    "Blackmail"
-  ],
   "title": "YURI IVANOVICH NOSENKO ESP - R (KGB)",
+  "title_ja": "ユーリ・イワノビッチ・ノセンコ ESP - R (KGB)",
+  "summary": "This document contains information from an interview with Yuri Ivanovich Nosenko on April 2, 1964, where he provides details on various cases and individuals of interest to the FBI, including potential KGB contacts, American tourists, and defectors.",
+  "summary_ja": "この文書には、1964年4月2日に行われたユーリ・イワノビッチ・ノセンコとのインタビューからの情報が含まれており、KGBとの接触の可能性、米国の旅行者、亡命者など、FBIが関心を抱くさまざまな事件や個人に関する詳細が記載されている。",
+  "document_type": "Report",
+  "classification": "Soviet",
+  "security_level": "Secret",
   "date": "1964-04-07",
-  "locations_mentioned": [
-    "Russia",
-    "Moscow",
-    "New York City",
-    "Mongolia",
-    "American Embassy"
-  ],
   "origin_agency": "FBI",
+  "sender": "SAC, WFO",
+  "recipient": "DIRECTOR, FBI",
   "persons_mentioned": [
     "YURI IVANOVICH NOSENKO",
     "DONALD E. WALTER",
@@ -45,6 +30,23 @@
     "ANNABELLE BUCAR",
     "KONSTANTIN LAPSHEIN"
   ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "SAC, WFO"
+  "locations_mentioned": [
+    "Russia",
+    "Moscow",
+    "New York City",
+    "Mongolia",
+    "American Embassy"
+  ],
+  "tags": [
+    "NOSENKO 1964 REPORTINGS",
+    "YURI IVANOVICH NOSENKO",
+    "KGB",
+    "Defector",
+    "Espionage",
+    "Counterintelligence",
+    "American Tourists",
+    "Soviet Nationals",
+    "Recruitment",
+    "Blackmail"
+  ]
 }

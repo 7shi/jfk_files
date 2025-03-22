@@ -1,22 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "HAVA 0693: Intelligence Report from Havana, December 1958",
+  "title_ja": "HAVA 0693: 1958年12月のハバナからの諜報報告",
   "summary": "This cable details intelligence gathered in Cuba in December 1958, including the movements of Ernesto Guevara, the replacement of labor officials by the 26th of July Movement, Manuel Ray's visit to Fidel Castro, FEU activity in Matanzas, and Batista's hiring of French guerrilla warfare advisors.",
-  "tags": [
-    "Guevara",
-    "26th of July Movement",
-    "labor officials",
-    "sugar centrales",
+  "summary_ja": "本電報では、1958年12月にキューバで収集された情報について詳しく説明しており、エルネスト・ゲバラの動向、26日運動による労働担当役員の交代、マヌエル・レイのフィデル・カストロ訪問、マタンサス州におけるFEUの活動、バティスタによるフランス人ゲリラ戦顧問の雇用などについて記載している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1958-12-16",
+  "origin_agency": "CIA",
+  "sender": "HAVANA",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "Ernesto Guevara",
+    "George K Harper",
+    "Amaria",
+    "AMDARK-1",
+    "Harry Graham",
+    "Conrad Bequer Diaz",
     "Manuel Ray",
     "Fidel Castro",
-    "FEU",
-    "Batista",
-    "French advisors",
-    "guerrilla warfare"
+    "Batista"
   ],
-  "title": "HAVA 0693: Intelligence Report from Havana, December 1958",
-  "date": "1958-12-16",
   "locations_mentioned": [
     "Las Villas",
     "Manacas",
@@ -29,18 +33,16 @@
     "Fla",
     "Hava"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Ernesto Guevara",
-    "George K Harper",
-    "Amaria",
-    "AMDARK-1",
-    "Harry Graham",
-    "Conrad Bequer Diaz",
+  "tags": [
+    "Guevara",
+    "26th of July Movement",
+    "labor officials",
+    "sugar centrales",
     "Manuel Ray",
     "Fidel Castro",
-    "Batista"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "HAVANA"
+    "FEU",
+    "Batista",
+    "French advisors",
+    "guerrilla warfare"
+  ]
 }

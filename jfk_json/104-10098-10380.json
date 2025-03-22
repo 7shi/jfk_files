@@ -1,8 +1,22 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "MEXI 7458: WELCOME HOS C/O. PLS PROVIDE IDEN AND ETA SO CAM HEET AIRPORT.",
+  "title_ja": "MEXI 7458: ようこそ HOS C/O。 到着予定時刻と到着空港を知らせること。",
   "summary": "This cable from Mexico City to the Director discusses the arrival of a staffer, identified as Richardson, and requests their identification and estimated time of arrival (ETA) for airport pickup.",
+  "summary_ja": "メキシコシティから局長へのこの電報では、リチャードソンと特定された職員の到着について議論し、身元確認と空港での出迎えのための到着予定時刻（ETA）を要請している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-12-20",
+  "origin_agency": "CIA",
+  "sender": "Mexico City",
+  "recipient": "Director",
+  "persons_mentioned": [
+    "Richardson"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Airport"
+  ],
   "tags": [
     "HOS",
     "Airport",
@@ -11,17 +25,5 @@
     "REDWOOD",
     "REDSKIN",
     "CSSOP 210-53"
-  ],
-  "title": "MEXI 7458: WELCOME HOS C/O. PLS PROVIDE IDEN AND ETA SO CAM HEET AIRPORT.",
-  "date": "1963-12-20",
-  "locations_mentioned": [
-    "Mexico City",
-    "Airport"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Richardson"
-  ],
-  "recipient": "Director",
-  "sender": "Mexico City"
+  ]
 }

@@ -1,24 +1,26 @@
 {
-  "classification": "Security",
-  "document_type": "Cable",
-  "security_level": "UNCLASSIFIED",
+  "title": "ODACID SENT OM-99 TO HEPINCH MEXI ON 3 SEPT 63 AUTHORIZING VISAS",
+  "title_ja": "ODACIDは63年9月3日、OM-99をHEPINCH MEXIに送付した。ビザを承認する",
   "summary": "Cable regarding visa authorization for the wife and daughter of Alejandro Riera Arencibia, an FM asset, with a reference to coordination with the State Department.",
+  "summary_ja": "FMエージェントであるAlejandro Riera Arencibiaの妻と娘のビザ承認に関する電報。国務省との調整について言及している。",
+  "document_type": "Cable",
+  "classification": "Security",
+  "security_level": "UNCLASSIFIED",
+  "date": "1963-11-26",
+  "origin_agency": "CIA",
+  "sender": "ODACID",
+  "recipient": "HEPINCH",
+  "persons_mentioned": [
+    "Alejandro Riera Arencibia"
+  ],
+  "locations_mentioned": [
+    "Mexico"
+  ],
   "tags": [
     "Visas",
     "Alejandro Riera Arencibia",
     "FM Asset",
     "State Department",
     "Mexico"
-  ],
-  "title": "ODACID SENT OM-99 TO HEPINCH MEXI ON 3 SEPT 63 AUTHORIZING VISAS",
-  "date": "1963-11-26",
-  "locations_mentioned": [
-    "Mexico"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Alejandro Riera Arencibia"
-  ],
-  "recipient": "HEPINCH",
-  "sender": "ODACID"
+  ]
 }

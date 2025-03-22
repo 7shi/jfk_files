@@ -1,8 +1,31 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "Report of PBPRIME Citizen on Connections with Ecuadorean Government",
+  "title_ja": "PBPRIME市民によるエクアドル政府とのつながりに関する報告書",
   "summary": "Report of PBPRIME Citizen on Connections with Ecuadorean Government, Subject's statements and activities in Ecuador",
+  "summary_ja": "エクアドル政府とのつながりに関するPBPRIME市民の報告書、エクアドルにおける被験者の供述および活動",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1960-10-05",
+  "origin_agency": "WH",
+  "sender": "Chief, WH",
+  "recipient": "Chief of Station, Quito; Chief of Base, Guayaquil",
+  "persons_mentioned": [
+    "Jose Haria Velasco Ibarra",
+    "Jaime Nebot Velasco",
+    "Pedro J. Menendez Gilbert",
+    "Luis Noboa",
+    "Enrique Ponce Luque",
+    "Identity"
+  ],
+  "locations_mentioned": [
+    "Ecuador",
+    "Guayaquil",
+    "Cuba",
+    "Dallas, Texas",
+    "Nicaragua",
+    "Israel"
+  ],
   "tags": [
     "PBPRIME",
     "Ecuador",
@@ -21,26 +44,5 @@
     "Purchasing agent",
     "Republic of Nicaragua",
     "Israeli Military Industries"
-  ],
-  "title": "Report of PBPRIME Citizen on Connections with Ecuadorean Government",
-  "date": "1960-10-05",
-  "locations_mentioned": [
-    "Ecuador",
-    "Guayaquil",
-    "Cuba",
-    "Dallas, Texas",
-    "Nicaragua",
-    "Israel"
-  ],
-  "origin_agency": "WH",
-  "persons_mentioned": [
-    "Jose Haria Velasco Ibarra",
-    "Jaime Nebot Velasco",
-    "Pedro J. Menendez Gilbert",
-    "Luis Noboa",
-    "Enrique Ponce Luque",
-    "Identity"
-  ],
-  "recipient": "Chief of Station, Quito; Chief of Base, Guayaquil",
-  "sender": "Chief, WH"
+  ]
 }

@@ -1,24 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "JOSE FERNANDEZ",
+  "title_ja": "ホセ・フェルナンデス",
   "summary": "Report on Jose Fernandez, also known as 'El Gallego,' detailing his roles in the Cuban military, his history, and his perceived political leanings.",
-  "tags": [
+  "summary_ja": "エル・ガジェゴ」の異名を持つホセ・フェルナンデスに関する報告書。キューバ軍での役割、経歴、推定される政治的傾向についての詳細。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1964-08-21",
+  "origin_agency": "CIA",
+  "sender": "CSCI",
+  "recipient": "STATE, DIA, ARMY, NAVY, AIR, NSA, OCR, FBI, REP, CINCLANT, CINCSO, I&NS",
+  "persons_mentioned": [
     "JOSE FERNANDEZ",
     "El Gallego",
-    "Cuban Intelligence Service",
-    "Army Training Schools",
-    "Artillery Schools",
-    "Playa Giron",
-    "Military Academy at Camp Managua",
-    "Soviet Union",
-    "Anti-Communist",
-    "Training",
-    "General Staff",
-    "Cuban Rebel Army"
+    "BATISTA",
+    "CASTRO",
+    "Fidel CASTRO",
+    "Raul CASTRO",
+    "Enrique LISTER",
+    "Francis",
+    "Alice"
   ],
-  "title": "JOSE FERNANDEZ",
-  "date": "1964-08-21",
   "locations_mentioned": [
     "Cuba",
     "Washington, D. C.",
@@ -32,18 +34,18 @@
     "Moscow",
     "Miami"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
+  "tags": [
     "JOSE FERNANDEZ",
     "El Gallego",
-    "BATISTA",
-    "CASTRO",
-    "Fidel CASTRO",
-    "Raul CASTRO",
-    "Enrique LISTER",
-    "Francis",
-    "Alice"
-  ],
-  "recipient": "STATE, DIA, ARMY, NAVY, AIR, NSA, OCR, FBI, REP, CINCLANT, CINCSO, I&NS",
-  "sender": "CSCI"
+    "Cuban Intelligence Service",
+    "Army Training Schools",
+    "Artillery Schools",
+    "Playa Giron",
+    "Military Academy at Camp Managua",
+    "Soviet Union",
+    "Anti-Communist",
+    "Training",
+    "General Staff",
+    "Cuban Rebel Army"
+  ]
 }

@@ -1,8 +1,41 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum, Letter",
-  "security_level": "SECRET",
+  "title": "ISAACS, HAROLD",
+  "title_ja": "ISAACS, HAROLD",
   "summary": "This file contains documents related to Harold Isaacs, including memos, letters, and articles, detailing his activities and associations, particularly concerning his political views and alleged Trotskyist connections. The documents also cover the history and suspension of the China Forum, a publication Isaacs founded and edited.",
+  "summary_ja": "このファイルには、ハロルド・アイザックスに関する書類が含まれており、彼の活動や交友関係、特に政治的見解やトロツキストとのつながりに関する疑惑について詳細に記したメモ、手紙、記事などが含まれている。また、アイザックスが創刊・編集した出版物『チャイナ・フォーラム』の歴史と休刊についても書類に記載されている。",
+  "document_type": "Memorandum, Letter",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1974-10-04",
+  "origin_agency": "CIA",
+  "sender": "M. Gaiel Hartman",
+  "recipient": "THE RECORD",
+  "persons_mentioned": [
+    "Harold Isaacs",
+    "Ray Murphy",
+    "M. Paul Hartman",
+    "Bensu Chan",
+    "Alexander Buchman",
+    "Frank Class",
+    "Wilbur Burton",
+    "Robert Friedman",
+    "Chiang Kai-shek",
+    "Stalin",
+    "T. A. Bisson",
+    "Agnes Smedley",
+    "Lenin",
+    "Litvinov",
+    "Roosevelt"
+  ],
+  "locations_mentioned": [
+    "New York City",
+    "China",
+    "Feiping, China",
+    "Mount Vernon, N. Y.",
+    "Shanghai",
+    "Kiangsi",
+    "Taiwan"
+  ],
   "tags": [
     "Harold Isaacs",
     "China Forum",
@@ -24,36 +57,5 @@
     "Kuomintang",
     "Anti-Imperialist",
     "Central Committee of the Chinese Communist Party"
-  ],
-  "title": "ISAACS, HAROLD",
-  "date": "1974-10-04",
-  "locations_mentioned": [
-    "New York City",
-    "China",
-    "Feiping, China",
-    "Mount Vernon, N. Y.",
-    "Shanghai",
-    "Kiangsi",
-    "Taiwan"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Harold Isaacs",
-    "Ray Murphy",
-    "M. Paul Hartman",
-    "Bensu Chan",
-    "Alexander Buchman",
-    "Frank Class",
-    "Wilbur Burton",
-    "Robert Friedman",
-    "Chiang Kai-shek",
-    "Stalin",
-    "T. A. Bisson",
-    "Agnes Smedley",
-    "Lenin",
-    "Litvinov",
-    "Roosevelt"
-  ],
-  "recipient": "THE RECORD",
-  "sender": "M. Gaiel Hartman"
+  ]
 }

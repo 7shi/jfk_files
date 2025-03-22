@@ -1,8 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "SIGHTING OF TANKS WITH TWIN CANNONS IN THE AREA OF HABANA",
+  "title_ja": "ハバナ近郊における2門の砲塔を備えた戦車の目撃情報",
   "summary": "Report on the sighting of tanks with twin cannons in the area of Habana on 23 November 1963.",
+  "summary_ja": "1963年11月23日にハバナ周辺で双砲塔戦車が目撃されたことに関する報告。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-11-27",
+  "origin_agency": "Central Intelligence Agency",
+  "sender": "DIRECTOR",
+  "recipient": "DDP, ADDP, S90 6, DODS, CA 2, CA/PEG, CA/PROP, CI/OPS, C/FIC 2, FI/INFO/I/INT 6, SAS 12, 50/1, WH 8, AD/CI 2, AD/ME/VR",
+  "persons_mentioned": [
+    "Eduardo Perez Duaney"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Habana",
+    "Via Monumental",
+    "Carretera Central",
+    "United States",
+    "Miami"
+  ],
   "tags": [
     "Military",
     "Tanks",
@@ -12,21 +30,5 @@
     "Armored Vehicles",
     "Flame Throwers",
     "Military Camp"
-  ],
-  "title": "SIGHTING OF TANKS WITH TWIN CANNONS IN THE AREA OF HABANA",
-  "date": "1963-11-27",
-  "locations_mentioned": [
-    "Cuba",
-    "Habana",
-    "Via Monumental",
-    "Carretera Central",
-    "United States",
-    "Miami"
-  ],
-  "origin_agency": "Central Intelligence Agency",
-  "persons_mentioned": [
-    "Eduardo Perez Duaney"
-  ],
-  "recipient": "DDP, ADDP, S90 6, DODS, CA 2, CA/PEG, CA/PROP, CI/OPS, C/FIC 2, FI/INFO/I/INT 6, SAS 12, 50/1, WH 8, AD/CI 2, AD/ME/VR",
-  "sender": "DIRECTOR"
+  ]
 }

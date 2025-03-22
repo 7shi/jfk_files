@@ -1,25 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This document pertains to Project KDFACTOR, a photographic surveillance operation in Mexico City targeting the Soviet Embassy. It discusses the termination of the project due to a security breach, agent terminations, and associated costs, requesting additional funding to cover expenses.",
-  "tags": [
-    "KDFACTOR",
-    "LIEMPTY",
-    "Mexico City",
-    "Soviet Embassy",
-    "Surveillance",
-    "Agent Termination",
-    "Security Review",
-    "Funding"
-  ],
   "title": "Amendment and Termination of Project KDFACTOR",
+  "title_ja": "プロジェクトKDFACTORの修正と終了",
+  "summary": "This document pertains to Project KDFACTOR, a photographic surveillance operation in Mexico City targeting the Soviet Embassy. It discusses the termination of the project due to a security breach, agent terminations, and associated costs, requesting additional funding to cover expenses.",
+  "summary_ja": "この文書は、メキシコシティにおけるソビエト連邦大使館を標的とした写真監視作戦であるプロジェクトKDFACTORに関するものである。この文書では、機密漏洩、エージェントの解雇、関連費用を理由としたプロジェクトの終了について述べられており、経費を賄うための追加資金が要求されている。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1973-04-26",
-  "locations_mentioned": [
-    "Mexico",
-    "Mexico City"
-  ],
   "origin_agency": "CIA",
+  "sender": "L. A. Campbell, Chief, Foreign Intelligence",
+  "recipient": "Associate Deputy Director for Operations",
   "persons_mentioned": [
     "John F. Kennedy",
     "H.E. Mull",
@@ -50,6 +40,18 @@
     "Oliver J. MANKUNAS",
     "Fred Kravcov"
   ],
-  "recipient": "Associate Deputy Director for Operations",
-  "sender": "L. A. Campbell, Chief, Foreign Intelligence"
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City"
+  ],
+  "tags": [
+    "KDFACTOR",
+    "LIEMPTY",
+    "Mexico City",
+    "Soviet Embassy",
+    "Surveillance",
+    "Agent Termination",
+    "Security Review",
+    "Funding"
+  ]
 }

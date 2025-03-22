@@ -1,8 +1,32 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
+  "title": "LUIS ALBERTO CONDOM CAJIGAL, aka Luis Condom - CUBA; ALVARO MARTIN FERNANDEZ FOX, aka Alvaro Fernandez - CUBA",
+  "title_ja": "ルイス・アルベルト・コンドーム・カヒガル、別名ルイス・コンドーム - キューバ; アルバロ・マルティン・フェルナンデス・フォックス、別名アルバロ・フェルナンデス - キューバ",
   "summary": "This document discusses Luis Alberto Condom Cajigal and Alvaro Martin Fernandez Fox, both associated with Cuban activities. It mentions CIA involvement and informants, including Rafael Padron Prado and Steve Minas. It also touches on gambling and narcotics matters.",
+  "summary_ja": "この文書は、キューバの活動に関係するルイス・アルベルト・コンドン・カヒガルとアルバロ・マルティン・フェルナンデス・フォックスについて述べている。また、ラファエル・パドロン・プラドとスティーブ・ミナスを含む、CIAの関与と情報提供者についても言及している。さらに、ギャンブルと麻薬に関する事項にも触れている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "Secret",
+  "date": "1963-05-01",
+  "origin_agency": "FBI",
+  "sender": "SAC, MIAMI",
+  "recipient": "DIRECTOR, FBI",
+  "persons_mentioned": [
+    "Luis Alberto Condom Cajigal",
+    "Alvaro Martin Fernandez Fox",
+    "Justin F. Gleichauf",
+    "Rafael Padron Prado",
+    "Tulio Prieto",
+    "Emilio Fernandez",
+    "Martin Fox",
+    "Pedro Fox",
+    "Steve Minas",
+    "Ed Fickie"
+  ],
+  "locations_mentioned": [
+    "Miami",
+    "Havana",
+    "Mexico City"
+  ],
   "tags": [
     "MZF",
     "ASSOC",
@@ -25,27 +49,5 @@
     "Martin Fox",
     "Tropicana Nightclub",
     "Bolita racket"
-  ],
-  "title": "LUIS ALBERTO CONDOM CAJIGAL, aka Luis Condom - CUBA; ALVARO MARTIN FERNANDEZ FOX, aka Alvaro Fernandez - CUBA",
-  "date": "1963-05-01",
-  "locations_mentioned": [
-    "Miami",
-    "Havana",
-    "Mexico City"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "Luis Alberto Condom Cajigal",
-    "Alvaro Martin Fernandez Fox",
-    "Justin F. Gleichauf",
-    "Rafael Padron Prado",
-    "Tulio Prieto",
-    "Emilio Fernandez",
-    "Martin Fox",
-    "Pedro Fox",
-    "Steve Minas",
-    "Ed Fickie"
-  ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "SAC, MIAMI"
+  ]
 }

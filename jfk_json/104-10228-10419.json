@@ -1,8 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "REQUEST POA FOR VICENTE HERRERO DIAZ",
+  "title_ja": "ビセンテ・エレロ・ディアスへの要請書",
   "summary": "Cable discussing Vicente Herrero Diaz, a Cuban national in Panama, and requesting POA for him for use in local public opinion research, monitoring, and support of JMRAKE activities.",
+  "summary_ja": "パナマ在住のキューバ人、ビセンテ・ヘレロ・ディアスに関する電報、および現地世論調査、監視、JMRAKE活動支援に使用するための彼に関するPOAの要請。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1961-12-16",
+  "origin_agency": "PANAMA CITY",
+  "sender": "PANAMA CITY",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "VICENTE HERRERO DIAZ",
+    "CRESCENCIO HERRERO HERNANDEZ",
+    "EUGENIA DEAZ DIAZ",
+    "CONTE AGUERO"
+  ],
+  "locations_mentioned": [
+    "Panama City",
+    "Cuba",
+    "La Habana"
+  ],
   "tags": [
     "Vicente Herrero Diaz",
     "Cuban National",
@@ -13,21 +31,5 @@
     "CONTE AGUERO",
     "FRENTE ANTICOMUNISTA",
     "CONSEJO REVOLUCIONARIO"
-  ],
-  "title": "REQUEST POA FOR VICENTE HERRERO DIAZ",
-  "date": "1961-12-16",
-  "locations_mentioned": [
-    "Panama City",
-    "Cuba",
-    "La Habana"
-  ],
-  "origin_agency": "PANAMA CITY",
-  "persons_mentioned": [
-    "VICENTE HERRERO DIAZ",
-    "CRESCENCIO HERRERO HERNANDEZ",
-    "EUGENIA DEAZ DIAZ",
-    "CONTE AGUERO"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "PANAMA CITY"
+  ]
 }

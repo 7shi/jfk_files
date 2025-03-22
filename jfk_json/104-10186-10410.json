@@ -1,27 +1,29 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Cable regarding Cuban Defector and GAN Trainees",
+  "title_ja": "キューバ亡命者およびGAN訓練生に関する電報",
   "summary": "This cable discusses the approach to a Cuban defector, Rivera, and concerns about surfacing names of GAN trainees due to potential risks and lack of juridical grounds. It also recommends deletions and adjustments to a draft CAS paper regarding Cuban aggression planning and proposes a course of action involving arrests and the presentation of evidence to the OAS.",
+  "summary_ja": "本電報は、キューバ亡命者リベラへのアプローチについて議論し、GAN訓練生の身元が明らかになることによる潜在的なリスクと法的根拠の欠如を懸念している。また、キューバの侵略計画に関するCAS草案の削除と調整を推奨し、逮捕とOASへの証拠提示を含む行動計画を提案している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1965-01-20",
+  "origin_agency": "CIA",
+  "sender": "STATION",
+  "recipient": "DIR",
+  "persons_mentioned": [
+    "DELADISE",
+    "RIVERA",
+    "CALVELLA"
+  ],
+  "locations_mentioned": [
+    "SAN SALVADOR",
+    "CUBA"
+  ],
   "tags": [
     "Cuban Defector",
     "GAN Trainees",
     "Salvadorans",
     "OAS",
     "Operation"
-  ],
-  "title": "Cable regarding Cuban Defector and GAN Trainees",
-  "date": "1965-01-20",
-  "locations_mentioned": [
-    "SAN SALVADOR",
-    "CUBA"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "DELADISE",
-    "RIVERA",
-    "CALVELLA"
-  ],
-  "recipient": "DIR",
-  "sender": "STATION"
+  ]
 }

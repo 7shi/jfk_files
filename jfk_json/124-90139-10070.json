@@ -1,8 +1,27 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memo",
-  "security_level": "Secret",
+  "title": "HERBERT LEVY",
+  "title_ja": "ハーバート・レヴィ",
   "summary": "FBI memo to CIA regarding Herbert Levy and his previous interactions with a CIA representative concerning information about India. Levy provided information on Cuban economic matters and possible violations of export regulations.",
+  "summary_ja": "ハーバート・レヴィと、インドに関する情報について彼がCIAの代表と以前にやりとりしていたことに関する、FBIからCIAへのメモ。レヴィは、キューバの経済問題と輸出規制違反の可能性について情報を提供した。",
+  "document_type": "Memo",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1961-12-11",
+  "origin_agency": "FBI",
+  "sender": "FBI",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "Herbert Levy",
+    "John Edgar Hoover"
+  ],
+  "locations_mentioned": [
+    "Salt Lake City, Utah",
+    "Houston, Texas",
+    "Washington, D.C.",
+    "India",
+    "Cuba",
+    "New York City, New York"
+  ],
   "tags": [
     "CIA Liaison",
     "Herbert Levy",
@@ -13,22 +32,5 @@
     "International Ore and Fertilizer Company",
     "Jute Bags",
     "Hessian Cloth"
-  ],
-  "title": "HERBERT LEVY",
-  "date": "1961-12-11",
-  "locations_mentioned": [
-    "Salt Lake City, Utah",
-    "Houston, Texas",
-    "Washington, D.C.",
-    "India",
-    "Cuba",
-    "New York City, New York"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "Herbert Levy",
-    "John Edgar Hoover"
-  ],
-  "recipient": "CIA",
-  "sender": "FBI"
+  ]
 }

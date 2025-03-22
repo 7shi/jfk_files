@@ -1,8 +1,24 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "WAVE 8740: Agent Communication and Russian Ship Information",
+  "title_ja": "WAVE 8740：エージェント通信およびロシア船情報",
   "summary": "This cable discusses planned communications with an agent, including sending supplies and money, and requests information on a Russian ship arriving in Havana.",
+  "summary_ja": "この電報は、エージェントとの計画された通信について述べている。物資や資金の送付、およびハバナに到着するロシア船に関する情報の要請を含む。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-12-09",
+  "origin_agency": "JMWAVE",
+  "sender": "JMWAVE",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Jorge Gutierrez",
+    "Enrique Vincente Socorras"
+  ],
+  "locations_mentioned": [
+    "Havana",
+    "Bahia Honda"
+  ],
   "tags": [
     "Agent Communication",
     "Supply Request",
@@ -10,19 +26,5 @@
     "Havana",
     "Cargo",
     "Counterintelligence"
-  ],
-  "title": "WAVE 8740: Agent Communication and Russian Ship Information",
-  "date": "1963-12-09",
-  "locations_mentioned": [
-    "Havana",
-    "Bahia Honda"
-  ],
-  "origin_agency": "JMWAVE",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Jorge Gutierrez",
-    "Enrique Vincente Socorras"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "JMWAVE"
+  ]
 }

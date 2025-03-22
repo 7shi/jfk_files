@@ -1,8 +1,24 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "Memo for the Records: AMMUG Transfer to New Apartment",
+  "title_ja": "記録用メモ：AMMUGの転居先",
   "summary": "Memo regarding the transfer of AMMUG to a new apartment in Silver Springs, Maryland. The apartment was not ready upon arrival, and lacked essential amenities. Arrangements were made for the installation of a telephone.",
+  "summary_ja": "メリーランド州シルバースプリングスのAMMUG新アパートへの移転に関するメモ。到着時にはアパートはまだ準備されておらず、必要な設備も整っていなかった。電話の設置の手配がなされた。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
+  "date": "1964-07-01",
+  "origin_agency": "Unknown",
+  "sender": "Daniel Flores",
+  "recipient": "Records",
+  "persons_mentioned": [
+    "AMMUG",
+    "AISMUG",
+    "Miss Petrowski",
+    "Daniel Flores"
+  ],
+  "locations_mentioned": [
+    "Silver Springs, Maryland"
+  ],
   "tags": [
     "safehouse",
     "AMMUG",
@@ -11,19 +27,5 @@
     "telephone",
     "AISMUG",
     "Petrowski"
-  ],
-  "title": "Memo for the Records: AMMUG Transfer to New Apartment",
-  "date": "1964-07-01",
-  "locations_mentioned": [
-    "Silver Springs, Maryland"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "AMMUG",
-    "AISMUG",
-    "Miss Petrowski",
-    "Daniel Flores"
-  ],
-  "recipient": "Records",
-  "sender": "Daniel Flores"
+  ]
 }

@@ -1,8 +1,32 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Lyle STUART",
+  "title_ja": "ライル・スチュアート",
   "summary": "This memorandum discusses Lyle Stuart's dealings with Juan Jose Arevalo, Dr. Raul Osegueda, Bartolome Costa Amic, and Mario Monteforte Toledo, focusing on book publications, royalty payments, and potential contacts. It also mentions Eileen Brant and Angela Delli Sante-Arroche as potential sources of information.",
+  "summary_ja": "この覚書では、Lyle StuartとJuan Jose Arevalo、Dr. Raul Osegueda、Bartolome Costa Amic、Mario Monteforte Toledoとのやりとりについて、書籍出版、ロイヤリティの支払い、潜在的な接触に焦点を当てて論じている。また、Eileen BrantとAngela Delli Sante-Arrocheを潜在的な情報源として言及している。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "SECRET",
+  "date": "1964-08-19",
+  "origin_agency": "Deputy Director for Plans",
+  "recipient": "Director, Federal Bureau of Investigation",
+  "persons_mentioned": [
+    "Lyle Stuart",
+    "Juan Jose Arevalo",
+    "Viola June Cobb",
+    "S. J. Papich",
+    "Angela delli Sante Arrocha",
+    "Charleton Beals",
+    "Dr. Osegueda",
+    "Bartolome Costa Amic",
+    "Mario Monteforte Toledo",
+    "Fidel Castro",
+    "Eileen Brant"
+  ],
+  "locations_mentioned": [
+    "Mexico",
+    "Chicago",
+    "New York"
+  ],
   "tags": [
     "Lyle Stuart",
     "Juan Jose Arevalo",
@@ -18,27 +42,5 @@
     "royalties",
     "Mexico",
     "Fidel Castro"
-  ],
-  "title": "Lyle STUART",
-  "date": "1964-08-19",
-  "locations_mentioned": [
-    "Mexico",
-    "Chicago",
-    "New York"
-  ],
-  "origin_agency": "Deputy Director for Plans",
-  "persons_mentioned": [
-    "Lyle Stuart",
-    "Juan Jose Arevalo",
-    "Viola June Cobb",
-    "S. J. Papich",
-    "Angela delli Sante Arrocha",
-    "Charleton Beals",
-    "Dr. Osegueda",
-    "Bartolome Costa Amic",
-    "Mario Monteforte Toledo",
-    "Fidel Castro",
-    "Eileen Brant"
-  ],
-  "recipient": "Director, Federal Bureau of Investigation"
+  ]
 }

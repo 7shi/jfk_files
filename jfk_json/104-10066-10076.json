@@ -1,37 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "These documents discuss covert operations related to the New China News Agency in Havana and contingency plans for the release and repatriation of TSD employees arrested in Cuba.",
-  "tags": [
-    "OTS",
-    "TSD",
-    "Jim McCord",
-    "Cuban Activities",
-    "STESCALADE",
-    "Audio Operation",
-    "New China News Agency",
-    "Havana",
-    "Release Contingency OPLAN 62-2",
-    "Black Air Transport",
-    "Covert Operations",
-    "Counterintelligence"
-  ],
   "title": "OTS (late TSD) and Jim McCord's Cuban Activities; Summary of STESCALADE - Audio Operation Against the New China News Agency in Havana; RELEASE CONTINGENCY OPLAN 62-2",
+  "title_ja": "OTS（後のTSD）とジム・マッコードのキューバでの活動；ハバナにおける新中国通信社に対するSTESCALADE - 音声作戦の概要；偶発事態対応計画62-2",
+  "summary": "These documents discuss covert operations related to the New China News Agency in Havana and contingency plans for the release and repatriation of TSD employees arrested in Cuba.",
+  "summary_ja": "これらの文書は、ハバナの「新華社通信」に関する秘密工作と、キューバで逮捕されたTSD社員の釈放と本国送還に関する緊急時対応計画について論じている。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1960-09-20",
-  "locations_mentioned": [
-    "Havana",
-    "Mexico City",
-    "Switzerland",
-    "Spain",
-    "Eglin Air Force Base, Florida",
-    "Cuba",
-    "China",
-    "Boston",
-    "Japan",
-    "Washington"
-  ],
   "origin_agency": "CIA",
+  "sender": "RUDOLPH E. GOMEZ, Acting Chief, WH; RICHARD I. SKINNER",
+  "recipient": "DIRECTOR OF CENTRAL INTELLIGENCE",
   "persons_mentioned": [
     "Ben Colling",
     "Jim McCord",
@@ -54,6 +32,30 @@
     "Fumbras",
     "Fiord R. Teransky"
   ],
-  "recipient": "DIRECTOR OF CENTRAL INTELLIGENCE",
-  "sender": "RUDOLPH E. GOMEZ, Acting Chief, WH; RICHARD I. SKINNER"
+  "locations_mentioned": [
+    "Havana",
+    "Mexico City",
+    "Switzerland",
+    "Spain",
+    "Eglin Air Force Base, Florida",
+    "Cuba",
+    "China",
+    "Boston",
+    "Japan",
+    "Washington"
+  ],
+  "tags": [
+    "OTS",
+    "TSD",
+    "Jim McCord",
+    "Cuban Activities",
+    "STESCALADE",
+    "Audio Operation",
+    "New China News Agency",
+    "Havana",
+    "Release Contingency OPLAN 62-2",
+    "Black Air Transport",
+    "Covert Operations",
+    "Counterintelligence"
+  ]
 }

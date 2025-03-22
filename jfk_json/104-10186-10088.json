@@ -1,8 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Policy Guidance Directives for Cuban Intelligence Representatives in Haiti",
+  "title_ja": "ハイチにおけるキューバ情報部代表に対する政策指導指令",
   "summary": "This document contains policy guidance directives for Cuban intelligence representatives in Haiti, prepared by the General Directorate of Intelligence (DGI). It outlines priorities and important areas of focus for intelligence gathering, including plans of aggression against Cuba, progressive political forces, attitudes towards the Cuban Revolution, and strategic information. It also covers topics such as relations with the United States, internal politics of Haiti, and the condition of the national economy.",
+  "summary_ja": "この文書には、ハイチにおけるキューバ情報機関代表者向けの政策指導指令が含まれており、国家情報局（DGI）によって作成された。情報収集の優先事項と重点分野の概要が示されており、キューバに対する攻撃計画、進歩的政治勢力、キューバ革命に対する態度、戦略的情報などが含まれる。また、米国との関係、ハイチの国内政治、国家経済の状況などのトピックもカバーしている。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1965-02-04",
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "sender": "CENTRAL INTELLIGENCE AGENCY",
+  "recipient": "WE/1, EE/GNVA, EE/ZURI, EE/HAMB, EE/KAVA, WE/5, WE/BC, FE/DJAK, WE/R, FE/MEDN, FE/SURA, FE/TOKY, WH/MEXI, FE/OKIE, WH/MNTY, FE/SEOU, WH/MRID, FE/SAIG, FE/KOBE, WH/SDOM, WH/PIBO, NE/COLO, WH/POSN, NE/NEWD, WH/KNGS, NE/BOMB, WH/PRIN, NE/CALC, WH/GORG, NE/MDRS, WH/MANA, NE/KUWA, WH/SJOS, NE/KAHI, WH/SALV, NE/DACC, WH/TEGU, NE/LAHO, WH/GUAT, NE/RAWL, WH/LAPA, NE/BAGH, WH/BOGO, NE/BEIR, WH/QUIT, NE/DAMA, WH/GAYA, NE/ALEP, WH/LIMA, NE/JIDD, WH/CARA, NE/DAHA, WH/BUEN, NE/TAIZ, WH/COBA, NE/CAIR, WH/MONT, NE/ALEX, WH/ASUN, WH/SAGO, WE/BRUS, WH/RIOD, WE/COPE, WH/CURI, WE/HELS, WH/BRIL, WE/OTTA, WH/SAOP, WE/ROME, WH/BHIA, WE/MILA, WH/BEHO, WE/HAGU, WH/LGRE, WE/OSLO, WH/RECI, WE/LISB, WE/MADR, WH/SA/WAVE, WE/BARC, WE/STOC, AF/ALGI, WE/LOND, AF/ORNA, WE/PARI, AF/RABA, AF/CASB, Liaison Dissen, AF/ACCR, IE/Canada, AF/CNRY, RCMP, AF/BAKO, IE/British, AF/DARE, L/WASH/BR, EE/VIEN, EE/SBUR, EE/CYRU, EE/ATHE, EE/SLON, EE/BERN",
+  "persons_mentioned": [
+    "Duvalier",
+    "Trujillo",
+    "Ornei"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Haiti",
+    "United States",
+    "Latin America"
+  ],
   "tags": [
     "Cuban Intelligence",
     "Haiti",
@@ -12,21 +30,5 @@
     "Political Analysis",
     "Strategic Information",
     "Counterintelligence"
-  ],
-  "title": "Policy Guidance Directives for Cuban Intelligence Representatives in Haiti",
-  "date": "1965-02-04",
-  "locations_mentioned": [
-    "Cuba",
-    "Haiti",
-    "United States",
-    "Latin America"
-  ],
-  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
-  "persons_mentioned": [
-    "Duvalier",
-    "Trujillo",
-    "Ornei"
-  ],
-  "recipient": "WE/1, EE/GNVA, EE/ZURI, EE/HAMB, EE/KAVA, WE/5, WE/BC, FE/DJAK, WE/R, FE/MEDN, FE/SURA, FE/TOKY, WH/MEXI, FE/OKIE, WH/MNTY, FE/SEOU, WH/MRID, FE/SAIG, FE/KOBE, WH/SDOM, WH/PIBO, NE/COLO, WH/POSN, NE/NEWD, WH/KNGS, NE/BOMB, WH/PRIN, NE/CALC, WH/GORG, NE/MDRS, WH/MANA, NE/KUWA, WH/SJOS, NE/KAHI, WH/SALV, NE/DACC, WH/TEGU, NE/LAHO, WH/GUAT, NE/RAWL, WH/LAPA, NE/BAGH, WH/BOGO, NE/BEIR, WH/QUIT, NE/DAMA, WH/GAYA, NE/ALEP, WH/LIMA, NE/JIDD, WH/CARA, NE/DAHA, WH/BUEN, NE/TAIZ, WH/COBA, NE/CAIR, WH/MONT, NE/ALEX, WH/ASUN, WH/SAGO, WE/BRUS, WH/RIOD, WE/COPE, WH/CURI, WE/HELS, WH/BRIL, WE/OTTA, WH/SAOP, WE/ROME, WH/BHIA, WE/MILA, WH/BEHO, WE/HAGU, WH/LGRE, WE/OSLO, WH/RECI, WE/LISB, WE/MADR, WH/SA/WAVE, WE/BARC, WE/STOC, AF/ALGI, WE/LOND, AF/ORNA, WE/PARI, AF/RABA, AF/CASB, Liaison Dissen, AF/ACCR, IE/Canada, AF/CNRY, RCMP, AF/BAKO, IE/British, AF/DARE, L/WASH/BR, EE/VIEN, EE/SBUR, EE/CYRU, EE/ATHE, EE/SLON, EE/BERN",
-  "sender": "CENTRAL INTELLIGENCE AGENCY"
+  ]
 }

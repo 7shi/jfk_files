@@ -1,8 +1,27 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Julian NOVAS Fernandez",
+  "title_ja": "ジュリアン・ノバス・フェルナンデス",
   "summary": "Report on Julian NOVAS Fernandez, identified as a Cuban Intelligence Officer, with details on his assignment in Kingston, Jamaica, as Commercial Attache.",
+  "summary_ja": "キューバ情報局員と特定されたジュリアン・ノバス・フェルナンデスに関する報告書。ジャマイカのキングストンにおける商務官としての任務の詳細。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1964-08-27",
+  "origin_agency": "CIA",
+  "sender": "Headquarters",
+  "recipient": "DIA, NAVY, AIR, I&NS, NSA, REP CINCLANT CINCSO",
+  "persons_mentioned": [
+    "Julian NOVAS Fernandez",
+    "Amarilis Marta VALDES Hijuelos",
+    "Gerardo SANCHEZ Robert"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico City",
+    "Kingston",
+    "Jamaica",
+    "Habana"
+  ],
   "tags": [
     "Cuban Intelligence Service",
     "Cuban Embassy",
@@ -11,22 +30,5 @@
     "Jamaica",
     "Commercial Attache",
     "Diplomatic Passport"
-  ],
-  "title": "Julian NOVAS Fernandez",
-  "date": "1964-08-27",
-  "locations_mentioned": [
-    "Cuba",
-    "Mexico City",
-    "Kingston",
-    "Jamaica",
-    "Habana"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Julian NOVAS Fernandez",
-    "Amarilis Marta VALDES Hijuelos",
-    "Gerardo SANCHEZ Robert"
-  ],
-  "recipient": "DIA, NAVY, AIR, I&NS, NSA, REP CINCLANT CINCSO",
-  "sender": "Headquarters"
+  ]
 }

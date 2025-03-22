@@ -1,20 +1,32 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "Secret",
-  "summary": "This document is a report on the progress made during the April-June period in curbing Cuban subversion in Latin America. It details actions taken by the Department of State, Department of Defense, Central Intelligence Agency, and U.S. Information Agency.",
-  "tags": [
-    "Cuban subversion",
-    "Latin America",
-    "Travel control",
-    "Propaganda",
-    "Intelligence",
-    "Military communications",
-    "Guerrilla training",
-    "Counterintelligence"
-  ],
   "title": "ICCCA: Report on Status of Implementation of Actions Designed to Counter Subversion",
+  "title_ja": "ICCCA：破壊工作に対抗するための行動の実施状況に関する報告書",
+  "summary": "This document is a report on the progress made during the April-June period in curbing Cuban subversion in Latin America. It details actions taken by the Department of State, Department of Defense, Central Intelligence Agency, and U.S. Information Agency.",
+  "summary_ja": "この文書は、4月から6月にかけての中南米におけるキューバの破壊活動を抑制する取り組みの進捗状況に関する報告書である。国務省、国防総省、中央情報局、米国情報局がとった行動について詳細に述べている。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1963-07-18",
+  "origin_agency": "ARMY",
+  "sender": "Joseph A. Califano, Jr.",
+  "recipient": "ICCCA",
+  "persons_mentioned": [
+    "Joseph A. Califano, Jr.",
+    "Earle G. Wheeler",
+    "E. R. Zumwalt, Jr.",
+    "J. D. Alger",
+    "W. Wendt",
+    "J. V. Carpenter, III",
+    "H. M. Elwood",
+    "Yarmolinsky",
+    "Haig",
+    "Alessandri",
+    "Juan Bosch",
+    "Peralta",
+    "Carlos Manuel Pellecer",
+    "Castro",
+    "Khrushchev"
+  ],
   "locations_mentioned": [
     "Latin America",
     "Cuba",
@@ -40,24 +52,14 @@
     "Uruguay",
     "Venezuela"
   ],
-  "origin_agency": "ARMY",
-  "persons_mentioned": [
-    "Joseph A. Califano, Jr.",
-    "Earle G. Wheeler",
-    "E. R. Zumwalt, Jr.",
-    "J. D. Alger",
-    "W. Wendt",
-    "J. V. Carpenter, III",
-    "H. M. Elwood",
-    "Yarmolinsky",
-    "Haig",
-    "Alessandri",
-    "Juan Bosch",
-    "Peralta",
-    "Carlos Manuel Pellecer",
-    "Castro",
-    "Khrushchev"
-  ],
-  "recipient": "ICCCA",
-  "sender": "Joseph A. Califano, Jr."
+  "tags": [
+    "Cuban subversion",
+    "Latin America",
+    "Travel control",
+    "Propaganda",
+    "Intelligence",
+    "Military communications",
+    "Guerrilla training",
+    "Counterintelligence"
+  ]
 }

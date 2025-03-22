@@ -1,22 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memo discusses the rejection of an apartment for AMMUG-1 due to exposure to KUBARK staffers and agent assets, including Mr. Dolf Luim, Mr. (Mike Kline), (Horace Speed), and Lou De Santi. It requests that another apartment be secured for AMMUG-1.",
-  "tags": [
-    "AMMUG-1",
-    "KUBARK",
-    "Apartment",
-    "Security"
-  ],
   "title": "REJECTION OF AN APARTMENT FOR AMMUG-1",
+  "title_ja": "AMMUG-1用アパートの拒否",
+  "summary": "This memo discusses the rejection of an apartment for AMMUG-1 due to exposure to KUBARK staffers and agent assets, including Mr. Dolf Luim, Mr. (Mike Kline), (Horace Speed), and Lou De Santi. It requests that another apartment be secured for AMMUG-1.",
+  "summary_ja": "本件は、KUBARKのスタッフおよびドルフ・ロイム氏、（マイク・クライン）、（ホーレス・スピード）、ルー・デ・サンティを含むエージェントの資産に接触したことを理由に、AMMUG-1の使用するアパートが拒否されたことを論じている。AMMUG-1のために別のアパートを確保するよう要請している。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1964-05-20",
-  "locations_mentioned": [
-    "Hunting Towers, Apt #731 West, Mount Vernon Avenue (Blvd.), Alexandria, Virginia",
-    "Bogata, Columbia",
-    "New York"
-  ],
   "origin_agency": "WH/SA/CI",
+  "sender": "Harold F. Swenson, Chief, WH/SA/CI",
+  "recipient": "WH SA/Logistics",
   "persons_mentioned": [
     "AMMUG-1",
     "Dolf Luim",
@@ -26,6 +19,15 @@
     "Dr. Winston",
     "Harold F. Swenson"
   ],
-  "recipient": "WH SA/Logistics",
-  "sender": "Harold F. Swenson, Chief, WH/SA/CI"
+  "locations_mentioned": [
+    "Hunting Towers, Apt #731 West, Mount Vernon Avenue (Blvd.), Alexandria, Virginia",
+    "Bogata, Columbia",
+    "New York"
+  ],
+  "tags": [
+    "AMMUG-1",
+    "KUBARK",
+    "Apartment",
+    "Security"
+  ]
 }

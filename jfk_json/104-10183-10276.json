@@ -1,38 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum discusses AMMUG/1 Operation, target analysis, and non-surfacable leads. It includes lists of Central American and Caribbean nationals whose names have come up during debriefing, as well as Target Analysis Summary Reports on individuals like Francisco Javier HELLA Pena and Roque DALTON Garcia. The memo also details operational leads and vulnerabilities for recruitment or defection.",
-  "tags": [
-    "AMMUG/1 Operation",
-    "Target Analysis",
-    "Non-surfacable Leads",
-    "Central America",
-    "Caribbean",
-    "Cuban Intelligence Service",
-    "Guerrilla Warfare",
-    "Recruitment",
-    "Defection",
-    "PCES",
-    "FLN"
-  ],
   "title": "AMMUG/1 Operation: Target Analysis and Non-surfacable Leads",
+  "title_ja": "AMMUG/1作戦：標的の分析と非浮上可能な先導",
+  "summary": "This memorandum discusses AMMUG/1 Operation, target analysis, and non-surfacable leads. It includes lists of Central American and Caribbean nationals whose names have come up during debriefing, as well as Target Analysis Summary Reports on individuals like Francisco Javier HELLA Pena and Roque DALTON Garcia. The memo also details operational leads and vulnerabilities for recruitment or defection.",
+  "summary_ja": "この覚書では、AMMUG/1作戦、標的の分析、および非公開の情報を取り上げている。 報告会で名前が挙がった中米およびカリブ海諸国の国民のリスト、およびフランシスコ・ハビエル・ヘラ・ペーニャやロケ・ダルトン・ガルシアのような人物に関する標的の分析概要報告書が含まれている。 この覚書では、採用または離反に関する作戦上の情報や脆弱性についても詳細に説明されている。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1964-06-19",
-  "locations_mentioned": [
-    "Central America",
-    "Caribbean",
-    "Dominican Republic",
-    "Madrid",
-    "Spain",
-    "Mexico",
-    "Cuba",
-    "Haiti",
-    "Honduras",
-    "Nicaragua",
-    "Panama",
-    "El Salvador"
-  ],
   "origin_agency": "CIA",
+  "sender": "John M. Whitten, C/WH/2",
+  "recipient": "Chief, WH/SA/CI",
   "persons_mentioned": [
     "Francisco Javier HELLA Pena",
     "Jaime DURAN Hernando",
@@ -138,6 +115,31 @@
     "Thelma KING",
     "Jorge TURNER"
   ],
-  "recipient": "Chief, WH/SA/CI",
-  "sender": "John M. Whitten, C/WH/2"
+  "locations_mentioned": [
+    "Central America",
+    "Caribbean",
+    "Dominican Republic",
+    "Madrid",
+    "Spain",
+    "Mexico",
+    "Cuba",
+    "Haiti",
+    "Honduras",
+    "Nicaragua",
+    "Panama",
+    "El Salvador"
+  ],
+  "tags": [
+    "AMMUG/1 Operation",
+    "Target Analysis",
+    "Non-surfacable Leads",
+    "Central America",
+    "Caribbean",
+    "Cuban Intelligence Service",
+    "Guerrilla Warfare",
+    "Recruitment",
+    "Defection",
+    "PCES",
+    "FLN"
+  ]
 }

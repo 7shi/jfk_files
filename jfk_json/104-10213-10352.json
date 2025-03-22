@@ -1,8 +1,24 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "House Select Committee on Assassinations Request for Information on 201 Criteria (S)",
+  "title_ja": "暗殺に関する下院特別委員会 201の基準に関する情報提供依頼",
   "summary": "This document discusses the 201 system, which is a method for identifying persons of interest and controlling information about them. It includes details on opening, maintaining, controlling, and closing 201 files, as well as the use of OI codes and machine listings.",
+  "summary_ja": "この文書では、関心のある人物を特定し、それらの人物に関する情報を管理する方法である201システムについて説明している。201ファイルの開設、維持、管理、閉鎖の詳細、およびOIコードとマシンリストの使用についても記載されている。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1978-02-28",
+  "origin_agency": "CIA",
+  "sender": "C/ISS",
+  "recipient": "O/SA/DO/O",
+  "persons_mentioned": [
+    "William F. Donnelly",
+    "Shepanek",
+    "Cleffi"
+  ],
+  "locations_mentioned": [
+    "Germany",
+    "Mexico"
+  ],
   "tags": [
     "201 system",
     "information control",
@@ -10,19 +26,5 @@
     "machine listings",
     "Dossier Maintenance",
     "File Restriction"
-  ],
-  "title": "House Select Committee on Assassinations Request for Information on 201 Criteria (S)",
-  "date": "1978-02-28",
-  "locations_mentioned": [
-    "Germany",
-    "Mexico"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "William F. Donnelly",
-    "Shepanek",
-    "Cleffi"
-  ],
-  "recipient": "O/SA/DO/O",
-  "sender": "C/ISS"
+  ]
 }

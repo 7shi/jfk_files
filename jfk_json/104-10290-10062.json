@@ -1,8 +1,25 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "1992年ジョン・F・ケネディ大統領暗殺記録法に基づく開示",
   "summary": "This document appears to be related to the release of information under the John F. Kennedy Assassination Records Act of 1992. It includes alphanumeric codes, geographic locations, and potentially names or organizations. Further analysis is needed to determine the specific content.",
+  "summary_ja": "この文書は、1992年のジョン・F・ケネディ暗殺記録法に基づく情報公開に関連していると思われる。この文書には、英数字のコード、地理的位置、および可能性のある個人名や組織名が含まれている。具体的な内容を特定するには、さらなる分析が必要である。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
+  "date": "2025-01-01",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "SUZUKI",
+    "FELTRO",
+    "OPPINER"
+  ],
+  "locations_mentioned": [
+    "CALIFORNIA",
+    "SAN FRANCISCO"
+  ],
   "tags": [
     "JFK Assassination Records Act",
     "Release 2025",
@@ -11,20 +28,5 @@
     "96803",
     "86002",
     "California"
-  ],
-  "title": "RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
-  "date": "2025-01-01",
-  "locations_mentioned": [
-    "CALIFORNIA",
-    "SAN FRANCISCO"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "JOHN F. KENNEDY",
-    "SUZUKI",
-    "FELTRO",
-    "OPPINER"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

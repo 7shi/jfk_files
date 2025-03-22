@@ -1,23 +1,28 @@
 {
-  "classification": "Personnel",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch pertains to LIHUFF/1, an outside agent recruited as a cutout for the LIHUFF/2 organization. The dispatch includes personal history statements and requests processing a contract for the subject.",
-  "tags": [
-    "LIHUFF/1",
-    "LIHUFF/2",
-    "KUBARK",
-    "KUWOLF",
-    "Agent",
-    "Recruitment",
-    "Contract",
-    "Personal History",
-    "Mexico City",
-    "Propaganda",
-    "Student Groups"
-  ],
   "title": "LIHUFF/1",
+  "title_ja": "リフ/1",
+  "summary": "This dispatch pertains to LIHUFF/1, an outside agent recruited as a cutout for the LIHUFF/2 organization. The dispatch includes personal history statements and requests processing a contract for the subject.",
+  "summary_ja": "この報告書は、LIHUFF/1、すなわちLIHUFF/2組織の隠れみのとして採用された外部エージェントに関するものである。報告書には、対象者の経歴に関する記述と契約処理の依頼が含まれている。",
+  "document_type": "Dispatch",
+  "classification": "Personnel",
+  "security_level": "SECRET",
   "date": "1963-04-29",
+  "origin_agency": "XX",
+  "sender": "Chief of Station, Mexico City",
+  "recipient": "Chief, WH Division",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Wilcard Curtis",
+    "Alfonso Rudolph Wichtrich",
+    "Rachel Esther Williams Wichtrich",
+    "John Allen Wichtrich",
+    "Janet Rae Wichtrich",
+    "Ellen Anne",
+    "William Gus",
+    "Patricia Jean",
+    "Gustaf Wichtrich",
+    "Fermina Esparza"
+  ],
   "locations_mentioned": [
     "Mexico City",
     "Mexico",
@@ -39,20 +44,17 @@
     "Newport, R. I.",
     "Baltimore, MD"
   ],
-  "origin_agency": "XX",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Wilcard Curtis",
-    "Alfonso Rudolph Wichtrich",
-    "Rachel Esther Williams Wichtrich",
-    "John Allen Wichtrich",
-    "Janet Rae Wichtrich",
-    "Ellen Anne",
-    "William Gus",
-    "Patricia Jean",
-    "Gustaf Wichtrich",
-    "Fermina Esparza"
-  ],
-  "recipient": "Chief, WH Division",
-  "sender": "Chief of Station, Mexico City"
+  "tags": [
+    "LIHUFF/1",
+    "LIHUFF/2",
+    "KUBARK",
+    "KUWOLF",
+    "Agent",
+    "Recruitment",
+    "Contract",
+    "Personal History",
+    "Mexico City",
+    "Propaganda",
+    "Student Groups"
+  ]
 }

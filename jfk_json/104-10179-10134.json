@@ -1,8 +1,34 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "PARI 9068: RAY CONTACTS AND PLANS",
+  "title_ja": "パリ9068：レイの連絡先と計画",
   "summary": "This cable discusses Ray's contacts in Paris, including Jervay, Unrumble 6, Unpapist, and Alberto Brez Vito. It also mentions Cabrera's potential work on Arcos, Kubark staffer's interactions with Ray, and Ray's confidence in Franqui joining his camp. The cable further details Ray's plans to identify disaffected elements in Cuba and build a supply apparatus. It also includes Ray's requests for a list of Cuban embassies, training in a specific system, and a job for Cabrera.",
+  "summary_ja": "この電報は、パリにおけるレイの連絡先について述べている。その中には、ジャーベイ、アンランブル6、アンパピスト、アルベルト・ブレス・ヴィトなどが含まれる。また、カブレラがアルコスで潜在的に行っている活動、キューバ反体制派のスタッフとレイとの交流、レイがフランキを自分の陣営に引き入れることへの自信についても言及している。この電報はさらに、レイがキューバ国内の不満分子を特定し、物資供給体制を構築する計画について詳しく述べている。また、レイがキューバ大使館のリスト、特定のシステムに関する訓練、カブレラの仕事について要求していることも記載されている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-06-19",
+  "origin_agency": "CIA",
+  "sender": "FROM: PARIS",
+  "recipient": "TODIRECTOR",
+  "persons_mentioned": [
+    "Ray",
+    "Jervay",
+    "Cabrera",
+    "Arcos",
+    "Franqui",
+    "Nauman",
+    "Guevara",
+    "Gramatges",
+    "Sinobas",
+    "Mario Gracia Varela",
+    "Alberto Brez Vito"
+  ],
+  "locations_mentioned": [
+    "Paris",
+    "Cuba",
+    "Puerto Rico",
+    "Europe"
+  ],
   "tags": [
     "Ray",
     "Jervay",
@@ -18,29 +44,5 @@
     "Propaganda",
     "Disaffection",
     "Supply Apparatus"
-  ],
-  "title": "PARI 9068: RAY CONTACTS AND PLANS",
-  "date": "1963-06-19",
-  "locations_mentioned": [
-    "Paris",
-    "Cuba",
-    "Puerto Rico",
-    "Europe"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Ray",
-    "Jervay",
-    "Cabrera",
-    "Arcos",
-    "Franqui",
-    "Nauman",
-    "Guevara",
-    "Gramatges",
-    "Sinobas",
-    "Mario Gracia Varela",
-    "Alberto Brez Vito"
-  ],
-  "recipient": "TODIRECTOR",
-  "sender": "FROM: PARIS"
+  ]
 }

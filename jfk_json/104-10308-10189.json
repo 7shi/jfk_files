@@ -1,8 +1,24 @@
 {
-  "classification": "SECRET",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "RYBAT INDEVOUT 301",
+  "title_ja": "RYBAT INDEVOUT 301",
   "summary": "Cable from MIDDAUGH to ZURC requesting assistance in obtaining books on espionage for a G-2 co-opted subject. Lists previously sent books and desired subjects.",
+  "summary_ja": "G-2の協力対象に関するスパイに関する書籍の入手支援を要請するMIDDAUGHからZURCへの電報。以前に送られた書籍と希望する対象のリスト。",
+  "document_type": "Cable",
+  "classification": "SECRET",
+  "security_level": "SECRET",
+  "date": "1963-07-11",
+  "origin_agency": "DOMARK",
+  "sender": "MIDDAUGH",
+  "recipient": "ZURC",
+  "persons_mentioned": [
+    "MIDDAUGH"
+  ],
+  "locations_mentioned": [
+    "ZURC",
+    "BERN",
+    "LONDON",
+    "HOLLAND"
+  ],
   "tags": [
     "espionage",
     "books",
@@ -14,19 +30,5 @@
     "communist defectors",
     "Operation North Pole",
     "Holland"
-  ],
-  "title": "RYBAT INDEVOUT 301",
-  "date": "1963-07-11",
-  "locations_mentioned": [
-    "ZURC",
-    "BERN",
-    "LONDON",
-    "HOLLAND"
-  ],
-  "origin_agency": "DOMARK",
-  "persons_mentioned": [
-    "MIDDAUGH"
-  ],
-  "recipient": "ZURC",
-  "sender": "MIDDAUGH"
+  ]
 }

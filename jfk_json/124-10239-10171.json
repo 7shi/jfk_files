@@ -1,8 +1,29 @@
 {
-  "classification": "Mexico",
-  "document_type": "Memo",
-  "security_level": "Secret",
+  "title": "LEE HARVEY OSWALD IS-R-Cuba",
+  "title_ja": "リー・ハーヴェイ・オズワルドに関する情報",
   "summary": "This document discusses Ernesto Mitrani Levy, a Cuban national who worked at the Cuban Consulate in Mexico City and was suspected of cooperating with anti-Castro forces. It details his interactions with the U.S. Embassy, CIA, and Cuban officials, as well as his potential defection.",
+  "summary_ja": "この文書は、メキシコシティのキューバ領事館で働き、反カストロ勢力と協力している疑いのあるキューバ国籍のエルネスト・ミトラーニ・レヴィについて論じている。この文書は、米国大使館、CIA、キューバ当局とのやりとり、および彼の亡命の可能性について詳細に述べている。",
+  "document_type": "Memo",
+  "classification": "Mexico",
+  "security_level": "Secret",
+  "date": "1964-03-13",
+  "origin_agency": "FBI",
+  "sender": "TRENT, ROLAND E.",
+  "recipient": "LEG, MX",
+  "persons_mentioned": [
+    "LEE HARVEY OSWALD",
+    "ERNESTO MITRANI LEVY",
+    "MARGARITA MUNGUIA",
+    "JOSE ANTONIO PORTUONDO",
+    "DAVID PHILLIPS",
+    "JOSEPH T. GENCO",
+    "FELIX VALDES"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Havana",
+    "Los Angeles"
+  ],
   "tags": [
     "Lee Harvey Oswald",
     "LHO",
@@ -13,24 +34,5 @@
     "CIA",
     "Anti-Castro",
     "Defection"
-  ],
-  "title": "LEE HARVEY OSWALD IS-R-Cuba",
-  "date": "1964-03-13",
-  "locations_mentioned": [
-    "Mexico City",
-    "Havana",
-    "Los Angeles"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "LEE HARVEY OSWALD",
-    "ERNESTO MITRANI LEVY",
-    "MARGARITA MUNGUIA",
-    "JOSE ANTONIO PORTUONDO",
-    "DAVID PHILLIPS",
-    "JOSEPH T. GENCO",
-    "FELIX VALDES"
-  ],
-  "recipient": "LEG, MX",
-  "sender": "TRENT, ROLAND E."
+  ]
 }

@@ -1,27 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Report",
-  "security_level": "SECRET",
-  "summary": "This document is a field information report from San Jose, Costa Rica, dated February 1, 1956, concerning Guatemalan exile activities. It includes a translated letter from Col. Carlos PAZ Tejada to Col. Francisco COSENZA Galvez, discussing a failed revolt, political relationships, and future plans.",
-  "tags": [
-    "Guatemalan Exile Activities",
-    "Carlos PAZ Tejada",
-    "Francisco COSENZA Galvez",
-    "Costa Rica",
-    "El Salvador",
-    "Mexico",
-    "Communists",
-    "Carlos CASTILLO Armas"
-  ],
   "title": "Field Information Report: Guatemalan Exile Activities",
+  "title_ja": "現地情報報告：グアテマラ亡命活動",
+  "summary": "This document is a field information report from San Jose, Costa Rica, dated February 1, 1956, concerning Guatemalan exile activities. It includes a translated letter from Col. Carlos PAZ Tejada to Col. Francisco COSENZA Galvez, discussing a failed revolt, political relationships, and future plans.",
+  "summary_ja": "この文書は、1956年2月1日付のコスタリカ、サンノゼからの現地情報報告書で、グアテマラ亡命者の活動に関するものである。カルロス・パズ・テハダ大佐からフランシスコ・コセンザ・ガルベス大佐宛ての翻訳された手紙が含まれており、失敗した反乱、政治的関係、今後の計画について議論されている。",
+  "document_type": "Report",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1956-02-01",
-  "locations_mentioned": [
-    "San Jose, Costa Rica",
-    "Guatemala",
-    "El Salvador",
-    "Mexico"
-  ],
   "origin_agency": "Unspecified",
+  "sender": "San Jose, Costa Rica",
+  "recipient": "Washington",
   "persons_mentioned": [
     "Stefan R. Lebanos",
     "Carlos PAZ Tejada",
@@ -33,6 +21,20 @@
     "Adolfo GARCIA Montenegro",
     "Juan Jose AREVALO"
   ],
-  "recipient": "Washington",
-  "sender": "San Jose, Costa Rica"
+  "locations_mentioned": [
+    "San Jose, Costa Rica",
+    "Guatemala",
+    "El Salvador",
+    "Mexico"
+  ],
+  "tags": [
+    "Guatemalan Exile Activities",
+    "Carlos PAZ Tejada",
+    "Francisco COSENZA Galvez",
+    "Costa Rica",
+    "El Salvador",
+    "Mexico",
+    "Communists",
+    "Carlos CASTILLO Armas"
+  ]
 }

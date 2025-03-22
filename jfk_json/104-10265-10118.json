@@ -1,29 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Memorandum regarding a tape-recorded conversation between William D. Pawley and an unidentified Cuban about plans for sabotage against Castro and the need for moral and financial support from the U.S.",
-  "tags": [
-    "sabotage",
-    "sugar harvest",
-    "revolutionary movement",
-    "moral support",
-    "financial support",
-    "anti-Castro",
-    "Cuban exiles",
-    "Dominican Republic"
-  ],
   "title": "Highlights of Tape-Recorded Conversation in Hand Between Mr. William D. Pawley and an Unidentified Cuban during Period 17-18 October",
+  "title_ja": "10月17日～18日の期間に、ウィリアム・D・ポール氏と身元不明のキューバ人との間で交わされた録音テープの会話のハイライト",
+  "summary": "Memorandum regarding a tape-recorded conversation between William D. Pawley and an unidentified Cuban about plans for sabotage against Castro and the need for moral and financial support from the U.S.",
+  "summary_ja": "カストロに対する妨害工作の計画と米国からの道義的・財政的支援の必要性について、ウィリアム・D・ポールリーと身元不明のキューバ人との間のテープ録音された会話に関する覚書",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1959-10-20",
-  "locations_mentioned": [
-    "Cuba",
-    "Dominican Republic",
-    "Camaguey",
-    "Santa Clara",
-    "Habana",
-    "Matanzas"
-  ],
   "origin_agency": "WH/III/CARIB",
+  "sender": "Martha Tharpe",
+  "recipient": "THE RECORD",
   "persons_mentioned": [
     "William D. Pawley",
     "Owen Faust",
@@ -33,6 +19,22 @@
     "CASTRO",
     "Martha Tharpe"
   ],
-  "recipient": "THE RECORD",
-  "sender": "Martha Tharpe"
+  "locations_mentioned": [
+    "Cuba",
+    "Dominican Republic",
+    "Camaguey",
+    "Santa Clara",
+    "Habana",
+    "Matanzas"
+  ],
+  "tags": [
+    "sabotage",
+    "sugar harvest",
+    "revolutionary movement",
+    "moral support",
+    "financial support",
+    "anti-Castro",
+    "Cuban exiles",
+    "Dominican Republic"
+  ]
 }

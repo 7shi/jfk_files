@@ -1,18 +1,20 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Memorandum regarding MOVIMIENTO DEMOCRATICA CRISTIANO and its correspondence with Hungarian Freedom Fighters Inc.",
-  "tags": [
-    "Anti-Castro group",
-    "Operational Approval"
-  ],
   "title": "MOVIMIENTO DEMOCRATICA CRISTIANO",
+  "title_ja": "キリスト教民主運動",
+  "summary": "Memorandum regarding MOVIMIENTO DEMOCRATICA CRISTIANO and its correspondence with Hungarian Freedom Fighters Inc.",
+  "summary_ja": "MOVIMIENTO DEMOCRATICA CRISTIANOに関する覚書およびハンガリー自由戦士社との通信",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1960",
+  "sender": "George Weademan",
   "persons_mentioned": [
     "Laureano BATESTI",
     "Bela Kiraly",
     "James Condon"
   ],
-  "sender": "George Weademan"
+  "tags": [
+    "Anti-Castro group",
+    "Operational Approval"
+  ]
 }

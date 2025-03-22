@@ -1,29 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "These cables discuss Carlos Prio Socarras' financial activities and potential involvement in Cuban political matters, including suspicions of funding revolutionary activities and currency exchanges.",
-  "tags": [
-    "Carlos Prio Socarras",
-    "Financial Activities",
-    "Cuban Politics",
-    "Currency Exchange",
-    "Revolutionary Activities",
-    "Guaranty Trust Company",
-    "Frank Jackson",
-    "Anti-Communist League of Cuba"
-  ],
   "title": "Cables Regarding Carlos Prio Socarras' Financial Activities and Cuban Political Involvement",
+  "title_ja": "カルロス・プリオ・ソカラス氏の財務活動とキューバの政治的関与について",
+  "summary": "These cables discuss Carlos Prio Socarras' financial activities and potential involvement in Cuban political matters, including suspicions of funding revolutionary activities and currency exchanges.",
+  "summary_ja": "これらの電報は、カルロス・プリオ・ソカラス氏の金融活動と、革命活動への資金援助や為替取引への関与の疑いを含む、キューバの政治問題への関与の可能性について論じている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1953-09-22",
-  "locations_mentioned": [
-    "Cuba",
-    "Miami",
-    "New York",
-    "Havana",
-    "Switzerland",
-    "Washington"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, Contact Division",
+  "recipient": "Chief, New Orleans Office",
   "persons_mentioned": [
     "Carlos Prio Socarras",
     "Francisco Prio",
@@ -34,6 +20,22 @@
     "Carlos Novia",
     "Pedro Martinez Fraga"
   ],
-  "recipient": "Chief, New Orleans Office",
-  "sender": "Chief, Contact Division"
+  "locations_mentioned": [
+    "Cuba",
+    "Miami",
+    "New York",
+    "Havana",
+    "Switzerland",
+    "Washington"
+  ],
+  "tags": [
+    "Carlos Prio Socarras",
+    "Financial Activities",
+    "Cuban Politics",
+    "Currency Exchange",
+    "Revolutionary Activities",
+    "Guaranty Trust Company",
+    "Frank Jackson",
+    "Anti-Communist League of Cuba"
+  ]
 }

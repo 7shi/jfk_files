@@ -1,18 +1,21 @@
 {
-  "classification": "JFK Assassination System",
-  "document_type": "Paper, Textual Document",
-  "security_level": "Secret",
-  "summary": "This document is a report on the Cold War Use of Radio Broadcasting by CIA, dated June 25, 1953. It includes recommendations for a body of principles to govern over-all CIA policy in its present and future activities in this field.",
-  "tags": [
-    "RADIO BROADCASTING",
-    "CIA",
-    "Cold War",
-    "Psychological Warfare",
-    "Covert Operations",
-    "Propaganda"
-  ],
   "title": "REPORT ON THE COLD WAR USE OF RADIO BROADCASTING BY CIA",
+  "title_ja": "CIAによる冷戦下のラジオ放送に関する報告書",
+  "summary": "This document is a report on the Cold War Use of Radio Broadcasting by CIA, dated June 25, 1953. It includes recommendations for a body of principles to govern over-all CIA policy in its present and future activities in this field.",
+  "summary_ja": "この文書は、1953年6月25日付のCIAによる「冷戦下のラジオ放送」に関する報告書である。この分野におけるCIAの現在および将来の活動全般にわたる政策を規定する基本原則についての提言が含まれている。",
+  "document_type": "Paper, Textual Document",
+  "classification": "JFK Assassination System",
+  "security_level": "Secret",
   "date": "1953-06-25",
+  "origin_agency": "CIA",
+  "sender": "C. TRACY BARNES",
+  "recipient": "See distribution below",
+  "persons_mentioned": [
+    "C. TRACY BARNES",
+    "C. Lloyd Egner",
+    "Stanley P. Richardson",
+    "General McClelland"
+  ],
   "locations_mentioned": [
     "USSR",
     "China",
@@ -23,13 +26,12 @@
     "Pacific area",
     "Saudi Arabia"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "C. TRACY BARNES",
-    "C. Lloyd Egner",
-    "Stanley P. Richardson",
-    "General McClelland"
-  ],
-  "recipient": "See distribution below",
-  "sender": "C. TRACY BARNES"
+  "tags": [
+    "RADIO BROADCASTING",
+    "CIA",
+    "Cold War",
+    "Psychological Warfare",
+    "Covert Operations",
+    "Propaganda"
+  ]
 }

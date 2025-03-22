@@ -1,8 +1,25 @@
 {
-  "classification": "Cuba",
-  "document_type": "Telegram",
-  "security_level": "SECRET",
+  "title": "STATEMENTS OF MANOLA RAY, EXILE LEADER OF THE PEOPLE'S REVOLUTIONARY MOVEMENT",
+  "title_ja": "人民革命運動の亡命指導者マノーラ・レイの供述書",
   "summary": "Telegram regarding statements of Manola Ray, exile leader of the People's Revolutionary Movement, who opposed invasion of Cuba and believed Castro's overthrow would be achieved by internal resistance. Ray claimed the MRP was organized throughout the island and supported by all classes, with members in trade unions, G-2, militia and administration. Ray estimated that 80% of the population opposed Castro.",
+  "summary_ja": "キューバ侵攻に反対し、カストロの打倒は国内の抵抗によって達成されると信じていた人民革命運動の亡命指導者マノーラ・レイの供述に関する電報。レイは、人民革命運動はキューバ全土で組織され、あらゆる階層から支持されており、組合、G-2、民兵、行政にメンバーがいると主張した。レイは、人口の80%がカストロに反対していると推定した。",
+  "document_type": "Telegram",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1961-10-24",
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "sender": "CIA",
+  "recipient": "STATE ARMY/ACSI NAVY AIR JCS SECDEF NSA NIC LISIA OCI ONE OCR ORR OD EXO FBI &NS TREASURY REPC INCLANT",
+  "persons_mentioned": [
+    "MANOLA RAY",
+    "CASTRO"
+  ],
+  "locations_mentioned": [
+    "CUBA",
+    "ENGLAND",
+    "LONDON",
+    "CARACAS"
+  ],
   "tags": [
     "Manola Ray",
     "Movimiento Revolucionario Del Pueblo",
@@ -17,20 +34,5 @@
     "militia",
     "administration",
     "opposition"
-  ],
-  "title": "STATEMENTS OF MANOLA RAY, EXILE LEADER OF THE PEOPLE'S REVOLUTIONARY MOVEMENT",
-  "date": "1961-10-24",
-  "locations_mentioned": [
-    "CUBA",
-    "ENGLAND",
-    "LONDON",
-    "CARACAS"
-  ],
-  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
-  "persons_mentioned": [
-    "MANOLA RAY",
-    "CASTRO"
-  ],
-  "recipient": "STATE ARMY/ACSI NAVY AIR JCS SECDEF NSA NIC LISIA OCI ONE OCR ORR OD EXO FBI &NS TREASURY REPC INCLANT",
-  "sender": "CIA"
+  ]
 }

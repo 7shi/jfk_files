@@ -1,8 +1,22 @@
 {
-  "classification": "Personnel",
-  "document_type": "Personal History Statement",
-  "security_level": "UNCLASSIFIED",
+  "title": "PERSONAL HISTORY STATEMENT - (Appendix I)",
+  "title_ja": "個人経歴書 - （付録I）",
   "summary": "This document is a Personal History Statement, containing information about Daniel Flores's personal and professional background. It includes details about his education, language abilities, geographic knowledge, employment history, and military service.",
+  "summary_ja": "この文書は、ダニエル・フローレスの個人および職業上の経歴に関する情報を記載した個人経歴書である。この文書には、彼の教育、語学力、地理的知識、職歴、および軍歴の詳細が記載されている。",
+  "document_type": "Personal History Statement",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
+  "date": "1961-09-06",
+  "sender": "OPSERTOB",
+  "persons_mentioned": [
+    "Daniel Flores",
+    "John Magruder",
+    "William (Hillburn)",
+    "Ignacio Gonzales",
+    "John Sparkman",
+    "Max Mendlovitz",
+    "L. G. Bruce"
+  ],
   "tags": [
     "Personal History",
     "Employment History",
@@ -13,17 +27,5 @@
     "Organizations",
     "Foreign Travel",
     "Language Skills"
-  ],
-  "title": "PERSONAL HISTORY STATEMENT - (Appendix I)",
-  "date": "1961-09-06",
-  "persons_mentioned": [
-    "Daniel Flores",
-    "John Magruder",
-    "William (Hillburn)",
-    "Ignacio Gonzales",
-    "John Sparkman",
-    "Max Mendlovitz",
-    "L. G. Bruce"
-  ],
-  "sender": "OPSERTOB"
+  ]
 }

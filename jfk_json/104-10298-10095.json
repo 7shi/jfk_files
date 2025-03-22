@@ -1,28 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This memorandum discusses the Cuban Revolutionary Council's reaction to the United States' policy towards Cuba in April 1963, including Dr. Jose Miro Cardona's potential resignation and the Council's concerns about peaceful co-existence with Communist Cuba.",
-  "tags": [
-    "Cuban Revolutionary Council",
-    "Jose Miro Cardona",
-    "United States policy",
-    "Cuban exiles",
-    "Fidel Castro",
-    "John F. Kennedy",
-    "Miami News",
-    "Miami Herald"
-  ],
   "title": "Cuban Revolutionary Council - Internal Security - Cuba",
+  "title_ja": "キューバ革命評議会 - キューバ国内治安部隊 -",
+  "summary": "This memorandum discusses the Cuban Revolutionary Council's reaction to the United States' policy towards Cuba in April 1963, including Dr. Jose Miro Cardona's potential resignation and the Council's concerns about peaceful co-existence with Communist Cuba.",
+  "summary_ja": "この覚書では、1963年4月のキューバに対する米国の政策に対するキューバ革命評議会の反応について論じている。ホセ・ミロ・カルドナ博士の辞任の可能性と、共産主義のキューバとの平和的共存に対する評議会の懸念などである。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
   "date": "1963-04-16",
-  "locations_mentioned": [
-    "Miami, Florida",
-    "Cuba",
-    "Havana",
-    "Washington, D. C.",
-    "Guantanamo"
-  ],
   "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "sender": "FBI",
+  "recipient": "Unknown",
   "persons_mentioned": [
     "JOSE MIRO CARDONA",
     "JOHN F. KENNEDY",
@@ -42,6 +29,21 @@
     "ANTONIO SILIO",
     "FIDEL CASTRO"
   ],
-  "recipient": "Unknown",
-  "sender": "FBI"
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Cuba",
+    "Havana",
+    "Washington, D. C.",
+    "Guantanamo"
+  ],
+  "tags": [
+    "Cuban Revolutionary Council",
+    "Jose Miro Cardona",
+    "United States policy",
+    "Cuban exiles",
+    "Fidel Castro",
+    "John F. Kennedy",
+    "Miami News",
+    "Miami Herald"
+  ]
 }

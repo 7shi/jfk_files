@@ -1,8 +1,39 @@
 {
-  "classification": "Cuba",
-  "document_type": "Transcript",
-  "security_level": "TOP SECRET",
+  "title": "Testimony of William Harvey",
+  "title_ja": "ウィリアム・ハーヴェイの証言",
   "summary": "This document is a transcript of the testimony of William Harvey on June 25, 1975. The testimony covers subjects such as ZRRIFLE, Castro, Johnny Roselli, Operation Mongoose, Richard Bissell, assassinations, John F. Kennedy, QJWIN, the Mafia, and Arnold Silver.",
+  "summary_ja": "本書は、1975年6月25日に行なわれたウィリアム・ハーヴェイの証言の記録である。証言では、ZRRIFLE、カストロ、ジョニー・ロセッリ、オペレーション・マングース、リチャード・ビッセル、暗殺、ジョン・F・ケネディ、QJWIN、マフィア、アーノルド・シルバーといったテーマが扱われている。",
+  "document_type": "Transcript",
+  "classification": "Cuba",
+  "security_level": "TOP SECRET",
+  "date": "1975-06-25",
+  "origin_agency": "SSCIA",
+  "sender": "SSCIA",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "William Harvey",
+    "John F. Kennedy",
+    "Richard Bissell",
+    "Johnny Roselli",
+    "Arnold Silver",
+    "Justin O'Donnell",
+    "Patrice Lumumba",
+    "Frank Rollett",
+    "Dick Helms",
+    "Sid Gottlieb",
+    "Trujillo",
+    "Fanfani",
+    "Burton Wides"
+  ],
+  "locations_mentioned": [
+    "USSR",
+    "West Berlin",
+    "East Berlin",
+    "Germany",
+    "Congo",
+    "Rome",
+    "Europe"
+  ],
   "tags": [
     "ZRRIFLE",
     "Castro",
@@ -22,34 +53,5 @@
     "Communications Intelligence",
     "Code information",
     "Berlin Tunnel"
-  ],
-  "title": "Testimony of William Harvey",
-  "date": "1975-06-25",
-  "locations_mentioned": [
-    "USSR",
-    "West Berlin",
-    "East Berlin",
-    "Germany",
-    "Congo",
-    "Rome",
-    "Europe"
-  ],
-  "origin_agency": "SSCIA",
-  "persons_mentioned": [
-    "William Harvey",
-    "John F. Kennedy",
-    "Richard Bissell",
-    "Johnny Roselli",
-    "Arnold Silver",
-    "Justin O'Donnell",
-    "Patrice Lumumba",
-    "Frank Rollett",
-    "Dick Helms",
-    "Sid Gottlieb",
-    "Trujillo",
-    "Fanfani",
-    "Burton Wides"
-  ],
-  "recipient": "N/A",
-  "sender": "SSCIA"
+  ]
 }

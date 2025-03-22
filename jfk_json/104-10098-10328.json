@@ -1,8 +1,24 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "MEXI 7416",
+  "title_ja": "MEXI 7416",
   "summary": "This cable discusses a request from [S/] for 190 dollars in view of his wife's visit to Mexico City for Christmas. It also mentions [S/]'s living situation, his connection to a PCM member named Eliodorina Garcia, and upcoming meetings.",
+  "summary_ja": "この電報では、クリスマスに妻がメキシコシティを訪問することから、[S/]からの190ドルの要請について議論している。また、[S/]の生活状況、Eliodorina GarciaというPCMメンバーとの関係、今後の会議についても言及している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-12-17",
+  "origin_agency": "CIA",
+  "sender": "Director",
+  "recipient": "TEGU",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "S/"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Merida",
+    "Calle NO. 17, Colonia Montezuma"
+  ],
   "tags": [
     "Christmas",
     "wife",
@@ -10,19 +26,5 @@
     "Elieodorina Garcia",
     "meeting",
     "funds"
-  ],
-  "title": "MEXI 7416",
-  "date": "1963-12-17",
-  "locations_mentioned": [
-    "Mexico City",
-    "Merida",
-    "Calle NO. 17, Colonia Montezuma"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "S/"
-  ],
-  "recipient": "TEGU",
-  "sender": "Director"
+  ]
 }

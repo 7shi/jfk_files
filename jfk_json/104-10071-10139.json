@@ -1,22 +1,25 @@
 {
-  "classification": "Cable",
-  "document_type": "Message",
-  "security_level": "SECRET",
+  "title": "Information Concerning Suspect in Martin Luther King Jr. Assassination",
+  "title_ja": "キング牧師暗殺容疑者に関する情報",
   "summary": "This cable discusses information furnished by LNERGO concerning the suspected assassin of Martin Luther King, Jr., Eric Starvo Galt, and requests addressees to determine if Galt is or has been in their area.",
-  "tags": [
-    "Martin Luther King Jr.",
-    "assassination",
+  "summary_ja": "この電報は、キング牧師暗殺容疑者であるエリック・スターヴォ・ガルトに関するLNERGOからの情報を取り上げ、ガルトが現在または過去に受信者の地域にいたかどうかを確認するよう要請している。",
+  "document_type": "Message",
+  "classification": "Cable",
+  "security_level": "SECRET",
+  "date": "1968-04-18",
+  "origin_agency": "CIA",
+  "sender": "Director",
+  "recipient": "Asuncion, Bangkok, Barcelona, Beirut, Berlin, Bern, Bogota, Brasilia, Brussels, Buenos Aires, Caracas, Copenhagen, Frankfurt, Geneva, Georgetown, Guatemala City, Guayaquil, The Hague, Hamburg, Helsinki, Hong Kong, Kingston, La Paz, Lima, London, Madrid, Managua, Montevideo, New Delhi, Lisbon, Manila, Munich, Oslo, Panama City, Paris, Port Au Prince, Port of Spain, Porto Alegre, Quito, Recife, Rawalpindi, Rio de Janeiro, Rome, San Jose, Santo Domingo, San Salvador, Santiago, Santiago de los Caballeros, São Paulo, Stockholm, Tegucigalpa, Tokyo, Vienna, Zurich",
+  "persons_mentioned": [
     "Eric Starvo Galt",
     "Harvey Lowmyer",
     "John Willard",
-    "LNERGO",
-    "investigation",
-    "suspect",
-    "intelligence",
-    "liaison"
+    "Martin Luther King, Jr.",
+    "Hunt",
+    "Sayth",
+    "Smith",
+    "Richgil Obe"
   ],
-  "title": "Information Concerning Suspect in Martin Luther King Jr. Assassination",
-  "date": "1968-04-18",
   "locations_mentioned": [
     "Asuncion",
     "Bangkok",
@@ -73,17 +76,16 @@
     "Vienna",
     "Zurich"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
+  "tags": [
+    "Martin Luther King Jr.",
+    "assassination",
     "Eric Starvo Galt",
     "Harvey Lowmyer",
     "John Willard",
-    "Martin Luther King, Jr.",
-    "Hunt",
-    "Sayth",
-    "Smith",
-    "Richgil Obe"
-  ],
-  "recipient": "Asuncion, Bangkok, Barcelona, Beirut, Berlin, Bern, Bogota, Brasilia, Brussels, Buenos Aires, Caracas, Copenhagen, Frankfurt, Geneva, Georgetown, Guatemala City, Guayaquil, The Hague, Hamburg, Helsinki, Hong Kong, Kingston, La Paz, Lima, London, Madrid, Managua, Montevideo, New Delhi, Lisbon, Manila, Munich, Oslo, Panama City, Paris, Port Au Prince, Port of Spain, Porto Alegre, Quito, Recife, Rawalpindi, Rio de Janeiro, Rome, San Jose, Santo Domingo, San Salvador, Santiago, Santiago de los Caballeros, São Paulo, Stockholm, Tegucigalpa, Tokyo, Vienna, Zurich",
-  "sender": "Director"
+    "LNERGO",
+    "investigation",
+    "suspect",
+    "intelligence",
+    "liaison"
+  ]
 }

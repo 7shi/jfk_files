@@ -1,28 +1,30 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses the aftermath of the Cuban operation, focusing on press and congressional commentary regarding KUBARK and other activities in the ODYOKE area. It addresses misinformation, reviews of the operation, and ongoing intelligence briefings to Congress.",
-  "tags": [
-    "KUBARK",
-    "PBPRIME",
-    "Cuban Operation",
-    "Congress",
-    "Intelligence"
-  ],
   "title": "Comments Concerning KUBARK Aftermath of Cuban Operation",
+  "title_ja": "KUBARKに関するコメント キューバ作戦の余波",
+  "summary": "This cable discusses the aftermath of the Cuban operation, focusing on press and congressional commentary regarding KUBARK and other activities in the ODYOKE area. It addresses misinformation, reviews of the operation, and ongoing intelligence briefings to Congress.",
+  "summary_ja": "この電報は、キューバ作戦の余波について論じ、KUBARKやODYOKE地域におけるその他の活動に関する報道や議会の論評に焦点を当てている。誤報、作戦の評価、議会への継続中の諜報報告についても言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1961-05-02",
-  "locations_mentioned": [
-    "Cuba",
-    "Washington"
-  ],
   "origin_agency": "Director",
+  "sender": "Director",
+  "recipient": "Attached List",
   "persons_mentioned": [
     "L.B. Kirkpatrick",
     "John F. Kennedy",
     "Maxwell Taylor",
     "Allen W. Dulles"
   ],
-  "recipient": "Attached List",
-  "sender": "Director"
+  "locations_mentioned": [
+    "Cuba",
+    "Washington"
+  ],
+  "tags": [
+    "KUBARK",
+    "PBPRIME",
+    "Cuban Operation",
+    "Congress",
+    "Intelligence"
+  ]
 }

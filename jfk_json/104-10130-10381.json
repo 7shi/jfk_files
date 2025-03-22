@@ -1,8 +1,25 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Mr. Boris D. TARASOFF, PCS Security Clearance",
+  "title_ja": "ボリス・D・タラソフ氏、PCS セキュリティクリアランス",
   "summary": "Memorandum regarding Mr. Boris D. TARASOFF's PCS security clearance for Mexico City, noting that he and his family are known to be CIA and known by USSR representatives.",
+  "summary_ja": "ボリス・D・タラソフ氏のメキシコシティにおけるPCSセキュリティクリアランスに関する覚書。同氏とその家族はCIAとソ連代表に知られていることが指摘されている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1963-05-28",
+  "origin_agency": "CIA",
+  "sender": "W. S. RENEHAN, WH/Pers",
+  "recipient": "The Record",
+  "persons_mentioned": [
+    "Boris D. TARASOFF",
+    "John F. Kennedy",
+    "W. S. RENEHAN"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "U.S.",
+    "USSR"
+  ],
   "tags": [
     "security clearance",
     "PCS",
@@ -14,20 +31,5 @@
     "cover",
     "State Department",
     "US Government Contract Employee"
-  ],
-  "title": "Mr. Boris D. TARASOFF, PCS Security Clearance",
-  "date": "1963-05-28",
-  "locations_mentioned": [
-    "Mexico City",
-    "U.S.",
-    "USSR"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Boris D. TARASOFF",
-    "John F. Kennedy",
-    "W. S. RENEHAN"
-  ],
-  "recipient": "The Record",
-  "sender": "W. S. RENEHAN, WH/Pers"
+  ]
 }

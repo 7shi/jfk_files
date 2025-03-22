@@ -1,29 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses the potential exfiltration of AMFAUNA-25 from Cuba, in light of recent developments involving other AMFAUNA assets and the potential arrest of ANCUTLER-2. It proposes a plan to arrange a legal departure for AMFAUNA-25 under the guise of discussing Cuban insurance problems in London, involving Peter Minet of Minet Co London. The cable emphasizes the need for speed and coordination with SMOTH (likely a code name for an organization or individual) to ensure the success of the operation.",
-  "tags": [
-    "AMFAUNA-25",
-    "Exfiltration",
-    "ANCUTLER-2",
-    "Cuba",
-    "Insurance",
-    "London",
-    "Peter Minet",
-    "SMOTH",
-    "DSE",
-    "KUBARK",
-    "Che Guevara"
-  ],
   "title": "Exfiltration of AMFAUNA-25 from Cuba",
+  "title_ja": "キューバからのAMFAUNA-25の外部流出",
+  "summary": "This cable discusses the potential exfiltration of AMFAUNA-25 from Cuba, in light of recent developments involving other AMFAUNA assets and the potential arrest of ANCUTLER-2. It proposes a plan to arrange a legal departure for AMFAUNA-25 under the guise of discussing Cuban insurance problems in London, involving Peter Minet of Minet Co London. The cable emphasizes the need for speed and coordination with SMOTH (likely a code name for an organization or individual) to ensure the success of the operation.",
+  "summary_ja": "この電報は、他のAMFAUNA要員に関する最近の動きとANCUTLER-2の逮捕の可能性を踏まえ、AMFAUNA-25のキューバからの脱出の可能性について述べている。AMFAUNA-25の合法的な出国を、ロンドンでキューバの保険問題を協議するという名目で手配する計画を提案している。この計画には、ロンドン・ミネ社ピーター・ミネットの関与が想定されている。この電報では、作戦の成功を確実にするために、SMOTH（おそらく組織または個人の暗号名）との迅速かつ綿密な連携が必要であることを強調している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-12-01",
-  "locations_mentioned": [
-    "Cuba",
-    "London",
-    "Havana"
-  ],
   "origin_agency": "JWAVE",
+  "sender": "JWAVE",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "AMFAUNA-25",
     "AMFAUNA-14",
@@ -49,6 +35,22 @@
     "Peter Minet",
     "Che Guevara"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "JWAVE"
+  "locations_mentioned": [
+    "Cuba",
+    "London",
+    "Havana"
+  ],
+  "tags": [
+    "AMFAUNA-25",
+    "Exfiltration",
+    "ANCUTLER-2",
+    "Cuba",
+    "Insurance",
+    "London",
+    "Peter Minet",
+    "SMOTH",
+    "DSE",
+    "KUBARK",
+    "Che Guevara"
+  ]
 }

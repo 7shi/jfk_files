@@ -1,38 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Arthur Schlesinger Jr. submits a memorandum to President Kennedy regarding the reorganization of the CIA, its autonomy, clandestine operations, relationship with foreign policy, and intelligence gathering.",
-  "tags": [
-    "CIA",
-    "Reorganization",
-    "Clandestine Operations",
-    "Foreign Policy",
-    "Intelligence",
-    "Autonomy",
-    "State Department",
-    "Paramilitary Warfare",
-    "Covert Political Operations",
-    "Doctrine"
-  ],
   "title": "CIA Reorganization",
+  "title_ja": "CIA再編",
+  "summary": "Arthur Schlesinger Jr. submits a memorandum to President Kennedy regarding the reorganization of the CIA, its autonomy, clandestine operations, relationship with foreign policy, and intelligence gathering.",
+  "summary_ja": "アーサー・シュレジンジャー・ジュニアは、CIAの再編成、CIAの自主性、秘密工作、外交政策との関係、情報収集に関して、ケネディ大統領に覚書を提出した。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1961-06-30",
-  "locations_mentioned": [
-    "Singapore",
-    "Pakistan",
-    "Japan",
-    "Vienna",
-    "Chile",
-    "Laos",
-    "Paris",
-    "Algeria",
-    "Indonesia",
-    "Cuba",
-    "Guatemala",
-    "Iran",
-    "Miami"
-  ],
   "origin_agency": "WH",
+  "sender": "Schlessinger, Jr.",
+  "recipient": "Kennedy, John F",
   "persons_mentioned": [
     "Schlessinger, Jr.",
     "Kennedy, John F",
@@ -49,6 +26,31 @@
     "Sir Patrick Dean",
     "Cavin"
   ],
-  "recipient": "Kennedy, John F",
-  "sender": "Schlessinger, Jr."
+  "locations_mentioned": [
+    "Singapore",
+    "Pakistan",
+    "Japan",
+    "Vienna",
+    "Chile",
+    "Laos",
+    "Paris",
+    "Algeria",
+    "Indonesia",
+    "Cuba",
+    "Guatemala",
+    "Iran",
+    "Miami"
+  ],
+  "tags": [
+    "CIA",
+    "Reorganization",
+    "Clandestine Operations",
+    "Foreign Policy",
+    "Intelligence",
+    "Autonomy",
+    "State Department",
+    "Paramilitary Warfare",
+    "Covert Political Operations",
+    "Doctrine"
+  ]
 }

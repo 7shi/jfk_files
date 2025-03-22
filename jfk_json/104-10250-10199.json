@@ -1,29 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This memo concerns Balmes HIDALGO, Jr., a covert employee of the Agency in the United States for training, and the Immigration and Naturalization Service's (INS) interest in contacting him regarding Communist activities. It discusses coordinating any INS contact with Staff C/ICB and WH, due to the sensitivity of HIDALGO's potential assignments, and suggests that INS submit questions through the Agency to avoid jeopardizing his future use. The memo also addresses a security breach by HIDALGO's father, who disclosed his Agency employment to an INS inspector.",
-  "tags": [
-    "covert employee",
-    "training",
-    "Immigration and Naturalization Service",
-    "INS",
-    "Communist activities",
-    "Staff C/ICB",
-    "WH",
-    "security breach",
-    "Balmes HIDALGO, Jr.",
-    "Alien Affairs Staff"
-  ],
   "title": "HIDALGO, Balmes, Jr.",
+  "title_ja": "ヒダルゴ、バルメス・ジュニア",
+  "summary": "This memo concerns Balmes HIDALGO, Jr., a covert employee of the Agency in the United States for training, and the Immigration and Naturalization Service's (INS) interest in contacting him regarding Communist activities. It discusses coordinating any INS contact with Staff C/ICB and WH, due to the sensitivity of HIDALGO's potential assignments, and suggests that INS submit questions through the Agency to avoid jeopardizing his future use. The memo also addresses a security breach by HIDALGO's father, who disclosed his Agency employment to an INS inspector.",
+  "summary_ja": "このメモは、米国における諜報機関の秘密職員で訓練中のバルメス・ヒダルゴ・ジュニアと、移民帰化局（INS）が彼と接触して共産主義活動について尋問することに関心を持っていることについてのものである。ヒダルゴの潜在的な任務の機密性により、INSとの接触はすべてスタッフC/ICBおよびWHと調整することについて論じ、INSが諜報機関を通じて質問を提出し、彼の今後の利用を危険にさらさないようにすることを提案している。このメモはまた、ヒダルゴの父親が移民帰化局の検査官にCIAでの勤務を明かしたというセキュリティ違反についても言及している。",
+  "document_type": "Memo",
+  "classification": "Security",
+  "security_level": "UNCLASSIFIED",
   "date": "1954-06-22",
-  "locations_mentioned": [
-    "United States",
-    "New York City",
-    "Washington, D.C.",
-    "Balboa Canal Zone"
-  ],
   "origin_agency": "Special Referral Branch",
+  "sender": "Chief, Special Referral Branch",
+  "recipient": "Deputy Chief, SSD",
   "persons_mentioned": [
     "HIDALGO, Balmes, Jr.",
     "Chester R. HOATSON",
@@ -36,6 +22,22 @@
     "James STROUSE",
     "Charles W. Fane"
   ],
-  "recipient": "Deputy Chief, SSD",
-  "sender": "Chief, Special Referral Branch"
+  "locations_mentioned": [
+    "United States",
+    "New York City",
+    "Washington, D.C.",
+    "Balboa Canal Zone"
+  ],
+  "tags": [
+    "covert employee",
+    "training",
+    "Immigration and Naturalization Service",
+    "INS",
+    "Communist activities",
+    "Staff C/ICB",
+    "WH",
+    "security breach",
+    "Balmes HIDALGO, Jr.",
+    "Alien Affairs Staff"
+  ]
 }

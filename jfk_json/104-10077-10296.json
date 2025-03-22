@@ -1,26 +1,28 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "ROSA DIR 78231 (MONT) 16-24 CITE CAR 87291",
+  "title_ja": "ロサ・ディレ 78231 (モン) 16-24 車 87291",
   "summary": "Cable discussing recruitment of drug dips by WAVE, requests review of the scope and purpose. Mentions POA request for wives of dips and other potential ops.",
+  "summary_ja": "WAVEによる麻薬密売人の採用について議論する電報。範囲と目的の見直しを要請。密売人の妻やその他の潜在的なオペレーションに対するPOA要請について言及。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-12-25",
+  "origin_agency": "WE/UP",
+  "sender": "WAVE DIRECTOR",
+  "recipient": "ROSA",
+  "persons_mentioned": [
+    "J. C. KING",
+    "Mr. Bryant",
+    "Mr. Monahan"
+  ],
+  "locations_mentioned": [
+    "MONTEVIDEO"
+  ],
   "tags": [
     "WAVE",
     "drug dips",
     "recruitment",
     "POA request",
     "operations"
-  ],
-  "title": "ROSA DIR 78231 (MONT) 16-24 CITE CAR 87291",
-  "date": "1963-12-25",
-  "locations_mentioned": [
-    "MONTEVIDEO"
-  ],
-  "origin_agency": "WE/UP",
-  "persons_mentioned": [
-    "J. C. KING",
-    "Mr. Bryant",
-    "Mr. Monahan"
-  ],
-  "recipient": "ROSA",
-  "sender": "WAVE DIRECTOR"
+  ]
 }

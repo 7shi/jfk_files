@@ -1,8 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "JMZIP - Cuban Vice Minister's Travel Plans",
+  "title_ja": "JMZIP - キューバ副大臣の旅行計画",
   "summary": "This cable discusses Cuban Vice Minister of Foreign Affairs Carlos Olivares's plans to travel to Brazil via Mexico to promote the Cuban Revolution. It requests information on Olivares and his travel plans.",
+  "summary_ja": "この電報は、キューバ革命を推進するためにメキシコ経由でブラジルに渡航する予定のキューバ外務次官カルロス・オリバレスの計画について述べている。オリバレスと彼の渡航計画に関する情報の提供を求めている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1961-05-17",
+  "origin_agency": "RIO DE JANERIO",
+  "sender": "RIO DE JANERIO",
+  "recipient": "BELL",
+  "persons_mentioned": [
+    "Carlos Olivares"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico",
+    "Brazil"
+  ],
   "tags": [
     "Cuban Revolution",
     "Carlos Olivares",
@@ -10,18 +25,5 @@
     "Brazil",
     "Travel",
     "Liaison"
-  ],
-  "title": "JMZIP - Cuban Vice Minister's Travel Plans",
-  "date": "1961-05-17",
-  "locations_mentioned": [
-    "Cuba",
-    "Mexico",
-    "Brazil"
-  ],
-  "origin_agency": "RIO DE JANERIO",
-  "persons_mentioned": [
-    "Carlos Olivares"
-  ],
-  "recipient": "BELL",
-  "sender": "RIO DE JANERIO"
+  ]
 }

@@ -1,26 +1,28 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This cable discusses surfacing evidence of Castro financing terrorist and pro-Cuban acts.",
-  "tags": [
-    "Castro",
-    "Terrorist Financing",
-    "Pro-Cuban Acts",
-    "Evidence"
-  ],
   "title": "CARA HARA NAVE DODS 69778 MAKI LIMA PACY GUAT",
+  "title_ja": "CARA HARA NAVE DODS 69778 MAKI LIMA PACY GUAT",
+  "summary": "This cable discusses surfacing evidence of Castro financing terrorist and pro-Cuban acts.",
+  "summary_ja": "この電報は、カストロがテロ行為や親キューバ行為に資金援助しているという証拠を浮上させることを論じている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
   "date": "2025",
-  "locations_mentioned": [
-    "Guat",
-    "Cuba"
-  ],
   "origin_agency": "DODS",
+  "sender": "WH8",
+  "recipient": "DIR",
   "persons_mentioned": [
     "John F. Kennedy",
     "RON, DOKTOR",
     "CASTRO"
   ],
-  "recipient": "DIR",
-  "sender": "WH8"
+  "locations_mentioned": [
+    "Guat",
+    "Cuba"
+  ],
+  "tags": [
+    "Castro",
+    "Terrorist Financing",
+    "Pro-Cuban Acts",
+    "Evidence"
+  ]
 }

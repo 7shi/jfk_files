@@ -1,27 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This report details information obtained from various sources regarding medical supplies to Cuba, film purchase requests, and personnel listings. It includes bulletins from anti-communist groups, letters concerning film purchases from Czechoslovakia, and commentary from Cuban medical figures.",
-  "tags": [
-    "Medical Supplies",
-    "Film Purchase",
-    "Personnel Listing",
-    "Anti-Communist Groups",
-    "Czechoslovakia",
-    "Universities",
-    "scientific institutions"
-  ],
   "title": "Medical Information and Activities in Cuba",
+  "title_ja": "キューバにおける医療情報および活動",
+  "summary": "This report details information obtained from various sources regarding medical supplies to Cuba, film purchase requests, and personnel listings. It includes bulletins from anti-communist groups, letters concerning film purchases from Czechoslovakia, and commentary from Cuban medical figures.",
+  "summary_ja": "この報告書では、キューバへの医療用品の供給、映画の購入依頼、人員リストなど、さまざまな情報源から得られた情報を詳細に説明している。反共産主義グループからの通知、チェコスロバキアからの映画購入に関する手紙、キューバの医療関係者のコメントなどが含まれている。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
   "date": "1963-02-23",
-  "locations_mentioned": [
-    "Habana",
-    "Paris",
-    "Miami",
-    "Cuba",
-    "Czechoslovakia"
-  ],
   "origin_agency": "MRSAVE",
+  "sender": "ASSET",
+  "recipient": "Headquarters attn & atts.",
   "persons_mentioned": [
     "J. F. Kennedy",
     "Faras",
@@ -30,6 +18,20 @@
     "Virgilio FRAJO Nunez",
     "Eduardo ROCO"
   ],
-  "recipient": "Headquarters attn & atts.",
-  "sender": "ASSET"
+  "locations_mentioned": [
+    "Habana",
+    "Paris",
+    "Miami",
+    "Cuba",
+    "Czechoslovakia"
+  ],
+  "tags": [
+    "Medical Supplies",
+    "Film Purchase",
+    "Personnel Listing",
+    "Anti-Communist Groups",
+    "Czechoslovakia",
+    "Universities",
+    "scientific institutions"
+  ]
 }

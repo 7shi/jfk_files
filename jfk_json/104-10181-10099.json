@@ -1,37 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This document contains cable traffic related to potential contact with AMAUTO-1, a Cuban official, through various means, including using Manuel (Vigos) Perez, AMAUTO-1's cousin, and a tourist approach by SAMKO. It also details Cuban embassy protests in Spain over alleged attacks on Cuban officials.",
-  "tags": [
-    "AMAUTO-1",
-    "Manuel (Vigos) Perez",
-    "SAMKO",
-    "Cuban Embassy",
-    "Madrid",
-    "CIA",
-    "PACHANKIS",
-    "Tourist Approach",
-    "Recruitment",
-    "defection"
-  ],
   "title": "Cables Regarding Potential Contact with AMAUTO-1 and Cuban Embassy Protests in Spain",
+  "title_ja": "AMAUTO-1とスペインにおけるキューバ大使館の抗議との接触の可能性に関する対象ケーブルのカバー",
+  "summary": "This document contains cable traffic related to potential contact with AMAUTO-1, a Cuban official, through various means, including using Manuel (Vigos) Perez, AMAUTO-1's cousin, and a tourist approach by SAMKO. It also details Cuban embassy protests in Spain over alleged attacks on Cuban officials.",
+  "summary_ja": "この文書には、AMAUTO-1、キューバ政府高官、AMAUTO-1の従兄弟であるマヌエル（ビゴス）・ペレス、SAMKOによる観光客アプローチなど、さまざまな手段による接触の可能性に関する電信文書が含まれている。また、キューバ高官に対する攻撃疑惑に関するスペインのキューバ大使館の抗議についても詳細に述べられている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1970-05-06",
-  "locations_mentioned": [
-    "Cuba",
-    "Spain",
-    "Madrid",
-    "Miami",
-    "Los Angeles",
-    "Havana",
-    "Lebanon",
-    "Syria",
-    "Rome",
-    "Italy",
-    "Canary Islands",
-    "France"
-  ],
   "origin_agency": "CIA",
+  "sender": "WH/MIAMI",
+  "recipient": "DIRECTOR, MADRID",
   "persons_mentioned": [
     "AMAUTO-1",
     "Manuel (Vigos) Perez",
@@ -48,6 +26,30 @@
     "William V. Broe",
     "James E. Flannery"
   ],
-  "recipient": "DIRECTOR, MADRID",
-  "sender": "WH/MIAMI"
+  "locations_mentioned": [
+    "Cuba",
+    "Spain",
+    "Madrid",
+    "Miami",
+    "Los Angeles",
+    "Havana",
+    "Lebanon",
+    "Syria",
+    "Rome",
+    "Italy",
+    "Canary Islands",
+    "France"
+  ],
+  "tags": [
+    "AMAUTO-1",
+    "Manuel (Vigos) Perez",
+    "SAMKO",
+    "Cuban Embassy",
+    "Madrid",
+    "CIA",
+    "PACHANKIS",
+    "Tourist Approach",
+    "Recruitment",
+    "defection"
+  ]
 }

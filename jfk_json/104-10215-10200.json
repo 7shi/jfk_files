@@ -1,27 +1,29 @@
 {
-  "classification": "Cuba",
-  "document_type": "Letter",
-  "security_level": "SECRET",
-  "summary": "This document is a letter to AMLASH/1, which discusses a number of topics, including the possibility of AMLASH/1 returning to military service, the need for more detailed information in reports, a potential meeting in Mexico, and the location of hiding places in Paris. The letter also requests information on Soviet medical clinics in Cuba, reports of Soviet citizens becoming ill, shipments of bad meat from the Soviet Union, and reports of cattle in Cuba being infected with foot-and-mouth disease.",
-  "tags": [
-    "AMLASH/1",
-    "Soviet Clinics",
-    "Epidemic",
-    "Paris"
-  ],
   "title": "PREPARATION OF OUTGOING SW MESSAGES",
+  "title_ja": "送信SWメッセージの準備",
+  "summary": "This document is a letter to AMLASH/1, which discusses a number of topics, including the possibility of AMLASH/1 returning to military service, the need for more detailed information in reports, a potential meeting in Mexico, and the location of hiding places in Paris. The letter also requests information on Soviet medical clinics in Cuba, reports of Soviet citizens becoming ill, shipments of bad meat from the Soviet Union, and reports of cattle in Cuba being infected with foot-and-mouth disease.",
+  "summary_ja": "この文書は、AMLASH/1宛ての手紙であり、AMLASH/1の軍務復帰の可能性、報告書にさらに詳細な情報を盛り込む必要性、メキシコでの会合の可能性、パリの隠れ家の場所など、さまざまなトピックについて議論している。この手紙はまた、キューバのソビエト連邦の医療クリニックに関する情報、ソビエト連邦市民の病気に関する報告、ソビエト連邦からの腐った肉の出荷、キューバの牛が口蹄疫に感染したという報告も求めている。",
+  "document_type": "Letter",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-01-21",
-  "locations_mentioned": [
-    "Paris",
-    "Cuba",
-    "Mexico"
-  ],
   "origin_agency": "PSD/SWB",
+  "sender": "PSD/SWB",
+  "recipient": "Bill Wainwright",
   "persons_mentioned": [
     "Bill Wainwright",
     "William J. Murphy",
     "Jaime"
   ],
-  "recipient": "Bill Wainwright",
-  "sender": "PSD/SWB"
+  "locations_mentioned": [
+    "Paris",
+    "Cuba",
+    "Mexico"
+  ],
+  "tags": [
+    "AMLASH/1",
+    "Soviet Clinics",
+    "Epidemic",
+    "Paris"
+  ]
 }

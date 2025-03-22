@@ -1,8 +1,16 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "Cover Status of Luis POSADA Carriles (201-300985)",
+  "title_ja": "ルイス・ポサダ・カリーレスの身分証明書（201-300985）",
   "summary": "This memo discusses the cover status of Luis POSADA Carriles, specifically regarding his employment with RECE and CACT, and requests that his resignation from Gri-State Engineering Service be recorded.",
+  "summary_ja": "このメモでは、ルイス・ポサダ・カリーレスの身分詐称について、特に彼がRECEとCACTに雇用されていることについて議論し、グリステート・エンジニアリング・サービスからの彼の辞職を記録するよう要請している。",
+  "document_type": "Memo",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1966-09-07",
+  "sender": "CI/FLUSTIKCER",
+  "persons_mentioned": [
+    "Luis POSADA Carriles"
+  ],
   "tags": [
     "Luis POSADA Carriles",
     "Cover Status",
@@ -10,11 +18,5 @@
     "CACT",
     "Cuban exile organization",
     "Gri-State Engineering Service"
-  ],
-  "title": "Cover Status of Luis POSADA Carriles (201-300985)",
-  "date": "1966-09-07",
-  "persons_mentioned": [
-    "Luis POSADA Carriles"
-  ],
-  "sender": "CI/FLUSTIKCER"
+  ]
 }

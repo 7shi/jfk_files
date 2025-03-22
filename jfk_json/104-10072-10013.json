@@ -1,22 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Report",
-  "security_level": "SECRET",
-  "summary": "Report on Clog & Singer, Boviot Bacar Shat, discussing their activities and connections, including involvement in festivals and research work, as well as their political views and associations with various individuals and organizations.",
-  "tags": [
-    "Clog & Singer",
-    "Boviot Bacar Shat",
-    "Festivals",
-    "Research Work",
-    "Political Views",
-    "Organizations"
-  ],
   "title": "Clog & Singer, Boviot Bacar Shat",
+  "title_ja": "クログ＆シンガー、ボビオ・バカル・シャット",
+  "summary": "Report on Clog & Singer, Boviot Bacar Shat, discussing their activities and connections, including involvement in festivals and research work, as well as their political views and associations with various individuals and organizations.",
+  "summary_ja": "Clog & Singer、Boviot Bacar Shatに関する報告書。彼らの活動とつながりについて議論されており、フェスティバルや研究活動への関与、政治的見解、さまざまな個人や組織との関連が含まれている。",
+  "document_type": "Report",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1961-12-14",
-  "locations_mentioned": [
-    "Cities"
-  ],
   "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "sender": "FI/SIG and SR/6",
+  "recipient": "STATE ARMY NAVY",
   "persons_mentioned": [
     "Kyat",
     "Ay",
@@ -28,6 +21,15 @@
     "Professor Play Allah",
     "Herman Mark Muving Goodman"
   ],
-  "recipient": "STATE ARMY NAVY",
-  "sender": "FI/SIG and SR/6"
+  "locations_mentioned": [
+    "Cities"
+  ],
+  "tags": [
+    "Clog & Singer",
+    "Boviot Bacar Shat",
+    "Festivals",
+    "Research Work",
+    "Political Views",
+    "Organizations"
+  ]
 }

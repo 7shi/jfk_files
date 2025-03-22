@@ -1,37 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Dispatch/Memo",
-  "security_level": "SECRET",
-  "summary": "This document discusses the handling of a Soviet defector, ABLADLE, including challenges, retrospective analysis, findings, and areas of study for Headquarters. It covers the defector's evacuation, the unique factors of the case, and recommendations for improving future operations.",
-  "tags": [
-    "Soviet Defector",
-    "Evacuation",
-    "Operational Aid",
-    "Germany",
-    "Headquarters",
-    "ABladle",
-    "Security",
-    "Commercial Aircraft",
-    "KUBARK",
-    "Helsinki",
-    "Frankfurt"
-  ],
   "title": "Handling of a Soviet Defector",
+  "title_ja": "ソ連亡命者の取り扱い",
+  "summary": "This document discusses the handling of a Soviet defector, ABLADLE, including challenges, retrospective analysis, findings, and areas of study for Headquarters. It covers the defector's evacuation, the unique factors of the case, and recommendations for improving future operations.",
+  "summary_ja": "この文書は、ソ連の亡命者アブラドルの扱いについて論じている。本部に対する課題、回顧的分析、調査結果、研究分野などを含む。この文書は、亡命者の避難、この事件の特殊要因、今後の業務改善のための提言などをカバーしている。",
+  "document_type": "Dispatch/Memo",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1962-01-31",
-  "locations_mentioned": [
-    "Germany",
-    "United States",
-    "Stockholm",
-    "Frankfurt",
-    "Wiesbaden",
-    "Copenhagen",
-    "Washington",
-    "Eschborn",
-    "Berlin",
-    "London",
-    "Austria"
-  ],
   "origin_agency": "Chief of Station, Germany",
+  "sender": "Chief of Station, Germany",
+  "recipient": "Chief, E; Chief, SH",
   "persons_mentioned": [
     "John F. Kennedy",
     "Jesse Brern",
@@ -54,6 +32,30 @@
     "William Naylor",
     "Rollie White"
   ],
-  "recipient": "Chief, E; Chief, SH",
-  "sender": "Chief of Station, Germany"
+  "locations_mentioned": [
+    "Germany",
+    "United States",
+    "Stockholm",
+    "Frankfurt",
+    "Wiesbaden",
+    "Copenhagen",
+    "Washington",
+    "Eschborn",
+    "Berlin",
+    "London",
+    "Austria"
+  ],
+  "tags": [
+    "Soviet Defector",
+    "Evacuation",
+    "Operational Aid",
+    "Germany",
+    "Headquarters",
+    "ABladle",
+    "Security",
+    "Commercial Aircraft",
+    "KUBARK",
+    "Helsinki",
+    "Frankfurt"
+  ]
 }

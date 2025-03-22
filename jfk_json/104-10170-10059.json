@@ -1,8 +1,29 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DOMINICAN CACHING OPERATIONS",
+  "title_ja": "DOMINICAN CACHING OPERATIONS",
   "summary": "This document discusses Dominican support of Cuban exiles.",
+  "summary_ja": "この文書は、ドミニカ共和国によるキューバ亡命者の支援について論じている。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1964-08-04",
+  "origin_agency": "CIA",
+  "sender": "SUPERATAEM-1",
+  "recipient": "DIR WAVE INFO PACY LANT",
+  "persons_mentioned": [
+    "CANTO DOMINGO",
+    "FOLCH",
+    "LUNA",
+    "John F. Kennedy"
+  ],
+  "locations_mentioned": [
+    "Dominican Republic",
+    "Santo Domingo",
+    "Las Pena",
+    "Punta Luna",
+    "Monte Cri",
+    "Santiago"
+  ],
   "tags": [
     "Cuban exiles",
     "Dominican Republic",
@@ -15,24 +36,5 @@
     "Punta Luna",
     "Monte Cri",
     "Santo Domingo"
-  ],
-  "title": "DOMINICAN CACHING OPERATIONS",
-  "date": "1964-08-04",
-  "locations_mentioned": [
-    "Dominican Republic",
-    "Santo Domingo",
-    "Las Pena",
-    "Punta Luna",
-    "Monte Cri",
-    "Santiago"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "CANTO DOMINGO",
-    "FOLCH",
-    "LUNA",
-    "John F. Kennedy"
-  ],
-  "recipient": "DIR WAVE INFO PACY LANT",
-  "sender": "SUPERATAEM-1"
+  ]
 }

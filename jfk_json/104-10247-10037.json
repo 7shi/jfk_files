@@ -1,28 +1,30 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses a letter received in New York stating that QHOP/1 is due to return to Havana on April 6 to have a good position in the office of Vice Minister Arnold Rodriguez.",
-  "tags": [
-    "QHOP/1",
-    "Havana",
-    "Arnold Rodriguez",
-    "Recruitment"
-  ],
   "title": "Cable regarding QHOP/1's return to Havana",
+  "title_ja": "キューバへのキューポ/1の復帰に関するケーブル",
+  "summary": "This cable discusses a letter received in New York stating that QHOP/1 is due to return to Havana on April 6 to have a good position in the office of Vice Minister Arnold Rodriguez.",
+  "summary_ja": "この電報では、ニューヨークで受け取った手紙について議論している。その手紙には、QHOP/1が4月6日にハバナに戻り、アーノルド・ロドリゲス副大臣のオフィスで良いポジションを得られると書かれている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1965-03-15",
-  "locations_mentioned": [
-    "New York",
-    "Havana",
-    "Madrid"
-  ],
   "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "MADRID",
   "persons_mentioned": [
     "John F. Kennedy",
     "Arnold Rodriguez",
     "ANLASH/2",
     "WEBSTER/RIGHT/PK"
   ],
-  "recipient": "MADRID",
-  "sender": "DIRECTOR"
+  "locations_mentioned": [
+    "New York",
+    "Havana",
+    "Madrid"
+  ],
+  "tags": [
+    "QHOP/1",
+    "Havana",
+    "Arnold Rodriguez",
+    "Recruitment"
+  ]
 }

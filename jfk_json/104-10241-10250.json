@@ -1,26 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Report",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This document details information regarding P.H. KOETRLOCK's interactions with an individual named CHARLES who expressed concerning opinions about President Kennedy. It also covers KOETRLOCK's other activities and contacts.",
-  "tags": [
-    "assassination",
-    "threat",
-    "political extremism",
-    "subversive activities",
-    "intelligence"
-  ],
   "title": "Report on P.H. KOETRLOCK and Individual Named CHARLES",
+  "title_ja": "P.H.コエトロックとチャールズという個人に関する報告",
+  "summary": "This document details information regarding P.H. KOETRLOCK's interactions with an individual named CHARLES who expressed concerning opinions about President Kennedy. It also covers KOETRLOCK's other activities and contacts.",
+  "summary_ja": "この文書は、ケネディ大統領について懸念を表明したチャールズという人物とP.H. KOETRLOCKのやりとりに関する情報を詳細に記したものである。また、KOETRLOCKのその他の活動や接触についても記載されている。",
+  "document_type": "Report",
+  "classification": "Security",
+  "security_level": "CONFIDENTIAL",
   "date": "1962-05-08",
-  "locations_mentioned": [
-    "Richmond",
-    "Virginia",
-    "Cuba",
-    "Washington",
-    "eastern part of the U.S.",
-    "Thomas Jefferson Hotel"
-  ],
   "origin_agency": "FBI",
+  "sender": "Richmond Office",
+  "recipient": "Washington",
   "persons_mentioned": [
     "John F. Kennedy",
     "P.H. KOETRLOCK",
@@ -32,6 +21,19 @@
     "GARY DECKER",
     "GARY POWERS"
   ],
-  "recipient": "Washington",
-  "sender": "Richmond Office"
+  "locations_mentioned": [
+    "Richmond",
+    "Virginia",
+    "Cuba",
+    "Washington",
+    "eastern part of the U.S.",
+    "Thomas Jefferson Hotel"
+  ],
+  "tags": [
+    "assassination",
+    "threat",
+    "political extremism",
+    "subversive activities",
+    "intelligence"
+  ]
 }

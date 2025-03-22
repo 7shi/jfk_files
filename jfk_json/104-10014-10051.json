@@ -1,25 +1,27 @@
 {
-  "classification": "John F. Kennedy Assassination Records Act of 1992",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "RELEASE OF CLASSIFIED DOCUMENT",
+  "title_ja": "機密文書の公開",
   "summary": "This document discusses the release of a classified document related to Lee Harvey Oswald. It mentions a fax received that appears incomplete, including a cover sheet, a cable stating \"NO TRACES,\" and the first page of a Director cable requesting traces on Lee Harvey Oswald. The document also discusses the deletion of crypts and informing the ambassador and liaison service chiefs about the release date.",
+  "summary_ja": "この文書は、リー・ハーヴェイ・オズワルドに関連する機密文書の公開について述べている。受信したファックスが不完全であることが記載されており、表紙、「NO TRACES（追跡不可）」と記載された電報、およびリー・ハーヴェイ・オズワルドの追跡を要求するディレクター・電報の最初のページが含まれている。この文書では、暗号の削除と、公開日を大使および連絡サービス責任者に通知することについても述べられている。",
+  "document_type": "Cable",
+  "classification": "John F. Kennedy Assassination Records Act of 1992",
+  "security_level": "SECRET",
+  "date": "1996-02-08",
+  "origin_agency": "STAFF",
+  "sender": "C/EUR/NOR",
+  "recipient": "IMMEDIATE DIRECTOR",
+  "persons_mentioned": [
+    "Lee Harvey Oswald"
+  ],
+  "locations_mentioned": [
+    "Copenhagen",
+    "Denmark"
+  ],
   "tags": [
     "WNINTEL",
     "RYBAT",
     "Traces",
     "Classified Document Release",
     "Crypts"
-  ],
-  "title": "RELEASE OF CLASSIFIED DOCUMENT",
-  "date": "1996-02-08",
-  "locations_mentioned": [
-    "Copenhagen",
-    "Denmark"
-  ],
-  "origin_agency": "STAFF",
-  "persons_mentioned": [
-    "Lee Harvey Oswald"
-  ],
-  "recipient": "IMMEDIATE DIRECTOR",
-  "sender": "C/EUR/NOR"
+  ]
 }

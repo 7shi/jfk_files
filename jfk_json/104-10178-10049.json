@@ -1,8 +1,21 @@
 {
-  "classification": "Administrative",
-  "document_type": "Letter",
-  "security_level": "UNCLASSIFIED",
+  "title": "Application for Housing and Credit Reference with Tri-State Engineering",
+  "title_ja": "トライステート・エンジニアリングへの住宅および信用照会申請書",
   "summary": "A letter regarding an application for housing, credit references, and employment verification with Tri-State Engineering Service, Inc.",
+  "summary_ja": "トライステート・エンジニアリング・サービス社への住宅申請、信用照会、雇用証明に関する書簡",
+  "document_type": "Letter",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
+  "date": "1966-09-20",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Potor T. Fay"
+  ],
+  "locations_mentioned": [
+    "Miami"
+  ],
   "tags": [
     "housing application",
     "credit references",
@@ -15,16 +28,5 @@
     "underwater communications",
     "underwater demolition",
     "marine engineering"
-  ],
-  "title": "Application for Housing and Credit Reference with Tri-State Engineering",
-  "date": "1966-09-20",
-  "locations_mentioned": [
-    "Miami"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "Potor T. Fay"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

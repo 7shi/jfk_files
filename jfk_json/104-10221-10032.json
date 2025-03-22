@@ -1,8 +1,24 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "HUS TRACKS INDICATE SURJ REF HAS BHEN UNDER ODENVY INVESTIGATION",
+  "title_ja": "HUSの追跡記録によると、SURJ REFはODENVYの調査下にある模様",
   "summary": "This cable discusses an investigation into possible registration act violations by a subject in Santiago de Cuba. It also mentions Frank Fiorini of Norfolk, VA, who claimed to be an arms buyer in Miami and willing to cooperate with information on rebels.",
+  "summary_ja": "この電報は、サンチアゴ・デ・クーバの人物による登録行為違反の可能性に関する調査について論じている。また、マイアミで武器の買い手であり、反乱軍に関する情報に協力する意思があると主張したバージニア州ノーフォークのフランク・フィオリーニについても言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1959-01-13",
+  "origin_agency": "WH/III/CARIB",
+  "sender": "DIRECTOR",
+  "recipient": "SACU",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "FRANK FIORINI"
+  ],
+  "locations_mentioned": [
+    "SANTIAGO DE CUBA",
+    "Miami",
+    "Norfolk, VA"
+  ],
   "tags": [
     "ODENVY",
     "Registration Act Violations",
@@ -11,19 +27,5 @@
     "Arms Buyer",
     "Rebels",
     "Santiago de Cuba"
-  ],
-  "title": "HUS TRACKS INDICATE SURJ REF HAS BHEN UNDER ODENVY INVESTIGATION",
-  "date": "1959-01-13",
-  "locations_mentioned": [
-    "SANTIAGO DE CUBA",
-    "Miami",
-    "Norfolk, VA"
-  ],
-  "origin_agency": "WH/III/CARIB",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "FRANK FIORINI"
-  ],
-  "recipient": "SACU",
-  "sender": "DIRECTOR"
+  ]
 }

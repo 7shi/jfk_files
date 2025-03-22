@@ -1,20 +1,21 @@
 {
-  "classification": "Cuba",
-  "document_type": "Draft Briefing Notes",
-  "security_level": "SECRET",
-  "summary": "This document contains draft briefing notes dated February 18, 1963, regarding Cuban subversion in Latin America. It discusses Cuba's support for revolutionary movements, particularly in Venezuela, and the forms of assistance provided, including inspiration, guidance, training, and communication support.",
-  "tags": [
-    "Cuban subversion",
-    "Latin America",
-    "Revolutionary movements",
-    "Venezuela",
-    "FALN",
-    "Communist Party",
-    "Guerrilla training",
-    "Terrorism"
-  ],
   "title": "Cuban Subversion in Latin America",
+  "title_ja": "ラテンアメリカにおけるキューバの破壊活動",
+  "summary": "This document contains draft briefing notes dated February 18, 1963, regarding Cuban subversion in Latin America. It discusses Cuba's support for revolutionary movements, particularly in Venezuela, and the forms of assistance provided, including inspiration, guidance, training, and communication support.",
+  "summary_ja": "この文書には、1963年2月18日付のラテンアメリカにおけるキューバの破壊活動に関する草案のブリーフィングメモが含まれている。この文書では、特にベネズエラにおける革命運動に対するキューバの支援と、インスピレーション、指導、訓練、通信支援など、提供された支援の形態について論じている。",
+  "document_type": "Draft Briefing Notes",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-02-18",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Che Guevara",
+    "Blas Roca",
+    "Betancourt"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Latin America",
@@ -24,13 +25,14 @@
     "Peru",
     "Caracas"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Fidel Castro",
-    "Che Guevara",
-    "Blas Roca",
-    "Betancourt"
-  ],
-  "recipient": "Unknown",
-  "sender": "CIA"
+  "tags": [
+    "Cuban subversion",
+    "Latin America",
+    "Revolutionary movements",
+    "Venezuela",
+    "FALN",
+    "Communist Party",
+    "Guerrilla training",
+    "Terrorism"
+  ]
 }

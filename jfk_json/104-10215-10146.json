@@ -1,8 +1,18 @@
 {
-  "classification": "Personnel",
-  "document_type": "Training Report",
-  "security_level": "SECRET",
+  "title": "Training Report for FRANK - PBRUMEN II",
+  "title_ja": "フランクの訓練報告書 - PBRUMEN II",
   "summary": "This document is a training report for student FRANK in paramilitary resistance activities and intelligence collection operations, covering the period from July 11 to August 13, 1966. It includes performance evaluations and narrative comments on FRANK's skills and capabilities.",
+  "summary_ja": "本書類は、1966年7月11日から8月13日までの期間を対象とした、準軍事的抵抗活動および情報収集活動における訓練生FRANKの訓練報告書である。FRANKの技能と能力に関するパフォーマンス評価と説明コメントが含まれている。",
+  "document_type": "Training Report",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1966-08-30",
+  "sender": "JEROME W. GREINER, Project Officer, Chief Instructor (JOSEPH M. HUDACEK)",
+  "persons_mentioned": [
+    "FRANK",
+    "JEROME W. GREINER",
+    "JOSEPH M. HUDACEK"
+  ],
   "tags": [
     "Training",
     "Paramilitary",
@@ -16,13 +26,5 @@
     "Planning",
     "Teamwork",
     "Motivation"
-  ],
-  "title": "Training Report for FRANK - PBRUMEN II",
-  "date": "1966-08-30",
-  "persons_mentioned": [
-    "FRANK",
-    "JEROME W. GREINER",
-    "JOSEPH M. HUDACEK"
-  ],
-  "sender": "JEROME W. GREINER, Project Officer, Chief Instructor (JOSEPH M. HUDACEK)"
+  ]
 }

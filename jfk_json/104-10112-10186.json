@@ -1,24 +1,26 @@
 {
-  "classification": "Personnel",
-  "document_type": "Notification",
-  "security_level": "SECRET",
+  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
+  "title_ja": "軍事取材バックアップ担当者の設置に関する通知",
   "summary": "Notification of the establishment of a military cover backstop for Hose L. BOTEL, ID CARD NO. 3676, effective October 2, 1963. The document outlines procedures for maintaining and updating the cover, including submitting forms for changes and transfers of responsibility. It also provides a cover history.",
+  "summary_ja": "ホース・L・ボテル（IDカード番号3676）の軍事的偽装策のバックアップ策の確立に関する通知。1963年10月2日発効。この文書は、偽装策の維持と更新の手順を概説しており、変更や責任の移転に関するフォームの提出も含まれている。また、偽装策の経緯も記載されている。",
+  "document_type": "Notification",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1963-10-02",
+  "origin_agency": "Records and Services Division",
+  "sender": "CHIEF, MILITARY COVER",
+  "recipient": "CHIEF, RECORDS AND SERVICES DIVISION",
+  "persons_mentioned": [
+    "BOTEL, Hose L.",
+    "W.S. Rausel",
+    "James Franklin"
+  ],
+  "locations_mentioned": [],
   "tags": [
     "Military Cover",
     "Backstop",
     "Personnel Record",
     "Security",
     "Hose L. BOTEL"
-  ],
-  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
-  "date": "1963-10-02",
-  "locations_mentioned": [],
-  "origin_agency": "Records and Services Division",
-  "persons_mentioned": [
-    "BOTEL, Hose L.",
-    "W.S. Rausel",
-    "James Franklin"
-  ],
-  "recipient": "CHIEF, RECORDS AND SERVICES DIVISION",
-  "sender": "CHIEF, MILITARY COVER"
+  ]
 }

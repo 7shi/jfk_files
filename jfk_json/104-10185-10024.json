@@ -1,8 +1,24 @@
 {
-  "classification": "Administrative",
-  "document_type": "Form",
-  "security_level": "SECRET",
+  "title": "NAME CHECK, DOCUMENT SERVICE, AND PARTIAL CONSOLIDATION REQUEST",
+  "title_ja": "名前確認、書類サービス、および部分統合依頼",
   "summary": "This document is a NAME CHECK, DOCUMENT SERVICE, AND PARTIAL CONSOLIDATION REQUEST form related to Lamberto BESTA. It contains information about BESTA's aliases, occupation, date and place of birth, citizenship, and residence. The form also includes checking instructions and comments regarding pertinent identifiable information and background use. Additional information about BESTA's activities, including collaboration with DEMIGOD, involvement in contraband traffic, and attempted double agent operation, is also provided.",
+  "summary_ja": "この文書は、ランベルト・ベスタに関する氏名確認、書類取得、部分統合リクエストフォームである。BESTAの別名、職業、出生の日付と場所、国籍、居住地に関する情報が記載されている。また、関連する特定可能な情報および背景の利用に関する確認手順とコメントも記載されている。BESTAの活動に関する追加情報、すなわちDEMIGODとの協力、密輸への関与、二重スパイ工作の企てなども提供されている。",
+  "document_type": "Form",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1955-07-22",
+  "origin_agency": "CIA",
+  "sender": "7 McHale",
+  "recipient": "RID",
+  "persons_mentioned": [
+    "Lamberto BESTA",
+    "DEMIGOD"
+  ],
+  "locations_mentioned": [
+    "Milan",
+    "Italy",
+    "23 Via Teodosto, Milan, Italy"
+  ],
   "tags": [
     "NAME CHECK",
     "DOCUMENT SERVICE",
@@ -14,19 +30,5 @@
     "DEMIGOD",
     "contraband traffic",
     "double agent"
-  ],
-  "title": "NAME CHECK, DOCUMENT SERVICE, AND PARTIAL CONSOLIDATION REQUEST",
-  "date": "1955-07-22",
-  "locations_mentioned": [
-    "Milan",
-    "Italy",
-    "23 Via Teodosto, Milan, Italy"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Lamberto BESTA",
-    "DEMIGOD"
-  ],
-  "recipient": "RID",
-  "sender": "7 McHale"
+  ]
 }

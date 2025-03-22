@@ -1,8 +1,12 @@
 {
-  "classification": "John F. Kennedy Assassination Records Act of 1992",
-  "document_type": "List",
-  "security_level": "SECRET",
+  "title": "List of Names",
+  "title_ja": "氏名リスト",
   "summary": "List of names with corresponding numbers under the President John F. Kennedy Assassination Records Act of 1992.",
+  "summary_ja": "1992年のジョン・F・ケネディ大統領暗殺記録法に基づく、該当番号と氏名リスト",
+  "document_type": "List",
+  "classification": "John F. Kennedy Assassination Records Act of 1992",
+  "security_level": "SECRET",
+  "date": "1963-06-04",
   "tags": [
     "SACHEZ Raul Gutierrez",
     "LICETI Cruz, Rene",
@@ -49,7 +53,5 @@
     "FAJARDO Rojas, Juan",
     "FELJO Fabregat, Jose Vicent",
     "FERNANDEZ Quirch, Sergio Raul"
-  ],
-  "title": "List of Names",
-  "date": "1963-06-04"
+  ]
 }

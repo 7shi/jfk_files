@@ -1,8 +1,24 @@
 {
-  "classification": "Administrative",
-  "document_type": "Routing and Record Sheet",
-  "security_level": "SECRET",
+  "title": "Clipping of article \"The Kennedy Murder and the Secret Services of the USA\"",
+  "title_ja": "記事「ケネディ暗殺と米国の秘密情報局」の切り抜き",
   "summary": "Routing sheet regarding an article titled 'The Kennedy Murder and the Secret Services of the USA' from the Italian Communist Party weekly Rinascita, which references rumors suggesting the Agency organized President Kennedy's murder.",
+  "summary_ja": "イタリア共産党の週刊誌『Rinascita』に掲載された「ケネディ暗殺と米国の秘密情報部」というタイトルの記事に関するルーティングシート。記事では、諜報機関がケネディ大統領の暗殺を計画したという噂について言及している。",
+  "document_type": "Routing and Record Sheet",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1964-03-26",
+  "origin_agency": "WE/4/INT",
+  "sender": "Arthur P. Iorio",
+  "recipient": "CI Staff Birch O'Neil",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Arthur P. Iorio",
+    "Birch O'Neil",
+    "Gianfranco Corsini"
+  ],
+  "locations_mentioned": [
+    "USA"
+  ],
   "tags": [
     "Kennedy Murder",
     "Secret Services",
@@ -12,19 +28,5 @@
     "Rumors",
     "Agency",
     "Assassination"
-  ],
-  "title": "Clipping of article \"The Kennedy Murder and the Secret Services of the USA\"",
-  "date": "1964-03-26",
-  "locations_mentioned": [
-    "USA"
-  ],
-  "origin_agency": "WE/4/INT",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Arthur P. Iorio",
-    "Birch O'Neil",
-    "Gianfranco Corsini"
-  ],
-  "recipient": "CI Staff Birch O'Neil",
-  "sender": "Arthur P. Iorio"
+  ]
 }

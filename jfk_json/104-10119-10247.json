@@ -1,21 +1,22 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "Memic 16 Dec 1968 regarding informations furnished by Isonge Winters #55769 RETURN TO CIA Background Use Only",
+  "title_ja": "1968年12月16日、イソンジ・ウィンターズ #55769 から提供された情報に関するメモ ミシガン州 12月16日 1968年 CIA 内部用件のみ",
   "summary": "This memo discusses information furnished by Isonge Winters regarding Aline Mosby, Priscilla Johnson, and unauthorized disclosures of classified information. It also details the subject's itinerary on his return trip to the United States.",
-  "tags": [
+  "summary_ja": "本メモでは、アイソンジ・ウィンタースが提供したアライン・モズビー、プリシラ・ジョンソン、および機密情報の不正開示に関する情報を取り上げる。また、対象者の米国への帰国時の旅程も詳細に記載されている。",
+  "document_type": "Memo",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
+  "date": "1968-12-16",
+  "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "Isonge Winters",
     "Aline Mosby",
     "Priscilla Johnson",
-    "Unauthorized disclosure",
-    "Classified information",
-    "Soviet Union",
-    "Itinerary",
-    "Travel",
     "Ray Hutchins",
-    "Isonge Winters"
+    "John F. Kennedy"
   ],
-  "title": "Memic 16 Dec 1968 regarding informations furnished by Isonge Winters #55769 RETURN TO CIA Background Use Only",
-  "date": "1968-12-16",
   "locations_mentioned": [
     "Moscow",
     "Delhi",
@@ -32,14 +33,15 @@
     "Tashkent",
     "Soviet Union"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Isonge Winters",
+  "tags": [
     "Aline Mosby",
     "Priscilla Johnson",
+    "Unauthorized disclosure",
+    "Classified information",
+    "Soviet Union",
+    "Itinerary",
+    "Travel",
     "Ray Hutchins",
-    "John F. Kennedy"
-  ],
-  "recipient": "CIA",
-  "sender": "Unknown"
+    "Isonge Winters"
+  ]
 }

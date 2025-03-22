@@ -1,8 +1,24 @@
 {
-  "classification": "Personnel",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "JMWAVE 4480: AMMUG/1 Employment and Background",
+  "title_ja": "JMWAVE 4480: AMMUG/1 雇用および経歴",
   "summary": "This cable discusses the employment and background checks of AMMUG/1, including their cover status, salary, and attempts to purchase a house locally. It also mentions issues with informing WOGAME about employment changes and requests early acknowledgment to expedite the house purchase.",
+  "summary_ja": "この電報は、AMMUG/1の雇用および経歴調査について論じている。これには、彼らの偽装身分、給与、現地での住宅購入の試みなどが含まれる。また、WOGAMEに雇用変更を通知することに関する問題と、住宅購入を迅速化するための早期確認の要請についても言及している。",
+  "document_type": "Cable",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1965-12-25",
+  "origin_agency": "JMWAVE",
+  "sender": "JMWAVE",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "AMMUG/1",
+    "SCHEAFFER",
+    "WOGAME"
+  ],
+  "locations_mentioned": [
+    "Baltimore"
+  ],
   "tags": [
     "JMWAVE",
     "AMMUG/1",
@@ -14,19 +30,5 @@
     "Cover Status",
     "Background Checks",
     "House Purchase"
-  ],
-  "title": "JMWAVE 4480: AMMUG/1 Employment and Background",
-  "date": "1965-12-25",
-  "locations_mentioned": [
-    "Baltimore"
-  ],
-  "origin_agency": "JMWAVE",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "AMMUG/1",
-    "SCHEAFFER",
-    "WOGAME"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "JMWAVE"
+  ]
 }

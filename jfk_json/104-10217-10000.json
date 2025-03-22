@@ -1,33 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This memorandum details contacts and assessments of Clemard Joseph Charles, a Haitian banker, by various US agencies. It discusses his connections to President Duvalier, his political ambitions, and his interactions with US officials. The memo also mentions George de Mohrenschildt and his background.",
-  "tags": [
-    "Clemard Joseph Charles",
-    "Haiti",
-    "Duvalier",
-    "George de Mohrenschildt",
-    "ACSI",
-    "AID",
-    "CIA",
-    "Political Situation",
-    "US Government"
-  ],
   "title": "MEMORANDUM FOR THE RECORD SUBJECT: Clemard Joseph CHARLES",
+  "title_ja": "記録用覚書 件名：クレマード・ジョセフ・チャールズ",
+  "summary": "This memorandum details contacts and assessments of Clemard Joseph Charles, a Haitian banker, by various US agencies. It discusses his connections to President Duvalier, his political ambitions, and his interactions with US officials. The memo also mentions George de Mohrenschildt and his background.",
+  "summary_ja": "この覚書は、米国のさまざまな機関によるハイチ人銀行家クレマール・ジョセフ・チャールズの接触と評価について詳細に述べている。デュバリエ大統領とのつながり、彼の政治的野望、米国政府高官との交流について論じている。また、ジョージ・デ・モレンシルトと彼の経歴についても言及している。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
   "date": "1963-05-10",
-  "locations_mentioned": [
-    "Haiti",
-    "Port au Prince",
-    "New York",
-    "West Palm Beach, Florida",
-    "Washington",
-    "Poland",
-    "Belgrade",
-    "Dallas, Texas",
-    "Paris, France"
-  ],
   "origin_agency": "CIA",
+  "sender": "A. F. CZAJKOWSKI",
+  "recipient": "RECORD",
   "persons_mentioned": [
     "Clemard Joseph Charles",
     "Dorothe Matlack",
@@ -52,6 +34,26 @@
     "General Pitch",
     "A. F. Czajkowski"
   ],
-  "recipient": "RECORD",
-  "sender": "A. F. CZAJKOWSKI"
+  "locations_mentioned": [
+    "Haiti",
+    "Port au Prince",
+    "New York",
+    "West Palm Beach, Florida",
+    "Washington",
+    "Poland",
+    "Belgrade",
+    "Dallas, Texas",
+    "Paris, France"
+  ],
+  "tags": [
+    "Clemard Joseph Charles",
+    "Haiti",
+    "Duvalier",
+    "George de Mohrenschildt",
+    "ACSI",
+    "AID",
+    "CIA",
+    "Political Situation",
+    "US Government"
+  ]
 }

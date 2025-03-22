@@ -1,22 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable discusses a meeting between PESVING Chief and LANGOSCH, where LANGOSCH briefed on DGI operations and organization, including information on various individuals. LOPEZ expressed keen interest and promised cooperation.",
-  "tags": [
-    "DGI",
-    "PESVING",
-    "LANGOSCH",
-    "LOPEZ",
-    "Honduras",
-    "COYOKE"
-  ],
   "title": "CLASSIFIED MESSAGE",
+  "title_ja": "機密メッセージ",
+  "summary": "Cable discusses a meeting between PESVING Chief and LANGOSCH, where LANGOSCH briefed on DGI operations and organization, including information on various individuals. LOPEZ expressed keen interest and promised cooperation.",
+  "summary_ja": "PESVINGのチーフとLANGOSCHの会合について議論している。LANGOSCHはDGIの活動と組織について説明し、さまざまな個人に関する情報を提供した。LOPEZは強い関心を示し、協力を約束した。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1963-11-24",
-  "locations_mentioned": [
-    "Honduras"
-  ],
   "origin_agency": "CIA",
+  "sender": "1",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "John F. Kennedy",
     "OSWALDO LOPEZ",
@@ -27,6 +20,15 @@
     "CIGUEL MANCIA MADRID",
     "FELIX OYUELA"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "1"
+  "locations_mentioned": [
+    "Honduras"
+  ],
+  "tags": [
+    "DGI",
+    "PESVING",
+    "LANGOSCH",
+    "LOPEZ",
+    "Honduras",
+    "COYOKE"
+  ]
 }

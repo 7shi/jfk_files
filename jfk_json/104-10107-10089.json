@@ -1,8 +1,32 @@
 {
-  "classification": "Liaison",
-  "document_type": "TELEPOUCH",
-  "security_level": "SECRET",
+  "title": "MR. HERBERT ITKIN",
+  "title_ja": "ハーバート・イティキン",
   "summary": "This document discusses a request from Australian Justice A.R. Moffitt for information on Herbert Itkin, whom he described as a former CIA and FBI employee, in relation to an inquiry into organized crime. The CIA's Office of General Counsel (OGC) provided Moffitt with copies of three affidavits relevant to Itkin's affiliation with the CIA, stating that Itkin furnished information to the CIA over many years but did not collect information for them in England.",
+  "summary_ja": "この文書は、オーストラリアのA.R.モフィット判事による、元CIAおよびFBI職員であるとされるハーバート・イティキン氏に関する情報の要請について述べている。CIAの法務部（OGC）は、イティキン氏のCIA所属に関連する3つの宣誓供述書の写しをモフィット判事に提供し、イティキン氏は長年にわたりCIAに情報を提供していたが、英国ではCIAのために情報を収集していなかったと述べた。",
+  "document_type": "TELEPOUCH",
+  "classification": "Liaison",
+  "security_level": "SECRET",
+  "date": "1973-11-16",
+  "origin_agency": "CIA",
+  "sender": "CHIEF, EAST ASIA DIVISION",
+  "recipient": "CHIEF OF BASE, MELBOURNE; CHIEF OF STATION, CANBERRA",
+  "persons_mentioned": [
+    "Herbert Itkin",
+    "Leslie V Jarvis",
+    "A. R. Moffitt",
+    "William Crosey",
+    "Theodore G. Shackley",
+    "Mr. Greany",
+    "Mr. Rocca"
+  ],
+  "locations_mentioned": [
+    "Melbourne",
+    "Canberra",
+    "Washington",
+    "New South Wales",
+    "England",
+    "USA"
+  ],
   "tags": [
     "Herbert Itkin",
     "Leslie V Jarvis",
@@ -14,27 +38,5 @@
     "Office of General Counsel",
     "Australia",
     "William Crosey"
-  ],
-  "title": "MR. HERBERT ITKIN",
-  "date": "1973-11-16",
-  "locations_mentioned": [
-    "Melbourne",
-    "Canberra",
-    "Washington",
-    "New South Wales",
-    "England",
-    "USA"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Herbert Itkin",
-    "Leslie V Jarvis",
-    "A. R. Moffitt",
-    "William Crosey",
-    "Theodore G. Shackley",
-    "Mr. Greany",
-    "Mr. Rocca"
-  ],
-  "recipient": "CHIEF OF BASE, MELBOURNE; CHIEF OF STATION, CANBERRA",
-  "sender": "CHIEF, EAST ASIA DIVISION"
+  ]
 }

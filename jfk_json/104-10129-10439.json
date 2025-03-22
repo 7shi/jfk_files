@@ -1,8 +1,21 @@
 {
-  "classification": "Administrative",
-  "document_type": "Form",
-  "security_level": "CONFIDENTIAL",
+  "title": "REASSIGNMENT PROCESSING",
+  "title_ja": "再配置手続き",
   "summary": "Reassignment processing form for Joseph Piccolo Jr. regarding his assignment to Mexico City, Mexico.",
+  "summary_ja": "ジョセフ・ピッコロ・ジュニアのメキシコシティ（メキシコ）への配置転換に関する再配置処理フォーム。",
+  "document_type": "Form",
+  "classification": "Administrative",
+  "security_level": "CONFIDENTIAL",
+  "date": "1965-08",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "PICCOLO, Joseph (NMN) Jr."
+  ],
+  "locations_mentioned": [
+    "Mexico City, Mexico"
+  ],
   "tags": [
     "reassignment",
     "Joseph Piccolo Jr.",
@@ -18,16 +31,5 @@
     "cover problems",
     "integration problem",
     "polygraph"
-  ],
-  "title": "REASSIGNMENT PROCESSING",
-  "date": "1965-08",
-  "locations_mentioned": [
-    "Mexico City, Mexico"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "PICCOLO, Joseph (NMN) Jr."
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

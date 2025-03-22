@@ -1,27 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Textual Document",
-  "security_level": "Secret",
-  "summary": "This document discusses anti-Castro activities and a meeting between Robert Kleberg and Vice-President Lyndon B. Johnson regarding US plans for Cuba.",
-  "tags": [
-    "Anti Castro Activities",
-    "IS-Cuba",
-    "Lyndon B. Johnson",
-    "Robert Kleberg",
-    "CIA",
-    "Cuban Problem",
-    "John F. Kennedy"
-  ],
   "title": "ANTI-FIDEL CASTRO ACTIVITIES",
+  "title_ja": "フィデル・カストロ反体制活動",
+  "summary": "This document discusses anti-Castro activities and a meeting between Robert Kleberg and Vice-President Lyndon B. Johnson regarding US plans for Cuba.",
+  "summary_ja": "この文書では、カストロ打倒活動について論じ、キューバに対する米国の計画について、ロバート・クレバーグとリンドン・B・ジョンソン副大統領との会合について言及している。",
+  "document_type": "Textual Document",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1962-03-29",
-  "locations_mentioned": [
-    "Cuba",
-    "Washington, DC",
-    "New York City",
-    "Kingsville, Texas",
-    "Miami"
-  ],
   "origin_agency": "FBI",
+  "sender": "NY",
+  "recipient": "HQ",
   "persons_mentioned": [
     "MICHAEL J. P. MALONE",
     "ROBERT KLEBERG",
@@ -32,6 +20,20 @@
     "JOSE MIRO CARDONA",
     "CHARLES MARCHIN"
   ],
-  "recipient": "HQ",
-  "sender": "NY"
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, DC",
+    "New York City",
+    "Kingsville, Texas",
+    "Miami"
+  ],
+  "tags": [
+    "Anti Castro Activities",
+    "IS-Cuba",
+    "Lyndon B. Johnson",
+    "Robert Kleberg",
+    "CIA",
+    "Cuban Problem",
+    "John F. Kennedy"
+  ]
 }

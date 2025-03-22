@@ -1,8 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DIR CITE SALV 5312",
+  "title_ja": "DIR CITE SALV 5312",
   "summary": "Cable discusses JUNAVE 1, LANGOSCH, AMMLUC 1, Cuban Intel, and potential recruitment efforts.",
+  "summary_ja": "JUNAVE 1、LANGOSCH、AMMLUC 1、キューバ情報部、潜在的な勧誘活動について議論されている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-09-30",
+  "origin_agency": "CIA",
+  "sender": "SALV",
+  "recipient": "DIR",
+  "persons_mentioned": [
+    "LANGOSCH",
+    "AMMLUC 1",
+    "JUNAVE 1",
+    "KITA",
+    "JUHILLI"
+  ],
+  "locations_mentioned": [
+    "CUBA",
+    "MEXI"
+  ],
   "tags": [
     "JUNAVE 1",
     "LANGOSCH",
@@ -12,21 +30,5 @@
     "Guerrilleros",
     "CUBA",
     "MEXI"
-  ],
-  "title": "DIR CITE SALV 5312",
-  "date": "1963-09-30",
-  "locations_mentioned": [
-    "CUBA",
-    "MEXI"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "LANGOSCH",
-    "AMMLUC 1",
-    "JUNAVE 1",
-    "KITA",
-    "JUHILLI"
-  ],
-  "recipient": "DIR",
-  "sender": "SALV"
+  ]
 }

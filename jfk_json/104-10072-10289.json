@@ -1,30 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "Special Activities Report on JMWAVE's relationship with AMCARBON-1, detailing operational support tasks, intelligence furnished, and use as a propaganda outlet.",
-  "tags": [
-    "JMWAVE",
-    "AMCARBON-1",
-    "Propaganda",
-    "Operational Intelligence",
-    "Miami Herald",
-    "LAYC",
-    "KUBARK",
-    "REUTEMAN",
-    "Security"
-  ],
   "title": "Special Activities Report on JMWAVE'S Relationship with AMCARBON-1",
+  "title_ja": "JMWAVEのAMCARBON-1との関係に関する特別活動報告書",
+  "summary": "Special Activities Report on JMWAVE's relationship with AMCARBON-1, detailing operational support tasks, intelligence furnished, and use as a propaganda outlet.",
+  "summary_ja": "AMCARBON-1との関係に関するJMWAVEの特別活動報告書。運用支援業務、提供された情報、プロパガンダの手段としての利用についての詳細。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1964-04-02",
-  "locations_mentioned": [
-    "Miami, Florida",
-    "Cuba",
-    "Uruguay",
-    "Houston, Texas",
-    "Peru",
-    "Santiago, Chile"
-  ],
   "origin_agency": "Chief, Special Affairs Staff",
+  "sender": "Chief, Special Affairs Staff",
+  "recipient": "Chief of Station, JMWAVE",
   "persons_mentioned": [
     "AMCARBON-1",
     "AMCARBON-2",
@@ -55,6 +40,23 @@
     "Salvador Allende",
     "Aldo Alvarez"
   ],
-  "recipient": "Chief of Station, JMWAVE",
-  "sender": "Chief, Special Affairs Staff"
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Cuba",
+    "Uruguay",
+    "Houston, Texas",
+    "Peru",
+    "Santiago, Chile"
+  ],
+  "tags": [
+    "JMWAVE",
+    "AMCARBON-1",
+    "Propaganda",
+    "Operational Intelligence",
+    "Miami Herald",
+    "LAYC",
+    "KUBARK",
+    "REUTEMAN",
+    "Security"
+  ]
 }

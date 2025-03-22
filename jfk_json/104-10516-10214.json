@@ -1,25 +1,27 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Request for Letter Drop for TICRYSTAL-1",
+  "title_ja": "TICRYSTAL-1 のレタードロップ要請",
   "summary": "Cable regarding letter drop for TICRYSTAL-1.",
+  "summary_ja": "TICRYSTAL-1宛ての手紙投函に関する電報。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-11-22",
+  "origin_agency": "CIA",
+  "sender": "MEXICO CITY",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "ANGEL GUADALIPPE RIVERA",
+    "TICRYSTAL-1"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "MADUD 70, DEPT. 32, MEXICO, D.F"
+  ],
   "tags": [
     "TICRYSTAL",
     "letter drop",
     "Angel GuadaLuppe Rivera",
     "MEXI 7334"
-  ],
-  "title": "Request for Letter Drop for TICRYSTAL-1",
-  "date": "1963-11-22",
-  "locations_mentioned": [
-    "Mexico City",
-    "MADUD 70, DEPT. 32, MEXICO, D.F"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "ANGEL GUADALIPPE RIVERA",
-    "TICRYSTAL-1"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "MEXICO CITY"
+  ]
 }

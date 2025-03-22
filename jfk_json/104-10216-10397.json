@@ -1,26 +1,28 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "PEAT TYPIC AMLASH",
+  "title_ja": "PEAT TYPIC AMLASH",
   "summary": "This cable discusses the AMLASH operation and the involvement of AMWHIP/2. It suggests minimizing contact with AMWHIP/2 until Joseph Langosch can provide background information.",
+  "summary_ja": "この電報では、AMLASH作戦とAMWHIP/2の関与について議論されている。ジョセフ・ラングロッシュが背景情報を提供できるまで、AMWHIP/2との接触を最小限に抑えることを提案している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1965-06-25",
+  "origin_agency": "FI",
+  "sender": "ROME",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "JOSEPH LANGOSCH",
+    "PRESLAND",
+    "DESMOND FITZGERALD"
+  ],
+  "locations_mentioned": [
+    "ROME"
+  ],
   "tags": [
     "AMLASH",
     "AMWHIP/2",
     "PBRUMEN",
     "Langosch",
     "Doubled Op"
-  ],
-  "title": "PEAT TYPIC AMLASH",
-  "date": "1965-06-25",
-  "locations_mentioned": [
-    "ROME"
-  ],
-  "origin_agency": "FI",
-  "persons_mentioned": [
-    "JOSEPH LANGOSCH",
-    "PRESLAND",
-    "DESMOND FITZGERALD"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "ROME"
+  ]
 }

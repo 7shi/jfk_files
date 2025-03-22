@@ -1,8 +1,25 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo for the Record",
-  "security_level": "SECRET",
+  "title": "JFK Records Review - Lessons Learned",
+  "title_ja": "JFK記録の再調査 - 教訓",
   "summary": "This memo discusses lessons learned from the CIA's JFK Records Review project, including challenges posed by unrealistic deadlines, inflexible standards, and mandated procedures. It also covers the review process, the JFK Act, and ARRB requests for information.",
+  "summary_ja": "このメモでは、非現実的な期限、柔軟性のない基準、義務付けられた手続きによって生じた課題など、CIAのJFK記録審査プロジェクトから得られた教訓について論じている。また、審査プロセス、JFK法、ARRBの情報要求についても取り上げている。",
+  "document_type": "Memo for the Record",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1998-11-24",
+  "origin_agency": "CIA",
+  "sender": "Charles A. Briggs",
+  "recipient": "Record",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Lee Harvey Oswald",
+    "Marina Oswald",
+    "DCI Gates",
+    "Russ Holmes",
+    "Sylvia Duran",
+    "William Pawley",
+    "George Bush"
+  ],
   "tags": [
     "JFK Records Review",
     "Declassification",
@@ -22,20 +39,5 @@
     "NARA",
     "Warren Commission",
     "HSCA"
-  ],
-  "title": "JFK Records Review - Lessons Learned",
-  "date": "1998-11-24",
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Lee Harvey Oswald",
-    "Marina Oswald",
-    "DCI Gates",
-    "Russ Holmes",
-    "Sylvia Duran",
-    "William Pawley",
-    "George Bush"
-  ],
-  "recipient": "Record",
-  "sender": "Charles A. Briggs"
+  ]
 }

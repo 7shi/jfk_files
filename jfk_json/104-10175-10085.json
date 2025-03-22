@@ -1,31 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This collection of documents pertains to Alfonso R. Wichtrich, also known as HYDROL, and his involvement in intelligence operations in Panama and Mexico. The documents detail his recruitment, activities, capabilities, and suitability for various covert operations, as well as his contacts and networks. The documents also cover project reviews, financial authorizations, and recommendations regarding his continued engagement.",
-  "tags": [
-    "Alfonso R. Wichtrich",
-    "HYDROL",
-    "Panama",
-    "Mexico",
-    "Intelligence Operations",
-    "Covert Operations",
-    "Recruitment",
-    "Project Review",
-    "Financial Authorizations",
-    "Counterintelligence",
-    "Communism"
-  ],
   "title": "Operational Activities and Assessment of Alfonso R. Wichtrich (HYDROL) in Panama and Mexico",
+  "title_ja": "パナマおよびメキシコにおけるアルフォンソ・R・ヴィクトリッチ（ハイドロール）の活動と評価",
+  "summary": "This collection of documents pertains to Alfonso R. Wichtrich, also known as HYDROL, and his involvement in intelligence operations in Panama and Mexico. The documents detail his recruitment, activities, capabilities, and suitability for various covert operations, as well as his contacts and networks. The documents also cover project reviews, financial authorizations, and recommendations regarding his continued engagement.",
+  "summary_ja": "この文書群は、アルフォンゾ・R・ヴィクトリッチ（別名HYDROL）と、パナマおよびメキシコにおける諜報活動への関与に関するものである。文書には、彼の採用、活動、能力、さまざまな秘密工作への適性、および彼の連絡先やネットワークが詳細に記載されている。また、プロジェクトの評価、財務承認、および彼の継続的な関与に関する勧告についても記載されている。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1954-06-29",
-  "locations_mentioned": [
-    "Mexico City",
-    "Panama",
-    "China",
-    "United States",
-    "South America"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief of Mission, Mexico City; Chief of Station, Panama City",
+  "recipient": "Chief, WIDE; Chief, Foreign Branch T",
   "persons_mentioned": [
     "Alfonso R. Wichtrich",
     "Gordon M. Ryerson",
@@ -39,6 +23,24 @@
     "HYDRACID",
     "HIDRACTD"
   ],
-  "recipient": "Chief, WIDE; Chief, Foreign Branch T",
-  "sender": "Chief of Mission, Mexico City; Chief of Station, Panama City"
+  "locations_mentioned": [
+    "Mexico City",
+    "Panama",
+    "China",
+    "United States",
+    "South America"
+  ],
+  "tags": [
+    "Alfonso R. Wichtrich",
+    "HYDROL",
+    "Panama",
+    "Mexico",
+    "Intelligence Operations",
+    "Covert Operations",
+    "Recruitment",
+    "Project Review",
+    "Financial Authorizations",
+    "Counterintelligence",
+    "Communism"
+  ]
 }

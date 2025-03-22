@@ -1,26 +1,28 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "PBRIUMEN HTBASTE - Possible Defection of Cuban Delegation Member",
+  "title_ja": "PBRIUMEN HTBASTE - キューバ代表団メンバーの離反の可能性",
   "summary": "Cable regarding L[TAMIL-3]'s encounter with Antonio de Souza Carbajal in New York and a possible defection offer.",
+  "summary_ja": "L[TAMIL-3]がニューヨークでアントニオ・デ・ソウザ・カルバハルと遭遇し、亡命の申し出を受けた可能性があることに関する電報。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-10-15",
+  "origin_agency": "CIA",
+  "sender": "MEXICO CITY",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "ANTONIO DE SOUZA CARBAJAL",
+    "L[TAMIL-3]"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "NEW YORK"
+  ],
   "tags": [
     "Cuban Exiles",
     "Defection",
     "PBRIUMEN",
     "HTBASTE",
     "Antonio de Souza Carbajal"
-  ],
-  "title": "PBRIUMEN HTBASTE - Possible Defection of Cuban Delegation Member",
-  "date": "1963-10-15",
-  "locations_mentioned": [
-    "MEXICO CITY",
-    "NEW YORK"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "ANTONIO DE SOUZA CARBAJAL",
-    "L[TAMIL-3]"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "MEXICO CITY"
+  ]
 }

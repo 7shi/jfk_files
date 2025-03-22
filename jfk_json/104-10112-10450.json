@@ -1,8 +1,23 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "CROZIER, R. L.",
+  "title_ja": "クロジエ、R.L.",
   "summary": "Memorandum regarding the Office of Security's decision not to grant a request for R. L. Crozier's utilization in a staff capacity due to security and cover considerations related to his assignment in Mexico as a Career Agent.",
+  "summary_ja": "メキシコでのキャリアエージェントとしての任務に関連するセキュリティおよびカバーの考慮事項により、R. L. Crozierのスタッフとしての利用要請を許可しないというセキュリティオフィスの決定に関する覚書。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1959-12-24",
+  "origin_agency": "Office of Security",
+  "sender": "A/Chief, SB/2",
+  "recipient": "Chief, IB/3",
+  "persons_mentioned": [
+    "CROZIER, R. L.",
+    "Joseph KING",
+    "Ervan E. Kuhnke, Jr"
+  ],
+  "locations_mentioned": [
+    "Mexico"
+  ],
   "tags": [
     "CROZIER",
     "R. L.",
@@ -17,18 +32,5 @@
     "Security considerations",
     "Cover considerations",
     "Staff capacity"
-  ],
-  "title": "CROZIER, R. L.",
-  "date": "1959-12-24",
-  "locations_mentioned": [
-    "Mexico"
-  ],
-  "origin_agency": "Office of Security",
-  "persons_mentioned": [
-    "CROZIER, R. L.",
-    "Joseph KING",
-    "Ervan E. Kuhnke, Jr"
-  ],
-  "recipient": "Chief, IB/3",
-  "sender": "A/Chief, SB/2"
+  ]
 }

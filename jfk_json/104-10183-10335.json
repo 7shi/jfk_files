@@ -1,8 +1,21 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "JMWAVE 4480",
+  "title_ja": "JMWAVE 4480",
   "summary": "This cable discusses AMMUG/1, an agent, and their cover status. It mentions a change in cover to meet tax requirements and facilitate a house purchase.",
+  "summary_ja": "この電報は、AMMUG/1、エージェント、および彼らの偽装状況について議論している。また、税金の要件を満たし、住宅購入を促進するための偽装の変更についても言及している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1965-12-06",
+  "origin_agency": "CIA",
+  "sender": "JMWAVE",
+  "recipient": "WOGAME",
+  "persons_mentioned": [
+    "SCHEAFFER"
+  ],
+  "locations_mentioned": [
+    "Baltimore"
+  ],
   "tags": [
     "AMMUG/1",
     "cover status",
@@ -11,16 +24,5 @@
     "JMWAVE",
     "PBRUMEN",
     "agent"
-  ],
-  "title": "JMWAVE 4480",
-  "date": "1965-12-06",
-  "locations_mentioned": [
-    "Baltimore"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "SCHEAFFER"
-  ],
-  "recipient": "WOGAME",
-  "sender": "JMWAVE"
+  ]
 }

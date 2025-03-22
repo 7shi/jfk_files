@@ -1,14 +1,11 @@
 {
-  "classification": "JFK",
-  "document_type": "PAPER",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This document is a handwritten list entitled 'ASSETS KNOWN'. It is a two-page document that has been released in part, with deletions.",
-  "tags": [
-    "HANDWRITTEN",
-    "LIST",
-    "ASSETS"
-  ],
   "title": "HANDWRITTEN LIST ENTITLED \"ASSETS KNOWN\".",
+  "title_ja": "「資産の一覧」と題された手書きのリスト。",
+  "summary": "This document is a handwritten list entitled 'ASSETS KNOWN'. It is a two-page document that has been released in part, with deletions.",
+  "summary_ja": "この文書は、「既知の重要人物」と題された手書きのリストである。2ページから成るこの文書は、一部が削除された状態で公開されている。",
+  "document_type": "PAPER",
+  "classification": "JFK",
+  "security_level": "UNCLASSIFIED",
   "date": "1900-01-01",
   "origin_agency": "CIA",
   "persons_mentioned": [
@@ -24,5 +21,10 @@
     "Kulbe Fariner",
     "George Wadsworth",
     "Olive Secutting"
+  ],
+  "tags": [
+    "HANDWRITTEN",
+    "LIST",
+    "ASSETS"
   ]
 }

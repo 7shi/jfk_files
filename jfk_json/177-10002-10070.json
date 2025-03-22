@@ -1,26 +1,24 @@
 {
-  "classification": "Mexico",
-  "document_type": "MEMORANDUM",
-  "security_level": "SECRET",
-  "summary": "This memorandum discusses the upcoming meeting between President Johnson and President Lopez Mateos of Mexico. It outlines major points of interest to both the United States and Mexico, including hemisphere relations, control of Castro Communism, Red China, the Alliance for Progress, disputed tracts on the Rio Grande, control of narcotics, a desalinization plant at Tijuana, the salinity problem on the Lower Colorado, the Bracero Program, U.S. trade policies, and the Chamizal Settlement.",
-  "tags": [
-    "Lopez Mateos",
-    "Mexico",
-    "President Johnson",
-    "Hemisphere Relations",
-    "Castro Communism",
-    "Red China",
-    "Alliance for Progress",
-    "Rio Grande",
-    "Narcotics Control",
-    "Tijuana",
-    "Salinity Problem",
-    "Bracero Program",
-    "Trade Policies",
-    "Chamizal Settlement"
-  ],
   "title": "",
+  "title_ja": "",
+  "summary": "This memorandum discusses the upcoming meeting between President Johnson and President Lopez Mateos of Mexico. It outlines major points of interest to both the United States and Mexico, including hemisphere relations, control of Castro Communism, Red China, the Alliance for Progress, disputed tracts on the Rio Grande, control of narcotics, a desalinization plant at Tijuana, the salinity problem on the Lower Colorado, the Bracero Program, U.S. trade policies, and the Chamizal Settlement.",
+  "summary_ja": "この覚書では、ジョンソン大統領とメキシコのロペス・マテオス大統領の会談について論じている。 アメリカ合衆国とメキシコの両国にとっての主な関心事について概説しており、その中には、米州関係、カストロ共産主義の統制、赤中国、進歩同盟、リオ・グランデ川の係争地、麻薬の統制、ティフアナの脱塩プラント、コロラド川下流の塩分濃度問題、ブラセロ・プログラム、アメリカの貿易政策、チャミサル問題などが含まれる。",
+  "document_type": "MEMORANDUM",
+  "classification": "Mexico",
+  "security_level": "SECRET",
   "date": "1964-02-18",
+  "origin_agency": "STATE",
+  "sender": "DEAN RUSK",
+  "recipient": "THE PRESIDENT",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Lopez Mateos",
+    "Gustavo DIAZ Ordaz",
+    "Castro",
+    "Orlich",
+    "De Gaulle",
+    "Dean Rusk"
+  ],
   "locations_mentioned": [
     "Mexico",
     "United States",
@@ -38,16 +36,20 @@
     "El Paso",
     "Ciudad Juarez"
   ],
-  "origin_agency": "STATE",
-  "persons_mentioned": [
-    "John F. Kennedy",
+  "tags": [
     "Lopez Mateos",
-    "Gustavo DIAZ Ordaz",
-    "Castro",
-    "Orlich",
-    "De Gaulle",
-    "Dean Rusk"
-  ],
-  "recipient": "THE PRESIDENT",
-  "sender": "DEAN RUSK"
+    "Mexico",
+    "President Johnson",
+    "Hemisphere Relations",
+    "Castro Communism",
+    "Red China",
+    "Alliance for Progress",
+    "Rio Grande",
+    "Narcotics Control",
+    "Tijuana",
+    "Salinity Problem",
+    "Bracero Program",
+    "Trade Policies",
+    "Chamizal Settlement"
+  ]
 }

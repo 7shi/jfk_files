@@ -1,8 +1,25 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Memorandum for the Record: Safehouse for AMMUG-1",
+  "title_ja": "記録用覚書：AMMUG-1用隠れ家",
   "summary": "This memorandum discusses the decision to use a specific safehouse for AMMUG-1, located at Hunting Towers, Mt. Vernon Blvd. Apt. #731-West, Alexandria. It outlines the agreement with Mr. (Ray Scofield), the inspection of the apartment, and the plan to move A-1 into the safehouse after debriefing. The memo also mentions informing Mr. (John Ryan) about the change in plans regarding prospective apartments for A-1.",
+  "summary_ja": "この覚書では、AMMUG-1のために、バージニア州アレクサンドリアのハンティング・タワーズ、マウント・バーノン・ブルバード・アパートメント731-ウェストにある特定の隠れ家を使用するという決定について議論している。レイ・スコフィールド氏との合意、アパートの検査、任務報告後にA-1を隠れ家に移動させる計画について概説している。また、A-1の候補となるアパートに関する計画変更についてジョン・ライアン氏に通知することにも言及している。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
+  "date": "1964-05-14",
+  "origin_agency": "WH/SA/CI",
+  "sender": "Libby, WH/SA/CI",
+  "recipient": "Record",
+  "persons_mentioned": [
+    "Ray Scofield",
+    "John Ryan",
+    "A-1"
+  ],
+  "locations_mentioned": [
+    "MT. VERNON BLVD",
+    "ALEXANDRIA",
+    "Washington"
+  ],
   "tags": [
     "safehouse",
     "AMMUG-1",
@@ -15,20 +32,5 @@
     "Safehouse Branch",
     "Ray Scofield",
     "John Ryan"
-  ],
-  "title": "Memorandum for the Record: Safehouse for AMMUG-1",
-  "date": "1964-05-14",
-  "locations_mentioned": [
-    "MT. VERNON BLVD",
-    "ALEXANDRIA",
-    "Washington"
-  ],
-  "origin_agency": "WH/SA/CI",
-  "persons_mentioned": [
-    "Ray Scofield",
-    "John Ryan",
-    "A-1"
-  ],
-  "recipient": "Record",
-  "sender": "Libby, WH/SA/CI"
+  ]
 }

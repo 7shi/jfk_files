@@ -1,8 +1,22 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DIR 86425: HIDALK/2 (MIGALE/2) Visit to JENTOMS",
+  "title_ja": "ディレ 86425: ヒダルク/2 (ミガルク/2) JENTOMS 訪問",
   "summary": "Cable regarding the planned visit of HIDALK/2 (MIGALE/2) to JENTOMS in February 1964. Discusses arrangements for the visit and related personal matters.",
+  "summary_ja": "1964年2月にHIDALK/2 (MIGALE/2)がJENTOMSを訪問する予定に関する電報。訪問の手配と関連する個人事項について議論している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-12-10",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "JEWAVE, MAVE",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY"
+  ],
+  "locations_mentioned": [
+    "BRUS",
+    "EOS"
+  ],
   "tags": [
     "HIDALK/2",
     "MIGALE/2",
@@ -11,17 +25,5 @@
     "NIGALE",
     "Visit",
     "February 1964"
-  ],
-  "title": "DIR 86425: HIDALK/2 (MIGALE/2) Visit to JENTOMS",
-  "date": "1963-12-10",
-  "locations_mentioned": [
-    "BRUS",
-    "EOS"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "JOHN F. KENNEDY"
-  ],
-  "recipient": "JEWAVE, MAVE",
-  "sender": "DIRECTOR"
+  ]
 }

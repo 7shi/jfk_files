@@ -1,16 +1,16 @@
 {
-  "classification": "Administrative",
-  "document_type": "Distribution List",
-  "security_level": "SECRET",
-  "summary": "This document is a field distribution list with various divisions and locations.",
-  "tags": [
-    "distribution list",
-    "field offices",
-    "divisions",
-    "locations"
-  ],
   "title": "Field Distribution - BD #5847",
+  "title_ja": "現地配布 - BD #5847",
+  "summary": "This document is a field distribution list with various divisions and locations.",
+  "summary_ja": "この文書は、さまざまな部署と所在地が記載された現場配属者名簿である。",
+  "document_type": "Distribution List",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1963-11-22",
+  "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "Various field offices",
+  "persons_mentioned": [],
   "locations_mentioned": [
     "Johannesburg",
     "Bangkok",
@@ -97,8 +97,10 @@
     "Rawalpindi",
     "Teheran"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [],
-  "recipient": "Various field offices",
-  "sender": "Unknown"
+  "tags": [
+    "distribution list",
+    "field offices",
+    "divisions",
+    "locations"
+  ]
 }

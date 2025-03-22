@@ -1,38 +1,15 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum from the CIA to the FBI concerns Person Ferguson MITCHELL, William Hamilton MARTIN, and Espionage-R. It discusses information related to Nicolas Georges DAMASCUS, Justo SIERRA Casasus, and their potential connections to Soviet intelligence officers, including Boris A. KAZANTSEV, and the escape route used by NSA defectors, transiting Mexico and presumably Cuba en route to the USSR.",
-  "tags": [
-    "Espionage",
-    "Defectors",
-    "Soviet Intelligence",
-    "Mexico",
-    "Cuba",
-    "NSA",
-    "FBI",
-    "CIA",
-    "Counterintelligence"
-  ],
   "title": "Person Ferguson MITCHELL, William Hamilton MARTIN, Espionage-R",
+  "title_ja": "パーソン・ファーガソン・ミッチェル、ウィリアム・ハミルトン・マーティン、スパイ活動 - R.",
+  "summary": "This memorandum from the CIA to the FBI concerns Person Ferguson MITCHELL, William Hamilton MARTIN, and Espionage-R. It discusses information related to Nicolas Georges DAMASCUS, Justo SIERRA Casasus, and their potential connections to Soviet intelligence officers, including Boris A. KAZANTSEV, and the escape route used by NSA defectors, transiting Mexico and presumably Cuba en route to the USSR.",
+  "summary_ja": "このCIAからFBIへの覚書は、パーソン・ファーガソン・ミッチェル、ウィリアム・ハミルトン・マーティン、およびエスピオナージ-Rに関するものである。ニコラス・ジョルジュ・ダマスカス、フスト・シエラ・カサスース、およびソビエト連邦の諜報員（ボリス・A・カザンツェフを含む）との潜在的なつながり、およびNSAの亡命者がメキシコを経由し、おそらくはキューバを経由してソビエト連邦に向かう際に使用した逃亡経路に関する情報を論じている。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "SECRET",
   "date": "1961-07-17",
-  "locations_mentioned": [
-    "Mexico",
-    "Cuba",
-    "USSR",
-    "United States",
-    "Washington, D.C.",
-    "New Orleans, Louisiana",
-    "Mexico City",
-    "Brownsville, Texas",
-    "Matamoros, Tamaulipas",
-    "Alexandria, Egypt",
-    "Sydney, Australia",
-    "London, England",
-    "Havana, Cuba",
-    "Canada"
-  ],
   "origin_agency": "CIA",
+  "sender": "William K. Harvey, Deputy Director (Plans)",
+  "recipient": "Federal Bureau of Investigation",
   "persons_mentioned": [
     "Ferguson MITCHELL",
     "William Hamilton MARTIN",
@@ -51,6 +28,31 @@
     "William C. Cregar",
     "William K. Harvey"
   ],
-  "recipient": "Federal Bureau of Investigation",
-  "sender": "William K. Harvey, Deputy Director (Plans)"
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba",
+    "USSR",
+    "United States",
+    "Washington, D.C.",
+    "New Orleans, Louisiana",
+    "Mexico City",
+    "Brownsville, Texas",
+    "Matamoros, Tamaulipas",
+    "Alexandria, Egypt",
+    "Sydney, Australia",
+    "London, England",
+    "Havana, Cuba",
+    "Canada"
+  ],
+  "tags": [
+    "Espionage",
+    "Defectors",
+    "Soviet Intelligence",
+    "Mexico",
+    "Cuba",
+    "NSA",
+    "FBI",
+    "CIA",
+    "Counterintelligence"
+  ]
 }

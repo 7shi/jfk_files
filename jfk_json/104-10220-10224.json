@@ -1,24 +1,26 @@
 {
-  "classification": "Operations",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
+  "title": "Classified Message Regarding Unidentified Subject",
+  "title_ja": "未確認対象に関する機密メッセージ",
   "summary": "This message discusses the inability to identify a subject, requesting more information. Mentions KEYWAY PBRUMEN UNRUMBLE and references PARI 1548.",
+  "summary_ja": "このメッセージでは、対象者の特定ができないことについて議論し、より多くの情報を要求している。KEYWAY PBRUMEN UNRUMBLEについて言及し、PARI 1548を参照している。",
+  "document_type": "Classified Message",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1962-06-22",
+  "origin_agency": "WE/3",
+  "sender": "DIRECTOR",
+  "recipient": "PARIS, MADRID",
+  "persons_mentioned": [
+    "Jorge XA FERMALEZ"
+  ],
+  "locations_mentioned": [
+    "PARIS",
+    "MADRID"
+  ],
   "tags": [
     "identification",
     "subject",
     "KEYWAY PBRUMEN UNRUMBLE",
     "PARI 1548"
-  ],
-  "title": "Classified Message Regarding Unidentified Subject",
-  "date": "1962-06-22",
-  "locations_mentioned": [
-    "PARIS",
-    "MADRID"
-  ],
-  "origin_agency": "WE/3",
-  "persons_mentioned": [
-    "Jorge XA FERMALEZ"
-  ],
-  "recipient": "PARIS, MADRID",
-  "sender": "DIRECTOR"
+  ]
 }

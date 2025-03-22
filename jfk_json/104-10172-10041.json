@@ -1,8 +1,25 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "CONFIDENTIAL",
+  "title": "Cuban Economic Crisis",
+  "title_ja": "キューバ経済危機",
   "summary": "This document details the Cuban economic crisis in August 1959, citing concerns over agrarian reforms, government subsidies, and potential financial reliance on the Soviet Union. It includes information sourced from a Cuban government official and another source connected to the Banco Industrial de Cuba.",
+  "summary_ja": "この文書は、1959年8月のキューバ経済危機について詳しく述べ、農地改革、政府補助金、ソビエト連邦への潜在的な財政依存に対する懸念を挙げている。この文書には、キューバ政府高官とキューバ産業銀行（Banco Industrial de Cuba）関係者からの情報源が含まれている。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
+  "date": "1959-08-21",
+  "origin_agency": "Unknown",
+  "sender": "Habana",
+  "recipient": "Headquarters",
+  "persons_mentioned": [
+    "Fidel CASTRO Rua",
+    "Alberto FERNANDEZ Rechavarria",
+    "Nelson L. Raynock",
+    "Woodrow C. Olien"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Habana"
+  ],
   "tags": [
     "Cuban Economy",
     "Agrarian Reform",
@@ -10,20 +27,5 @@
     "Economic Crisis",
     "Sugar Industry",
     "Government Subsidies"
-  ],
-  "title": "Cuban Economic Crisis",
-  "date": "1959-08-21",
-  "locations_mentioned": [
-    "Cuba",
-    "Habana"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "Fidel CASTRO Rua",
-    "Alberto FERNANDEZ Rechavarria",
-    "Nelson L. Raynock",
-    "Woodrow C. Olien"
-  ],
-  "recipient": "Headquarters",
-  "sender": "Habana"
+  ]
 }

@@ -1,19 +1,22 @@
 {
-  "classification": "Intelligence Report",
-  "document_type": "Telegram",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This document contains an intelligence report about plans for a coup d'etat in Central Vietnam by the reformed VNQDD. The report details the organization's structure, planned actions, and potential consequences, including the possible exploitation by the Viet Cong.",
-  "tags": [
-    "coup d'etat",
-    "VNQDD",
-    "Vietnam",
-    "Central Vietnam",
-    "political instability",
-    "Buddhist association",
-    "Viet Cong"
-  ],
   "title": "Central Intelligence Agency Information Report: Plans for a Coup D'Etat in Central Vietnam by the Reformed VNQDD",
+  "title_ja": "CIA情報報告書：ベトナム中部におけるクーデター計画について（改心したベトナム革命党による",
+  "summary": "This document contains an intelligence report about plans for a coup d'etat in Central Vietnam by the reformed VNQDD. The report details the organization's structure, planned actions, and potential consequences, including the possible exploitation by the Viet Cong.",
+  "summary_ja": "この文書は、再編されたVNQDDによるベトナム中部でのクーデター計画に関する諜報報告書を含んでいる。報告書は、組織の構造、計画された行動、およびベトコンによる悪用可能性を含む潜在的な結果について詳細に述べている。",
+  "document_type": "Telegram",
+  "classification": "Intelligence Report",
+  "security_level": "CONFIDENTIAL",
   "date": "1963-05-18",
+  "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "",
+  "persons_mentioned": [
+    "Nguyen Van Luc",
+    "Ngo Dinh Can",
+    "Archbishop Ngo Dinh Thuc",
+    "Nguyen Van Cu",
+    "Diem"
+  ],
   "locations_mentioned": [
     "South Vietnam",
     "Central Vietnam",
@@ -22,14 +25,13 @@
     "Quang Nam Province",
     "Da Nang"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Nguyen Van Luc",
-    "Ngo Dinh Can",
-    "Archbishop Ngo Dinh Thuc",
-    "Nguyen Van Cu",
-    "Diem"
-  ],
-  "recipient": "",
-  "sender": ""
+  "tags": [
+    "coup d'etat",
+    "VNQDD",
+    "Vietnam",
+    "Central Vietnam",
+    "political instability",
+    "Buddhist association",
+    "Viet Cong"
+  ]
 }

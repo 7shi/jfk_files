@@ -1,8 +1,27 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Guillermo ARASTAGUIA",
+  "title_ja": "ギジェルモ・アラスタギア",
   "summary": "This document contains personality information on Guillermo ARASTAGUIA, pseudonym \"Rene,\" chief of the Department of Technical Operational Support (MI) in the Direccion General de Inteligencia (DGI). It includes details about his background, physical description, and possible connections to Anibal ESCALANTE and Ramiro VALDES.",
+  "summary_ja": "この文書には、ディレクション・ジェネラル・デ・インテリジェンシア（DGI）の技術作戦支援部（MI）部長、ギジェルモ・アラスタギア（偽名「レネ」）に関する人物情報が記載されている。彼の経歴、身体的特徴、アニバル・エスカランテおよびラミロ・バルデスとの関係の可能性についての詳細が含まれている。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1964-08-11",
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "sender": "CS",
+  "recipient": "DIA, ARMY, NAVY, AIR, OCR, FBI, REP CINCLANT, CINCSO, LENS",
+  "persons_mentioned": [
+    "Guillermo ARASTAGUIA",
+    "Ramiro VALDES",
+    "Anibal ESCALANTE",
+    "Raul CASTRO"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, D. C.",
+    "Helsinki",
+    "Moscow"
+  ],
   "tags": [
     "Intelligence",
     "Personnel",
@@ -10,22 +29,5 @@
     "DGI",
     "Cuba",
     "Counterintelligence"
-  ],
-  "title": "Guillermo ARASTAGUIA",
-  "date": "1964-08-11",
-  "locations_mentioned": [
-    "Cuba",
-    "Washington, D. C.",
-    "Helsinki",
-    "Moscow"
-  ],
-  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
-  "persons_mentioned": [
-    "Guillermo ARASTAGUIA",
-    "Ramiro VALDES",
-    "Anibal ESCALANTE",
-    "Raul CASTRO"
-  ],
-  "recipient": "DIA, ARMY, NAVY, AIR, OCR, FBI, REP CINCLANT, CINCSO, LENS",
-  "sender": "CS"
+  ]
 }

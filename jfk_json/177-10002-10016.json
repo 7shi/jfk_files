@@ -1,20 +1,20 @@
 {
-  "classification": "Cuba",
-  "document_type": "Draft Briefing Notes",
-  "security_level": "SECRET",
-  "summary": "This document outlines Cuban financing of subversive operations in Latin America, often through couriers carrying cash. It details specific instances of funding, including support for guerrilla groups and political activities, and highlights instances of bank robberies by Communists to sustain their operations.",
-  "tags": [
-    "Cuban financing",
-    "subversive operations",
-    "Latin America",
-    "guerrilla warfare",
-    "bank robberies",
-    "communists",
-    "political propaganda",
-    "money transfers"
-  ],
   "title": "Draft Briefing Notes",
+  "title_ja": "ブリーフィングメモ草案",
+  "summary": "This document outlines Cuban financing of subversive operations in Latin America, often through couriers carrying cash. It details specific instances of funding, including support for guerrilla groups and political activities, and highlights instances of bank robberies by Communists to sustain their operations.",
+  "summary_ja": "この文書は、現金輸送者を通じての資金提供を含む、キューバによるラテンアメリカでの破壊工作活動への資金提供について概説している。ゲリラグループや政治活動への支援を含む、資金提供の具体的な事例について詳細に述べ、共産主義者による銀行強盗が彼らの活動を維持するために行われた事例を強調している。",
+  "document_type": "Draft Briefing Notes",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-02-18",
+  "origin_agency": "CIA",
+  "sender": "FROM",
+  "recipient": "TO",
+  "persons_mentioned": [
+    "Fabricio Ojeda",
+    "Julio Cesar Mayorga Portocarrera",
+    "Hugo Blanco"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Latin America",
@@ -31,12 +31,14 @@
     "Argentina",
     "Cuzco Valley"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Fabricio Ojeda",
-    "Julio Cesar Mayorga Portocarrera",
-    "Hugo Blanco"
-  ],
-  "recipient": "TO",
-  "sender": "FROM"
+  "tags": [
+    "Cuban financing",
+    "subversive operations",
+    "Latin America",
+    "guerrilla warfare",
+    "bank robberies",
+    "communists",
+    "political propaganda",
+    "money transfers"
+  ]
 }

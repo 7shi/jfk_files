@@ -1,8 +1,24 @@
 {
-  "classification": "Mexico",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Response to Memo on \"Council for Latin America\"",
+  "title_ja": "「ラテンアメリカ協議会」に関するメモへの回答",
   "summary": "This memo from March 29, 1967, details WI/I's activities related to the Council for Latin America, specifically addressing involvement with four organizations: Confederación Mexicana de Cámaras Industriales, Instituto de Investigaciones Sociales y Económicas, Centro Nacional de Estudios Sociales, and American Chamber of Commerce of Mexico. It outlines funding, objectives, and personnel associated with these organizations, including agent activities and project statuses.",
+  "summary_ja": "1967年3月29日付のこのメモは、ラテンアメリカ協議会に関連するWI/Iの活動を詳細に説明しており、特にConfederación Mexicana de Cámaras Industriales、Instituto de Investigaciones Sociales y económicas、Centro Nacional de Estudios Sociales、American Chamber of Commerce of Mexicoの4つの組織との関わりについて述べている。これらの組織に関連する資金、目的、人員について概説しており、エージェントの活動やプロジェクトの進捗状況についても記載されている。",
+  "document_type": "Memorandum",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1967-03-29",
+  "origin_agency": "WH/I",
+  "sender": "N. J. Katten, C/WH/I",
+  "recipient": "Chief, WH/CA",
+  "persons_mentioned": [
+    "N. J. Katten",
+    "LISIFER-3",
+    "LEUFT-1"
+  ],
+  "locations_mentioned": [
+    "Mexico",
+    "Aachen, Germany"
+  ],
   "tags": [
     "Council for Latin America",
     "Confederación Mexicana de Cámaras Industriales",
@@ -15,19 +31,5 @@
     "KOWACE",
     "rightist political organizations",
     "mass media propaganda"
-  ],
-  "title": "Response to Memo on \"Council for Latin America\"",
-  "date": "1967-03-29",
-  "locations_mentioned": [
-    "Mexico",
-    "Aachen, Germany"
-  ],
-  "origin_agency": "WH/I",
-  "persons_mentioned": [
-    "N. J. Katten",
-    "LISIFER-3",
-    "LEUFT-1"
-  ],
-  "recipient": "Chief, WH/CA",
-  "sender": "N. J. Katten, C/WH/I"
+  ]
 }

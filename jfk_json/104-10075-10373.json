@@ -1,31 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Message",
-  "security_level": "SECRET",
-  "summary": "This document contains translated messages regarding potential recruits and intelligence gathering in Cuba, including biographical data, recommendations for action agents, and details about sabotage objectives and target locations.",
-  "tags": [
-    "recruitment",
-    "intelligence",
-    "sabotage",
-    "biographic data",
-    "weapons",
-    "explosives",
-    "target locations",
-    "action agents"
-  ],
   "title": "ITHWAVE 2395 OTIC ATHENA PETSOS COMMO",
+  "title_ja": "ITHWAVE 2395 OTIC ATHENA PETSOS COMMO",
+  "summary": "This document contains translated messages regarding potential recruits and intelligence gathering in Cuba, including biographical data, recommendations for action agents, and details about sabotage objectives and target locations.",
+  "summary_ja": "この文書には、キューバにおける潜在的な協力者や情報収集に関する翻訳メッセージが含まれており、経歴データ、行動エージェントへの推奨事項、妨害工作の目的や標的場所の詳細などが記載されている。",
+  "document_type": "Message",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1965",
-  "locations_mentioned": [
-    "Holguin",
-    "Victoria",
-    "Havana",
-    "Manzanillo",
-    "Matanzas",
-    "Puerto Padre",
-    "Aguas Claras",
-    "Unas Highways"
-  ],
   "origin_agency": "UMWAVE",
+  "sender": "C/SAS: 5",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "Ruben",
     "Jose Gonzalez Canto",
@@ -60,6 +44,24 @@
     "Felipe Crue Colon",
     "Delicia Fara"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "C/SAS: 5"
+  "locations_mentioned": [
+    "Holguin",
+    "Victoria",
+    "Havana",
+    "Manzanillo",
+    "Matanzas",
+    "Puerto Padre",
+    "Aguas Claras",
+    "Unas Highways"
+  ],
+  "tags": [
+    "recruitment",
+    "intelligence",
+    "sabotage",
+    "biographic data",
+    "weapons",
+    "explosives",
+    "target locations",
+    "action agents"
+  ]
 }

@@ -1,8 +1,18 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Emilio Americo RODRIGUEZ",
+  "title_ja": "Emilio Americo RODRIGUEZ",
   "summary": "This memorandum details the recruitment of Emilio Americo RODRIGUEZ by the Habana Station at a rate of $300.00 per month, effective 1 June 1960. It requests that Finance Division deposit the monthly salary into a specific bank account under the name of Emilio Rodrigues, with the first deposit to be made on 30 June 1960. No taxes are to be withheld from the salary.",
+  "summary_ja": "この覚書は、ハバナ支局がエミリオ・アメリコ・ロドリゲスを1960年6月1日より月額300ドルで採用することを詳細に説明している。財務部門に、エミリオ・ロドリゲスの名義で特定の銀行口座に毎月の給与を振り込むよう要請し、最初の振り込みは1960年6月30日に行う。給与から税金は差し引かない。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
+  "date": "1960-07-12",
+  "sender": "J. D. Sterline",
+  "recipient": "Chief, Finance Division",
+  "persons_mentioned": [
+    "Emilio Americo RODRIGUEZ",
+    "J. D. Sterline"
+  ],
   "tags": [
     "recruitment",
     "salary",
@@ -10,13 +20,5 @@
     "Emilio Americo RODRIGUEZ",
     "Finance Division",
     "bank account"
-  ],
-  "title": "Emilio Americo RODRIGUEZ",
-  "date": "1960-07-12",
-  "persons_mentioned": [
-    "Emilio Americo RODRIGUEZ",
-    "J. D. Sterline"
-  ],
-  "recipient": "Chief, Finance Division",
-  "sender": "J. D. Sterline"
+  ]
 }

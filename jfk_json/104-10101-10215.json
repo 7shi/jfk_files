@@ -1,8 +1,22 @@
 {
-  "classification": "Soviet",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "CHKIST BIRTHDAY CELEBRATION SURVEILLANCE",
+  "title_ja": "CHKIST BIRTHDAY CELEBRATION SURVEILLANCE",
   "summary": "This cable discusses KGB residencies celebrating the anniversary of the Soviet State Security Organization and suggests surveillance and liaison services.",
+  "summary_ja": "この電報では、ソビエト国家保安機関の記念日を祝うKGBの駐在員について議論し、監視と連絡業務を提案している。",
+  "document_type": "Cable",
+  "classification": "Soviet",
+  "security_level": "SECRET",
+  "date": "1963-12-18",
+  "origin_agency": "DIRECTOR",
+  "sender": "DIRECTOR",
+  "recipient": "ALL COS, &COB",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY"
+  ],
+  "locations_mentioned": [
+    "WORLD",
+    "EMBASSY"
+  ],
   "tags": [
     "KGB",
     "Soviet State Security Organization",
@@ -10,17 +24,5 @@
     "Liaison Services",
     "Anniversary",
     "CHKIST Birthday"
-  ],
-  "title": "CHKIST BIRTHDAY CELEBRATION SURVEILLANCE",
-  "date": "1963-12-18",
-  "locations_mentioned": [
-    "WORLD",
-    "EMBASSY"
-  ],
-  "origin_agency": "DIRECTOR",
-  "persons_mentioned": [
-    "JOHN F. KENNEDY"
-  ],
-  "recipient": "ALL COS, &COB",
-  "sender": "DIRECTOR"
+  ]
 }

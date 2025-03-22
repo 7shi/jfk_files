@@ -1,8 +1,38 @@
 {
-  "classification": "Security",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "Mollie BLOCK; Morris BLOCK",
+  "title_ja": "モリー・ブロック；モリス・ブロック",
   "summary": "This memo details information received from the Dutch Internal Security Service (BVD) regarding Mollie BLOCK and Morris BLOCK's travel and intentions to settle in Moscow.",
+  "summary_ja": "このメモは、モリー・ブロックとモリス・ブロックのモスクワへの渡航と定住の意図について、オランダ国内治安局（BVD）から入手した詳細情報を記載している。",
+  "document_type": "Memo",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1959-02-10",
+  "origin_agency": "CIA",
+  "sender": "ME/2 MARION E. LINDE",
+  "recipient": "Federal Bureau of Investigation",
+  "persons_mentioned": [
+    "Marion E. Linde",
+    "Mollie BLOCK",
+    "Morris BLOCK",
+    "Johanna Morris BLOCK",
+    "Eisenhower",
+    "Jack KLOERT",
+    "Jack ELGERT",
+    "Stanley FAULKNER",
+    "Stella ELIASHOW"
+  ],
+  "locations_mentioned": [
+    "Amsterdam",
+    "Moscow",
+    "New York",
+    "Netherlands",
+    "The Hague",
+    "Canada",
+    "London",
+    "Denmark",
+    "Montreal",
+    "Cleveland"
+  ],
   "tags": [
     "Dutch Internal Security Service",
     "BVD",
@@ -22,33 +52,5 @@
     "Wholesale",
     "Department Store Union",
     "AFL-CIO"
-  ],
-  "title": "Mollie BLOCK; Morris BLOCK",
-  "date": "1959-02-10",
-  "locations_mentioned": [
-    "Amsterdam",
-    "Moscow",
-    "New York",
-    "Netherlands",
-    "The Hague",
-    "Canada",
-    "London",
-    "Denmark",
-    "Montreal",
-    "Cleveland"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Marion E. Linde",
-    "Mollie BLOCK",
-    "Morris BLOCK",
-    "Johanna Morris BLOCK",
-    "Eisenhower",
-    "Jack KLOERT",
-    "Jack ELGERT",
-    "Stanley FAULKNER",
-    "Stella ELIASHOW"
-  ],
-  "recipient": "Federal Bureau of Investigation",
-  "sender": "ME/2 MARION E. LINDE"
+  ]
 }

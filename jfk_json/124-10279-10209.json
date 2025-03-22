@@ -1,8 +1,29 @@
 {
-  "classification": "Security",
-  "document_type": "PAPER, TEXTUAL DOCUMENT",
-  "security_level": "Secret",
+  "title": "Untitled",
+  "title_ja": "無題",
   "summary": "This document discusses Nina Stevens, Aline Mosby, Priscilla Johnson, unauthorized disclosure of classified information, and the subject's return trip itinerary.",
+  "summary_ja": "この文書は、ニーナ・スティーブンス、アライン・モズビー、プリシラ・ジョンソン、機密情報の不正開示、および被疑者の帰路の旅程について述べている。",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "classification": "Security",
+  "security_level": "Secret",
+  "date": "1963-04-09",
+  "origin_agency": "CIA",
+  "sender": "EDWARDS, SHEFFIELD",
+  "recipient": "DIRECTOR, FBI",
+  "persons_mentioned": [
+    "EDWARDS, SHEFFIELD",
+    "DIRECTOR, FBI",
+    "Nina Stevens",
+    "Aline Mosby",
+    "Priscilla Johnson",
+    "Ray Hutchins"
+  ],
+  "locations_mentioned": [
+    "Moscow",
+    "Soviet Union",
+    "Delhi",
+    "Far East"
+  ],
   "tags": [
     "PPJM",
     "RECRUITMENT",
@@ -15,24 +36,5 @@
     "Unauthorized Disclosure",
     "Classified Information",
     "Itinerary"
-  ],
-  "title": "Untitled",
-  "date": "1963-04-09",
-  "locations_mentioned": [
-    "Moscow",
-    "Soviet Union",
-    "Delhi",
-    "Far East"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "EDWARDS, SHEFFIELD",
-    "DIRECTOR, FBI",
-    "Nina Stevens",
-    "Aline Mosby",
-    "Priscilla Johnson",
-    "Ray Hutchins"
-  ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "EDWARDS, SHEFFIELD"
+  ]
 }

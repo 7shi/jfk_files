@@ -1,8 +1,20 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "WASHINGTON POST ARTICLE ON MEXICO CITY TELTAPS",
+  "title_ja": "ワシントン・ポスト紙のメキシコシティ盗聴に関する記事",
   "summary": "A Washington Post article discusses CIA activities in Mexico City during the JFK assassination timeframe, specifically mentioning a wiretap operation carried out with the cooperation of the Mexican government. The CIA had attempted to block the release of these documents, declassified under the JFK Assassination Records Collection Act of 1992, fearing it might endanger similar ongoing operations. The station is asked to comment on any reaction by liaison (particularly KDSOMBRERO) or unilateral assets to this disclosure.",
+  "summary_ja": "ワシントン・ポストの記事は、JFK暗殺の時期におけるメキシコシティでのCIAの活動を論じ、特にメキシコ政府の協力のもとに行われた盗聴作戦について言及している。CIAは、1992年の「JFK暗殺記録収集法」により機密指定が解除されたこれらの文書の公開を阻止しようとしていた。同局は、連絡員（特にKDSOMBRERO）または単独諜報員によるこの情報公開に対する反応について、コメントを求められている。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1995-09-22",
+  "origin_agency": "CIA",
+  "sender": "LIMIT LA/MCGMXB",
+  "recipient": "MEXICO CITY",
+  "persons_mentioned": [],
+  "locations_mentioned": [
+    "Mexico City",
+    "Washington"
+  ],
   "tags": [
     "WNINTEL",
     "KDSOMBRERO",
@@ -14,15 +26,5 @@
     "Wiretap",
     "Soviet Embassy",
     "Washington Post"
-  ],
-  "title": "WASHINGTON POST ARTICLE ON MEXICO CITY TELTAPS",
-  "date": "1995-09-22",
-  "locations_mentioned": [
-    "Mexico City",
-    "Washington"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [],
-  "recipient": "MEXICO CITY",
-  "sender": "LIMIT LA/MCGMXB"
+  ]
 }

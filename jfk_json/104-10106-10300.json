@@ -1,36 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This document contains information about Yurily Ivanovich NOSENKO, a Soviet KGB officer who defected in 1964. It details his identification, background, approval for confinement, results of the case, termination status, and comments regarding his confinement and activities.",
-  "tags": [
-    "Defector",
-    "KGB",
-    "Confinement",
-    "Consultant",
-    "Security",
-    "NOSENKO",
-    "Yurily Ivanovich",
-    "Soviet",
-    "Counterintelligence"
-  ],
   "title": "Yurily Ivanovich NOSENKO",
+  "title_ja": "ユーリリー・イワノビッチ・ノセンコ",
+  "summary": "This document contains information about Yurily Ivanovich NOSENKO, a Soviet KGB officer who defected in 1964. It details his identification, background, approval for confinement, results of the case, termination status, and comments regarding his confinement and activities.",
+  "summary_ja": "この文書には、1964年に亡命したソ連KGB諜報員のユーリ・イワノビッチ・ノセンコに関する情報が記載されている。彼の身元、経歴、収容の承認、事件の結果、解雇の状況、収容と活動に関するコメントが詳細に述べられている。",
+  "document_type": "Memorandum",
+  "classification": "Personnel",
+  "security_level": "SECRET",
   "date": "1964-04-03",
-  "locations_mentioned": [
-    "Switzerland",
-    "U.S.",
-    "Clinton, Maryland",
-    "Camp Peary, Virginia",
-    "Washington",
-    "Germany",
-    "Berlin",
-    "Moscow",
-    "Ukraine",
-    "USSR",
-    "Geneva",
-    "Frankfurt"
-  ],
   "origin_agency": "CIA",
+  "sender": "General Counsel",
+  "recipient": "Director of Security",
   "persons_mentioned": [
     "Yurily Ivanovich NOSENKO",
     "Richard Helms",
@@ -57,6 +36,29 @@
     "Foy Kooler",
     "William C. Foster"
   ],
-  "recipient": "Director of Security",
-  "sender": "General Counsel"
+  "locations_mentioned": [
+    "Switzerland",
+    "U.S.",
+    "Clinton, Maryland",
+    "Camp Peary, Virginia",
+    "Washington",
+    "Germany",
+    "Berlin",
+    "Moscow",
+    "Ukraine",
+    "USSR",
+    "Geneva",
+    "Frankfurt"
+  ],
+  "tags": [
+    "Defector",
+    "KGB",
+    "Confinement",
+    "Consultant",
+    "Security",
+    "NOSENKO",
+    "Yurily Ivanovich",
+    "Soviet",
+    "Counterintelligence"
+  ]
 }

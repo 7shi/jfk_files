@@ -1,8 +1,25 @@
 {
-  "classification": "Operations",
-  "document_type": "Message Form",
-  "security_level": "SECRET",
+  "title": "Cable Regarding AMLASH and APWHIP Activities",
+  "title_ja": "AMLASおよびAPWHIP活動に関する",
   "summary": "Cable regarding AMLASH and APWHIP activities, mentioning contact in Miami and coordination efforts.",
+  "summary_ja": "AMLASHおよびAPWHIPの活動に関する電報で、マイアミでの接触と調整努力について言及している。",
+  "document_type": "Message Form",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1965-01-27",
+  "origin_agency": "CIA",
+  "sender": "DIR",
+  "recipient": "DOO, DOP, ADDP, C/WE Z, C/CI, C/FI2, VR, FILE",
+  "persons_mentioned": [
+    "W. Wainwright",
+    "Desmond Fitzgerald",
+    "John L. Hart",
+    "XPORTELA"
+  ],
+  "locations_mentioned": [
+    "Paris",
+    "Miami"
+  ],
   "tags": [
     "AMLASH",
     "APWHIP",
@@ -10,20 +27,5 @@
     "Coordination",
     "XPORTELA",
     "JMHAVE PARIS"
-  ],
-  "title": "Cable Regarding AMLASH and APWHIP Activities",
-  "date": "1965-01-27",
-  "locations_mentioned": [
-    "Paris",
-    "Miami"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "W. Wainwright",
-    "Desmond Fitzgerald",
-    "John L. Hart",
-    "XPORTELA"
-  ],
-  "recipient": "DOO, DOP, ADDP, C/WE Z, C/CI, C/FI2, VR, FILE",
-  "sender": "DIR"
+  ]
 }

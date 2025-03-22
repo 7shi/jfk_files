@@ -1,8 +1,32 @@
 {
-  "classification": "Soviet",
-  "document_type": "Report",
-  "security_level": "SECRET/NOFORN",
+  "title": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "1992年のジョン・F・ケネディ大統領暗殺記録法に基づく公開",
   "summary": "This document contains information on Soviet citizens and their activities, including trade representation, PCS reports, and potential traces. It also includes information on individuals such as Vladimir Kuznetsov, Valentin Anatoleyevich Belokon, Andrey Gerasimovich Trubetsky, and Erik Kassinov, along with details about their employment, family, and affiliations with various organizations.",
+  "summary_ja": "この文書には、ソ連市民とその活動に関する情報が含まれている。貿易代表、PCS報告書、潜在的な痕跡などである。また、ウラジミール・クズネツォフ、ヴァレンティン・アナトリエヴィチ・ベロコン、アンドレイ・ゲラシモヴィチ・トルベツキー、エリック・カッシーノフなどの個人に関する情報、および彼らの雇用、家族、さまざまな組織との関連の詳細も含まれている。",
+  "document_type": "Report",
+  "classification": "Soviet",
+  "security_level": "SECRET/NOFORN",
+  "date": "1976-09-20",
+  "origin_agency": "GICS",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Vladimir Kuznetsov",
+    "Galina Kuznetsov",
+    "Valentin Anatoleyevich Belokon",
+    "Olga Belokon",
+    "Andrey Gerasimovich Trubetsky",
+    "Faina Grigoryevna Trubetsky",
+    "Erik Kassinov"
+  ],
+  "locations_mentioned": [
+    "Moscow",
+    "Brussels",
+    "Toronto",
+    "Paris",
+    "USSR",
+    "Belg (Brussels)"
+  ],
   "tags": [
     "Trade Representation",
     "PCS Reports",
@@ -18,27 +42,5 @@
     "Stanko-Canada LTD",
     "SORICE Industrial Equipment",
     "Electrical Assembler"
-  ],
-  "title": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
-  "date": "1976-09-20",
-  "locations_mentioned": [
-    "Moscow",
-    "Brussels",
-    "Toronto",
-    "Paris",
-    "USSR",
-    "Belg (Brussels)"
-  ],
-  "origin_agency": "GICS",
-  "persons_mentioned": [
-    "Vladimir Kuznetsov",
-    "Galina Kuznetsov",
-    "Valentin Anatoleyevich Belokon",
-    "Olga Belokon",
-    "Andrey Gerasimovich Trubetsky",
-    "Faina Grigoryevna Trubetsky",
-    "Erik Kassinov"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

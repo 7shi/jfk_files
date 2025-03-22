@@ -1,19 +1,25 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch and Attachment",
-  "security_level": "SECRET",
-  "summary": "This document includes a dispatch from Chief, Task Force W to Chief of Station, JMWAVE, regarding the transmittal of fourteen CIA reports and an index. The attachment includes an index of CIA reports with subjects ranging from the Office of the Secretary of the Presidency to lists of Cubans entering the U.S. with false visas. Another attachment details an interview with Ignacio Pla Martinez, a member of the DRE and FUAC, regarding anti-communist activities. A third document refers to the liquidation of the resistance in Sagua la Grande.",
-  "tags": [
-    "CIA Reports",
-    "Index",
-    "DRE",
-    "FUAC",
-    "Anti-Communist Activities",
-    "False Visas",
-    "Resistance Movement"
-  ],
   "title": "GYROSE/Operational-Transmittal of CAC Reports and Related Intelligence",
+  "title_ja": "GYROSE/作戦 - CACレポートおよび関連情報の伝達",
+  "summary": "This document includes a dispatch from Chief, Task Force W to Chief of Station, JMWAVE, regarding the transmittal of fourteen CIA reports and an index. The attachment includes an index of CIA reports with subjects ranging from the Office of the Secretary of the Presidency to lists of Cubans entering the U.S. with false visas. Another attachment details an interview with Ignacio Pla Martinez, a member of the DRE and FUAC, regarding anti-communist activities. A third document refers to the liquidation of the resistance in Sagua la Grande.",
+  "summary_ja": "この文書には、タスクフォースWのチーフからJMWAVEのチーフへの、CIAの14の報告書とインデックスの送信に関する報告書が含まれている。添付資料には、大統領府事務局から偽造ビザで米国に入国したキューバ人のリストに至るまで、CIAの報告書のインデックスが含まれている。もう一つの添付資料には、反共産主義活動に関するDREおよびFUACのメンバーであるイグナシオ・プラ・マルティネスとのインタビューの詳細が記載されている。3番目の文書は、サグア・ラ・グランデにおける抵抗運動の清算について言及している。",
+  "document_type": "Dispatch and Attachment",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-05-02",
+  "origin_agency": "CIA",
+  "sender": "Chief, Task Force W",
+  "recipient": "Chief of Station, JMWAVE",
+  "persons_mentioned": [
+    "Ignacio Pla Martinez",
+    "Manuel Somora, Jr.",
+    "Lazero Hernandes",
+    "Nelson L. RAYNOCZ",
+    "Nelson L. RAYMOND",
+    "Eduardo Tomas TORRES Ramos",
+    "Jesus Gregorio PEREZ",
+    "John F. Kennedy"
+  ],
   "locations_mentioned": [
     "Habana",
     "Miami",
@@ -25,17 +31,13 @@
     "Sagua la Grande",
     "Orienta Province"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Ignacio Pla Martinez",
-    "Manuel Somora, Jr.",
-    "Lazero Hernandes",
-    "Nelson L. RAYNOCZ",
-    "Nelson L. RAYMOND",
-    "Eduardo Tomas TORRES Ramos",
-    "Jesus Gregorio PEREZ",
-    "John F. Kennedy"
-  ],
-  "recipient": "Chief of Station, JMWAVE",
-  "sender": "Chief, Task Force W"
+  "tags": [
+    "CIA Reports",
+    "Index",
+    "DRE",
+    "FUAC",
+    "Anti-Communist Activities",
+    "False Visas",
+    "Resistance Movement"
+  ]
 }

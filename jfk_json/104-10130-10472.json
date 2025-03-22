@@ -1,21 +1,24 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "The Wackenhut Corporation",
+  "title_ja": "ワケンハット社",
   "summary": "This memorandum discusses The Wackenhut Corporation and its potential for cover support. It details a meeting between a CIA representative and George Wackenhut, President of the company, along with Wes Reynolds. The memorandum outlines Wackenhut's services, international expansion plans, and potential applications to Agency problems.",
-  "tags": [
-    "Wackenhut Corporation",
+  "summary_ja": "この覚書では、ワケンハット社とその偽装工作支援の可能性について論じている。CIAの代表と、同社の社長ジョージ・ワケンハット、およびウェス・レイノルズとの会合について詳細に述べている。この覚書では、ワケンハット社のサービス、国際的拡大計画、および諜報機関の問題への潜在的な適用について概説している。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1963-03-26",
+  "origin_agency": "Central Cover Staff, Nonofficial Cover Branch",
+  "sender": "Chief, Central Cover Staff, Nonofficial Cover Branch",
+  "recipient": "Office of Security (Attn: Mr. Bannerman)",
+  "persons_mentioned": [
+    "Bannerman",
     "George Wackenhut",
     "Wes Reynolds",
-    "Cover Support",
-    "Security Systems",
-    "FBI",
-    "Business Security",
-    "Security Office",
-    "CCS/NC"
+    "John F. Kennedy",
+    "Edwards",
+    "White",
+    "Youngblood"
   ],
-  "title": "The Wackenhut Corporation",
-  "date": "1963-03-26",
   "locations_mentioned": [
     "Coral Gables, Florida",
     "Miami",
@@ -35,16 +38,15 @@
     "Arlington",
     "Latin America"
   ],
-  "origin_agency": "Central Cover Staff, Nonofficial Cover Branch",
-  "persons_mentioned": [
-    "Bannerman",
+  "tags": [
+    "Wackenhut Corporation",
     "George Wackenhut",
     "Wes Reynolds",
-    "John F. Kennedy",
-    "Edwards",
-    "White",
-    "Youngblood"
-  ],
-  "recipient": "Office of Security (Attn: Mr. Bannerman)",
-  "sender": "Chief, Central Cover Staff, Nonofficial Cover Branch"
+    "Cover Support",
+    "Security Systems",
+    "FBI",
+    "Business Security",
+    "Security Office",
+    "CCS/NC"
+  ]
 }

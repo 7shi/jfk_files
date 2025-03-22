@@ -1,30 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This collection of memoranda and notes from March 1963 discusses US policy towards Cuba, including potential responses to Soviet actions, dealing with Cuban exile groups, and concerns about unauthorized raids. It also covers discussions on multilateral forces and concerns about European contributions to NATO.",
-  "tags": [
-    "Cuban exiles",
-    "Soviet Union",
-    "Raids",
-    "NATO",
-    "Multilateral Forces",
-    "Bahamas",
-    "Test Ban Treaty"
-  ],
   "title": "March 1963 Memoranda Regarding Cuba, Soviet Plans, and Unauthorized Raids",
+  "title_ja": "1963年3月 キューバ、ソ連の計画、および無許可の急襲に関する覚書",
+  "summary": "This collection of memoranda and notes from March 1963 discusses US policy towards Cuba, including potential responses to Soviet actions, dealing with Cuban exile groups, and concerns about unauthorized raids. It also covers discussions on multilateral forces and concerns about European contributions to NATO.",
+  "summary_ja": "1963年3月の覚書とメモのコレクションは、ソビエトの行動に対する潜在的な対応、キューバ亡命者グループへの対応、無許可の襲撃に対する懸念など、キューバに対する米国の政策について議論している。また、多国間軍やNATOへの欧州の貢献に対する懸念についても議論している。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-03-26",
-  "locations_mentioned": [
-    "Cuba",
-    "Miami",
-    "Bahamas",
-    "Brazil",
-    "Washington",
-    "USSR",
-    "Europe",
-    "West Germany"
-  ],
   "origin_agency": "CIA",
+  "sender": "John A. McCone",
+  "recipient": "All Members of the RIC Executive Committee",
   "persons_mentioned": [
     "John F. Kennedy",
     "Bundy",
@@ -47,6 +32,23 @@
     "Kaysen",
     "Foster"
   ],
-  "recipient": "All Members of the RIC Executive Committee",
-  "sender": "John A. McCone"
+  "locations_mentioned": [
+    "Cuba",
+    "Miami",
+    "Bahamas",
+    "Brazil",
+    "Washington",
+    "USSR",
+    "Europe",
+    "West Germany"
+  ],
+  "tags": [
+    "Cuban exiles",
+    "Soviet Union",
+    "Raids",
+    "NATO",
+    "Multilateral Forces",
+    "Bahamas",
+    "Test Ban Treaty"
+  ]
 }

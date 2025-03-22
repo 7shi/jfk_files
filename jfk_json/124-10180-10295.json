@@ -1,8 +1,24 @@
 {
-  "classification": "Oswald",
-  "document_type": "Cablegram and Memo",
-  "security_level": "Secret",
+  "title": "LEE HARVEY OSWALD, IS CUBA",
+  "title_ja": "リー・ハーヴェイ・オズワルド、キューバ",
   "summary": "This document pertains to Lee Harvey Oswald, specifically regarding his association, liaison with the CIA, and contact Richard Gibson, who is associated with the FPCC. It includes a cablegram and memos related to this subject matter.",
+  "summary_ja": "この文書はリー・ハーヴェイ・オズワルドに関するもので、特に彼とCIAとの関連、連絡、およびFPCCと関連のあるリチャード・ギブソンとの接触についてである。この件に関する電報およびメモが含まれている。",
+  "document_type": "Cablegram and Memo",
+  "classification": "Oswald",
+  "security_level": "Secret",
+  "date": "1963-12-03",
+  "origin_agency": "FBI",
+  "sender": "LEG, PA",
+  "recipient": "Director, FBI",
+  "persons_mentioned": [
+    "LEE HARVEY OSWALD",
+    "RICHARD THOMAS GIBSON",
+    "JOHN DIMMER"
+  ],
+  "locations_mentioned": [
+    "Paris",
+    "Bern"
+  ],
   "tags": [
     "LHO",
     "POST-RP",
@@ -13,19 +29,5 @@
     "RICHARD",
     "FPCC",
     "CUBA"
-  ],
-  "title": "LEE HARVEY OSWALD, IS CUBA",
-  "date": "1963-12-03",
-  "locations_mentioned": [
-    "Paris",
-    "Bern"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "LEE HARVEY OSWALD",
-    "RICHARD THOMAS GIBSON",
-    "JOHN DIMMER"
-  ],
-  "recipient": "Director, FBI",
-  "sender": "LEG, PA"
+  ]
 }

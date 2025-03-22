@@ -1,33 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
-  "summary": "This document contains classified messages regarding Ray's contacts and activities in Europe, including discussions with individuals like Jervay, UNRUMBLE 6, and Cabrera. It also mentions Ray's efforts to recruit individuals for potential operations against Castro, his interactions with a KUBARK staffer, and his plans to identify and support disaffected elements within Cuba's embassies and officialdom.",
-  "tags": [
-    "Ray",
-    "Jervay",
-    "UNRUMBLE 6",
-    "Cabrera",
-    "ARCOS",
-    "FRANQUI",
-    "KUBARK",
-    "Castro",
-    "Cuban Embassies",
-    "Europe",
-    "recruitment",
-    "disaffection",
-    "operations"
-  ],
   "title": "Classified Messages Regarding Ray's Contacts and Activities in Europe",
+  "title_ja": "レイのヨーロッパにおける連絡先と活動に関する機密メッセージ",
+  "summary": "This document contains classified messages regarding Ray's contacts and activities in Europe, including discussions with individuals like Jervay, UNRUMBLE 6, and Cabrera. It also mentions Ray's efforts to recruit individuals for potential operations against Castro, his interactions with a KUBARK staffer, and his plans to identify and support disaffected elements within Cuba's embassies and officialdom.",
+  "summary_ja": "この文書には、レイのヨーロッパにおける人脈や活動に関する機密扱いのメッセージが含まれている。内容は、ジャーベイ、UNRUMBLE 6、カブレラといった人物との協議を含んでいる。また、カストロに対する潜在的な作戦のために個人をリクルートしようとするレイの努力、KUBARK職員とのやりとり、キューバ大使館や政府高官層内の不満分子を特定し支援しようとするレイの計画についても言及している。",
+  "document_type": "Classified Message",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-06-19",
-  "locations_mentioned": [
-    "Paris",
-    "Madrid",
-    "Brussels",
-    "Fuerte Rico",
-    "Cuba"
-  ],
   "origin_agency": "CIA",
+  "sender": "Paris",
+  "recipient": "Director",
   "persons_mentioned": [
     "John F. Kennedy",
     "Ray",
@@ -43,6 +25,26 @@
     "NAUMAN",
     "GROVERY"
   ],
-  "recipient": "Director",
-  "sender": "Paris"
+  "locations_mentioned": [
+    "Paris",
+    "Madrid",
+    "Brussels",
+    "Fuerte Rico",
+    "Cuba"
+  ],
+  "tags": [
+    "Ray",
+    "Jervay",
+    "UNRUMBLE 6",
+    "Cabrera",
+    "ARCOS",
+    "FRANQUI",
+    "KUBARK",
+    "Castro",
+    "Cuban Embassies",
+    "Europe",
+    "recruitment",
+    "disaffection",
+    "operations"
+  ]
 }

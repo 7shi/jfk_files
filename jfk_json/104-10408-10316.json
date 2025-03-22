@@ -1,8 +1,14 @@
 {
-  "classification": "Administrative",
-  "document_type": "Annex",
-  "security_level": "SECRET",
+  "title": "THE 201 SYSTEM",
+  "title_ja": "201システム",
   "summary": "This document describes the 201 system, a method for identifying persons of interest to the Operations Directorate, controlling and filing pertinent information about them, and producing lists of 201 personalities by category.",
+  "summary_ja": "この文書は、作戦局が関心を持つ人物を特定し、それらの人物に関する関連情報を管理・保管し、カテゴリー別に201人の人物のリストを作成する方法である「201システム」について説明している。",
+  "document_type": "Annex",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1974-11-15",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "DDO/RMO",
   "tags": [
     "201 system",
     "file management",
@@ -14,9 +20,5 @@
     "machine listings",
     "records",
     "information retrieval"
-  ],
-  "title": "THE 201 SYSTEM",
-  "date": "1974-11-15",
-  "origin_agency": "Central Intelligence Agency (CIA)",
-  "recipient": "DDO/RMO"
+  ]
 }

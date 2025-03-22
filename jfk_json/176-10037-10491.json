@@ -1,8 +1,26 @@
 {
-  "classification": "CONFIDENTIAL",
-  "document_type": "TELEGRAM INFORMATION REPORT",
-  "security_level": "CONFIDENTIAL",
+  "title": "Information Report Re: Appeal to President Kennedy",
+  "title_ja": "情報報告書：ケネディ大統領への訴えについて",
   "summary": "This document is an information report regarding an appeal to President Kennedy by South Vietnamese rebel officers in Phnom Penh, Cambodia. The officers, led by Colonel Nguyen Chanh Thai, express complaints against the Diem government and propose a reappraisal of US policy towards it.",
+  "summary_ja": "この文書は、カンボジアのプノンペンで南ベトナムの反乱軍将校たちがケネディ大統領に訴えたことに関する情報報告書である。 グエン・チャン・タイ大佐率いる将校たちは、ディエム政権に対する不満を表明し、米国の同政権に対する政策の再評価を提案している。",
+  "document_type": "TELEGRAM INFORMATION REPORT",
+  "classification": "CONFIDENTIAL",
+  "security_level": "CONFIDENTIAL",
+  "date": "1962-01-24",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "President Kennedy",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Nguyen Chanh Thai",
+    "Pham Van Lieu",
+    "Diem"
+  ],
+  "locations_mentioned": [
+    "Cambodia",
+    "Phnom Penh",
+    "South Vietnam"
+  ],
   "tags": [
     "South Vietnam",
     "Cambodia",
@@ -12,21 +30,5 @@
     "Pham Van Lieu",
     "Appeal to President Kennedy",
     "Rebel Officers"
-  ],
-  "title": "Information Report Re: Appeal to President Kennedy",
-  "date": "1962-01-24",
-  "locations_mentioned": [
-    "Cambodia",
-    "Phnom Penh",
-    "South Vietnam"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Nguyen Chanh Thai",
-    "Pham Van Lieu",
-    "Diem"
-  ],
-  "recipient": "President Kennedy",
-  "sender": "CIA"
+  ]
 }

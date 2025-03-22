@@ -1,8 +1,19 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
+  "title_ja": "軍による保護バックアップ体制確立の通知",
   "summary": "Notification of establishment of military cover backstop for David P. Christ, effective EOD (End of Day). Includes instructions for updating records and W-2 forms.",
+  "summary_ja": "デイビッド・P・クライストの軍事的保護策の確立に関する通知、当日終了（EOD）有効。記録とW-2フォームの更新に関する指示を含む。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1964-01-09",
+  "origin_agency": "Records and Services Division",
+  "sender": "Chief, Operating Component: ORD, DD/SET",
+  "recipient": "Chief, Records and Services Division",
+  "persons_mentioned": [
+    "David P. Christ"
+  ],
+  "locations_mentioned": [],
   "tags": [
     "military cover",
     "backstop",
@@ -11,14 +22,5 @@
     "David P. Christ",
     "ORD",
     "DD/SET"
-  ],
-  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
-  "date": "1964-01-09",
-  "locations_mentioned": [],
-  "origin_agency": "Records and Services Division",
-  "persons_mentioned": [
-    "David P. Christ"
-  ],
-  "recipient": "Chief, Records and Services Division",
-  "sender": "Chief, Operating Component: ORD, DD/SET"
+  ]
 }

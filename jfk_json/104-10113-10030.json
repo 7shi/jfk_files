@@ -1,8 +1,30 @@
 {
-  "classification": "Administrative",
-  "document_type": "Transmittal Slip, Overseas Processing Sheet, Travel Order, Request for Personnel Action",
-  "security_level": "SECRET",
+  "title": "Lucien E. Conein Travel and Personnel Records",
+  "title_ja": "ルシアン・E・コネイン旅行および人事情報",
   "summary": "This document contains a transmittal slip, overseas processing sheets, travel orders, and a request for personnel action related to Lucien E. Conein. The documents detail his travel plans to Saigon, Athens, and Frankfurt, security clearances, and reassignment within the agency.",
+  "summary_ja": "この文書には、ルシアン・E・コネインに関する送付伝票、海外処理シート、旅行命令、および人事異動依頼書が含まれている。文書には、サイゴン、アテネ、フランクフルトへの彼の旅行計画、セキュリティクリアランス、および諜報機関内での再配置についての詳細が記載されている。",
+  "document_type": "Transmittal Slip, Overseas Processing Sheet, Travel Order, Request for Personnel Action",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1954-05-25",
+  "origin_agency": "CIA",
+  "sender": "Vince",
+  "recipient": "Mr Swendiman",
+  "persons_mentioned": [
+    "Lucien Emile Concin",
+    "Mr Swendiman",
+    "Vince",
+    "Luddy",
+    "FRED M. STOWELL"
+  ],
+  "locations_mentioned": [
+    "Saigon",
+    "Kantasia B.C.",
+    "feira, Indochina",
+    "Washington, D.C.",
+    "Athens, Greece",
+    "Frankfurt, Germany"
+  ],
   "tags": [
     "Lucien E. Conein",
     "Travel Orders",
@@ -13,25 +35,5 @@
     "Frankfurt",
     "Security Clearances",
     "Reassignment"
-  ],
-  "title": "Lucien E. Conein Travel and Personnel Records",
-  "date": "1954-05-25",
-  "locations_mentioned": [
-    "Saigon",
-    "Kantasia B.C.",
-    "feira, Indochina",
-    "Washington, D.C.",
-    "Athens, Greece",
-    "Frankfurt, Germany"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Lucien Emile Concin",
-    "Mr Swendiman",
-    "Vince",
-    "Luddy",
-    "FRED M. STOWELL"
-  ],
-  "recipient": "Mr Swendiman",
-  "sender": "Vince"
+  ]
 }

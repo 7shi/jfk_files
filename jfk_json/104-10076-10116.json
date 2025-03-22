@@ -1,8 +1,19 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Cable regarding shipment of envelopes to Copal Caples, Florida",
+  "title_ja": "フロリダ州コパル・キャプルズへの封筒の発送に関するケーブル",
   "summary": "This document discusses the shipment of envelopes to a specific address in Copal Caples, Florida, and mentions difficulties in sending them through a classified pouch until December 13.",
+  "summary_ja": "本書は、フロリダ州コパル・キャプルズの特定の住所への封筒の発送について述べ、12月13日までは分類された封筒で送るのが困難であったことに言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "2025",
+  "origin_agency": "JMWAVE",
+  "sender": "JMWAVE",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [],
+  "locations_mentioned": [
+    "COPAL CAPLES, FLA"
+  ],
   "tags": [
     "JMWAVE",
     "RIFTY SEXI",
@@ -15,14 +26,5 @@
     "FLA",
     "Envelopes",
     "Classified Pouch"
-  ],
-  "title": "Cable regarding shipment of envelopes to Copal Caples, Florida",
-  "date": "2025",
-  "locations_mentioned": [
-    "COPAL CAPLES, FLA"
-  ],
-  "origin_agency": "JMWAVE",
-  "persons_mentioned": [],
-  "recipient": "DIRECTOR",
-  "sender": "JMWAVE"
+  ]
 }

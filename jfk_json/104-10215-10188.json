@@ -1,26 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable regarding an activation effort to a DRAGON agent in PBRUMEN, who met in Paris by THOMPSON and WALLACE A. GROWERY last summer. Request for SMITHAM to ask AMTHIP for date he sent letter to \"THOMPSON'S FRIEND\" in PBRUMEN.",
-  "tags": [
-    "activation effort",
-    "DRAGON agent",
-    "PBRUMEN",
-    "AMWHIP",
-    "THOMPSON",
-    "WALLACE A. GROWERY",
-    "Paris",
-    "SMITHAM"
-  ],
   "title": "DIR 48198: Keyway PBRUMEN AMWHIP",
+  "title_ja": "DIR 48198：キーウェイ PBRUMEN AMWHIP",
+  "summary": "Cable regarding an activation effort to a DRAGON agent in PBRUMEN, who met in Paris by THOMPSON and WALLACE A. GROWERY last summer. Request for SMITHAM to ask AMTHIP for date he sent letter to \"THOMPSON'S FRIEND\" in PBRUMEN.",
+  "summary_ja": "PBRUMENのDRAGONエージェントの活動化に関する電報。昨夏、THOMPSONとWALLACE A. GROWERYがパリで会った。SMITHAMにAMTHIPにPBRUMENの「THOMPSONの友人」に手紙を送った日付を問い合わせるよう要請する。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1963-06-18",
-  "locations_mentioned": [
-    "Rome",
-    "Paris",
-    "PBRUMEN"
-  ],
   "origin_agency": "SAS/EOB",
+  "sender": "Director",
+  "recipient": "Rome",
   "persons_mentioned": [
     "W. WAINWRIGHT",
     "SMITHAM",
@@ -32,6 +21,19 @@
     "William Sing",
     "Munger"
   ],
-  "recipient": "Rome",
-  "sender": "Director"
+  "locations_mentioned": [
+    "Rome",
+    "Paris",
+    "PBRUMEN"
+  ],
+  "tags": [
+    "activation effort",
+    "DRAGON agent",
+    "PBRUMEN",
+    "AMWHIP",
+    "THOMPSON",
+    "WALLACE A. GROWERY",
+    "Paris",
+    "SMITHAM"
+  ]
 }

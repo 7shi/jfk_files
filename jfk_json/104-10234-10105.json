@@ -1,8 +1,25 @@
 {
-  "classification": "Mexico",
-  "document_type": "List",
-  "security_level": "UNCLASSIFIED",
+  "title": "Names from AMTRUNK, AMICE, AMFAUNA",
+  "title_ja": "AMTRUNK、AMICE、AMFAUNA からの情報",
   "summary": "List of names under AMTRUNK, AMICE, and AMFAUNA, possibly related to the John F. Kennedy assassination investigation.",
+  "summary_ja": "ジョン・F・ケネディ暗殺事件の捜査に関連している可能性がある、AMTRUNK、AMICE、AMFAUNAの下にリストアップされた名前。",
+  "document_type": "List",
+  "classification": "Mexico",
+  "security_level": "UNCLASSIFIED",
+  "date": "2025",
+  "persons_mentioned": [
+    "Alberto GONZALEZ Ort",
+    "Modesto OROZCO Basulto",
+    "Ramon Tomas Guin Diaz",
+    "Carlos PEDRAZA",
+    "Humberto Antoliano ARMADA Guerra",
+    "Pedro BARBI",
+    "Candido DIAZ",
+    "Enrique HERRERA Aro",
+    "Pascasio Lineras Lopez",
+    "David CABEZA Coupau",
+    "Hortensia ORIZONDO Meneses"
+  ],
   "tags": [
     "AMTRUNK",
     "AMICE",
@@ -20,20 +37,5 @@
     "Lineras Lopez",
     "CABEZA Coupau",
     "ORIZONDO Meneses"
-  ],
-  "title": "Names from AMTRUNK, AMICE, AMFAUNA",
-  "date": "2025",
-  "persons_mentioned": [
-    "Alberto GONZALEZ Ort",
-    "Modesto OROZCO Basulto",
-    "Ramon Tomas Guin Diaz",
-    "Carlos PEDRAZA",
-    "Humberto Antoliano ARMADA Guerra",
-    "Pedro BARBI",
-    "Candido DIAZ",
-    "Enrique HERRERA Aro",
-    "Pascasio Lineras Lopez",
-    "David CABEZA Coupau",
-    "Hortensia ORIZONDO Meneses"
   ]
 }

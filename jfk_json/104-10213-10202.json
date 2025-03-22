@@ -1,8 +1,27 @@
 {
-  "classification": "Administrative",
-  "document_type": "Handbook Excerpt",
-  "security_level": "SECRET",
+  "title": "The 201 System",
+  "title_ja": "201システム",
   "summary": "This document describes the 201 system used by the Operations Directorate for identifying, controlling, and filing information on persons of interest. It covers 201 numbers, dossiers, master records, OI codes, machine lists, dossier creation, maintenance, restrictions, information requests, and cancellation procedures.",
+  "summary_ja": "この文書は、作戦部が関心のある人物に関する情報の識別、管理、ファイリングに使用する201システムについて説明している。201番号、書類、マスターレコード、OIコード、マシンリスト、書類の作成、維持、制限、情報要求、およびキャンセル手続きについて記載している。",
+  "document_type": "Handbook Excerpt",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1974-11-15",
+  "origin_agency": "DDO/RMO",
+  "sender": "Information Services Group (ISG)",
+  "recipient": "DDO/RMO",
+  "persons_mentioned": [
+    "CROIX, WILLIAM PENDLETON"
+  ],
+  "locations_mentioned": [
+    "Germany",
+    "Munich",
+    "Mexico",
+    "New York",
+    "Paris",
+    "Geneva",
+    "Vienna"
+  ],
   "tags": [
     "201 system",
     "Operations Directorate",
@@ -15,22 +34,5 @@
     "file management",
     "information retrieval",
     "security"
-  ],
-  "title": "The 201 System",
-  "date": "1974-11-15",
-  "locations_mentioned": [
-    "Germany",
-    "Munich",
-    "Mexico",
-    "New York",
-    "Paris",
-    "Geneva",
-    "Vienna"
-  ],
-  "origin_agency": "DDO/RMO",
-  "persons_mentioned": [
-    "CROIX, WILLIAM PENDLETON"
-  ],
-  "recipient": "DDO/RMO",
-  "sender": "Information Services Group (ISG)"
+  ]
 }

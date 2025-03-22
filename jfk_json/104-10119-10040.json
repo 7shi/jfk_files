@@ -1,35 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum discusses Herbert Itkin and Mario Brod, focusing on Itkin's alleged contacts with the CIA and Allen Dulles. It outlines an investigation into Itkin's claims of providing information to the CIA, his contacts with Philip Harbin, and a possible meeting with Allen Dulles. The memo also includes information on Itkin's past associations and his connections to a lawyer with contacts at the United Nations.",
-  "tags": [
-    "Herbert Itkin",
-    "Mario Brod",
-    "Philip Harbin",
-    "Allen Dulles",
-    "CIA",
-    "Joseph McCarthy",
-    "Thomas L. Roberts",
-    "OSS",
-    "Security",
-    "Informant",
-    "Delson, Levin & Gordon"
-  ],
   "title": "Herbert Itkin/Mario Brod et. al.",
+  "title_ja": "ハーバート・イートキン/マリオ・ブロッド他",
+  "summary": "This memorandum discusses Herbert Itkin and Mario Brod, focusing on Itkin's alleged contacts with the CIA and Allen Dulles. It outlines an investigation into Itkin's claims of providing information to the CIA, his contacts with Philip Harbin, and a possible meeting with Allen Dulles. The memo also includes information on Itkin's past associations and his connections to a lawyer with contacts at the United Nations.",
+  "summary_ja": "この覚書では、ハーバート・イートキンとマリオ・ブロッドについて、特にイートキンとCIAおよびアレン・ダレスとの接触疑惑に焦点を当てて論じている。イートキンがCIAに情報を提供したという主張、フィリップ・ハービンとの接触、アレン・ダレスとの会合の可能性についての調査の概要が述べられている。また、この覚書には、イートキンの過去の交友関係や、国連にコネを持つ弁護士とのつながりに関する情報も含まれている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
   "date": "1968-11-22",
-  "locations_mentioned": [
-    "New York City",
-    "Philadelphia",
-    "Bellevue Stratford",
-    "Burma",
-    "Indonesia",
-    "New Delhi",
-    "El Salvador",
-    "Guatemala",
-    "Dakar"
-  ],
   "origin_agency": "CIA",
+  "sender": "Ward K. Greene, SA/EPD",
+  "recipient": "Director of Security",
   "persons_mentioned": [
     "Herbert Itkin",
     "Mario Brod",
@@ -46,6 +26,28 @@
     "Mr. Houston",
     "Mr. Helms"
   ],
-  "recipient": "Director of Security",
-  "sender": "Ward K. Greene, SA/EPD"
+  "locations_mentioned": [
+    "New York City",
+    "Philadelphia",
+    "Bellevue Stratford",
+    "Burma",
+    "Indonesia",
+    "New Delhi",
+    "El Salvador",
+    "Guatemala",
+    "Dakar"
+  ],
+  "tags": [
+    "Herbert Itkin",
+    "Mario Brod",
+    "Philip Harbin",
+    "Allen Dulles",
+    "CIA",
+    "Joseph McCarthy",
+    "Thomas L. Roberts",
+    "OSS",
+    "Security",
+    "Informant",
+    "Delson, Levin & Gordon"
+  ]
 }

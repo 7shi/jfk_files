@@ -1,8 +1,36 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
+  "title": "MEMORANDUM FOR THE RECORD, SPECIAL GROUP MEETING 20 SEPTEMBER 1962",
+  "title_ja": "1962年9月20日、特別グループ会議の記録用覚書",
   "summary": "Memorandum for the record of Special Group meeting on September 20, 1962, discussing anti-Castro activities, clandestine operations, and other topics related to Cuba, North Vietnam, and other regions.",
+  "summary_ja": "1962年9月20日、反カストロ活動、秘密作戦、およびキューバ、北ベトナム、その他の地域に関連するその他のトピックについて話し合った特別グループ会議の記録に関する覚書。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "Secret",
+  "date": "1962-09-20",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "RECORD",
+  "persons_mentioned": [
+    "General Carter",
+    "Carl Hummelsine",
+    "Secretary Rusk"
+  ],
+  "locations_mentioned": [
+    "Kamchatka",
+    "Cuba",
+    "Miami",
+    "Africa",
+    "North Vietnam",
+    "Laos",
+    "Tibet",
+    "Libya",
+    "Peru",
+    "Colombia",
+    "Nicaragua",
+    "Honduras",
+    "Southeast Asia",
+    "Saigon"
+  ],
   "tags": [
     "ANTI-CASTRO ACTIVITIES",
     "CIA",
@@ -38,31 +66,5 @@
     "North Vietnam Presence",
     "Laos",
     "Counter Insurgency"
-  ],
-  "title": "MEMORANDUM FOR THE RECORD, SPECIAL GROUP MEETING 20 SEPTEMBER 1962",
-  "date": "1962-09-20",
-  "locations_mentioned": [
-    "Kamchatka",
-    "Cuba",
-    "Miami",
-    "Africa",
-    "North Vietnam",
-    "Laos",
-    "Tibet",
-    "Libya",
-    "Peru",
-    "Colombia",
-    "Nicaragua",
-    "Honduras",
-    "Southeast Asia",
-    "Saigon"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "General Carter",
-    "Carl Hummelsine",
-    "Secretary Rusk"
-  ],
-  "recipient": "RECORD",
-  "sender": "CIA"
+  ]
 }

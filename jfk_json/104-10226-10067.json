@@ -1,22 +1,24 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "Reactions from WH to UR Propaganda and Desire to concentrate UR efforts on PSYWAR",
+  "title_ja": "WHからURへの反応とURの努力をPSYWARに集中させるという希望",
   "summary": "This dispatch discusses reactions from the White House to propaganda efforts and the desire to concentrate efforts on PSYWAR. It notes that additional effort by the UR to influence foreign audiences will be highly valued.",
+  "summary_ja": "この報告書では、プロパガンダ活動に対するホワイトハウスの反応と、PSYWARに努力を集中させたいという希望について論じている。また、外国の聴衆に影響を与えるためのURの追加努力は高く評価されるだろうと指摘している。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-06-18",
+  "origin_agency": "SAS/DCE/PA-PROF",
+  "sender": "Chief, Special Affairs Staff",
+  "recipient": "Chief of Station, JIWAVE",
+  "persons_mentioned": [
+    "Bruce MAS Master",
+    "A. S. Bishop"
+  ],
+  "locations_mentioned": [],
   "tags": [
     "Propaganda",
     "PSYWAR",
     "FOREIGN audiences",
     "operational import"
-  ],
-  "title": "Reactions from WH to UR Propaganda and Desire to concentrate UR efforts on PSYWAR",
-  "date": "1963-06-18",
-  "locations_mentioned": [],
-  "origin_agency": "SAS/DCE/PA-PROF",
-  "persons_mentioned": [
-    "Bruce MAS Master",
-    "A. S. Bishop"
-  ],
-  "recipient": "Chief of Station, JIWAVE",
-  "sender": "Chief, Special Affairs Staff"
+  ]
 }

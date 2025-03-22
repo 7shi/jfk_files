@@ -1,25 +1,27 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "CONFIDENTIAL",
+  "title": "DIR 89778: Evidence of Castro Financing",
+  "title_ja": "DIR 89778：カストロがモスクワの学生デモに資金提供している証拠",
   "summary": "This cable discusses surfacing evidence of Castro's financing of terrorist and pro-Cuban acts.",
+  "summary_ja": "この電報では、カストロがテロ行為や親キューバ行為に資金提供している証拠が浮上していることについて議論している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
+  "date": "1963-12-17",
+  "origin_agency": "Director",
+  "sender": "DIRECTOR",
+  "recipient": "PRIORITY ROME",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Castro"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Rome"
+  ],
   "tags": [
     "Castro",
     "Terrorist Acts",
     "Pro-Cuban Acts",
     "Financing"
-  ],
-  "title": "DIR 89778: Evidence of Castro Financing",
-  "date": "1963-12-17",
-  "locations_mentioned": [
-    "Cuba",
-    "Rome"
-  ],
-  "origin_agency": "Director",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Castro"
-  ],
-  "recipient": "PRIORITY ROME",
-  "sender": "DIRECTOR"
+  ]
 }

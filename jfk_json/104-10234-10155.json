@@ -1,27 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Report",
-  "security_level": "Unclassified",
-  "summary": "This document discusses Paris Station's involvement with AMLASH/1, including recruitment, training, contacts, and plans to assassinate AMPED. It details meetings, personnel involved, and the evolution of AMLASH/1's plans.",
-  "tags": [
-    "AMLASH/1",
-    "Paris Station",
-    "assassination",
-    "KUBARK",
-    "ODYOKE",
-    "explosives training",
-    "AMSA/1"
-  ],
   "title": "AMLASH/1 - Paris Station Aspect",
+  "title_ja": "AMLASH/1 - パリ駅の外観",
+  "summary": "This document discusses Paris Station's involvement with AMLASH/1, including recruitment, training, contacts, and plans to assassinate AMPED. It details meetings, personnel involved, and the evolution of AMLASH/1's plans.",
+  "summary_ja": "この文書は、パリステーションのAMLASH/1への関与について述べている。採用、訓練、連絡、AMPED暗殺計画などである。会議、関係者、AMLASH/1の計画の進展について詳細に述べている。",
+  "document_type": "Report",
+  "classification": "Operations",
+  "security_level": "Unclassified",
   "date": "1966-03-07",
-  "locations_mentioned": [
-    "Paris",
-    "Helsinki",
-    "Porto Alegre",
-    "Brasil",
-    "Madrid"
-  ],
   "origin_agency": "CIA",
+  "sender": "Peter N. GLOADEN",
+  "recipient": "Unknown",
   "persons_mentioned": [
     "AMLASH/1",
     "UNRUMELE/?",
@@ -61,6 +49,20 @@
     "Aurvasan",
     "UNSHAPU"
   ],
-  "recipient": "Unknown",
-  "sender": "Peter N. GLOADEN"
+  "locations_mentioned": [
+    "Paris",
+    "Helsinki",
+    "Porto Alegre",
+    "Brasil",
+    "Madrid"
+  ],
+  "tags": [
+    "AMLASH/1",
+    "Paris Station",
+    "assassination",
+    "KUBARK",
+    "ODYOKE",
+    "explosives training",
+    "AMSA/1"
+  ]
 }

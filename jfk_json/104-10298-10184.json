@@ -1,28 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "CLASSIFIED",
-  "summary": "This cable discusses a Miami Herald article by James Buchanan which alleges Manuel Ray has replaced Miro as the leader of Cuban exiles with the backing of several Latin American leaders and the United States. The article is causing concern among Cuban exiles, and the cable suggests the need to discredit Buchanan's story and reassure Miro.",
-  "tags": [
-    "Miro",
-    "Manuel Ray",
-    "James Buchanan",
-    "Miami Herald",
-    "Cuban exiles",
-    "disinformation",
-    "Adolf A. Berle Jr.",
-    "Operation",
-    "GYLOSE",
-    "AMBUD",
-    "FLAYA GIPO"
-  ],
   "title": "IN 41885: MIAMI HERALD ARTICLE ON MIRO AND MANUEL RAY",
+  "title_ja": "IN 41885: MIAMI HERALD ARTICLE ON MIRO AND MANUEL RAY",
+  "summary": "This cable discusses a Miami Herald article by James Buchanan which alleges Manuel Ray has replaced Miro as the leader of Cuban exiles with the backing of several Latin American leaders and the United States. The article is causing concern among Cuban exiles, and the cable suggests the need to discredit Buchanan's story and reassure Miro.",
+  "summary_ja": "この電報では、マヌエル・レイが、ラテンアメリカ諸国の指導者や米国の後押しを受けて、ミロに代わって亡命キューバ人の指導者となったと主張するジェームズ・ブキャナンによるマイアミ・ヘラルドの記事について論じている。この記事は亡命キューバ人の間で懸念を引き起こしており、この電報では、ブキャナンの主張を否定し、ミロを安心させる必要があると提案している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "CLASSIFIED",
   "date": "1962-05-27",
-  "locations_mentioned": [
-    "Miami",
-    "Cuba"
-  ],
   "origin_agency": "JWAVE",
+  "sender": "JWAVE",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "John F. Kennedy",
     "Charles Natit",
@@ -39,6 +26,21 @@
     "ANCLAITER-1",
     "PASSOVO"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "JWAVE"
+  "locations_mentioned": [
+    "Miami",
+    "Cuba"
+  ],
+  "tags": [
+    "Miro",
+    "Manuel Ray",
+    "James Buchanan",
+    "Miami Herald",
+    "Cuban exiles",
+    "disinformation",
+    "Adolf A. Berle Jr.",
+    "Operation",
+    "GYLOSE",
+    "AMBUD",
+    "FLAYA GIPO"
+  ]
 }

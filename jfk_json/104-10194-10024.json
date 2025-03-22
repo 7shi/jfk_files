@@ -1,30 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum and Contract Documents",
-  "security_level": "SECRET",
-  "summary": "This collection of documents pertains to the contract employment of Terence S. CRABANAC with the CIA from 1965 to 1970. It includes contracts, amendments, and memoranda regarding his compensation, allowances, travel, operational expenses, benefits, and cover activities. Key topics include his assignment to Spain, housing allowances, royalty retention, and transition from staff employee to contract employee.",
-  "tags": [
-    "Contract Employment",
-    "Allowances",
-    "Spain",
-    "E. Howard Hunt",
-    "Compensation",
-    "Termination",
-    "Cover Activities",
-    "Royalties",
-    "Housing Allowance",
-    "Travel",
-    "Operational Expenses",
-    "Benefits",
-    "Retirement"
-  ],
   "title": "Terence S. CRABANAC Contract Employment Records",
+  "title_ja": "テレンス・S・クランバナック 契約雇用記録",
+  "summary": "This collection of documents pertains to the contract employment of Terence S. CRABANAC with the CIA from 1965 to 1970. It includes contracts, amendments, and memoranda regarding his compensation, allowances, travel, operational expenses, benefits, and cover activities. Key topics include his assignment to Spain, housing allowances, royalty retention, and transition from staff employee to contract employee.",
+  "summary_ja": "この文書は、1965年から1970年にかけてテレンス・S・クレイバナックがCIAと契約社員として雇用されていたことに関するものである。この文書には、彼の報酬、手当、出張、業務経費、福利厚生、偽装活動に関する契約、修正、覚書が含まれている。主なトピックは、彼のスペインへの派遣、住宅手当、ロイヤリティの保留、スタッフ社員から契約社員への移行などである。",
+  "document_type": "Memorandum and Contract Documents",
+  "classification": "Personnel",
+  "security_level": "SECRET",
   "date": "1965-07-04",
-  "locations_mentioned": [
-    "Spain",
-    "Madrid"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, Contract Personnel Division and various other CIA offices",
+  "recipient": "Chief, Contract Personnel Division",
   "persons_mentioned": [
     "Terence S. CRABANAC",
     "E. Howard Hunt",
@@ -44,6 +29,23 @@
     "Gene Stevens",
     "Ben DeFelice"
   ],
-  "recipient": "Chief, Contract Personnel Division",
-  "sender": "Chief, Contract Personnel Division and various other CIA offices"
+  "locations_mentioned": [
+    "Spain",
+    "Madrid"
+  ],
+  "tags": [
+    "Contract Employment",
+    "Allowances",
+    "Spain",
+    "E. Howard Hunt",
+    "Compensation",
+    "Termination",
+    "Cover Activities",
+    "Royalties",
+    "Housing Allowance",
+    "Travel",
+    "Operational Expenses",
+    "Benefits",
+    "Retirement"
+  ]
 }

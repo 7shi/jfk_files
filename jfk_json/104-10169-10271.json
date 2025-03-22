@@ -1,8 +1,25 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "Unclassified",
+  "title": "PAITY DIR INFO PRITY MASH CITEHAVA 6905",
+  "title_ja": "PAITY DIR INFO PRITY MASH CITEHAVA 6905",
   "summary": "This cable discusses a drop of weapons to anti-Castro forces in Cuba. It mentions that some of the weapons were recovered by the GOC (Government of Cuba), while the remainder is believed to be in the hands of anti-Castro forces. The cable also references successful drops to Evelio Duque forces by AKHAWK using a Cessna aircraft.",
+  "summary_ja": "この電報では、キューバの反カストロ勢力への武器投下について説明している。一部の武器はGOC（キューバ政府）によって回収されたが、残りは反カストロ勢力が保有していると考えられている。また、この電報では、セスナ機を使用したAKHAWKによるエベリオ・ドゥケ勢力への投下成功についても言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "Unclassified",
+  "date": "1960-11-15",
+  "origin_agency": "CIA",
+  "sender": "UMNET JMCLEAR",
+  "recipient": "HIFO HAVA",
+  "persons_mentioned": [
+    "Evelio Duque",
+    "SA (FNU) PACHECO",
+    "(FNU) MESA"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Trinidad Highway",
+    "Escambray"
+  ],
   "tags": [
     "Weapons",
     "Anti-Castro",
@@ -13,20 +30,5 @@
     "GOC",
     "AMYUMS",
     "Escambray"
-  ],
-  "title": "PAITY DIR INFO PRITY MASH CITEHAVA 6905",
-  "date": "1960-11-15",
-  "locations_mentioned": [
-    "Cuba",
-    "Trinidad Highway",
-    "Escambray"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Evelio Duque",
-    "SA (FNU) PACHECO",
-    "(FNU) MESA"
-  ],
-  "recipient": "HIFO HAVA",
-  "sender": "UMNET JMCLEAR"
+  ]
 }

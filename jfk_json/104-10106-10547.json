@@ -1,26 +1,28 @@
 {
-  "classification": "Security",
-  "document_type": "Memo",
-  "security_level": "CONFIDENTIAL",
+  "title": "HARVEY, WILLIAM K.",
+  "title_ja": "ハーヴィー、ウィリアム・K.",
   "summary": "This memo from the CIA Security Division to the Federal Aviation Agency requests that the FAA files reflect that William K. Harvey, an employee of the CIA, was issued FAA Credential Number 4883 on January 2, 1963. The memo authorizes the release of this information to verify the credential's authenticity.",
+  "summary_ja": "このCIA保安部から連邦航空局へのメモは、1963年1月2日にCIA職員のウィリアム・K・ハーヴェイにFAA認証番号4883が発行されたことをFAAのファイルに反映するよう求めている。このメモは、認証の真正性を確認するためにこの情報を公開することを許可している。",
+  "document_type": "Memo",
+  "classification": "Security",
+  "security_level": "CONFIDENTIAL",
+  "date": "1963-04-10",
+  "origin_agency": "Security Division, Federal Aviation Agency",
+  "sender": "Nicholas R. Zubon, Chief, Building Security Branch, Office of Security",
+  "recipient": "Mr. Charles F. Niles",
+  "persons_mentioned": [
+    "William K. Harvey",
+    "Charles F. Niles",
+    "Nicholas R. Zubon"
+  ],
+  "locations_mentioned": [
+    "Washington, D. C"
+  ],
   "tags": [
     "credential",
     "Federal Aviation Agency",
     "security",
     "verification",
     "employee"
-  ],
-  "title": "HARVEY, WILLIAM K.",
-  "date": "1963-04-10",
-  "locations_mentioned": [
-    "Washington, D. C"
-  ],
-  "origin_agency": "Security Division, Federal Aviation Agency",
-  "persons_mentioned": [
-    "William K. Harvey",
-    "Charles F. Niles",
-    "Nicholas R. Zubon"
-  ],
-  "recipient": "Mr. Charles F. Niles",
-  "sender": "Nicholas R. Zubon, Chief, Building Security Branch, Office of Security"
+  ]
 }

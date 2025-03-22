@@ -1,21 +1,23 @@
 {
-  "classification": "Personnel",
-  "document_type": "Form",
-  "security_level": "UNCLASSIFIED",
+  "title": "REQUEST FOR PERSONNEL ACTION (43133)",
+  "title_ja": "人事措置の要請（43133）",
   "summary": "Request for Personnel Action form, possibly related to personnel assignments and details.",
+  "summary_ja": "人事異動に関する要請書。おそらく人事異動と詳細に関するもの。",
+  "document_type": "Form",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
+  "date": "2025-01-01",
+  "origin_agency": "US Government",
+  "sender": "Unknown",
+  "recipient": "Personnel Department",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "locations_mentioned": [],
   "tags": [
     "personnel action",
     "assignment",
     "employee data",
     "government form"
-  ],
-  "title": "REQUEST FOR PERSONNEL ACTION (43133)",
-  "date": "2025-01-01",
-  "locations_mentioned": [],
-  "origin_agency": "US Government",
-  "persons_mentioned": [
-    "John F. Kennedy"
-  ],
-  "recipient": "Personnel Department",
-  "sender": "Unknown"
+  ]
 }

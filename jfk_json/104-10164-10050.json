@@ -1,30 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "FBI Documents",
-  "security_level": "CONFIDENTIAL",
-  "summary": "Documents related to MIRR, Cuban exiles, and Orlando Bosch Avila, including bombing activities and investigations.",
-  "tags": [
-    "MIRR",
-    "Cuban exiles",
-    "Orlando Bosch Avila",
-    "Bombing activities",
-    "FBI investigation",
-    "Cuban Power",
-    "Anti-Castro"
-  ],
   "title": "FBI Documents on MIRR and Cuban Exile Activities",
+  "title_ja": "MIRRとキューバ亡命活動に関するFBI文書",
+  "summary": "Documents related to MIRR, Cuban exiles, and Orlando Bosch Avila, including bombing activities and investigations.",
+  "summary_ja": "MIRR、キューバ亡命者、およびオーランド・ボッシュ・アヴィラに関する文書（爆破活動および捜査を含む）。",
+  "document_type": "FBI Documents",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
   "date": "1967-1968",
-  "locations_mentioned": [
-    "Miami",
-    "New York",
-    "Orlando",
-    "Havana",
-    "Panama City",
-    "Cuba",
-    "Santa Clara",
-    "Santiago de Cuba"
-  ],
   "origin_agency": "FBI",
+  "sender": "FBI",
+  "recipient": "Various",
   "persons_mentioned": [
     "Orlando Bosch Avila",
     "Felipe Rivero Dias",
@@ -35,6 +20,23 @@
     "Barbaro Dalan y Garcia",
     "Arthur Andrew Gerteit"
   ],
-  "recipient": "Various",
-  "sender": "FBI"
+  "locations_mentioned": [
+    "Miami",
+    "New York",
+    "Orlando",
+    "Havana",
+    "Panama City",
+    "Cuba",
+    "Santa Clara",
+    "Santiago de Cuba"
+  ],
+  "tags": [
+    "MIRR",
+    "Cuban exiles",
+    "Orlando Bosch Avila",
+    "Bombing activities",
+    "FBI investigation",
+    "Cuban Power",
+    "Anti-Castro"
+  ]
 }

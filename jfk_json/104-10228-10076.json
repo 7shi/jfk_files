@@ -1,8 +1,22 @@
 {
-  "classification": "Liaison",
-  "document_type": "file",
-  "security_level": "Extra sensitive",
+  "title": "U. K. Liaison file",
+  "title_ja": "英国連絡ファイル",
   "summary": "U. K. Liaison file referencing LOND 5956 (IN 27353), 29 March 1961 and LOND 5963 (IN 28181), 31 March 1961. Cables to be opened by Chief, WH/A/PA only.",
+  "summary_ja": "1961年3月29日付けのLOND 5956（IN 27353）および1961年3月31日付けのLOND 5963（IN 28181）を参照する英国連絡係のファイル。WH/A/PAの責任者のみが開封する。",
+  "document_type": "file",
+  "classification": "Liaison",
+  "security_level": "Extra sensitive",
+  "date": "1961-03-29",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Chief, WH/A/PA",
+  "persons_mentioned": [
+    "Chief, WH/A/PA"
+  ],
+  "locations_mentioned": [
+    "U.K.",
+    "London"
+  ],
   "tags": [
     "Liaison",
     "U.K.",
@@ -11,17 +25,5 @@
     "IN 27353",
     "IN 28181",
     "Chief, WH/A/PA"
-  ],
-  "title": "U. K. Liaison file",
-  "date": "1961-03-29",
-  "locations_mentioned": [
-    "U.K.",
-    "London"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "Chief, WH/A/PA"
-  ],
-  "recipient": "Chief, WH/A/PA",
-  "sender": "Unknown"
+  ]
 }

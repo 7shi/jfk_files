@@ -1,28 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
-  "summary": "This document pertains to Pedro Luis Diaz Lanz, Renaldo Blanco Hernandez, and Alberto Eusebio Mojena, focusing on intelligence related to Cuba. It includes information provided to the United States Customs Office in Miami and references classified information received from CIA, San Juan.",
-  "tags": [
-    "PDL",
-    "ADMIN",
-    "INSTR",
-    "Pedro Luis Diaz Lanz",
-    "Renaldo Blanco Hernandez",
-    "Alberto Eusebio Mojena",
-    "Customs Office",
-    "CIA",
-    "Informants"
-  ],
   "title": "",
+  "title_ja": "",
+  "summary": "This document pertains to Pedro Luis Diaz Lanz, Renaldo Blanco Hernandez, and Alberto Eusebio Mojena, focusing on intelligence related to Cuba. It includes information provided to the United States Customs Office in Miami and references classified information received from CIA, San Juan.",
+  "summary_ja": "この文書はペドロ・ルイス・ディアス・ランズ、レナルド・ブランコ・エルナンデス、アルベルト・エウセビオ・モヘナに関するもので、キューバに関する情報に焦点を当てている。マイアミの米国税関に提供された情報や、CIAサンファン支局から受け取った機密情報を参照している。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1958-10-02",
-  "locations_mentioned": [
-    "San Juan",
-    "Havana",
-    "Miami",
-    "Guantanamo Bay, Cuba"
-  ],
   "origin_agency": "FBI",
+  "sender": "SAC, MM",
+  "recipient": "DIRECTOR, FBI",
   "persons_mentioned": [
     "ROBERT JAMES DWYER",
     "DAVID R. MCCLAIN",
@@ -35,6 +22,21 @@
     "LEMAN L. STAFFORD, JR.",
     "PEDRO DIAZ"
   ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "SAC, MM"
+  "locations_mentioned": [
+    "San Juan",
+    "Havana",
+    "Miami",
+    "Guantanamo Bay, Cuba"
+  ],
+  "tags": [
+    "PDL",
+    "ADMIN",
+    "INSTR",
+    "Pedro Luis Diaz Lanz",
+    "Renaldo Blanco Hernandez",
+    "Alberto Eusebio Mojena",
+    "Customs Office",
+    "CIA",
+    "Informants"
+  ]
 }

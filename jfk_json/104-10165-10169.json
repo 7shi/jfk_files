@@ -1,8 +1,24 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Immediate SDOM INFO IMMEDIATE DIR SNDRCITE WAVE 5413",
+  "title_ja": "即時 SDOM 情報 IMMEDIATE DIR SNDRCITE WAVE 5413",
   "summary": "This document discusses the procurement of a DC-3 type aircraft for a group of stranded newsmen, code-named AMCORE-2, in SDOM (Santo Domingo). It outlines the plan to arrange a charter through KUBARK proprietary and potentially involve Mackey Airlines. The document also mentions providing cover stories and financial arrangements for the charter.",
+  "summary_ja": "この文書は、SDOM（サントドミンゴ）で孤立した報道関係者のグループのためにDC-3型航空機を調達する計画について述べている。KUBARK専属のチャーターを手配し、マッキー航空が関与する可能性がある計画の概要が説明されている。この文書には、チャーターのための偽装工作と資金調達についても言及されている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-10-16",
+  "origin_agency": "CIA",
+  "sender": "WAVE",
+  "recipient": "DIR",
+  "persons_mentioned": [
+    "MR. NAPOLI",
+    "DYVOUR PERUMEN",
+    "IMBERT"
+  ],
+  "locations_mentioned": [
+    "SDOM",
+    "Miami"
+  ],
   "tags": [
     "Plane Procurement",
     "Charter",
@@ -12,19 +28,5 @@
     "Mackey Airlines",
     "Cover Story",
     "Financial Arrangements"
-  ],
-  "title": "Immediate SDOM INFO IMMEDIATE DIR SNDRCITE WAVE 5413",
-  "date": "1962-10-16",
-  "locations_mentioned": [
-    "SDOM",
-    "Miami"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "MR. NAPOLI",
-    "DYVOUR PERUMEN",
-    "IMBERT"
-  ],
-  "recipient": "DIR",
-  "sender": "WAVE"
+  ]
 }

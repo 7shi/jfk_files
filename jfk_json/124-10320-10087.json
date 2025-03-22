@@ -1,8 +1,22 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
+  "title": "MARK LANE",
+  "title_ja": "マーク・レーン",
   "summary": "This document discusses the dissemination of security information regarding Mark Lane to various sources, including Austrian and Swiss police, the American Embassy in Vienna, and covert CIA.",
+  "summary_ja": "この文書は、オーストリアおよびスイスの警察、ウィーンのアメリカ大使館、秘密CIAなど、さまざまな情報源へのマーク・レーンに関するセキュリティ情報の拡散について論じている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "Secret",
+  "date": "1964-05-13",
+  "origin_agency": "FBI",
+  "sender": "Legat, Bern",
+  "recipient": "Director, FBI",
+  "persons_mentioned": [
+    "Mark Lane"
+  ],
+  "locations_mentioned": [
+    "Vienna, Austria",
+    "Bern, Switzerland"
+  ],
   "tags": [
     "Mark Lane",
     "Security Information",
@@ -11,17 +25,5 @@
     "Swiss Federal Police",
     "American Embassy",
     "CIA"
-  ],
-  "title": "MARK LANE",
-  "date": "1964-05-13",
-  "locations_mentioned": [
-    "Vienna, Austria",
-    "Bern, Switzerland"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "Mark Lane"
-  ],
-  "recipient": "Director, FBI",
-  "sender": "Legat, Bern"
+  ]
 }

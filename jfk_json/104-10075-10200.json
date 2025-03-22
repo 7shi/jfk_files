@@ -1,32 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable from JAMAVE to DIRECTON discusses various intelligence operations and requests information on individuals and activities related to Cuba and Latin America, including arms shipments, chartered flights, and personnel lists. It also provides clarifications on the identities of code names used in the message.",
-  "tags": [
-    "Intelligence",
-    "Operations",
-    "Cuba",
-    "Latin America",
-    "Arms Shipments",
-    "Personnel",
-    "Chartered Flights",
-    "Code Names",
-    "AMKHAN-2",
-    "RYBAT",
-    "TYPIC",
-    "COMMO",
-    "TARROT"
-  ],
   "title": "DIR CITE WAVE 8097 - Intelligence Operations in Cuba and Latin America",
+  "title_ja": "DIR CITE WAVE 8097 - キューバおよびラテンアメリカにおける諜報活動",
+  "summary": "This cable from JAMAVE to DIRECTON discusses various intelligence operations and requests information on individuals and activities related to Cuba and Latin America, including arms shipments, chartered flights, and personnel lists. It also provides clarifications on the identities of code names used in the message.",
+  "summary_ja": "JAMAVEからDIRECTONへのこの電報では、さまざまな諜報活動について議論し、キューバおよびラテンアメリカに関連する個人および活動に関する情報の提供を要請している。これには、武器の輸送、チャーター便、人員リストなどが含まれる。また、メッセージで使用されているコード名の正体についても説明している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-11-23",
-  "locations_mentioned": [
-    "Latin America",
-    "Habana",
-    "MEXI",
-    "ALGEREAN"
-  ],
   "origin_agency": "JAMAVE",
+  "sender": "JAMAVE",
+  "recipient": "DIRECTON",
   "persons_mentioned": [
     "TITO",
     "PABLO SANDOVAL CRANE",
@@ -45,6 +28,25 @@
     "GRIESSE",
     "ENRIQUE"
   ],
-  "recipient": "DIRECTON",
-  "sender": "JAMAVE"
+  "locations_mentioned": [
+    "Latin America",
+    "Habana",
+    "MEXI",
+    "ALGEREAN"
+  ],
+  "tags": [
+    "Intelligence",
+    "Operations",
+    "Cuba",
+    "Latin America",
+    "Arms Shipments",
+    "Personnel",
+    "Chartered Flights",
+    "Code Names",
+    "AMKHAN-2",
+    "RYBAT",
+    "TYPIC",
+    "COMMO",
+    "TARROT"
+  ]
 }

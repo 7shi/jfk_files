@@ -1,23 +1,18 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum details the activities of Cuban-trained Peruvian guerrillas, focusing on their training in Cuba, clandestine return to Peru, and plans for a revolution. It highlights the involvement of the Movimiento Izquierda Revolucionario (MIR) and the coordination efforts in Paris, as well as the financial support from Chinese Communists.",
-  "tags": [
-    "Cuban-trained guerrillas",
-    "Peruvian guerrillas",
-    "MIR",
-    "Movimiento Izquierda Revolucionario",
-    "Cuban training",
-    "Clandestine return",
-    "Revolutionary plans",
-    "Paris coordination",
-    "Chinese funding",
-    "Mexico",
-    "communications techniques"
-  ],
   "title": "Activities of Cuban Trained Peruvian Guerrillas",
+  "title_ja": "キューバに訓練されたペルーのゲリラの活動",
+  "summary": "This memorandum details the activities of Cuban-trained Peruvian guerrillas, focusing on their training in Cuba, clandestine return to Peru, and plans for a revolution. It highlights the involvement of the Movimiento Izquierda Revolucionario (MIR) and the coordination efforts in Paris, as well as the financial support from Chinese Communists.",
+  "summary_ja": "この覚書は、キューバで訓練を受けたペルーのゲリラの活動について詳しく述べ、キューバでの訓練、ペルーへの秘密裏の帰国、革命計画に焦点を当てている。また、Movimiento Izquierda Revolucionario (MIR) の関与とパリでの調整努力、および中国共産党からの資金援助についても強調している。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-04-11",
+  "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "Director, CIA",
+  "persons_mentioned": [
+    "Fidel Castro"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Peru",
@@ -37,10 +32,17 @@
     "Cusco",
     "Lima"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Fidel Castro"
-  ],
-  "recipient": "Director, CIA",
-  "sender": ""
+  "tags": [
+    "Cuban-trained guerrillas",
+    "Peruvian guerrillas",
+    "MIR",
+    "Movimiento Izquierda Revolucionario",
+    "Cuban training",
+    "Clandestine return",
+    "Revolutionary plans",
+    "Paris coordination",
+    "Chinese funding",
+    "Mexico",
+    "communications techniques"
+  ]
 }

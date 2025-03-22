@@ -1,8 +1,28 @@
 {
-  "classification": "John F. Kennedy Assassination Records Act of 1992",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "大統領令による公開 ジョン・F・ケネディ大統領暗殺記録法（1992年）",
   "summary": "This document discusses the U.S. House of Representatives Select Committee on Assassinations' investigation into the assassinations of President Kennedy and Dr. Martin Luther King, focusing on leads in Portugal, the UK, and Mexico related to James Earl Ray. The committee seeks assistance from Portuguese National Police and access to their files. The CIA is cooperating with the committee but prefers overt functions to be handled by LEGATTS or others publicly identifiable.",
+  "summary_ja": "この文書では、ケネディ大統領とキング牧師の暗殺に関する米国下院の「暗殺に関する特別委員会」の調査について、ジェームズ・アール・レイに関連するポルトガル、英国、メキシコでの手掛かりに焦点を当てて論じている。委員会はポルトガル国家警察に協力を求め、そのファイルへのアクセスを求めている。CIAは委員会に協力しているが、公然の任務はLEGATTSまたは他の公に特定できる組織が担当することを望んでいる。",
+  "document_type": "Cable",
+  "classification": "John F. Kennedy Assassination Records Act of 1992",
+  "security_level": "SECRET",
+  "date": "1977-11-14",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "LISBON INFO LONDON MEXICO CITY",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Martin Luther King",
+    "James Earl Ray",
+    "G. Robert Blakey"
+  ],
+  "locations_mentioned": [
+    "Portugal",
+    "UK",
+    "Mexico",
+    "Lisbon",
+    "London"
+  ],
   "tags": [
     "James Earl Ray",
     "House Select Committee on Assassinations",
@@ -14,23 +34,5 @@
     "Martin Luther King",
     "G. Robert Blakey",
     "LEGATTS"
-  ],
-  "title": "RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
-  "date": "1977-11-14",
-  "locations_mentioned": [
-    "Portugal",
-    "UK",
-    "Mexico",
-    "Lisbon",
-    "London"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Martin Luther King",
-    "James Earl Ray",
-    "G. Robert Blakey"
-  ],
-  "recipient": "LISBON INFO LONDON MEXICO CITY",
-  "sender": "DIRECTOR"
+  ]
 }

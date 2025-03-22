@@ -1,39 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum discusses various individuals and organizations with connections to the CIA, including Brown and Root, the Brown Foundation, the Vernon Fund, American Friends of the Middle East, the San Jacinto Fund, the M. D. Anderson Foundation, and the Marshall Foundation. It also details security clearances and approvals for individuals associated with these entities, as well as concerns about potential exposure of Agency operations.",
-  "tags": [
-    "Brown and Root",
-    "Brown Foundation",
-    "Vernon Fund",
-    "DILAMPREY",
-    "National Education Association",
-    "World Confederation of Organizations of the Teaching Profession",
-    "American Friends of the Middle East",
-    "San Jacinto Fund",
-    "M. D. Anderson Foundation",
-    "Marshall Foundation",
-    "LPCOIN",
-    "Covert Operations",
-    "Security Clearances",
-    "Funding Mechanisms",
-    "Propaganda"
-  ],
   "title": "December 1967 RAMPARTS Article Entitled \"The CIA's Brown and Root Dimensions!\"",
+  "title_ja": "1967年12月 RAMPARTS 記事「CIAのブラウン・アンド・ルート社」",
+  "summary": "This memorandum discusses various individuals and organizations with connections to the CIA, including Brown and Root, the Brown Foundation, the Vernon Fund, American Friends of the Middle East, the San Jacinto Fund, the M. D. Anderson Foundation, and the Marshall Foundation. It also details security clearances and approvals for individuals associated with these entities, as well as concerns about potential exposure of Agency operations.",
+  "summary_ja": "この覚書では、ブラウン・アンド・ルート、ブラウン財団、ヴァーノン基金、アメリカ・フレンズ・オブ・ザ・ミドルイースト、サンジャシント基金、M.D.アンダーソン財団、マーシャル財団など、CIAと関係のあるさまざまな個人や組織について言及している。また、これらの組織に関連する個人のセキュリティクリアランスや承認、およびCIAの活動が暴露される可能性についての懸念についても詳細に述べている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
   "date": "1967-12-20",
-  "locations_mentioned": [
-    "Houston, Texas",
-    "District of Columbia",
-    "Chicago, Illinois",
-    "Washington, D. C.",
-    "Lausanne, Switzerland",
-    "Udorn, Thailand",
-    "Laos",
-    "Syria",
-    "Iraq"
-  ],
   "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "Chief, LEOR/SRE",
   "persons_mentioned": [
     "Rosa White",
     "Isaac Newton Towne",
@@ -69,6 +45,32 @@
     "Oveta Culp Hobby",
     "William Pettus Hobby, Jr."
   ],
-  "recipient": "Chief, LEOR/SRE",
-  "sender": "Unknown"
+  "locations_mentioned": [
+    "Houston, Texas",
+    "District of Columbia",
+    "Chicago, Illinois",
+    "Washington, D. C.",
+    "Lausanne, Switzerland",
+    "Udorn, Thailand",
+    "Laos",
+    "Syria",
+    "Iraq"
+  ],
+  "tags": [
+    "Brown and Root",
+    "Brown Foundation",
+    "Vernon Fund",
+    "DILAMPREY",
+    "National Education Association",
+    "World Confederation of Organizations of the Teaching Profession",
+    "American Friends of the Middle East",
+    "San Jacinto Fund",
+    "M. D. Anderson Foundation",
+    "Marshall Foundation",
+    "LPCOIN",
+    "Covert Operations",
+    "Security Clearances",
+    "Funding Mechanisms",
+    "Propaganda"
+  ]
 }

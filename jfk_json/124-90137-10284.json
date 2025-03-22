@@ -1,8 +1,28 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "LEVI LAUB UNAUTHORIZED TRAVEL TO CUBA",
+  "title_ja": "レビ・ラウブ キューバへの無許可渡航",
   "summary": "FBI memo regarding Levi Laub's unauthorized travel to Cuba, based on information from the CIA and British Intelligence Service (MI-6).",
+  "summary_ja": "CIAおよび英国情報局（MI-6）からの情報に基づく、レビ・ラウブのキューバへの無許可渡航に関するFBIのメモ。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "SECRET",
+  "date": "1963-07-05",
+  "origin_agency": "FBI",
+  "sender": "S. J. PAPICH",
+  "recipient": "D. J. BRENNAN",
+  "persons_mentioned": [
+    "LEVI LAUB",
+    "D. J. BRENNAN",
+    "S. J. PAPICH",
+    "A. P. Flynn",
+    "Gavin Young"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "San Francisco",
+    "Washington, D. C.",
+    "England"
+  ],
   "tags": [
     "CIA",
     "MI-6",
@@ -11,23 +31,5 @@
     "Unauthorized Travel",
     "British Intelligence Service",
     "Gavin Young"
-  ],
-  "title": "LEVI LAUB UNAUTHORIZED TRAVEL TO CUBA",
-  "date": "1963-07-05",
-  "locations_mentioned": [
-    "Cuba",
-    "San Francisco",
-    "Washington, D. C.",
-    "England"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "LEVI LAUB",
-    "D. J. BRENNAN",
-    "S. J. PAPICH",
-    "A. P. Flynn",
-    "Gavin Young"
-  ],
-  "recipient": "D. J. BRENNAN",
-  "sender": "S. J. PAPICH"
+  ]
 }

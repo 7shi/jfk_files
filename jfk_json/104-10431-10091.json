@@ -1,20 +1,23 @@
 {
-  "classification": "Soviet",
-  "document_type": "Letter",
-  "security_level": "SECRET",
+  "title": "Information on Valeriy Vladimirovich Kostikov",
+  "title_ja": "ワレリー・ウラジミロビッチ・コスティコフに関する情報",
   "summary": "This letter discusses Valeriy Vladimirovich Kostikov's activities in Mexico, France, Spain, the U.S., and Cuba during the period 1959-61, his assignment to Mexico City as a consular officer from 1961-1965 and again in 1968, his possible involvement with Lee Harvey Oswald, and his potential connection to Department 13 (Executive Action) of the KGB.",
-  "tags": [
+  "summary_ja": "この書簡では、1959年から1961年にかけてのメキシコ、フランス、スペイン、米国、キューバにおけるヴァレリー・ウラジーミロヴィチ・コスティコフの活動、1961年から1965年、および1968年における領事官としてのメキシコシティへの配属、リー・ハーヴェイ・オズワルドとの関与の可能性、およびKGBの第13部（エグゼクティブ・アクション）とのつながりの可能性について述べている。",
+  "document_type": "Letter",
+  "classification": "Soviet",
+  "security_level": "SECRET",
+  "date": "1982-05-21",
+  "origin_agency": "CIA",
+  "sender": "David H. Blee",
+  "recipient": "Anthony C. M. DeVere",
+  "persons_mentioned": [
+    "Anthony C. M. DeVere",
     "Valeriy Vladimirovich Kostikov",
     "Lee Harvey Oswald",
-    "KGB",
-    "Mexico City",
-    "Consular Officer",
-    "Visa Request",
-    "Department 13",
-    "Executive Action"
+    "Lyalin",
+    "David H. Blee",
+    "Joan Paxson"
   ],
-  "title": "Information on Valeriy Vladimirovich Kostikov",
-  "date": "1982-05-21",
   "locations_mentioned": [
     "Mexico",
     "France",
@@ -26,15 +29,14 @@
     "Havana",
     "Beirut"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Anthony C. M. DeVere",
+  "tags": [
     "Valeriy Vladimirovich Kostikov",
     "Lee Harvey Oswald",
-    "Lyalin",
-    "David H. Blee",
-    "Joan Paxson"
-  ],
-  "recipient": "Anthony C. M. DeVere",
-  "sender": "David H. Blee"
+    "KGB",
+    "Mexico City",
+    "Consular Officer",
+    "Visa Request",
+    "Department 13",
+    "Executive Action"
+  ]
 }

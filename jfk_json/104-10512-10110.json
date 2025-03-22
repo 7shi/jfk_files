@@ -1,8 +1,34 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Soviet Merchant Vessels in Cuban Ports",
+  "title_ja": "キューバの港に停泊するソ連商船",
   "summary": "This report details the arrival of Soviet merchant vessels in Cuban ports between September and October 1962, specifying the types and quantities of cargo delivered. It includes information on vessels transporting war materiel, petroleum, general cargo, and other supplies.",
+  "summary_ja": "この報告書は、1962年9月から10月にかけてソビエトの商船がキューバの港に到着したことを詳細に報告しており、積み荷の種類と数量を特定している。戦争物資、石油、一般貨物、その他の物資を輸送する船舶に関する情報も含まれている。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-10-25",
+  "origin_agency": "FACO",
+  "sender": "JUVAVE",
+  "recipient": "Headquarters",
+  "persons_mentioned": [
+    "Alice B. CAPONONG",
+    "Douglas C. MISLEY",
+    "Vilma MARKWALTER",
+    "Andrew K. REUTENAN",
+    "John F. Kennedy",
+    "Melquia"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Isabela de Sagua",
+    "Habana",
+    "Cienfuegos",
+    "Santiago de Cuba",
+    "Nuevitas",
+    "Black Sea",
+    "Antilla",
+    "Guantanamo"
+  ],
   "tags": [
     "Soviet Merchant Vessels",
     "Cuban Ports",
@@ -17,29 +43,5 @@
     "Nuevitas",
     "Anti-Castro",
     "Cargo Unloading"
-  ],
-  "title": "Soviet Merchant Vessels in Cuban Ports",
-  "date": "1962-10-25",
-  "locations_mentioned": [
-    "Cuba",
-    "Isabela de Sagua",
-    "Habana",
-    "Cienfuegos",
-    "Santiago de Cuba",
-    "Nuevitas",
-    "Black Sea",
-    "Antilla",
-    "Guantanamo"
-  ],
-  "origin_agency": "FACO",
-  "persons_mentioned": [
-    "Alice B. CAPONONG",
-    "Douglas C. MISLEY",
-    "Vilma MARKWALTER",
-    "Andrew K. REUTENAN",
-    "John F. Kennedy",
-    "Melquia"
-  ],
-  "recipient": "Headquarters",
-  "sender": "JUVAVE"
+  ]
 }

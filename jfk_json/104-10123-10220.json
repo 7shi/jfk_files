@@ -1,8 +1,18 @@
 {
-  "classification": "Security",
-  "document_type": "Agreement",
-  "security_level": "SECRET",
+  "title": "Security Indoctrination and Secrecy Agreement BYEMAN Control System, BYECOM Approval",
+  "title_ja": "セキュリティ教化および秘密保持契約 BYEMAN管理システム、BYECOM承認",
   "summary": "This document is a Security Indoctrination and Secrecy Agreement for the BYEMAN Control System, signed by Ernest M. Kropff on June 19, 1963. It outlines the security restrictions, responsibilities, and penalties for violations of the BYEMAN Control System.",
+  "summary_ja": "この文書は、1963年6月19日にアーネスト・M・クロップが署名したBYEMANコントロールシステムのセキュリティ教育および機密保持契約書である。BYEMANコントロールシステムのセキュリティ制限、責任、違反時の罰則について概説している。",
+  "document_type": "Agreement",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1963-06-19",
+  "sender": "Director of Central Intelligence",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "Ernest M. Kropff",
+    "J.C. Connell"
+  ],
   "tags": [
     "BYEMAN",
     "Security Indoctrination",
@@ -10,13 +20,5 @@
     "BYECOM",
     "Security Clearance",
     "Intelligence Collection"
-  ],
-  "title": "Security Indoctrination and Secrecy Agreement BYEMAN Control System, BYECOM Approval",
-  "date": "1963-06-19",
-  "persons_mentioned": [
-    "Ernest M. Kropff",
-    "J.C. Connell"
-  ],
-  "recipient": "N/A",
-  "sender": "Director of Central Intelligence"
+  ]
 }

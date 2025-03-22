@@ -1,30 +1,15 @@
 {
-  "classification": "Mexico",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
-  "summary": "This document discusses Liang Szu Ch'eng, a member of the CCP, and plans to establish contact with him through BEFLATE 1. It details BEFLATE 1's arrival in Mexico and instructions for contacting him.",
-  "tags": [
-    "Liang Szu Ch'eng",
-    "CCP",
-    "BEFLATE 1",
-    "HUMARK COMPACT",
-    "safeguard",
-    "TSINGHUA University",
-    "architecture",
-    "self criticism",
-    "HAVANA",
-    "architects"
-  ],
   "title": "Director cable regarding Liang Szu Ch'Eng and contact establishment",
+  "title_ja": "梁思哲に関するディレクター・ケーブルおよび連絡先の確立",
+  "summary": "This document discusses Liang Szu Ch'eng, a member of the CCP, and plans to establish contact with him through BEFLATE 1. It details BEFLATE 1's arrival in Mexico and instructions for contacting him.",
+  "summary_ja": "本電文書は、中国共産党の党員である梁思成について論じ、BEFLATE 1を通じて彼と接触する計画について述べている。BEFLATE 1のメキシコ到着の詳細と、彼との接触方法について指示している。",
+  "document_type": "Classified Message",
+  "classification": "Mexico",
+  "security_level": "SECRET",
   "date": "1963-10-12",
-  "locations_mentioned": [
-    "Mexico",
-    "CHINA",
-    "Peking",
-    "ORELIA",
-    "HAVANA"
-  ],
   "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "MEXICO CEY",
   "persons_mentioned": [
     "John F. Kennedy",
     "LIANG SZU CH'ENG",
@@ -36,6 +21,23 @@
     "J. Whitten",
     "William C"
   ],
-  "recipient": "MEXICO CEY",
-  "sender": "DIRECTOR"
+  "locations_mentioned": [
+    "Mexico",
+    "CHINA",
+    "Peking",
+    "ORELIA",
+    "HAVANA"
+  ],
+  "tags": [
+    "Liang Szu Ch'eng",
+    "CCP",
+    "BEFLATE 1",
+    "HUMARK COMPACT",
+    "safeguard",
+    "TSINGHUA University",
+    "architecture",
+    "self criticism",
+    "HAVANA",
+    "architects"
+  ]
 }

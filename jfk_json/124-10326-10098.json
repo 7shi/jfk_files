@@ -1,8 +1,31 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
+  "title": "CENTRAL INTELLIGENCE AGENCY INFORMATION RECEIVED FROM JAMES ANGLETON",
+  "title_ja": "中央情報局 ジェームズ・アングルトンから受け取った情報",
   "summary": "This document discusses James Angleton, a CIA official in charge of the Special Projects unit, and recommends creating a control file for the information he provides to the FBI. It also alerts Section Chiefs regarding the handling of information received from Angleton.",
+  "summary_ja": "この文書では、CIAの特別プロジェクト部門を担当するジェームズ・アングルトンについて論じ、彼がFBIに提供する情報の管理ファイルを作成することを推奨している。また、セクションチーフに対して、アングルトンから受け取った情報の取り扱いについて警告している。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1953-06-10",
+  "origin_agency": "FBI",
+  "sender": "V. P Keay",
+  "recipient": "MR. A. R. BELMONT",
+  "persons_mentioned": [
+    "James Angleton",
+    "A. R. Belmont",
+    "V. P. Keay",
+    "Jay Lovestone",
+    "Walter Bedell Smith",
+    "Allen Dulles"
+  ],
+  "locations_mentioned": [
+    "Europe",
+    "France",
+    "Italy",
+    "Greece",
+    "Great Britain",
+    "Vatican"
+  ],
   "tags": [
     "James Angleton",
     "CIA",
@@ -13,26 +36,5 @@
     "Jay Lovestone",
     "American Federation of Labor",
     "Free Trade Union Committee"
-  ],
-  "title": "CENTRAL INTELLIGENCE AGENCY INFORMATION RECEIVED FROM JAMES ANGLETON",
-  "date": "1953-06-10",
-  "locations_mentioned": [
-    "Europe",
-    "France",
-    "Italy",
-    "Greece",
-    "Great Britain",
-    "Vatican"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "James Angleton",
-    "A. R. Belmont",
-    "V. P. Keay",
-    "Jay Lovestone",
-    "Walter Bedell Smith",
-    "Allen Dulles"
-  ],
-  "recipient": "MR. A. R. BELMONT",
-  "sender": "V. P Keay"
+  ]
 }

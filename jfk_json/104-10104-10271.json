@@ -1,8 +1,28 @@
 {
-  "classification": "Operations",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "JMWAVE COVER FACILITY",
+  "title_ja": "JMWAVE COVER FACILITY",
   "summary": "This document describes two JMWAVE cover facilities: Ace Marine Survey, Inc. and Ceres Enterprises, Inc. Ace Marine Survey is used to provide cover for a maritime vessel, the M/V SONORA. Ceres Enterprises provided cover for maritime vessels, the M/V BARB and the M/V JADE, but was deactivated due to a security breach.",
+  "summary_ja": "この文書には、JMWAVEの2つの偽装施設、エース・マリン・サーベイ社とセレス・エンタープライズ社について記されている。エース・マリン・サーベイ社は、船舶M/V SONORAの偽装に使用されている。セレス・エンタープライズは船舶M/V BARBおよびM/V JADEの偽装工作を行っていたが、機密漏洩により活動を停止した。",
+  "document_type": "Report",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1967-03-06",
+  "origin_agency": "JMWAVE",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Alfred J. Moran",
+    "Richard W. Freeman",
+    "Norman S. Pallot",
+    "George E. Brown",
+    "Thomas B. Duff"
+  ],
+  "locations_mentioned": [
+    "Miami, Florida",
+    "New Orleans, Louisiana",
+    "Cuba",
+    "Chicago, Illinois"
+  ],
   "tags": [
     "JMWAVE",
     "Cover Facility",
@@ -18,23 +38,5 @@
     "Louisiana",
     "Offshore Navigation Company",
     "Peterman & Peterman Associates"
-  ],
-  "title": "JMWAVE COVER FACILITY",
-  "date": "1967-03-06",
-  "locations_mentioned": [
-    "Miami, Florida",
-    "New Orleans, Louisiana",
-    "Cuba",
-    "Chicago, Illinois"
-  ],
-  "origin_agency": "JMWAVE",
-  "persons_mentioned": [
-    "Alfred J. Moran",
-    "Richard W. Freeman",
-    "Norman S. Pallot",
-    "George E. Brown",
-    "Thomas B. Duff"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

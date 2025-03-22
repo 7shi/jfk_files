@@ -1,8 +1,33 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "Communication Details for Rolando CUBELA Secades",
+  "title_ja": "ロランド・クベーラ・セカデスとの通信詳細",
   "summary": "This document details communication methods and addresses for contacting Rolando CUBELA Secades (T/N: Rolando CUBELA Secades), a medical doctor in Havana, Cuba, in 1965. It includes instructions for forwarding letters through AMWHIP/2 and AMWHIP/1, as well as addresses for Srta Ernestina Acosta and Virginia Secades. It also specifies the use of 'Pepe' and 'Luis' signatures for secure communications.",
+  "summary_ja": "この文書は、1965年のキューバ、ハバナ在住の医師、ロランド・クベラ・セカデス（T/N: Rolando CUBELA Secades）への連絡方法と連絡先について詳細に述べている。AMWHIP/2とAMWHIP/1を介した手紙の転送方法、およびアーネスティーナ・アコスタ嬢とバージニア・セカデスの連絡先が記載されている。また、安全な通信のために「ペペ」と「ルイス」の署名を使用することも指定されている。",
+  "document_type": "Memo",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1965",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Rolando CUBELA Secades",
+    "AMWHIP/2",
+    "AMWHIP/1",
+    "AMTHUNK/10",
+    "Ernestina Acosta",
+    "Virginia Secades",
+    "Jose Calderon",
+    "Wainwright",
+    "SANCHEZ"
+  ],
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Rome, Italy",
+    "Geneva, Switzerland",
+    "New York City",
+    "Madrid, Espana"
+  ],
   "tags": [
     "Rolando CUBELA Secades",
     "AMWHIP/2",
@@ -18,28 +43,5 @@
     "agent",
     "codename",
     "medical doctor"
-  ],
-  "title": "Communication Details for Rolando CUBELA Secades",
-  "date": "1965",
-  "locations_mentioned": [
-    "Havana, Cuba",
-    "Rome, Italy",
-    "Geneva, Switzerland",
-    "New York City",
-    "Madrid, Espana"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "Rolando CUBELA Secades",
-    "AMWHIP/2",
-    "AMWHIP/1",
-    "AMTHUNK/10",
-    "Ernestina Acosta",
-    "Virginia Secades",
-    "Jose Calderon",
-    "Wainwright",
-    "SANCHEZ"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

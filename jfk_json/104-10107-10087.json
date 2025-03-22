@@ -1,20 +1,14 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "Background Use Only",
-  "summary": "Memorandum regarding the identification of 'T' and 'H' mentioned in a 1955 memorandum. 'T' is identified as Juan Trippe and 'H' as General Hardin, who was being placed with Pan Am for operational reasons. The document also clarifies that General Hardin is not synonymous with Philip Harbin.",
-  "tags": [
-    "George Carey",
-    "Juan Trippe",
-    "General Hardin",
-    "Pan Am",
-    "Philip Harbin",
-    "Herbert Itkin",
-    "Air Force",
-    "airline executive"
-  ],
   "title": "MEMORANDUM FOR THE RECORD",
+  "title_ja": "記録用覚書",
+  "summary": "Memorandum regarding the identification of 'T' and 'H' mentioned in a 1955 memorandum. 'T' is identified as Juan Trippe and 'H' as General Hardin, who was being placed with Pan Am for operational reasons. The document also clarifies that General Hardin is not synonymous with Philip Harbin.",
+  "summary_ja": "1955年の覚書に記載された「T」と「H」の特定に関する覚書。「T」はフアン・トリップ、「H」は業務上の理由でパンナムに配置されていたハーディン将軍であると特定されている。また、この文書では、ハーディン将軍とフィリップ・ハービンは同義語ではないことも明らかにされている。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "Background Use Only",
   "date": "1969-03-04",
+  "sender": "LAWRENCE R. HOUSTON, General Counsel",
+  "recipient": "THE RECORD",
   "persons_mentioned": [
     "George Carey",
     "Juan Trippe",
@@ -25,6 +19,14 @@
     "Philip Harbin",
     "Lawrence R. Houston"
   ],
-  "recipient": "THE RECORD",
-  "sender": "LAWRENCE R. HOUSTON, General Counsel"
+  "tags": [
+    "George Carey",
+    "Juan Trippe",
+    "General Hardin",
+    "Pan Am",
+    "Philip Harbin",
+    "Herbert Itkin",
+    "Air Force",
+    "airline executive"
+  ]
 }

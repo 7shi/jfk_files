@@ -1,8 +1,25 @@
 {
-  "classification": "Cuba",
-  "document_type": "Routing and Record Sheet",
-  "security_level": "SECRET",
+  "title": "Current Address of Maurice Halperin",
+  "title_ja": "モーリス・ハルペリンの現住所",
   "summary": "This document discusses the current address of Maurice Halperin, who is believed to be living in Havana, Cuba. The information was obtained from a source who received a Christmas card from Halperin. The document highlights Halperin's past activities and associations.",
+  "summary_ja": "この文書では、現在ハバナ（キューバ）在住と見られるモーリス・ハルペリンの現住所について論じている。この情報は、ハルペリンからクリスマスカードを受け取った人物から入手したものである。この文書では、ハルペリンの過去の活動と交友関係に焦点を当てている。",
+  "document_type": "Routing and Record Sheet",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-12-27",
+  "origin_agency": "CIA",
+  "sender": "Chief, Contact Division (Support) Stuntz",
+  "recipient": "TFW",
+  "persons_mentioned": [
+    "Maurice Halperin",
+    "Preston E. James"
+  ],
+  "locations_mentioned": [
+    "Miramar, Habana, Cuba",
+    "Moscow",
+    "USSR",
+    "Syracuse University"
+  ],
   "tags": [
     "Maurice Halperin",
     "Cuba",
@@ -13,20 +30,5 @@
     "US delegation",
     "Activities",
     "Associations"
-  ],
-  "title": "Current Address of Maurice Halperin",
-  "date": "1962-12-27",
-  "locations_mentioned": [
-    "Miramar, Habana, Cuba",
-    "Moscow",
-    "USSR",
-    "Syracuse University"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Maurice Halperin",
-    "Preston E. James"
-  ],
-  "recipient": "TFW",
-  "sender": "Chief, Contact Division (Support) Stuntz"
+  ]
 }

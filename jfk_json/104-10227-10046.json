@@ -1,8 +1,32 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "UNCLASSIFIED",
+  "title": "Report on Conversation Involving Dr. Aureliano SAN Romani",
+  "title_ja": "アウレリアーノ・サン・ロマーニ博士が関与した会話についての報告書",
   "summary": "A dispatch reports on an APOT source, Eduardo NUNEZ Garcia, who overheard a conversation involving Dr. Aureliano SAN Romani regarding a trip to Panama and Guatemala, where San Romani discussed creating a junta and expressed opinions about various political figures.",
+  "summary_ja": "AP通信の情報源であるエドゥアルド・ヌニェス・ガルシアが、アウレリアーノ・サン・ロマーニ博士がパナマとグアテマラへの旅行について話しているのを耳にしたという内容の電報が報告されている。サン・ロマーニはそこで、軍事政権の樹立について話し、さまざまな政治家の意見を述べた。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
+  "date": "1961-12-18",
+  "origin_agency": "CIA",
+  "sender": "Tellano",
+  "recipient": "Headquarters",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Eduardo NUNEZ Garcia",
+    "Aureliano SAN Romani",
+    "DRHORAS",
+    "CASTRO",
+    "CHIARI",
+    "Hurwitch",
+    "Galecano"
+  ],
+  "locations_mentioned": [
+    "Panama",
+    "Guatemala",
+    "New Orleans",
+    "Washington D.C.",
+    "CHAT"
+  ],
   "tags": [
     "APOT",
     "Eduardo NUNEZ Garcia",
@@ -15,27 +39,5 @@
     "CHIARI",
     "Hurwitch",
     "Galecano"
-  ],
-  "title": "Report on Conversation Involving Dr. Aureliano SAN Romani",
-  "date": "1961-12-18",
-  "locations_mentioned": [
-    "Panama",
-    "Guatemala",
-    "New Orleans",
-    "Washington D.C.",
-    "CHAT"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Eduardo NUNEZ Garcia",
-    "Aureliano SAN Romani",
-    "DRHORAS",
-    "CASTRO",
-    "CHIARI",
-    "Hurwitch",
-    "Galecano"
-  ],
-  "recipient": "Headquarters",
-  "sender": "Tellano"
+  ]
 }

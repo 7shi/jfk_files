@@ -1,30 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "List",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This document appears to be a list of names, phone numbers, and office locations for individuals in the Washington D.C. area, possibly related to government or intelligence work. It includes contact information for people with various roles, such as those in the Lean Office, and mentions locations like Jorge Washington Park Way and Roslyn, VA.",
-  "tags": [
-    "contact list",
-    "phone directory",
-    "personnel",
-    "office locations",
-    "Washington D.C.",
-    "Roslyn, VA"
-  ],
   "title": "Washington Contact Information",
+  "title_ja": "ワシントン 連絡先情報",
+  "summary": "This document appears to be a list of names, phone numbers, and office locations for individuals in the Washington D.C. area, possibly related to government or intelligence work. It includes contact information for people with various roles, such as those in the Lean Office, and mentions locations like Jorge Washington Park Way and Roslyn, VA.",
+  "summary_ja": "この文書は、ワシントンD.C.地域の個人名、電話番号、勤務先の所在地のリストのようで、政府または諜報活動に関連している可能性がある。リーンオフィス（Lean Office）の職員など、さまざまな役割を持つ人々の連絡先が記載されており、ジョージ・ワシントン・パークウェイ（Jorge Washington Park Way）やバージニア州ロズリン（Roslyn, VA）などの所在地も記載されている。",
+  "document_type": "List",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
   "date": "1963-11-22",
-  "locations_mentioned": [
-    "Washington D.C.",
-    "Roslyn, VA",
-    "Jorge Washington Park Way",
-    "Spain",
-    "Silver Spring, MD",
-    "Bethesda, MD",
-    "Chevy Chase, MD",
-    "Falls Church, Virginia",
-    "Rockville, MD"
-  ],
   "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "Various",
   "persons_mentioned": [
     "Jorge Washington",
     "KES BUD",
@@ -60,6 +45,23 @@
     "Ronald Marelics",
     "Martin"
   ],
-  "recipient": "Various",
-  "sender": "Unknown"
+  "locations_mentioned": [
+    "Washington D.C.",
+    "Roslyn, VA",
+    "Jorge Washington Park Way",
+    "Spain",
+    "Silver Spring, MD",
+    "Bethesda, MD",
+    "Chevy Chase, MD",
+    "Falls Church, Virginia",
+    "Rockville, MD"
+  ],
+  "tags": [
+    "contact list",
+    "phone directory",
+    "personnel",
+    "office locations",
+    "Washington D.C.",
+    "Roslyn, VA"
+  ]
 }

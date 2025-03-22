@@ -1,8 +1,31 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "GYROSE/Operational AMDENIM-1 Progress Report - 13 August 1962",
+  "title_ja": "GYROSE/Operational AMDENIM-1 進捗報告書 - 1962年8月13日",
   "summary": "This dispatch details the progress of AMDENIM-1, focusing on maintaining exile group relations, intelligence gathering on the PRPUNEN community, and attempts to establish contact with PBRUMEN fishermen through Operation Antonico I.",
+  "summary_ja": "本電報は、亡命グループ間の関係維持、PRPUNENコミュニティに関する情報収集、および「オペレーション・アントニコI」を通じたPBRUMEN漁師との接触の試みに焦点を当て、AMDENIM-1の進捗状況を詳細に説明する。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1962-08-13",
+  "origin_agency": "CIA",
+  "sender": "Chief of Station, JMWAVE",
+  "recipient": "Chief, Task Force W",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "AMDENIM-1",
+    "AMBUD-1",
+    "Heriberto SARDINAS Campo",
+    "AMGLAD-1"
+  ],
+  "locations_mentioned": [
+    "JMWAVE",
+    "Oriente Province",
+    "Anguila Key",
+    "Havana",
+    "Santiago de Cuba",
+    "Jamaica",
+    "Caibarien"
+  ],
   "tags": [
     "AMDENIM-1",
     "AMSUD-1",
@@ -23,26 +46,5 @@
     "Magnolia",
     "Caibarien",
     "Jamaica"
-  ],
-  "title": "GYROSE/Operational AMDENIM-1 Progress Report - 13 August 1962",
-  "date": "1962-08-13",
-  "locations_mentioned": [
-    "JMWAVE",
-    "Oriente Province",
-    "Anguila Key",
-    "Havana",
-    "Santiago de Cuba",
-    "Jamaica",
-    "Caibarien"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "AMDENIM-1",
-    "AMBUD-1",
-    "Heriberto SARDINAS Campo",
-    "AMGLAD-1"
-  ],
-  "recipient": "Chief, Task Force W",
-  "sender": "Chief of Station, JMWAVE"
+  ]
 }

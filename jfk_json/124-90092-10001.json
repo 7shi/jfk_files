@@ -1,27 +1,15 @@
 {
-  "classification": "Assassination",
-  "document_type": "Textual Document",
-  "security_level": "Secret",
-  "summary": "This document is a report from the FBI regarding Robert Glenn Thompson, also known as Robert F. Laudwein, and William K. Harvey. It references previous reports and clarifies information related to Thompson's story in the 'Saturday Evening Post.' The document also mentions the code name 'OXTANK' and includes administrative details and dissemination records.",
-  "tags": [
-    "ROBERT GLENN THOMPSON",
-    "ROBERT F. LAUDWEIN",
-    "WILLIAM K. HARVEY",
-    "OXTANK",
-    "Saturday Evening Post",
-    "OSI",
-    "7983rd Army Unit"
-  ],
   "title": "Report on Robert Glenn Thompson and William K. Harvey",
+  "title_ja": "ロバート・グレン・トンプソンとウィリアム・K・ハーヴェイに関する報告書",
+  "summary": "This document is a report from the FBI regarding Robert Glenn Thompson, also known as Robert F. Laudwein, and William K. Harvey. It references previous reports and clarifies information related to Thompson's story in the 'Saturday Evening Post.' The document also mentions the code name 'OXTANK' and includes administrative details and dissemination records.",
+  "summary_ja": "本ドキュメントは、ロバート・グレン・トンプソン（別名ロバート・F・ラウドウェイン）とウィリアム・K・ハーヴェイに関するFBIからの報告書である。過去の報告書を参照し、「サタデー・イブニング・ポスト」誌に掲載されたトンプソンの記事に関する情報を明確にしている。また、コードネーム「オクタンク」についても言及し、管理上の詳細と配布記録を含んでいる。",
+  "document_type": "Textual Document",
+  "classification": "Assassination",
+  "security_level": "Secret",
   "date": "1965-10-08",
-  "locations_mentioned": [
-    "Detroit",
-    "NYC",
-    "El Paso",
-    "Texas",
-    "Berlin"
-  ],
   "origin_agency": "FBI",
+  "sender": "NY",
+  "recipient": "HQ",
   "persons_mentioned": [
     "ROBERT GLENN THOMPSON",
     "ROBERT F. LAUDWEIN",
@@ -32,6 +20,20 @@
     "James Olson",
     "Tommy"
   ],
-  "recipient": "HQ",
-  "sender": "NY"
+  "locations_mentioned": [
+    "Detroit",
+    "NYC",
+    "El Paso",
+    "Texas",
+    "Berlin"
+  ],
+  "tags": [
+    "ROBERT GLENN THOMPSON",
+    "ROBERT F. LAUDWEIN",
+    "WILLIAM K. HARVEY",
+    "OXTANK",
+    "Saturday Evening Post",
+    "OSI",
+    "7983rd Army Unit"
+  ]
 }

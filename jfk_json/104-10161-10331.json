@@ -1,8 +1,23 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Peter J. DiGervino (p)",
+  "title_ja": "Peter J. DiGervino (p)",
   "summary": "This memo requests information regarding Peter J. DiGervino's security status for a proposed assignment in Madrid, Spain.",
+  "summary_ja": "この覚書は、スペイン・マドリードへの任務が提案されているピーター・J・ディセルヴィーノのセキュリティ状況に関する情報の提供を求めている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1967-06-12",
+  "origin_agency": "CCS/NC",
+  "sender": "Thomas K. Strange, Chief, CCS/NC",
+  "recipient": "Deputy Director of Security, Investigation and Operational Support",
+  "persons_mentioned": [
+    "Peter J. DiGervino",
+    "Marvin Wehking",
+    "Thomas K. Strange"
+  ],
+  "locations_mentioned": [
+    "Madrid, Spain"
+  ],
   "tags": [
     "cover",
     "non-official cover",
@@ -13,18 +28,5 @@
     "security services",
     "compromise",
     "security factors"
-  ],
-  "title": "Peter J. DiGervino (p)",
-  "date": "1967-06-12",
-  "locations_mentioned": [
-    "Madrid, Spain"
-  ],
-  "origin_agency": "CCS/NC",
-  "persons_mentioned": [
-    "Peter J. DiGervino",
-    "Marvin Wehking",
-    "Thomas K. Strange"
-  ],
-  "recipient": "Deputy Director of Security, Investigation and Operational Support",
-  "sender": "Thomas K. Strange, Chief, CCS/NC"
+  ]
 }

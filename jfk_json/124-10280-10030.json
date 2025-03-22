@@ -1,24 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
-  "summary": "FBI report regarding Rolando L. Cubela y Secades and a potential plan to eliminate Fidel Castro. The report discusses Cubela's contact with the CIA through Carlos Tepedino and concerns about providing Cubela with equipment. It also mentions a plan to kill Fidel Castro, which was allegedly reconsidered with President Johnson's knowledge.",
-  "tags": [
-    "Cubela",
-    "Secades",
-    "Castro",
-    "CIA",
-    "Tepedino",
-    "Assassination Plan"
-  ],
   "title": "Rolando L. Cubela Y Secades - IS - CUBA",
+  "title_ja": "ロランド・L・クベラ・イ・セカデス - IS - キューバ",
+  "summary": "FBI report regarding Rolando L. Cubela y Secades and a potential plan to eliminate Fidel Castro. The report discusses Cubela's contact with the CIA through Carlos Tepedino and concerns about providing Cubela with equipment. It also mentions a plan to kill Fidel Castro, which was allegedly reconsidered with President Johnson's knowledge.",
+  "summary_ja": "ロランド・L・クベラ・イ・セカデスとフィデル・カストロ排除の可能性に関するFBI報告書。この報告書では、カルロス・テペディノを通じてのクベラとCIAの接触と、クベラへの機材提供に関する懸念について論じている。また、ジョンソン大統領の知るところとなり、再考されたとされるフィデル・カストロ暗殺計画についても言及している。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1964-07-29",
-  "locations_mentioned": [
-    "Cuba",
-    "Europe",
-    "Paris"
-  ],
   "origin_agency": "FBI",
+  "sender": "SAC, Miami",
+  "recipient": "Director, FBI",
   "persons_mentioned": [
     "Rolando L. Cubela y Secades",
     "Fidel Castro",
@@ -27,6 +18,17 @@
     "Lyndon B. Johnson",
     "Carrillo"
   ],
-  "recipient": "Director, FBI",
-  "sender": "SAC, Miami"
+  "locations_mentioned": [
+    "Cuba",
+    "Europe",
+    "Paris"
+  ],
+  "tags": [
+    "Cubela",
+    "Secades",
+    "Castro",
+    "CIA",
+    "Tepedino",
+    "Assassination Plan"
+  ]
 }

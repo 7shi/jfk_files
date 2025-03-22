@@ -1,36 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Paper, Textual Document",
-  "security_level": "Secret",
-  "summary": "Examination of principal sources of policy and contingency planning on Cuba, National Security Actions on Cuba, U.S. Policy toward the Cuban Brigade.",
-  "tags": [
-    "Policy",
-    "Contingency Planning",
-    "Cuba",
-    "National Security",
-    "Cuban Brigade",
-    "CIA",
-    "DOD",
-    "DOS",
-    "NSC",
-    "Interdepartmental Coordinating Committee of Cuban Affairs",
-    "National Security Action Memoranda",
-    "Organization of American States",
-    "Punta del Este Conference",
-    "NSC Executive Committee",
-    "EXCOM",
-    "COCOM"
-  ],
   "title": "EXAMINATION OF PRINCIPAL SOURCES OF POLICY AND CONTINGENCY PLANNING ON CUBA",
+  "title_ja": "キューバに関する政策および緊急時計画の主要情報源の調査",
+  "summary": "Examination of principal sources of policy and contingency planning on Cuba, National Security Actions on Cuba, U.S. Policy toward the Cuban Brigade.",
+  "summary_ja": "キューバに関する政策および緊急時対応計画の主要情報源の調査、キューバに関する国家安全保障活動、キューバ旅団に対する米国の政策。",
+  "document_type": "Paper, Textual Document",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1963-00-00",
-  "locations_mentioned": [
-    "Cuba",
-    "Caribbean",
-    "Latin America",
-    "United States",
-    "Hiami"
-  ],
   "origin_agency": "ARMY",
+  "sender": "JOSEPH A. CALIFANO, JR.",
+  "recipient": "",
   "persons_mentioned": [
     "John F. Kennedy",
     "Joseph A. Califano, Jr.",
@@ -48,6 +27,29 @@
     "Sherman Kent",
     "Vance"
   ],
-  "recipient": "",
-  "sender": "JOSEPH A. CALIFANO, JR."
+  "locations_mentioned": [
+    "Cuba",
+    "Caribbean",
+    "Latin America",
+    "United States",
+    "Hiami"
+  ],
+  "tags": [
+    "Policy",
+    "Contingency Planning",
+    "Cuba",
+    "National Security",
+    "Cuban Brigade",
+    "CIA",
+    "DOD",
+    "DOS",
+    "NSC",
+    "Interdepartmental Coordinating Committee of Cuban Affairs",
+    "National Security Action Memoranda",
+    "Organization of American States",
+    "Punta del Este Conference",
+    "NSC Executive Committee",
+    "EXCOM",
+    "COCOM"
+  ]
 }

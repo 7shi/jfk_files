@@ -1,8 +1,23 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum, Fitness Report",
-  "security_level": "SECRET",
+  "title": "Annual Fitness Report - George Joannides",
+  "title_ja": "年間健康報告書 - ジョージ・ヨアニデス",
   "summary": "This document contains multiple fitness reports and a memorandum in lieu of a fitness report for George Joannides, an Operations Officer. The reports cover periods from 1962 to 1979, evaluating his performance in various roles, including as Deputy Chief of Branch and involvement in covert action operations.",
+  "summary_ja": "本書類には、ジョージ・ジョアニデス（オペレーション・オフィサー）の健康状態に関する複数の報告書と、健康状態報告書に代わる覚書が含まれている。これらの報告書は1962年から1979年までの期間を対象としており、支局次長としての職務や秘密工作活動への関与など、ジョアンニデス氏のさまざまな職務における業績を評価している。",
+  "document_type": "Memorandum, Fitness Report",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1979-01-08",
+  "sender": "S. D. Breckinridge",
+  "recipient": "Director of Personnel",
+  "persons_mentioned": [
+    "George Joannides",
+    "S. D. Breckinridge",
+    "Andrew K. Reuteman",
+    "Bruce B. Cheever",
+    "Walter D. Newby",
+    "Robert K. Troughard",
+    "Frederick J. Inghurst"
+  ],
   "tags": [
     "Fitness Report",
     "George Joannides",
@@ -15,18 +30,5 @@
     "Propaganda",
     "Political Action",
     "Supervisory Responsibilities"
-  ],
-  "title": "Annual Fitness Report - George Joannides",
-  "date": "1979-01-08",
-  "persons_mentioned": [
-    "George Joannides",
-    "S. D. Breckinridge",
-    "Andrew K. Reuteman",
-    "Bruce B. Cheever",
-    "Walter D. Newby",
-    "Robert K. Troughard",
-    "Frederick J. Inghurst"
-  ],
-  "recipient": "Director of Personnel",
-  "sender": "S. D. Breckinridge"
+  ]
 }

@@ -1,8 +1,33 @@
 {
-  "classification": "Operations",
-  "document_type": "CIA Information Report",
-  "security_level": "CONFIDENTIAL",
+  "title": "CIA Information Report",
+  "title_ja": "CIA情報報告書",
   "summary": "This document is a CIA information report from October 8, 1963, providing a situation appraisal of South Vietnam as of October 5, 1963. It discusses coup plotting, demands by generals to President Diem, the atmosphere in Saigon, and potential surprises for the upcoming National Day celebrations. It also touches on the Viet Cong's lack of capitalizing on opportunities and potential GVN-DRV rapprochement.",
+  "summary_ja": "この文書は1963年10月8日付のCIA情報報告書であり、1963年10月5日時点における南ベトナムの情勢評価を提供している。クーデター計画、ディエム大統領に対する将軍たちの要求、サイゴンの雰囲気、そして間近に迫った建国記念日祝賀行事における予想外の出来事の可能性について論じている。また、ベトコンが機会や潜在的な南ベトナム政府と北ベトナムの和解を十分に活用できていないことにも触れている。",
+  "document_type": "CIA Information Report",
+  "classification": "Operations",
+  "security_level": "CONFIDENTIAL",
+  "date": "1963-10-08",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "JCS, SECDEF, NSA, NIC, CCI, STATE, INF, DIA, ARMY, ACSI, NAVY, AIR",
+  "persons_mentioned": [
+    "Ngo Dinh Diem",
+    "Ngo Dinh Nhu",
+    "Tran Van Don",
+    "Ho Chi Minh",
+    "Joseph Alsop",
+    "Maneli",
+    "Lalouette",
+    "Tung",
+    "Harkins"
+  ],
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon",
+    "Cholon",
+    "Hanoi"
+  ],
   "tags": [
     "coup plotting",
     "Ngo Dinh Diem",
@@ -16,28 +41,5 @@
     "GVN-DRV rapprochement",
     "economic action",
     "social action"
-  ],
-  "title": "CIA Information Report",
-  "date": "1963-10-08",
-  "locations_mentioned": [
-    "South Vietnam",
-    "Vietnam",
-    "Saigon",
-    "Cholon",
-    "Hanoi"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Ngo Dinh Diem",
-    "Ngo Dinh Nhu",
-    "Tran Van Don",
-    "Ho Chi Minh",
-    "Joseph Alsop",
-    "Maneli",
-    "Lalouette",
-    "Tung",
-    "Harkins"
-  ],
-  "recipient": "JCS, SECDEF, NSA, NIC, CCI, STATE, INF, DIA, ARMY, ACSI, NAVY, AIR",
-  "sender": "CIA"
+  ]
 }

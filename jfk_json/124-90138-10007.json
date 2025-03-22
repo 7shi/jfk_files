@@ -1,8 +1,25 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memo",
-  "security_level": "Secret",
+  "title": "CIA LIAISON MATERIAL",
+  "title_ja": "CIA連絡要員",
   "summary": "FBI requests CIA assistance in obtaining papers from Garcia in Cuba, potentially containing intelligence or propaganda data. The State Department prefers CIA to handle the matter.",
+  "summary_ja": "CIAは、キューバのガルシアから、情報または宣伝データを含む可能性のある書類を入手するにあたり、FBIの支援を求めている。国務省はCIAにこの問題の処理を任せたいと考えている。",
+  "document_type": "Memo",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1963-10-02",
+  "origin_agency": "FBI",
+  "sender": "FBI HQ",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "Garcia",
+    "Vergara",
+    "H. Bartlett",
+    "John MacDonald"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Havana"
+  ],
   "tags": [
     "CIA Liaison",
     "Intelligence Matters",
@@ -12,20 +29,5 @@
     "Spanish Government",
     "Swiss Embassy",
     "State Department"
-  ],
-  "title": "CIA LIAISON MATERIAL",
-  "date": "1963-10-02",
-  "locations_mentioned": [
-    "Cuba",
-    "Havana"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "Garcia",
-    "Vergara",
-    "H. Bartlett",
-    "John MacDonald"
-  ],
-  "recipient": "CIA",
-  "sender": "FBI HQ"
+  ]
 }

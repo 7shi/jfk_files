@@ -1,19 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Financial Records",
-  "security_level": "UNCLASSIFIED",
-  "summary": "Financial records detailing transactions within the 'Garcia and Paula' trust account, including payments to recruit dependents, transfers to savings accounts, and reimbursements.",
-  "tags": [
-    "Trust Account",
-    "Financial Transactions",
-    "Recruit Dependents",
-    "Savings Accounts",
-    "Reimbursements"
-  ],
   "title": "\"GARCIA AND PAULA\" TRUST ACCOUNT",
+  "title_ja": "ガルシアとポーラ信託口座",
+  "summary": "Financial records detailing transactions within the 'Garcia and Paula' trust account, including payments to recruit dependents, transfers to savings accounts, and reimbursements.",
+  "summary_ja": "「ガルシア・イ・パウラ」信託口座内の取引の詳細な財務記録、扶養家族の採用、貯蓄口座への振替、払い戻しを含む。",
+  "document_type": "Financial Records",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
   "date": "2025",
-  "locations_mentioned": [],
   "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Unknown",
   "persons_mentioned": [
     "GARCIA",
     "PAULA",
@@ -176,6 +172,12 @@
     "Carlos A. VARONA ARJONA",
     "Pedro O. ZALORA GARCIA"
   ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  "locations_mentioned": [],
+  "tags": [
+    "Trust Account",
+    "Financial Transactions",
+    "Recruit Dependents",
+    "Savings Accounts",
+    "Reimbursements"
+  ]
 }

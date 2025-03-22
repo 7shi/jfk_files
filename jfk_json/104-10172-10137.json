@@ -1,27 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable requests priority POAs (Proof of Address) on EDDA (HERNANDEZ) GONZALEZ, BENICIA (GONZALEZ) GOMEZ and CADELAIDA (MARTINEZ) ANDREADES.",
-  "tags": [
-    "Proof of Address",
-    "EDDA (HERNANDEZ) GONZALEZ",
-    "BENICIA (GONZALEZ) GOMEZ",
-    "CADELAIDA (MARTINEZ) ANDREADES",
-    "WAVE",
-    "ODENVY"
-  ],
   "title": "Request for Priority POAs on Cuban Nationals",
+  "title_ja": "キューバ国民に関する優先的POAの要請",
+  "summary": "This cable requests priority POAs (Proof of Address) on EDDA (HERNANDEZ) GONZALEZ, BENICIA (GONZALEZ) GOMEZ and CADELAIDA (MARTINEZ) ANDREADES.",
+  "summary_ja": "本電報は、EDDA (HERNANDEZ) GONZALEZ、BENICIA (GONZALEZ) GOMEZ、CADELAIDA (MARTINEZ) ANDREADESの優先的POA（Proof of Address）を要求する。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-12-10",
-  "locations_mentioned": [
-    "Cuba",
-    "LA VILLAS",
-    "Patterson, New Jersey",
-    "Miami, Florida",
-    "SAN FERNANDO DE LOS CAMARONES",
-    "ENFUEGOS"
-  ],
   "origin_agency": "JMMAVE",
+  "sender": "JMMAVE",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "EDDA (HERNANDEZ) GONZALEZ",
     "MIGUEL (HERNANDEZ) PEREZ",
@@ -31,6 +19,20 @@
     "SUSANA (CXIEZ) AQUADIO",
     "CADELAIDA (MARTINEZ) ANDREADES"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "JMMAVE"
+  "locations_mentioned": [
+    "Cuba",
+    "LA VILLAS",
+    "Patterson, New Jersey",
+    "Miami, Florida",
+    "SAN FERNANDO DE LOS CAMARONES",
+    "ENFUEGOS"
+  ],
+  "tags": [
+    "Proof of Address",
+    "EDDA (HERNANDEZ) GONZALEZ",
+    "BENICIA (GONZALEZ) GOMEZ",
+    "CADELAIDA (MARTINEZ) ANDREADES",
+    "WAVE",
+    "ODENVY"
+  ]
 }

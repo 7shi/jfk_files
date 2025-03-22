@@ -1,8 +1,22 @@
 {
-  "classification": "Liaison",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "REQUEST FOR GUIDANCE",
+  "title_ja": "指導要請",
   "summary": "This cable discusses a request for guidance regarding potential questioning of JYVAPOROUS about sharing files on Lee Harvey Oswald with the USG and Norman Mailer.",
+  "summary_ja": "この電報では、JYVAPOROUSに対するリー・ハーヴェイ・オズワルドのファイル共有に関する質問の可能性について、米国政府とノーマン・メイラーへの指導要請について議論されている。",
+  "document_type": "Cable",
+  "classification": "Liaison",
+  "security_level": "SECRET",
+  "date": "1995-07-31",
+  "origin_agency": "Unknown",
+  "sender": "MINSK",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "LEE HARVEY OSWALD",
+    "NORMAN MAILER"
+  ],
+  "locations_mentioned": [
+    "MINSK"
+  ],
   "tags": [
     "RYBAT",
     "GTDANCER",
@@ -11,17 +25,5 @@
     "OLEAN",
     "RECIPROCITY",
     "LIAISON"
-  ],
-  "title": "REQUEST FOR GUIDANCE",
-  "date": "1995-07-31",
-  "locations_mentioned": [
-    "MINSK"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "LEE HARVEY OSWALD",
-    "NORMAN MAILER"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "MINSK"
+  ]
 }

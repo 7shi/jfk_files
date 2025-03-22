@@ -1,24 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This memorandum submits proposed key assignments in the Office of Security for your information and approval.",
-  "tags": [
-    "key assignments",
-    "Office of Security",
-    "personnel changes",
-    "Technical Division",
-    "Far East Regional Security Staff",
-    "Investigations Division",
-    "promotions"
-  ],
   "title": "Key Assignments, Office of Security",
+  "title_ja": "主要任務、セキュリティオフィス",
+  "summary": "This memorandum submits proposed key assignments in the Office of Security for your information and approval.",
+  "summary_ja": "この覚書は、セキュリティ部門における鍵の割り当て案を提出するもので、ご参考までにお知らせし、ご承認をお願いする。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "UNCLASSIFIED",
   "date": "1965-02-19",
-  "locations_mentioned": [
-    "Okinawa",
-    "Far East"
-  ],
   "origin_agency": "Office of Security",
+  "sender": "Howard J. Osborn, Director of Security",
+  "recipient": "Deputy Director for Support",
   "persons_mentioned": [
     "James P. O'Connell, Jr.",
     "Arthur C. Sheridan",
@@ -27,6 +18,17 @@
     "L. K. White",
     "Eric Only"
   ],
-  "recipient": "Deputy Director for Support",
-  "sender": "Howard J. Osborn, Director of Security"
+  "locations_mentioned": [
+    "Okinawa",
+    "Far East"
+  ],
+  "tags": [
+    "key assignments",
+    "Office of Security",
+    "personnel changes",
+    "Technical Division",
+    "Far East Regional Security Staff",
+    "Investigations Division",
+    "promotions"
+  ]
 }

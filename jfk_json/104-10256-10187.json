@@ -1,22 +1,24 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memorandum / Speed Letter",
-  "security_level": "CONFIDENTIAL / SECRET",
-  "summary": "This document pertains to the review of Harold F. Swenson's file in connection with the presentation of a Retirement Medallion and a request for cover considerations.",
-  "tags": [
-    "Retirement",
-    "Medallion",
-    "Cover Considerations",
-    "Employee Activity"
-  ],
   "title": "SWENSON, Harold F.",
+  "title_ja": "スウェンソン、ハロルド F.",
+  "summary": "This document pertains to the review of Harold F. Swenson's file in connection with the presentation of a Retirement Medallion and a request for cover considerations.",
+  "summary_ja": "この文書は、退職メダルの授与と配慮の要請に関連してハロルド・F・スウェンソンのファイルを審査することに関するものである。",
+  "document_type": "Memorandum / Speed Letter",
+  "classification": "Personnel",
+  "security_level": "CONFIDENTIAL / SECRET",
   "date": "1967-12-18",
+  "sender": "Laurence G. Parr, Chief, Employee Activity Branch",
+  "recipient": "Chief, Central Cover Staff",
   "persons_mentioned": [
     "Harold F. Swenson",
     "Laurence G. Parr",
     "James W. Franklin",
     "R.C. Blaker"
   ],
-  "recipient": "Chief, Central Cover Staff",
-  "sender": "Laurence G. Parr, Chief, Employee Activity Branch"
+  "tags": [
+    "Retirement",
+    "Medallion",
+    "Cover Considerations",
+    "Employee Activity"
+  ]
 }

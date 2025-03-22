@@ -1,8 +1,16 @@
 {
-  "classification": "Administrative",
-  "document_type": "Manual",
-  "security_level": "SECRET",
+  "title": "The 201 System - Annex B",
+  "title_ja": "201システム - 附属書B",
   "summary": "This document describes the 201 system, a method for identifying and controlling information about persons of specific interest to the Operations Directorate. It covers the 201 number, dossier, master record, OI codes, machine lists, opening and maintaining dossiers, restrictions, information requests, and dossier cancellation.",
+  "summary_ja": "この文書では、201システムについて説明しており、これは作戦局が特定の関心を持つ人物に関する情報の識別と管理を行うための方法である。201番号、書類、マスターレコード、OIコード、機械リスト、書類の開設と維持、制限、情報請求、書類の破棄について記載している。",
+  "document_type": "Manual",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1974-11-15",
+  "origin_agency": "DDO",
+  "sender": "DDO/RMO",
+  "recipient": "DDO Components",
+  "persons_mentioned": [],
   "tags": [
     "201 system",
     "Operations Directorate",
@@ -10,11 +18,5 @@
     "OI codes",
     "dossier management",
     "intelligence"
-  ],
-  "title": "The 201 System - Annex B",
-  "date": "1974-11-15",
-  "origin_agency": "DDO",
-  "persons_mentioned": [],
-  "recipient": "DDO Components",
-  "sender": "DDO/RMO"
+  ]
 }

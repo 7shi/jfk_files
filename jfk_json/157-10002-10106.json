@@ -1,8 +1,30 @@
 {
-  "classification": "Cuba",
-  "document_type": "Transcript",
-  "security_level": "SECRET",
+  "title": "TESTIMONY OF WILLIAM K. HARVEY",
+  "title_ja": "ウィリアム・K・ハーヴェイの証言",
   "summary": "Testimony of William K. Harvey concerning Operation Mongoose, Johnny Rosselli, Castro assassination attempts, poison pills, Cuba, John McCone, CIA, Richard Bissell, White House, Mafia, Dan Rowan, and Sam Giancana.",
+  "summary_ja": "ウィリアム・K・ハーヴェイによる、モンゴース作戦、ジョニー・ロセッリ、カストロ暗殺未遂、ポイズン・ピル、キューバ、ジョン・マッコン、CIA、リチャード・ビッセル、ホワイトハウス、マフィア、ダン・ローワン、サム・ジャンカーナに関する証言。",
+  "document_type": "Transcript",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1975-06-25",
+  "origin_agency": "SSCIA",
+  "sender": "SSCIA",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "William K. Harvey",
+    "Johnny Rosselli",
+    "Castro",
+    "John McCone",
+    "Richard Bissell",
+    "Sam Giancana",
+    "Dan Rowan",
+    "QJWIN"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "United States",
+    "Europe"
+  ],
   "tags": [
     "Operation Mongoose",
     "Rosselli, Johnny",
@@ -19,25 +41,5 @@
     "Giancana, Sam",
     "Project ZRRIFLE",
     "QJWIN"
-  ],
-  "title": "TESTIMONY OF WILLIAM K. HARVEY",
-  "date": "1975-06-25",
-  "locations_mentioned": [
-    "Cuba",
-    "United States",
-    "Europe"
-  ],
-  "origin_agency": "SSCIA",
-  "persons_mentioned": [
-    "William K. Harvey",
-    "Johnny Rosselli",
-    "Castro",
-    "John McCone",
-    "Richard Bissell",
-    "Sam Giancana",
-    "Dan Rowan",
-    "QJWIN"
-  ],
-  "recipient": "N/A",
-  "sender": "SSCIA"
+  ]
 }

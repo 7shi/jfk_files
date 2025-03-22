@@ -1,8 +1,29 @@
 {
-  "classification": "Administrative",
-  "document_type": "Dispatch/Memorandum",
-  "security_level": "SECRET",
+  "title": "GENERAL- Administrative, SPECIFIC- Arthur G. VAIVADA",
+  "title_ja": "一般 - 管理、特定 - アーサー・G・ヴァイヴァダ",
   "summary": "This document discusses Arthur G. Vaivada's request for reassignment from Habana in June 1958, including his interest in being assigned to Spain under unofficial cover and the Station's recommendation for his reassignment.",
+  "summary_ja": "この文書では、1958年6月にハバナからスペインへの非公式な配属を希望したアーサー・G・ヴァイヴァダの異動要請について、および局による異動推薦について述べている。",
+  "document_type": "Dispatch/Memorandum",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1957-11-07",
+  "origin_agency": "Chief of Station, Habana",
+  "sender": "Chief of Station, Habana",
+  "recipient": "Chief, WHD",
+  "persons_mentioned": [
+    "Arthur G. Vaivada",
+    "James R. Palinger"
+  ],
+  "locations_mentioned": [
+    "Habana",
+    "Cuba",
+    "Spain",
+    "Argentina",
+    "Chile",
+    "South American republics",
+    "Central America",
+    "Caribbean"
+  ],
   "tags": [
     "reassignment",
     "Arthur G. Vaivada",
@@ -16,24 +37,5 @@
     "cover status",
     "Pan American Foundation Scholarship",
     "Public Surveys Institute"
-  ],
-  "title": "GENERAL- Administrative, SPECIFIC- Arthur G. VAIVADA",
-  "date": "1957-11-07",
-  "locations_mentioned": [
-    "Habana",
-    "Cuba",
-    "Spain",
-    "Argentina",
-    "Chile",
-    "South American republics",
-    "Central America",
-    "Caribbean"
-  ],
-  "origin_agency": "Chief of Station, Habana",
-  "persons_mentioned": [
-    "Arthur G. Vaivada",
-    "James R. Palinger"
-  ],
-  "recipient": "Chief, WHD",
-  "sender": "Chief of Station, Habana"
+  ]
 }

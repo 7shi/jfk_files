@@ -1,8 +1,25 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Radio Switch Equipment for Demolition Firing Purposes",
+  "title_ja": "爆破発射目的の無線切替装置",
   "summary": "This memorandum discusses radio switch equipment for demolition firing purposes, recommending companies like Motorola and Kell for reliable equipment. It also mentions the use of VHF/UHF frequencies and crystal tuning control for reliability. Inexpensive equipment from Japanese or American manufacturers is also mentioned for short range communications.",
+  "summary_ja": "この覚書では、爆破発射用の無線切替装置について論じ、信頼性の高い装置としてモトローラやケルのような企業を推奨している。また、信頼性を高めるためにVHF/UHF周波数とクリスタルチューニング制御を使用することにも言及している。短距離通信については、日本や米国のメーカーによる安価な装置についても言及している。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
+  "date": "1964-01-03",
+  "origin_agency": "CIA",
+  "sender": "AUSTIN M. JONES, C/TSD/CAB/SD",
+  "recipient": "Chief, Special Affairs Staff",
+  "persons_mentioned": [
+    "A. Rodriquez",
+    "Jay Alpern",
+    "Lee Poole",
+    "Austin M. Jones"
+  ],
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Cambridge, Massachusetts"
+  ],
   "tags": [
     "radio switch",
     "demolition",
@@ -23,20 +40,5 @@
     "receiver",
     "explosive",
     "incendiary"
-  ],
-  "title": "Radio Switch Equipment for Demolition Firing Purposes",
-  "date": "1964-01-03",
-  "locations_mentioned": [
-    "Chicago, Illinois",
-    "Cambridge, Massachusetts"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "A. Rodriquez",
-    "Jay Alpern",
-    "Lee Poole",
-    "Austin M. Jones"
-  ],
-  "recipient": "Chief, Special Affairs Staff",
-  "sender": "AUSTIN M. JONES, C/TSD/CAB/SD"
+  ]
 }

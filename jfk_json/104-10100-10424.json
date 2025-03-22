@@ -1,8 +1,22 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Frank Pilgrin, Manchester Guardian, Cuban Anniversary Celebrations",
+  "title_ja": "フランク・ピルリン、マンチェスター・ガーディアン、キューバ記念日祝賀会",
   "summary": "Journalist Frank Pilgrin of the Manchester Guardian plans to attend Cuban anniversary celebrations. PLAFS to leave Cuba first week of January via Cubana to Mexico. EMOTH has requested KUBARK not attempt contact. KUBARK will receive debriefing results, if any, from SEOTH.",
+  "summary_ja": "マンチェスター・ガーディアンのジャーナリスト、フランク・ピルグリンは、キューバの記念式典に出席する予定である。PLAFSは1月初旬にキューバを離れ、クバーナ航空でメキシコに向かう予定である。EMOTHはKUBARKに接触を試みないよう要請した。KUBARKはSEOTHから報告結果を受け取る予定である。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-01-01",
+  "origin_agency": "SBC",
+  "sender": "EMOTH",
+  "recipient": "KUBARK",
+  "persons_mentioned": [
+    "Frank Pilgrin"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico"
+  ],
   "tags": [
     "Journalist",
     "Cuban Anniversary",
@@ -12,17 +26,5 @@
     "KUBARK",
     "SEOTH",
     "Debriefing"
-  ],
-  "title": "Frank Pilgrin, Manchester Guardian, Cuban Anniversary Celebrations",
-  "date": "1963-01-01",
-  "locations_mentioned": [
-    "Cuba",
-    "Mexico"
-  ],
-  "origin_agency": "SBC",
-  "persons_mentioned": [
-    "Frank Pilgrin"
-  ],
-  "recipient": "KUBARK",
-  "sender": "EMOTH"
+  ]
 }

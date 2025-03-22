@@ -1,27 +1,29 @@
 {
-  "classification": "Commission",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "Jack RUBENSTEIN",
+  "title_ja": "ジャック・ルーベンスタイン",
   "summary": "Memo regarding Jack Rubenstein's travel to Israel in 1962.",
+  "summary_ja": "1962年のジャック・ルーベンスタインのイスラエル訪問に関する覚書。",
+  "document_type": "Memo",
+  "classification": "Commission",
+  "security_level": "UNCLASSIFIED",
+  "date": "1963-12-02",
+  "origin_agency": "starostl",
+  "sender": "Jul Lore",
+  "recipient": "J.",
+  "persons_mentioned": [
+    "Jack RUBENSTEIN",
+    "Mimi"
+  ],
+  "locations_mentioned": [
+    "ISRAEL",
+    "POLAND",
+    "NEW-YORK"
+  ],
   "tags": [
     "Jack Rubenstein",
     "Israel",
     "Travel",
     "1962",
     "Mimi"
-  ],
-  "title": "Jack RUBENSTEIN",
-  "date": "1963-12-02",
-  "locations_mentioned": [
-    "ISRAEL",
-    "POLAND",
-    "NEW-YORK"
-  ],
-  "origin_agency": "starostl",
-  "persons_mentioned": [
-    "Jack RUBENSTEIN",
-    "Mimi"
-  ],
-  "recipient": "J.",
-  "sender": "Jul Lore"
+  ]
 }

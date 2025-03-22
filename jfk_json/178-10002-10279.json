@@ -1,8 +1,40 @@
 {
-  "classification": "Cuba",
-  "document_type": "Deposition",
-  "security_level": "Secret",
+  "title": "Deposition of William Sturbitts",
+  "title_ja": "ウィリアム・スタービッツの宣誓供述",
   "summary": "This document contains the deposition of William C. Sturbitts taken on April 16, 1975, regarding anti-Castro activities, CIA operations, and the alleged assassination attempts against Fidel Castro.",
+  "summary_ja": "この文書には、反カストロ活動、CIAの活動、およびフィデル・カストロ暗殺未遂疑惑に関する1975年4月16日に行われたウィリアム・C・スタービッツの証言が含まれている。",
+  "document_type": "Deposition",
+  "classification": "Cuba",
+  "security_level": "Secret",
+  "date": "1975-04-16",
+  "origin_agency": "Rockefeller Commission",
+  "sender": "Rockefeller Commission",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "William C. Sturbitts",
+    "Desmond Fitzgerald",
+    "Robert Kennedy",
+    "Fidel Castro",
+    "Ted Shackley",
+    "Paul Henze",
+    "Jake Esterline",
+    "Bill Harvey",
+    "Nestor Sanchez",
+    "Frank Sturgis",
+    "Eugenio Martinez",
+    "John Dimmer"
+  ],
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Langley, Virginia",
+    "Miami",
+    "Europe",
+    "Cuba",
+    "Paris",
+    "Rome",
+    "Coral Gables",
+    "Key West"
+  ],
   "tags": [
     "Anti-Castro Activities",
     "CIA",
@@ -18,35 +50,5 @@
     "Fidel Castro",
     "Frank Sturgis",
     "Eugenio Martinez"
-  ],
-  "title": "Deposition of William Sturbitts",
-  "date": "1975-04-16",
-  "locations_mentioned": [
-    "Washington, D.C.",
-    "Langley, Virginia",
-    "Miami",
-    "Europe",
-    "Cuba",
-    "Paris",
-    "Rome",
-    "Coral Gables",
-    "Key West"
-  ],
-  "origin_agency": "Rockefeller Commission",
-  "persons_mentioned": [
-    "William C. Sturbitts",
-    "Desmond Fitzgerald",
-    "Robert Kennedy",
-    "Fidel Castro",
-    "Ted Shackley",
-    "Paul Henze",
-    "Jake Esterline",
-    "Bill Harvey",
-    "Nestor Sanchez",
-    "Frank Sturgis",
-    "Eugenio Martinez",
-    "John Dimmer"
-  ],
-  "recipient": "N/A",
-  "sender": "Rockefeller Commission"
+  ]
 }

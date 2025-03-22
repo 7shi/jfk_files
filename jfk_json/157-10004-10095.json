@@ -1,25 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "Unclassified",
-  "summary": "FBI report regarding an alleged Cuban plan to assassinate the President of Panama in order to create additional uprisings in that country. The information was provided by Orlando Piedra, formerly connected with Federal Police in Cuba.",
-  "tags": [
-    "Cuban Plot",
-    "Assassination",
-    "President of Panama",
-    "Orlando Piedra",
-    "Uprisings",
-    "Bolivar Ballarino",
-    "National Guard of Panama"
-  ],
   "title": "ALLEGED CUBAN PLAN TO ASSASSINATE PRESIDENT OF PANAMA",
+  "title_ja": "パナマ大統領暗殺に関するキューバの計画疑惑",
+  "summary": "FBI report regarding an alleged Cuban plan to assassinate the President of Panama in order to create additional uprisings in that country. The information was provided by Orlando Piedra, formerly connected with Federal Police in Cuba.",
+  "summary_ja": "キューバがパナマ大統領を暗殺し、同国でさらなる暴動を起こそうと計画したとされる事件に関するFBIの報告書。この情報は、かつてキューバ連邦警察と関係のあったオルランド・ピエドラから提供された。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "Unclassified",
   "date": "1964-03-17",
-  "locations_mentioned": [
-    "Cuba",
-    "Panama",
-    "New Orleans, Louisiana"
-  ],
   "origin_agency": "FBI",
+  "sender": "FBI New Orleans",
+  "recipient": "State Department; Central Intelligence Agency; Department of the Army; Department of the Air Force; Department of the Navy",
   "persons_mentioned": [
     "Orlando Piedra",
     "Fidel Castro",
@@ -32,6 +22,18 @@
     "Don Gorham",
     "G. A. Day"
   ],
-  "recipient": "State Department; Central Intelligence Agency; Department of the Army; Department of the Air Force; Department of the Navy",
-  "sender": "FBI New Orleans"
+  "locations_mentioned": [
+    "Cuba",
+    "Panama",
+    "New Orleans, Louisiana"
+  ],
+  "tags": [
+    "Cuban Plot",
+    "Assassination",
+    "President of Panama",
+    "Orlando Piedra",
+    "Uprisings",
+    "Bolivar Ballarino",
+    "National Guard of Panama"
+  ]
 }

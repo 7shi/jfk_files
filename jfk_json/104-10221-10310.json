@@ -1,26 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch reports on JMWAVE's relationship with AMCARDON-1, including operational support, intelligence, and propaganda activities.",
-  "tags": [
-    "JMWAVE",
-    "AMCARDON-1",
-    "Propaganda",
-    "Operational Intelligence",
-    "Media Relations"
-  ],
   "title": "TYPIC/OPERATIONAL Special Activities Report on JMWAVE's Relationship with AMCARDON-1",
+  "title_ja": "TYPIC/OPERATIONAL JMWAVEとAMCARDON-1の関係に関する特別活動報告書",
+  "summary": "This dispatch reports on JMWAVE's relationship with AMCARDON-1, including operational support, intelligence, and propaganda activities.",
+  "summary_ja": "この報告は、JMWAVEとAMCARDON-1の関係について、運用支援、諜報活動、宣伝活動を含めて報告する。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1964-03-19",
-  "locations_mentioned": [
-    "South Florida",
-    "Miami",
-    "Cuba",
-    "Uruguay",
-    "Peru",
-    "Chile"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, Special Affairs Staff",
+  "recipient": "Chief of Station, JMWAVE",
   "persons_mentioned": [
     "Andrew K. REUTEMAN",
     "DUDLEY R. WILLINGS",
@@ -45,6 +34,19 @@
     "Armando Andres GUIROLA Forte",
     "Charles GRIFFIN"
   ],
-  "recipient": "Chief of Station, JMWAVE",
-  "sender": "Chief, Special Affairs Staff"
+  "locations_mentioned": [
+    "South Florida",
+    "Miami",
+    "Cuba",
+    "Uruguay",
+    "Peru",
+    "Chile"
+  ],
+  "tags": [
+    "JMWAVE",
+    "AMCARDON-1",
+    "Propaganda",
+    "Operational Intelligence",
+    "Media Relations"
+  ]
 }

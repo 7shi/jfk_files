@@ -1,36 +1,15 @@
 {
-  "classification": "Oswald",
-  "document_type": "Letter",
-  "security_level": "CONFIDENTIAL",
-  "summary": "Correspondence from Sergyj Czornonoh regarding information he claims to have provided about Lee Harvey Oswald to the American Vice Consul in Sofia, Bulgaria, in August 1963. He also details his experiences in London and claims of harassment by the FBI and other agencies.",
-  "tags": [
-    "Lee Harvey Oswald",
-    "Sergyj Czornonoh",
-    "Sofia",
-    "Bulgaria",
-    "London",
-    "FBI",
-    "Assassination",
-    "John F. Kennedy",
-    "British Embassy"
-  ],
   "title": "Correspondence regarding Sergyj Czornonoh's claims about Lee Harvey Oswald",
+  "title_ja": "セルギー・チュルノノフによるリー・ハーヴェイ・オズワルドに関する主張に関する書簡",
+  "summary": "Correspondence from Sergyj Czornonoh regarding information he claims to have provided about Lee Harvey Oswald to the American Vice Consul in Sofia, Bulgaria, in August 1963. He also details his experiences in London and claims of harassment by the FBI and other agencies.",
+  "summary_ja": "セルゲイ・チョルノノフから、1963年8月にブルガリアのソフィアで、リー・ハーヴェイ・オズワルドに関する情報を米国副領事に提供したと主張する内容の通信。また、ロンドンでの経験や、FBIやその他の機関による嫌がらせの主張についても詳細に述べている。",
+  "document_type": "Letter",
+  "classification": "Oswald",
+  "security_level": "CONFIDENTIAL",
   "date": "1978-03-30",
-  "locations_mentioned": [
-    "Sofia",
-    "Bulgaria",
-    "London",
-    "England",
-    "Vienna",
-    "Austria",
-    "Sacramento",
-    "California",
-    "Washington, D.C.",
-    "Dallas",
-    "Texas",
-    "Maryland"
-  ],
   "origin_agency": "CIA",
+  "sender": "DH Jones for GML Blackburne-Kane",
+  "recipient": "British Embassy",
   "persons_mentioned": [
     "Lee Harvey Oswald",
     "John F. Kennedy",
@@ -47,6 +26,29 @@
     "Wasilev",
     "Besera Asenova"
   ],
-  "recipient": "British Embassy",
-  "sender": "DH Jones for GML Blackburne-Kane"
+  "locations_mentioned": [
+    "Sofia",
+    "Bulgaria",
+    "London",
+    "England",
+    "Vienna",
+    "Austria",
+    "Sacramento",
+    "California",
+    "Washington, D.C.",
+    "Dallas",
+    "Texas",
+    "Maryland"
+  ],
+  "tags": [
+    "Lee Harvey Oswald",
+    "Sergyj Czornonoh",
+    "Sofia",
+    "Bulgaria",
+    "London",
+    "FBI",
+    "Assassination",
+    "John F. Kennedy",
+    "British Embassy"
+  ]
 }

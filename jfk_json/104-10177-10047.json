@@ -1,24 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses Joaquin Mirabal, his background, connections, and activities. It also mentions Mrs. Albert Recio and NENICA GARCIA PA as informants.",
-  "tags": [
-    "Joaquin Mirabal",
-    "smuggling",
-    "informant",
-    "Cuba",
-    "LICRAFT"
-  ],
   "title": "DIR CITE MEXI 2126",
+  "title_ja": "DIR CITE MEXI 2126",
+  "summary": "This cable discusses Joaquin Mirabal, his background, connections, and activities. It also mentions Mrs. Albert Recio and NENICA GARCIA PA as informants.",
+  "summary_ja": "この電報では、ホアキン・ミラバルの経歴、人脈、活動について述べている。また、アルバート・レシオ夫人とネニカ・ガルシア・パについても情報提供者として言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1965-05-16",
-  "locations_mentioned": [
-    "MEXICO CITY",
-    "HABANA",
-    "CUBA",
-    "GARY, INDIANA"
-  ],
   "origin_agency": "WH/SA",
+  "sender": "C/1P3",
+  "recipient": "DDP, WH",
   "persons_mentioned": [
     "Joaquin Mirabal",
     "Ramirc Valdes",
@@ -28,6 +19,17 @@
     "NENICA GARCIA PA",
     "GUSTAVO"
   ],
-  "recipient": "DDP, WH",
-  "sender": "C/1P3"
+  "locations_mentioned": [
+    "MEXICO CITY",
+    "HABANA",
+    "CUBA",
+    "GARY, INDIANA"
+  ],
+  "tags": [
+    "Joaquin Mirabal",
+    "smuggling",
+    "informant",
+    "Cuba",
+    "LICRAFT"
+  ]
 }

@@ -1,8 +1,29 @@
 {
-  "classification": "Cuba",
-  "document_type": "AIRTEL",
-  "security_level": "Secret",
+  "title": "MISCELLANEOUS INFORMATION CONCERNING ASSASSINATION OF PRESIDENT JOHN FITZGERALD KENNEDY",
+  "title_ja": "ジョン・フィッツジェラルド・ケネディ大統領暗殺に関するその他の情報",
   "summary": "This document contains information from a source on the Cuban Embassy in London regarding a conversation about the assassination of President Kennedy. The conversation mentions a possible connection to a person named FOSTER who may have applied for a visa to Cuba.",
+  "summary_ja": "この文書は、ロンドンのキューバ大使館の情報源から得た、ケネディ大統領暗殺に関する会話についての情報を含む。その会話では、キューバへのビザを申請した可能性のあるフォスターという人物との関連が示唆されている。",
+  "document_type": "AIRTEL",
+  "classification": "Cuba",
+  "security_level": "Secret",
+  "date": "1964-06-26",
+  "origin_agency": "FBI",
+  "sender": "LEGAT, LONDON",
+  "recipient": "DIRECTOR, FBI",
+  "persons_mentioned": [
+    "John Fitzgerald Kennedy",
+    "Mario Riva Patterson",
+    "R. E. Carter",
+    "FOSTER",
+    "OSWALD"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "London",
+    "Dallas",
+    "Texas",
+    "Tampico"
+  ],
   "tags": [
     "Assassination",
     "John F. Kennedy",
@@ -17,24 +38,5 @@
     "British Security Service",
     "British Secret Intelligence Service",
     "CIA"
-  ],
-  "title": "MISCELLANEOUS INFORMATION CONCERNING ASSASSINATION OF PRESIDENT JOHN FITZGERALD KENNEDY",
-  "date": "1964-06-26",
-  "locations_mentioned": [
-    "Cuba",
-    "London",
-    "Dallas",
-    "Texas",
-    "Tampico"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "John Fitzgerald Kennedy",
-    "Mario Riva Patterson",
-    "R. E. Carter",
-    "FOSTER",
-    "OSWALD"
-  ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "LEGAT, LONDON"
+  ]
 }

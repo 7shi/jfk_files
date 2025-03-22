@@ -1,38 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
-  "summary": "This document contains a report from a Colombian investigator regarding illicit armament traffic in Costa Rica in 1950. The report details the involvement of American citizens and Communist elements in the arms trade and suggests measures to improve Costa Rica's detective capabilities.",
-  "tags": [
-    "Illicit Armament Traffic",
-    "Costa Rica",
-    "Colombia",
-    "Arms Trade",
-    "Communism",
-    "Richard Rown",
-    "Charles Lufborrow",
-    "Arturo Botero",
-    "Carlos Valdes Gonzalez",
-    "Jose Figueres",
-    "Legion Caribe"
-  ],
   "title": "Colombian Police Report on Clandestine Arms Traffic in Costa Rica",
+  "title_ja": "コスタリカにおける秘密武器取引に関するコロンビア警察報告書",
+  "summary": "This document contains a report from a Colombian investigator regarding illicit armament traffic in Costa Rica in 1950. The report details the involvement of American citizens and Communist elements in the arms trade and suggests measures to improve Costa Rica's detective capabilities.",
+  "summary_ja": "この文書には、1950年のコスタリカにおける違法な武器密輸に関するコロンビアの調査官からの報告書が含まれている。この報告書は、武器取引におけるアメリカ市民と共産主義者の関与について詳細に述べ、コスタリカの捜査能力を向上させるための対策を提案している。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1950-09-11",
-  "locations_mentioned": [
-    "Costa Rica",
-    "Bogotá",
-    "Golfito",
-    "Puerto Limon",
-    "Panama",
-    "Palmar",
-    "Piedras Blancas",
-    "Sierpe",
-    "La Lucha",
-    "Mexico",
-    "Guatemala",
-    "Venezuela"
-  ],
   "origin_agency": "Colombian National Chief of Detectives",
+  "sender": "Colombian National Chief of Detectives",
+  "recipient": "STATE",
   "persons_mentioned": [
     "Carlos RODRIGUEZ Teller",
     "Arturo Botero",
@@ -48,6 +25,31 @@
     "Manuel Angel Rafres",
     "Fidel Castro"
   ],
-  "recipient": "STATE",
-  "sender": "Colombian National Chief of Detectives"
+  "locations_mentioned": [
+    "Costa Rica",
+    "Bogotá",
+    "Golfito",
+    "Puerto Limon",
+    "Panama",
+    "Palmar",
+    "Piedras Blancas",
+    "Sierpe",
+    "La Lucha",
+    "Mexico",
+    "Guatemala",
+    "Venezuela"
+  ],
+  "tags": [
+    "Illicit Armament Traffic",
+    "Costa Rica",
+    "Colombia",
+    "Arms Trade",
+    "Communism",
+    "Richard Rown",
+    "Charles Lufborrow",
+    "Arturo Botero",
+    "Carlos Valdes Gonzalez",
+    "Jose Figueres",
+    "Legion Caribe"
+  ]
 }

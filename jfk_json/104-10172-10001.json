@@ -1,35 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Report",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This document reports on gold smuggling activities involving a B-26 airplane and its crew in Panama during May-July 1950. It details the plane's movements, the individuals involved, and the suspicions surrounding the cargo. The report also mentions the dismissal of the head of Tocumen Airport and the potential involvement of President ARIAS's nephew.",
-  "tags": [
-    "Gold Smuggling",
-    "Panama",
-    "B-26 Airplane",
-    "Tocumen Airport",
-    "Steve Murray",
-    "Arias Government",
-    "Caribbean Legion"
-  ],
   "title": "Gold Shipments Report",
+  "title_ja": "金貨出荷報告",
+  "summary": "This document reports on gold smuggling activities involving a B-26 airplane and its crew in Panama during May-July 1950. It details the plane's movements, the individuals involved, and the suspicions surrounding the cargo. The report also mentions the dismissal of the head of Tocumen Airport and the potential involvement of President ARIAS's nephew.",
+  "summary_ja": "この文書は、1950年5月から7月にかけてパナマで発生したB-26機とその乗組員による金塊密輸事件について報告している。この文書は、当該機の移動、関係者、積荷に対する疑念について詳細に述べている。また、トクメン空港の責任者が解任されたこと、およびアリアス大統領の甥が関与している可能性についても言及している。",
+  "document_type": "Report",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
   "date": "1950-07-10",
-  "locations_mentioned": [
-    "Panama City, Panama",
-    "David, Panama",
-    "Brownsville, Texas",
-    "Tocumen Airport",
-    "Havana",
-    "Phillipines",
-    "Far East",
-    "Panama Canal",
-    "Albrook Field",
-    "Mexico City",
-    "Managua",
-    "Buenos Aires",
-    "Montevideo"
-  ],
   "origin_agency": "G-2",
+  "sender": "Howard H. Antell",
+  "recipient": "Wash, Nord, Kana, Files",
   "persons_mentioned": [
     "Howard H. Antell",
     "John F. Kennedy",
@@ -52,6 +32,28 @@
     "Cristobal Martinez",
     "Fernandez"
   ],
-  "recipient": "Wash, Nord, Kana, Files",
-  "sender": "Howard H. Antell"
+  "locations_mentioned": [
+    "Panama City, Panama",
+    "David, Panama",
+    "Brownsville, Texas",
+    "Tocumen Airport",
+    "Havana",
+    "Phillipines",
+    "Far East",
+    "Panama Canal",
+    "Albrook Field",
+    "Mexico City",
+    "Managua",
+    "Buenos Aires",
+    "Montevideo"
+  ],
+  "tags": [
+    "Gold Smuggling",
+    "Panama",
+    "B-26 Airplane",
+    "Tocumen Airport",
+    "Steve Murray",
+    "Arias Government",
+    "Caribbean Legion"
+  ]
 }

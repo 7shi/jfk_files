@@ -1,26 +1,28 @@
 {
-  "classification": "Personnel",
-  "document_type": "Personnel Transfer Request",
-  "security_level": "SECRET",
+  "title": "Request for Personnel Action - Joseph S. Cecolo",
+  "title_ja": "人事措置依頼書 - ジョセフ・S・チェコロ",
   "summary": "Request for lateral transfer of Joseph S. Cecolo to Mexico City and then Managua, Nicaragua as an Operations Officer.",
+  "summary_ja": "ジョセフ・S・セコロをメキシコシティに、その後ニカラグアのマナグアにオペレーション・オフィサーとして横滑り異動させるよう依頼する。",
+  "document_type": "Personnel Transfer Request",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1967-12-20",
+  "origin_agency": "DDP/WH/1",
+  "sender": "John F. Conroy",
+  "recipient": "Overseas Candidate Review Panel",
+  "persons_mentioned": [
+    "Cecolo, Joseph S.",
+    "John F. Conroy"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Managua, Nicaragua"
+  ],
   "tags": [
     "personnel transfer",
     "Mexico City",
     "Managua",
     "operations officer",
     "Joseph S. Cecolo"
-  ],
-  "title": "Request for Personnel Action - Joseph S. Cecolo",
-  "date": "1967-12-20",
-  "locations_mentioned": [
-    "Mexico City",
-    "Managua, Nicaragua"
-  ],
-  "origin_agency": "DDP/WH/1",
-  "persons_mentioned": [
-    "Cecolo, Joseph S.",
-    "John F. Conroy"
-  ],
-  "recipient": "Overseas Candidate Review Panel",
-  "sender": "John F. Conroy"
+  ]
 }

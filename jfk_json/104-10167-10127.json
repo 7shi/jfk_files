@@ -1,30 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "Report of Contact with DCHAR on 13 August 1957, discussing fund-raising efforts, potential contacts with Julio Lobo, establishment of a propaganda program, and information on Soviet presence and Communist activities within the Cuban armed forces.",
-  "tags": [
-    "DCHAR",
-    "funds",
-    "propaganda",
-    "Soviet",
-    "communists",
-    "Cuban armed forces",
-    "Julio Lobo",
-    "radio",
-    "Douglas Root",
-    "Raul Castro",
-    "Fidel Castro"
-  ],
   "title": "Report of Contact with DCHAR on 13 August 1957",
+  "title_ja": "1957年8月13日のDCHARとの接触に関する報告書",
+  "summary": "Report of Contact with DCHAR on 13 August 1957, discussing fund-raising efforts, potential contacts with Julio Lobo, establishment of a propaganda program, and information on Soviet presence and Communist activities within the Cuban armed forces.",
+  "summary_ja": "1957年8月13日、DCARとの接触に関する報告書。資金調達活動、フリオ・ロボとの接触の可能性、宣伝プログラムの確立、キューバ軍内のソ連の存在と共産主義活動に関する情報について議論している。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1957-08-15",
-  "locations_mentioned": [
-    "Cuba",
-    "Santiago de Cuba",
-    "Havana",
-    "Miami"
-  ],
   "origin_agency": "CIA",
+  "sender": "KU (KARINZY)",
+  "recipient": "Tier, Diven",
   "persons_mentioned": [
     "DCHAR",
     "Julio Lobo",
@@ -39,6 +24,23 @@
     "Frank Ficret",
     "Patrick I. Hamley"
   ],
-  "recipient": "Tier, Diven",
-  "sender": "KU (KARINZY)"
+  "locations_mentioned": [
+    "Cuba",
+    "Santiago de Cuba",
+    "Havana",
+    "Miami"
+  ],
+  "tags": [
+    "DCHAR",
+    "funds",
+    "propaganda",
+    "Soviet",
+    "communists",
+    "Cuban armed forces",
+    "Julio Lobo",
+    "radio",
+    "Douglas Root",
+    "Raul Castro",
+    "Fidel Castro"
+  ]
 }

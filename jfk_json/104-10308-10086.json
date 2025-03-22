@@ -1,8 +1,35 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "Report on Activities of AMWORLD",
+  "title_ja": "AMWORLDの活動に関する報告書",
   "summary": "This dispatch reports on the activities of AMWORLD in mid-July 1964, detailing information obtained from former members IDEN A and IDEN B. It covers topics such as commando instruction, intelligence operations, naval activities, operational briefings, AMBIDDY/1's activities, recreational houses, engineering, and a planned assassination mission.",
+  "summary_ja": "この報告書は、1964年7月中旬におけるAMWORLDの活動を報告し、元メンバーのIDEN AおよびIDEN Bから得た情報を詳細に記載している。内容は、コマンドーの訓練、諜報活動、海軍の活動、作戦ブリーフィング、AMBIDDY/1の活動、娯楽施設、エンジニアリング、計画された暗殺ミッションなどである。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1964-09-03",
+  "origin_agency": "CIA",
+  "sender": "Deputy Chief, WH/SA",
+  "recipient": "Chief of Station, JMWAVE",
+  "persons_mentioned": [
+    "Humberto CASAS",
+    "Tulio LEISECA",
+    "FNU ACEBO",
+    "Reynaldo GARCIA",
+    "Chino MOLE",
+    "Manoline GUTIERREZ",
+    "Ricardo \"The Mexican\"",
+    "Generoso BRINGA",
+    "Guayo HERNANDEZ",
+    "Marco ULLOA",
+    "Juan Jose ABREU",
+    "Andrew K. Reuteman"
+  ],
+  "locations_mentioned": [
+    "Puerto CABEZAS",
+    "Nicaragua",
+    "Dominican Republic",
+    "Central America"
+  ],
   "tags": [
     "AMWORLD",
     "Commando",
@@ -18,30 +45,5 @@
     "Guerrilla",
     "Assassination",
     "AMTHUG/1"
-  ],
-  "title": "Report on Activities of AMWORLD",
-  "date": "1964-09-03",
-  "locations_mentioned": [
-    "Puerto CABEZAS",
-    "Nicaragua",
-    "Dominican Republic",
-    "Central America"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Humberto CASAS",
-    "Tulio LEISECA",
-    "FNU ACEBO",
-    "Reynaldo GARCIA",
-    "Chino MOLE",
-    "Manoline GUTIERREZ",
-    "Ricardo \"The Mexican\"",
-    "Generoso BRINGA",
-    "Guayo HERNANDEZ",
-    "Marco ULLOA",
-    "Juan Jose ABREU",
-    "Andrew K. Reuteman"
-  ],
-  "recipient": "Chief of Station, JMWAVE",
-  "sender": "Deputy Chief, WH/SA"
+  ]
 }

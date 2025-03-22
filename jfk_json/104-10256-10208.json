@@ -1,8 +1,24 @@
 {
-  "classification": "Personnel",
-  "document_type": "Dispatch and Routing Sheet",
-  "security_level": "SECRET",
+  "title": "DYVOUR/ADMIN/PERSONNEL James B. Wilcott Jr. Debriefing of - Resignation in field",
+  "title_ja": "ダイバー/管理/人事 ジェームズ B. ウィルコット・ジュニア 現地での辞任に関する報告",
   "summary": "This document details the debriefing and resignation of James B. Wilcott Jr. from KUBARK, including his employment history and instructions for future employment inquiries.",
+  "summary_ja": "この文書は、KUBARKのジェームズ・B・ウィルコット・ジュニアの任務報告と辞任についての詳細であり、彼の雇用履歴と今後の雇用照会に関する指示を含む。",
+  "document_type": "Dispatch and Routing Sheet",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1966-05-05",
+  "origin_agency": "JMWAVE",
+  "sender": "Chief of Station, JMWAVE",
+  "recipient": "Chief, WH",
+  "persons_mentioned": [
+    "James B. Wilcott Jr.",
+    "Philip G. ELMARD"
+  ],
+  "locations_mentioned": [
+    "Tokyo, Japan",
+    "Washington, D.C.",
+    "Miami, Florida"
+  ],
   "tags": [
     "resignation",
     "debriefing",
@@ -11,19 +27,5 @@
     "JMWAVE",
     "ODYOKE",
     "cover employment"
-  ],
-  "title": "DYVOUR/ADMIN/PERSONNEL James B. Wilcott Jr. Debriefing of - Resignation in field",
-  "date": "1966-05-05",
-  "locations_mentioned": [
-    "Tokyo, Japan",
-    "Washington, D.C.",
-    "Miami, Florida"
-  ],
-  "origin_agency": "JMWAVE",
-  "persons_mentioned": [
-    "James B. Wilcott Jr.",
-    "Philip G. ELMARD"
-  ],
-  "recipient": "Chief, WH",
-  "sender": "Chief of Station, JMWAVE"
+  ]
 }

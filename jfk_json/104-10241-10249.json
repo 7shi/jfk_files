@@ -1,8 +1,24 @@
 {
-  "classification": "Security",
-  "document_type": "Request for Approval",
-  "security_level": "SECRET",
+  "title": "REQUEST FOR APPROVAL OR INVESTIGATIVE ACTION - Santiago ALTATA Fernandez - PROJECT: JYATE",
+  "title_ja": "承認または調査措置の要請 - サンティアゴ・アルタタ・フェルナンデス - プロジェクト：JYATE",
   "summary": "Request for provisional operational approval for Santiago ALTATA Fernandez, associated with PROJECT: JYATE, for use in Cuba as FW Trainee. Includes security checks and limitations.",
+  "summary_ja": "キューバでのFW訓練生としての使用を目的とした、プロジェクト：ジャテに関連するサンティアゴ・アルタタ・フェルナンデスに対する暫定的な業務承認の要請。セキュリティチェックと制限を含む。",
+  "document_type": "Request for Approval",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1968-01-10",
+  "origin_agency": "CI/Operational Approval and Support Division, Security Support Division/Office of Security",
+  "sender": "Margaret Ioss",
+  "recipient": "CI/Operational Approval and Support Division, Security Support Division/Office of Security",
+  "persons_mentioned": [
+    "Santiago ALTATA Fernandez",
+    "Margaret Ioss",
+    "Joseph Piccolo",
+    "terle"
+  ],
+  "locations_mentioned": [
+    "Cuba"
+  ],
   "tags": [
     "Operational Approval",
     "Security Approval",
@@ -17,19 +33,5 @@
     "Division Traces",
     "Santiago ALTATA Fernandez",
     "JYATE"
-  ],
-  "title": "REQUEST FOR APPROVAL OR INVESTIGATIVE ACTION - Santiago ALTATA Fernandez - PROJECT: JYATE",
-  "date": "1968-01-10",
-  "locations_mentioned": [
-    "Cuba"
-  ],
-  "origin_agency": "CI/Operational Approval and Support Division, Security Support Division/Office of Security",
-  "persons_mentioned": [
-    "Santiago ALTATA Fernandez",
-    "Margaret Ioss",
-    "Joseph Piccolo",
-    "terle"
-  ],
-  "recipient": "CI/Operational Approval and Support Division, Security Support Division/Office of Security",
-  "sender": "Margaret Ioss"
+  ]
 }

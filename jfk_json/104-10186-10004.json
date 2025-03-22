@@ -1,8 +1,23 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Potential Visit of AMMUG-1 to Montevideo and Support for Intelligence Unit",
+  "title_ja": "AMMUG-1のモンテビデオ訪問の可能性と諜報部隊への支援",
   "summary": "This cable discusses the potential visit of AMMUG-1 to Montevideo for a presentation and its potential impact on convincing the need for YM support for the newly created Directorate of Intelligence Unit. It also mentions the return of AVALANCHE officers from WOFIRM training.",
+  "summary_ja": "この電報では、AMMUG-1がモンテビデオを訪問してプレゼンテーションを行う可能性と、新設された情報部局に対するYMの支援の必要性を説得する上でその訪問が与える影響について議論されている。また、AVALANCHEの職員がWOFIRMの訓練から戻ったことにも言及している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-11-03",
+  "origin_agency": "CIA",
+  "sender": "WH 8",
+  "recipient": "DIRECTOR INFO SANTIAGO JMWAVE RIO DE JANEIRO",
+  "persons_mentioned": [
+    "AMMUG-1"
+  ],
+  "locations_mentioned": [
+    "Montevideo",
+    "Santiago",
+    "Rio de Janeiro"
+  ],
   "tags": [
     "AMMUG-1",
     "Montevideo",
@@ -13,18 +28,5 @@
     "Briefing",
     "Minister of Interior",
     "Chief of AVALANCHE"
-  ],
-  "title": "Potential Visit of AMMUG-1 to Montevideo and Support for Intelligence Unit",
-  "date": "1963-11-03",
-  "locations_mentioned": [
-    "Montevideo",
-    "Santiago",
-    "Rio de Janeiro"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "AMMUG-1"
-  ],
-  "recipient": "DIRECTOR INFO SANTIAGO JMWAVE RIO DE JANEIRO",
-  "sender": "WH 8"
+  ]
 }

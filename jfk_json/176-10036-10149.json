@@ -1,27 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "CIA Information Report",
-  "security_level": "SECRET",
-  "summary": "This document contains information about the planning of a coup in South Vietnam in September 1963. It details the involvement of various military figures and their concerns about the political situation and Viet Cong activity. It also discusses the potential for United States support and the reorganization of the government following the coup.",
-  "tags": [
-    "coup",
-    "South Vietnam",
-    "military",
-    "government",
-    "reform",
-    "Viet Cong",
-    "United States support",
-    "reorganization"
-  ],
   "title": "CIA Information Report",
+  "title_ja": "CIA情報報告書",
+  "summary": "This document contains information about the planning of a coup in South Vietnam in September 1963. It details the involvement of various military figures and their concerns about the political situation and Viet Cong activity. It also discusses the potential for United States support and the reorganization of the government following the coup.",
+  "summary_ja": "この文書には、1963年9月に南ベトナムで計画されたクーデターに関する情報が記載されている。さまざまな軍事関係者の関与と、彼らの政治情勢およびベトコンの活動に対する懸念について詳しく述べられている。また、米国の支援の可能性と、クーデター後の政府の再編についても論じられている。",
+  "document_type": "CIA Information Report",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1963-10-02",
-  "locations_mentioned": [
-    "South Vietnam",
-    "Saigon",
-    "Gia Long Palace",
-    "United States"
-  ],
   "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "Unknown",
   "persons_mentioned": [
     "Huynh Van Lang",
     "Le Van Ty",
@@ -43,6 +31,20 @@
     "Au Truong Thanh",
     "Tran Kim Tuyen"
   ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon",
+    "Gia Long Palace",
+    "United States"
+  ],
+  "tags": [
+    "coup",
+    "South Vietnam",
+    "military",
+    "government",
+    "reform",
+    "Viet Cong",
+    "United States support",
+    "reorganization"
+  ]
 }

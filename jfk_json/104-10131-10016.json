@@ -1,20 +1,13 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This memorandum discusses alias documentation for Harold F. Swenson, including a request for a backstopped driver's license and other supporting documentation. It involves actions to procure a backstopped alias New York State Driver's License and the issuance of requested documentation to TTW/Support.",
-  "tags": [
-    "alias documentation",
-    "Harold F. Swenson",
-    "backstopped driver's license",
-    "TTW/Support",
-    "Technical Services Division",
-    "Authentication Branch",
-    "alias",
-    "Harold Francis SAFLEY"
-  ],
   "title": "SWENSON, Harold F. #73086",
+  "title_ja": "スウェンソン、ハロルド F. #73086",
+  "summary": "This memorandum discusses alias documentation for Harold F. Swenson, including a request for a backstopped driver's license and other supporting documentation. It involves actions to procure a backstopped alias New York State Driver's License and the issuance of requested documentation to TTW/Support.",
+  "summary_ja": "この覚書は、ハロルド・F・スウェンソンに関する偽装書類について述べたもので、裏付けのある運転免許証の申請やその他の補足書類の申請を含む。裏付けのある偽装のニューヨーク州運転免許証の取得や、TTW/Supportへの申請書類の発行に関する行動が含まれる。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "UNCLASSIFIED",
   "date": "1962-11-06",
+  "sender": "Deputy Director of Security (Investigations and Operational Support) and Chief, TFW/Support (HOWARD J. PRESTON) and Authentication Branch) /SD/2, Mr. Kuhnke;FOR THE DIRECTOR OF SECURITY: DDS/IOS ADDS/IOS ASST/IOS C/ID C/OSD cc: TFW/Security CISED KUHNKE/efb Victor R. White HOWARD J. PRESTON, Chief, TFW/Support, Authentication Branch) /SD/2, Mr. Kuhnke Authentication Branch) /SD/2, Mr. Kuhnke FOR THE DIRECTOR OF SECURITY: DDS/IOS ADDS/IOS ASST/IOS C/ID C/OSD cc: TFW/Security CISED KUHNKE/efb Authentication Branch) /SD/2, Mr. Kuhnke Deputy Director of Security (Investigations and Operational Support) and Chief, TFW/Support (HOWARD J. PRESTON); FOR THE DIRECTOR OF SECURITY: DDS/IOS ADDS/IOS ASST/IOS C/ID C/OSD cc: TFW/Security CISED KUHNKE/efb; Deputy Director of Security (Investigations and Operational Support); Chief, TFW/Support (HOWARD J. PRESTON) Authentication Branch) /SD/2, Mr. KuhnkeFOR THE DIRECTOR OF SECURITY: DDS/IOS ADDS/IOS ASST/IOS C/ID C/OSD cc: TFW/Security CISED KUHNKE/efb Authentication Branch) /SD/2, Mr. KuhnkeDeputy Director of Security (Investigations and Operational Support); Chief, TFW/Support (HOWARD J. PRESTON); FOR THE DIRECTOR OF SECURITY: DDS/IOS ADDS/IOS ASST/IOS C/ID C/OSD cc: TFW/Security CISED KUHNKE/efb; Authentication Branch) /SD/2, Mr. Kuhnke",
   "persons_mentioned": [
     "Harold F. Swenson",
     "Clayton Kallander",
@@ -24,5 +17,14 @@
     "HOWARD J. PRESTON",
     "Harold Francis SAFLEY"
   ],
-  "sender": "Deputy Director of Security (Investigations and Operational Support) and Chief, TFW/Support (HOWARD J. PRESTON) and Authentication Branch) /SD/2, Mr. Kuhnke;FOR THE DIRECTOR OF SECURITY: DDS/IOS ADDS/IOS ASST/IOS C/ID C/OSD cc: TFW/Security CISED KUHNKE/efb Victor R. White HOWARD J. PRESTON, Chief, TFW/Support, Authentication Branch) /SD/2, Mr. Kuhnke Authentication Branch) /SD/2, Mr. Kuhnke FOR THE DIRECTOR OF SECURITY: DDS/IOS ADDS/IOS ASST/IOS C/ID C/OSD cc: TFW/Security CISED KUHNKE/efb Authentication Branch) /SD/2, Mr. Kuhnke Deputy Director of Security (Investigations and Operational Support) and Chief, TFW/Support (HOWARD J. PRESTON); FOR THE DIRECTOR OF SECURITY: DDS/IOS ADDS/IOS ASST/IOS C/ID C/OSD cc: TFW/Security CISED KUHNKE/efb; Deputy Director of Security (Investigations and Operational Support); Chief, TFW/Support (HOWARD J. PRESTON) Authentication Branch) /SD/2, Mr. KuhnkeFOR THE DIRECTOR OF SECURITY: DDS/IOS ADDS/IOS ASST/IOS C/ID C/OSD cc: TFW/Security CISED KUHNKE/efb Authentication Branch) /SD/2, Mr. KuhnkeDeputy Director of Security (Investigations and Operational Support); Chief, TFW/Support (HOWARD J. PRESTON); FOR THE DIRECTOR OF SECURITY: DDS/IOS ADDS/IOS ASST/IOS C/ID C/OSD cc: TFW/Security CISED KUHNKE/efb; Authentication Branch) /SD/2, Mr. Kuhnke"
+  "tags": [
+    "alias documentation",
+    "Harold F. Swenson",
+    "backstopped driver's license",
+    "TTW/Support",
+    "Technical Services Division",
+    "Authentication Branch",
+    "alias",
+    "Harold Francis SAFLEY"
+  ]
 }

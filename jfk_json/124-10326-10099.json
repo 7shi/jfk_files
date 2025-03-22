@@ -1,8 +1,20 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
+  "title": "JAMES ANGLETON CENTRAL INTELLIGENCE AGENCY",
+  "title_ja": "ジェームズ・アングルトン 中央情報局",
   "summary": "This document discusses James Angleton's request for a uniform procedure in transmitting mail to him, ensuring his identity is not revealed to other agencies due to his involvement in sensitive projects like Israeli Intelligence. It also mentions that correspondence dealing with Israeli Intelligence matters should be directed to James Angleton.",
+  "summary_ja": "この文書では、イスラエル諜報部のような機密プロジェクトに関与していることで、他の機関に身元が明かされないよう、ジェームズ・アングルトンが郵便物の送付に関する統一手続きを要求していることが述べられている。また、イスラエル諜報部に関する案件を扱う通信は、ジェームズ・アングルトンに直接送るべきであるとも述べられている。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1954-03-09",
+  "sender": "Keay",
+  "recipient": "Belmont",
+  "persons_mentioned": [
+    "James Angleton",
+    "A. Belmont",
+    "V. P. Keay",
+    "Allen Dulles"
+  ],
   "tags": [
     "James Angleton",
     "CIA",
@@ -11,15 +23,5 @@
     "Allen Dulles",
     "Security",
     "Bureau Source 100"
-  ],
-  "title": "JAMES ANGLETON CENTRAL INTELLIGENCE AGENCY",
-  "date": "1954-03-09",
-  "persons_mentioned": [
-    "James Angleton",
-    "A. Belmont",
-    "V. P. Keay",
-    "Allen Dulles"
-  ],
-  "recipient": "Belmont",
-  "sender": "Keay"
+  ]
 }

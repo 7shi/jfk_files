@@ -1,18 +1,22 @@
 {
-  "classification": "Operations",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This memo discusses the transfer of QJWIN to Baden-Baden, candidates spotted by QJWIN in Italy, and a spotting effort through Hank Manfredi in Rome. It also covers details of contact with QJWIN, drawing funds, and an emergency contact.",
-  "tags": [
-    "ZRRIFLE",
-    "QJWIN",
-    "Baden-Baden",
-    "Spotting",
-    "Hank Manfredi",
-    "Corsica"
-  ],
   "title": "RE: ZRRIFLE",
+  "title_ja": "RE: ZRRIFLE",
+  "summary": "This memo discusses the transfer of QJWIN to Baden-Baden, candidates spotted by QJWIN in Italy, and a spotting effort through Hank Manfredi in Rome. It also covers details of contact with QJWIN, drawing funds, and an emergency contact.",
+  "summary_ja": "このメモでは、QJWINのバーデンバーデンへの移転、QJWINがイタリアで発見した候補者、ローマのハンク・マンフレディによる発見活動について述べている。また、QJWINとの連絡、資金調達、緊急連絡の詳細についても記載している。",
+  "document_type": "Memo",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
   "date": "1962-07-03",
+  "origin_agency": "CIA",
+  "sender": "AMS",
+  "recipient": "NKH",
+  "persons_mentioned": [
+    "NKH",
+    "Helms",
+    "Skip",
+    "Magonetti",
+    "Hank Manfredi"
+  ],
   "locations_mentioned": [
     "Baden-Baden",
     "Italy",
@@ -21,14 +25,12 @@
     "Florence",
     "Corsica"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "NKH",
-    "Helms",
-    "Skip",
-    "Magonetti",
-    "Hank Manfredi"
-  ],
-  "recipient": "NKH",
-  "sender": "AMS"
+  "tags": [
+    "ZRRIFLE",
+    "QJWIN",
+    "Baden-Baden",
+    "Spotting",
+    "Hank Manfredi",
+    "Corsica"
+  ]
 }

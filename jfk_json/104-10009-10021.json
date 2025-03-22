@@ -1,24 +1,16 @@
 {
-  "classification": "Administrative",
-  "document_type": "Distribution List",
-  "security_level": "SECRET",
-  "summary": "This document is a distribution list of field and headquarters divisions.",
-  "tags": [
-    "distribution list",
-    "field divisions",
-    "headquarters divisions",
-    "AF Division",
-    "EUR Division",
-    "NB Division",
-    "FE Division",
-    "WH Division",
-    "CA STAFF",
-    "DO/CA",
-    "CI/R&A",
-    "NE Division"
-  ],
   "title": "Field and HQS Distribution - BD #5847",
+  "title_ja": "現場およびHQS配布 - BD #5847",
+  "summary": "This document is a distribution list of field and headquarters divisions.",
+  "summary_ja": "この文書は、現地および本部の部署の配布先リストである。",
+  "document_type": "Distribution List",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1992-10-26",
+  "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "Field and HQS Divisions",
+  "persons_mentioned": [],
   "locations_mentioned": [
     "Johannesburg",
     "Lagos",
@@ -107,8 +99,18 @@
     "Sao Paulo",
     "Tegucigalpa"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [],
-  "recipient": "Field and HQS Divisions",
-  "sender": "Unknown"
+  "tags": [
+    "distribution list",
+    "field divisions",
+    "headquarters divisions",
+    "AF Division",
+    "EUR Division",
+    "NB Division",
+    "FE Division",
+    "WH Division",
+    "CA STAFF",
+    "DO/CA",
+    "CI/R&A",
+    "NE Division"
+  ]
 }

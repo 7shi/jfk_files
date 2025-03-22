@@ -1,8 +1,32 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "MAVANA Cable on Airdrop Map and Arms Request",
+  "title_ja": "空中投下地図および武器要請に関するMAVANAケーブル",
   "summary": "Cable regarding airdrop map to Miami for 'Clarence' and requests for arms and ammunition.",
+  "summary_ja": "マイアミへの「クラレンス」への空中投下地図に関する電報と、武器および弾薬の要請。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-12-23",
+  "origin_agency": "DIR",
+  "sender": "FRITY WAVE INFO PRITY DIR",
+  "recipient": "JMZIP AVT",
+  "persons_mentioned": [
+    "Robert M. Geddes",
+    "Ralph Diaz Hanscom",
+    "Clarence",
+    "Villalon",
+    "Crespo",
+    "Maro Bolang",
+    "Limas",
+    "Ramirez",
+    "Montiel",
+    "Duque",
+    "Hector Febles"
+  ],
+  "locations_mentioned": [
+    "Miami",
+    "Cienfuegos"
+  ],
   "tags": [
     "Airdrop",
     "Miami",
@@ -19,27 +43,5 @@
     "Montiel",
     "Duque",
     "FEBLES"
-  ],
-  "title": "MAVANA Cable on Airdrop Map and Arms Request",
-  "date": "1963-12-23",
-  "locations_mentioned": [
-    "Miami",
-    "Cienfuegos"
-  ],
-  "origin_agency": "DIR",
-  "persons_mentioned": [
-    "Robert M. Geddes",
-    "Ralph Diaz Hanscom",
-    "Clarence",
-    "Villalon",
-    "Crespo",
-    "Maro Bolang",
-    "Limas",
-    "Ramirez",
-    "Montiel",
-    "Duque",
-    "Hector Febles"
-  ],
-  "recipient": "JMZIP AVT",
-  "sender": "FRITY WAVE INFO PRITY DIR"
+  ]
 }

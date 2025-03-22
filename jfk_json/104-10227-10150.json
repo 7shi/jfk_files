@@ -1,37 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Memorandum for the record of a meeting with Dr. MIRO Cardona discussing propaganda campaigns, underground activities, commando plans, requests for arms, information on arms received by Castro regime, a proposal for the Council to go to Cuba and establish a government on Cuban soil, views about judges and lawyers, members of the Revolutionary Council, probable Argentine rupture of relations with Cuba, attendance to Homage to LACERDA, Propaganda Commission, views relative to Supreme Court Justice or PRIO being recognised as Head of a Provisional Government, offices of Council, and coordinating the activities of other exile groups.",
-  "tags": [
-    "MIRO Cardona",
-    "Propaganda",
-    "Underground Activities",
-    "Commando Plan",
-    "Arms Request",
-    "Castro Regime",
-    "Revolutionary Council",
-    "Argentina",
-    "LACERDA",
-    "Propaganda Commission",
-    "Exile Groups"
-  ],
   "title": "Meeting with Dr. MIRO Cardona on 6 October",
+  "title_ja": "10月6日のミロ・カルドナ博士との会合",
+  "summary": "Memorandum for the record of a meeting with Dr. MIRO Cardona discussing propaganda campaigns, underground activities, commando plans, requests for arms, information on arms received by Castro regime, a proposal for the Council to go to Cuba and establish a government on Cuban soil, views about judges and lawyers, members of the Revolutionary Council, probable Argentine rupture of relations with Cuba, attendance to Homage to LACERDA, Propaganda Commission, views relative to Supreme Court Justice or PRIO being recognised as Head of a Provisional Government, offices of Council, and coordinating the activities of other exile groups.",
+  "summary_ja": "ミロ・カルドナ博士との会合記録メモ：プロパガンダキャンペーン、地下活動、コマンド計画、武器の要請、 カストロ政権が入手した武器に関する情報、キューバに渡航してキューバ国内で政府を樹立するよう評議会に提案、裁判官と弁護士に関する見解、革命評議会のメンバー、アルゼンチンがキューバとの国交を断絶する可能性、ラセルダへの敬意を表する式典への出席、プロパガンダ委員会、最高裁判事またはPRIOが暫定政府の代表として承認されることに関する見解、評議会の事務所、および他の亡命グループの活動の調整。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1961-10-10",
-  "locations_mentioned": [
-    "Cuba",
-    "Key West",
-    "Miami",
-    "U.S.",
-    "Latin America",
-    "Escambray",
-    "Havana",
-    "Buenos Aires",
-    "New York City",
-    "Washington",
-    "Guantanamo"
-  ],
   "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Record",
   "persons_mentioned": [
     "MIRO Cardona",
     "Manuel VARELA Castro",
@@ -55,6 +33,30 @@
     "CARRILLO",
     "Julio CARCERAN"
   ],
-  "recipient": "Record",
-  "sender": "Unknown"
+  "locations_mentioned": [
+    "Cuba",
+    "Key West",
+    "Miami",
+    "U.S.",
+    "Latin America",
+    "Escambray",
+    "Havana",
+    "Buenos Aires",
+    "New York City",
+    "Washington",
+    "Guantanamo"
+  ],
+  "tags": [
+    "MIRO Cardona",
+    "Propaganda",
+    "Underground Activities",
+    "Commando Plan",
+    "Arms Request",
+    "Castro Regime",
+    "Revolutionary Council",
+    "Argentina",
+    "LACERDA",
+    "Propaganda Commission",
+    "Exile Groups"
+  ]
 }

@@ -1,8 +1,29 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Submittal of (Blasemura) Ordinary Passport in Alias for Use by AEAL-1 - AB Case No. 6937",
+  "title_ja": "AEAL-1 - AB Case No. 6937による通称使用のための（ブラセミラ）一般旅券の提出",
   "summary": "This memorandum discusses the transmittal of an alias passport for AEAL-1 (AB Case No. 6937) and provides instructions for its use, visa application, and validation, including coordination with various offices and individuals.",
+  "summary_ja": "この覚書では、AEAL-1（AB事件番号6937）の偽名パスポートの送付について説明し、その使用、ビザ申請、検証に関する指示を記載している。これには、さまざまな事務所や個人との調整も含まれる。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
+  "date": "1963-04-12",
+  "origin_agency": "AD/AB",
+  "sender": "Patrick J. Pales, DD/23",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "AEAL-1",
+    "Mr. Manini",
+    "Mr. Fabrini",
+    "Fina Japtine",
+    "Patrick J. Pales",
+    "LI"
+  ],
+  "locations_mentioned": [
+    "New York",
+    "Argentina",
+    "U.S.",
+    "Central America"
+  ],
   "tags": [
     "AEAL-1",
     "Alias Passport",
@@ -12,24 +33,5 @@
     "International Vaccination Certificate",
     "Revalidation",
     "Travel Control"
-  ],
-  "title": "Submittal of (Blasemura) Ordinary Passport in Alias for Use by AEAL-1 - AB Case No. 6937",
-  "date": "1963-04-12",
-  "locations_mentioned": [
-    "New York",
-    "Argentina",
-    "U.S.",
-    "Central America"
-  ],
-  "origin_agency": "AD/AB",
-  "persons_mentioned": [
-    "AEAL-1",
-    "Mr. Manini",
-    "Mr. Fabrini",
-    "Fina Japtine",
-    "Patrick J. Pales",
-    "LI"
-  ],
-  "recipient": "Unknown",
-  "sender": "Patrick J. Pales, DD/23"
+  ]
 }

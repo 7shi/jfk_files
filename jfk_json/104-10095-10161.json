@@ -1,36 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Personnel Records",
-  "security_level": "SECRET",
-  "summary": "This document contains personnel records related to covert operations, support assets, and liaison activities, primarily focusing on Cuba and Soviet targets, with names, dates, and locations.",
-  "tags": [
-    "Personnel",
-    "Covert Operations",
-    "Cuba",
-    "Soviet Union",
-    "Liaison",
-    "Mexico",
-    "Phone Taps",
-    "Surveillance",
-    "TSD",
-    "COS",
-    "DCOS",
-    "Covert Action",
-    "Cuba Operations",
-    "Soviet Target",
-    "Soviet Transcribers"
-  ],
   "title": "Personnel Records for Covert Operations",
+  "title_ja": "秘密工作要員記録",
+  "summary": "This document contains personnel records related to covert operations, support assets, and liaison activities, primarily focusing on Cuba and Soviet targets, with names, dates, and locations.",
+  "summary_ja": "この文書には、キューバとソ連の標的を主に、秘密作戦、支援資産、連絡活動に関連する人事情報が、氏名、日付、場所とともに記載されている。",
+  "document_type": "Personnel Records",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1949-1971",
-  "locations_mentioned": [
-    "Mexico",
-    "Cuba",
-    "Soviet Union",
-    "Chicago",
-    "Costa Rica",
-    "Nogales"
-  ],
   "origin_agency": "CIA",
+  "sender": "Various senders within the CIA",
+  "recipient": "Various recipients within the CIA",
   "persons_mentioned": [
     "Charles Anderson III",
     "Peggy Maggard",
@@ -240,6 +219,29 @@
     "VENNETTE K FULLER",
     "JAMES E FLANNERY"
   ],
-  "recipient": "Various recipients within the CIA",
-  "sender": "Various senders within the CIA"
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba",
+    "Soviet Union",
+    "Chicago",
+    "Costa Rica",
+    "Nogales"
+  ],
+  "tags": [
+    "Personnel",
+    "Covert Operations",
+    "Cuba",
+    "Soviet Union",
+    "Liaison",
+    "Mexico",
+    "Phone Taps",
+    "Surveillance",
+    "TSD",
+    "COS",
+    "DCOS",
+    "Covert Action",
+    "Cuba Operations",
+    "Soviet Target",
+    "Soviet Transcribers"
+  ]
 }

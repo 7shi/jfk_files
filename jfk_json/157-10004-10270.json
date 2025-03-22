@@ -1,8 +1,24 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Robert Maheu",
+  "title_ja": "ロバート・マホー",
   "summary": "This document discusses Robert Maheu's involvement in arranging a party for a foreign Head of State in 1959, involving a prominent actress. The Office of Security requested special support during the Los Angeles and New York phases of the tour, with arrangements made through Gregson Bautzer. The actress met with the foreign official in both Los Angeles and New York.",
+  "summary_ja": "この文書は、1959年に著名な女優を巻き込んで、ロバート・マホーが外国の国家元首のためのパーティーを企画したことについて述べている。ロサンゼルスとニューヨークでのツアーの期間中、セキュリティ部門は特別支援を要請し、グレグソン・バウチャーを通じて手配が行われた。その女優はロサンゼルスとニューヨークの両方で外国高官と会った。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1959-04-03",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Robert Maheu",
+    "Gregson Bautzer"
+  ],
+  "locations_mentioned": [
+    "Los Angeles, California",
+    "New York City",
+    "Long Beach, Long Island"
+  ],
   "tags": [
     "Robert Maheu",
     "Office of Security",
@@ -11,19 +27,5 @@
     "Actress",
     "CIA",
     "State Department"
-  ],
-  "title": "Robert Maheu",
-  "date": "1959-04-03",
-  "locations_mentioned": [
-    "Los Angeles, California",
-    "New York City",
-    "Long Beach, Long Island"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Robert Maheu",
-    "Gregson Bautzer"
-  ],
-  "recipient": "Unknown",
-  "sender": "CIA"
+  ]
 }

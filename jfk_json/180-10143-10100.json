@@ -1,8 +1,31 @@
 {
-  "classification": "Mexico",
-  "document_type": "Memo/Notes",
-  "security_level": "SECRET",
+  "title": "Notes re Hardway summary of am.c. tapes, transcripts, & cables.",
+  "title_ja": "ハードウェイによるam.c.テープ、記録、およびケーブルの要約に関するメモ。",
   "summary": "Notes regarding Hardway summary of am.c. tapes, transcripts, & cables. Mentions translated materials, marginal notations, and Spanish transcripts of poor quality. Also references specific dates and events related to Lee Harvey Oswald's activities in Mexico City.",
+  "summary_ja": "ハードウェイによるam.c.テープの要約、記録、および電報に関するメモ。翻訳資料、余白注釈、および品質の悪いスペイン語の記録についての言及。また、リー・ハーヴェイ・オズワルドのメキシコシティでの活動に関連する特定の日付および出来事についての言及。",
+  "document_type": "Memo/Notes",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-09-05",
+  "origin_agency": "CIA",
+  "sender": "Scott",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Goldsmith",
+    "Hardway",
+    "Lee Harvey Oswald (LHO)",
+    "Duran",
+    "Phillips",
+    "Shinich",
+    "Bill Donley",
+    "Lee Coul",
+    "Virginia Jones"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Odessa",
+    "Washington"
+  ],
   "tags": [
     "Hardway",
     "tapes",
@@ -22,26 +45,5 @@
     "communications intelligence",
     "Winbolt",
     "graphics file"
-  ],
-  "title": "Notes re Hardway summary of am.c. tapes, transcripts, & cables.",
-  "date": "1963-09-05",
-  "locations_mentioned": [
-    "Mexico City",
-    "Odessa",
-    "Washington"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Goldsmith",
-    "Hardway",
-    "Lee Harvey Oswald (LHO)",
-    "Duran",
-    "Phillips",
-    "Shinich",
-    "Bill Donley",
-    "Lee Coul",
-    "Virginia Jones"
-  ],
-  "recipient": "Unknown",
-  "sender": "Scott"
+  ]
 }

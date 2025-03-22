@@ -1,8 +1,18 @@
 {
-  "classification": "Administrative",
-  "document_type": "Form",
-  "security_level": "SECRET",
+  "title": "Pseudonym/Cryptonym Assignment Form",
+  "title_ja": "仮名／暗号名割り当てフォーム",
   "summary": "This document appears to be a form related to the assignment of pseudonyms and cryptonyms for individuals or projects. It includes details such as aliases assigned, project descriptions (ALLADIE), status of personnel (staff employees), and mentions individuals like N. Parrisson. It also references previous pseudonyms or cryptonyms assigned (SEAR) and contains instructions for handling and distribution of the document within the CIA.",
+  "summary_ja": "この文書は、個人またはプロジェクトに対する偽名および暗号名の割り当てに関するフォームのようだ。割り当てられた別名、プロジェクトの説明（ALLADIE）、人員の状況（スタッフ社員）、N. Parrissonのような個人の言及などの詳細が記載されている。また、割り当てられた以前の偽名または暗号名（SEAR）も参照しており、CIA内での文書の取り扱いおよび配布に関する指示も記載されている。",
+  "document_type": "Form",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "195-02-21",
+  "sender": "CIA",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "Catherine Marie Srom3207",
+    "N. Parrisson"
+  ],
   "tags": [
     "pseudonym",
     "cryptonym",
@@ -15,13 +25,5 @@
     "agent",
     "case officer",
     "cable traffic"
-  ],
-  "title": "Pseudonym/Cryptonym Assignment Form",
-  "date": "195-02-21",
-  "persons_mentioned": [
-    "Catherine Marie Srom3207",
-    "N. Parrisson"
-  ],
-  "recipient": "CIA",
-  "sender": "CIA"
+  ]
 }

@@ -1,19 +1,20 @@
 {
-  "classification": "Liaison",
-  "document_type": "PAPER, TEXTUAL DOCUMENT",
-  "security_level": "Secret",
-  "summary": "This document pertains to Henryk Ignacy Janikowski and includes information from a West German service regarding a check from Eduardo Espinosa y Prieto of the Mexican Embassy in Moscow to Erik Schott, an architect in Bremen, Germany. It also details Janikowski's activities involving buying and shipping used cars, obtaining dollars from the black market, and potential customs duty evasion.",
-  "tags": [
-    "CIA LIAISON MATERIAL",
-    "HENRYK IGNACY JANIKOWSKI",
-    "Bremer Bank",
-    "Eduardo Espinosa y Prieto",
-    "Erik Schott",
-    "black market",
-    "customs duty"
-  ],
   "title": "[Restricted]",
+  "title_ja": "[制限あり]",
+  "summary": "This document pertains to Henryk Ignacy Janikowski and includes information from a West German service regarding a check from Eduardo Espinosa y Prieto of the Mexican Embassy in Moscow to Erik Schott, an architect in Bremen, Germany. It also details Janikowski's activities involving buying and shipping used cars, obtaining dollars from the black market, and potential customs duty evasion.",
+  "summary_ja": "この文書はヘンリク・イグナツィ・ヤニコフスキに関するもので、西ドイツの情報機関から得た、モスクワのメキシコ大使館のエドゥアルド・エスピノサ・イ・プリエトがドイツのブレーメン在住の建築家エリック・ショットに送金した小切手に関する情報を含んでいる。また、ヤニコフスキの中古車購入と輸送、闇市場からのドル入手、関税回避の可能性に関する活動の詳細も記載されている。",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "classification": "Liaison",
+  "security_level": "Secret",
   "date": "1963-08-16",
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "sender": "CIA",
+  "recipient": "DOS",
+  "persons_mentioned": [
+    "HENRYK IGNACY JANIKOWSKI",
+    "Eduardo Espinosa y PRIETO",
+    "Erik SCHOTT"
+  ],
   "locations_mentioned": [
     "Bremen, Germany",
     "Moscow, USSR",
@@ -27,12 +28,13 @@
     "Paris, France",
     "Holland"
   ],
-  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
-  "persons_mentioned": [
+  "tags": [
+    "CIA LIAISON MATERIAL",
     "HENRYK IGNACY JANIKOWSKI",
-    "Eduardo Espinosa y PRIETO",
-    "Erik SCHOTT"
-  ],
-  "recipient": "DOS",
-  "sender": "CIA"
+    "Bremer Bank",
+    "Eduardo Espinosa y Prieto",
+    "Erik Schott",
+    "black market",
+    "customs duty"
+  ]
 }

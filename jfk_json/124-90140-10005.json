@@ -1,28 +1,30 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memo",
-  "security_level": "Secret",
+  "title": "ANGELA PRINCE MOUTSOS aka",
+  "title_ja": "アンジェラ・プリンス・マウトソス、別名",
   "summary": "FBI memo regarding Angela Prince Moutsos and her activities in Cuba, including her husband's connection to the CIA.",
+  "summary_ja": "アンジェラ・プリンス・ムトスと彼女のキューバにおける活動に関するFBIのメモ。これには、彼女の夫のCIAとのつながりも含まれている。",
+  "document_type": "Memo",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1963-03-01",
+  "origin_agency": "FBI",
+  "sender": "NY",
+  "recipient": "HQ",
+  "persons_mentioned": [
+    "ANGELA PRINCE MOUTSOS",
+    "PEDROS MOUTSOS",
+    "JOHN H. SHEEHAN"
+  ],
+  "locations_mentioned": [
+    "NY",
+    "Havana",
+    "Cuba"
+  ],
   "tags": [
     "ANGELA PRINCE MOUTSOS",
     "PEDROS MOUTSOS",
     "CIA LIAISON MATERIAL",
     "Cuba",
     "Havana"
-  ],
-  "title": "ANGELA PRINCE MOUTSOS aka",
-  "date": "1963-03-01",
-  "locations_mentioned": [
-    "NY",
-    "Havana",
-    "Cuba"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "ANGELA PRINCE MOUTSOS",
-    "PEDROS MOUTSOS",
-    "JOHN H. SHEEHAN"
-  ],
-  "recipient": "HQ",
-  "sender": "NY"
+  ]
 }

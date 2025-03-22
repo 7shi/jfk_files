@@ -1,8 +1,28 @@
 {
-  "classification": "Liaison",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "BKGB Access Support to USG Assassination Record Review Board",
+  "title_ja": "BKGBアクセス支援、合衆国政府暗殺記録審査委員会",
   "summary": "This cable discusses the USG's Assassination Records Review Board (ARRB) interest in obtaining BKGB (Belarusian KGB) records related to Lee Harvey Oswald's time in Minsk. It details previous inquiries, obstacles faced due to Belarusian privacy laws, and potential future requests for assistance. It also mentions Norman Mailer's access to these records and the BKGB's subsequent dissatisfaction.",
+  "summary_ja": "この電報は、リー・ハーヴェイ・オズワルドのミンスク滞在に関する白ロシア共和国保安省（Belarusian KGB）の記録を入手することに対する米国政府の暗殺記録審査委員会（ARRB）の関心を論じている。 これまでの問い合わせ、ベラルーシのプライバシー保護法による障害、および将来の支援要請の可能性について詳細に述べている。 また、ノーマン・メイラーによるこれらの記録へのアクセスと、それに続く白ロシア共和国保安省の不満についても言及している。",
+  "document_type": "Cable",
+  "classification": "Liaison",
+  "security_level": "SECRET",
+  "date": "1998-03-06",
+  "origin_agency": "STAFF",
+  "sender": "MINSK",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Norman Mailer",
+    "Aleksandr Veras",
+    "Lev Pimenau",
+    "Aleksandr Ablameika",
+    "Gennadiy Narkevich",
+    "Marina Oswald"
+  ],
+  "locations_mentioned": [
+    "Minsk",
+    "Belarus"
+  ],
   "tags": [
     "ARRB",
     "BKGB",
@@ -13,23 +33,5 @@
     "Norman Mailer",
     "WNINTEL",
     "JYVAPOROUS"
-  ],
-  "title": "BKGB Access Support to USG Assassination Record Review Board",
-  "date": "1998-03-06",
-  "locations_mentioned": [
-    "Minsk",
-    "Belarus"
-  ],
-  "origin_agency": "STAFF",
-  "persons_mentioned": [
-    "Lee Harvey Oswald",
-    "Norman Mailer",
-    "Aleksandr Veras",
-    "Lev Pimenau",
-    "Aleksandr Ablameika",
-    "Gennadiy Narkevich",
-    "Marina Oswald"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "MINSK"
+  ]
 }

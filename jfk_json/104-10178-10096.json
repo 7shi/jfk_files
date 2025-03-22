@@ -1,28 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This collection of documents pertains to the CIA's investigation into Albert Larrain Maestre and his alleged involvement in bombings with Rosenthal, as well as his connections to narcotics. The documents also delve into AMCLEVE/15's (Luis Clements POSADA-Carriles) contact with Frank \"Lefty\" ROSENTHAL, and his cooperation with the FBI in the investigation of Frank Rosenthal. It includes queries from the Department of Justice, and explores the possibility of using AMCLEVE/15 to assist Rosenthal in obtaining additional materials for an arrest.",
-  "tags": [
-    "Albert Larrain Maestre",
-    "AMCLEVE/15",
-    "Luis Clements POSADA-Carriles",
-    "Frank 'Lefty' Rosenthal",
-    "Bombings",
-    "Narcotics",
-    "FBI",
-    "Department of Justice",
-    "explosives",
-    "JMWAVE",
-    "gangster"
-  ],
   "title": "Investigation into Albert Larrain Maestre and AMCLEVE/15's contact with Frank Rosenthal",
+  "title_ja": "アルバート・ラレイン・マエストロとAMCLEVE/15のフランク・ローゼンタールとの接触に関する調査",
+  "summary": "This collection of documents pertains to the CIA's investigation into Albert Larrain Maestre and his alleged involvement in bombings with Rosenthal, as well as his connections to narcotics. The documents also delve into AMCLEVE/15's (Luis Clements POSADA-Carriles) contact with Frank \"Lefty\" ROSENTHAL, and his cooperation with the FBI in the investigation of Frank Rosenthal. It includes queries from the Department of Justice, and explores the possibility of using AMCLEVE/15 to assist Rosenthal in obtaining additional materials for an arrest.",
+  "summary_ja": "この文書群は、アルバート・ラレイン・マエストレのCIAによる調査、およびロゼンタールとの爆破事件への関与疑惑、および麻薬との関連に関するものである。また、AMCLEVE/15（ルイス・クレメンツ・ポサダ・カリレス）とフランク・レフティ・ローゼンタールとの接触、およびフランク・ローゼンタールに対する捜査におけるAMCLEVE/15のFBIへの協力についても詳しく述べられている。司法省からの問い合わせも含まれており、AMCLEVE/15を利用してローゼンタールが逮捕に必要な追加資料を入手するのを支援する可能性についても検討されている。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1967-06-30",
-  "locations_mentioned": [
-    "Miami",
-    "New York"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief of Station, JMWAVE",
+  "recipient": "Director",
   "persons_mentioned": [
     "Robert Bladergroen",
     "Earl J. Williamson",
@@ -40,6 +27,21 @@
     "W. Henze",
     "Luis Clements POSADA-Carriles"
   ],
-  "recipient": "Director",
-  "sender": "Chief of Station, JMWAVE"
+  "locations_mentioned": [
+    "Miami",
+    "New York"
+  ],
+  "tags": [
+    "Albert Larrain Maestre",
+    "AMCLEVE/15",
+    "Luis Clements POSADA-Carriles",
+    "Frank 'Lefty' Rosenthal",
+    "Bombings",
+    "Narcotics",
+    "FBI",
+    "Department of Justice",
+    "explosives",
+    "JMWAVE",
+    "gangster"
+  ]
 }

@@ -1,8 +1,18 @@
 {
-  "classification": "Administrative",
-  "document_type": "Indices Search Request",
-  "security_level": "SECRET",
+  "title": "Indices Search Request",
+  "title_ja": "索引 検索要求",
   "summary": "This document is an indices search request form, likely used to search for information related to specific individuals or topics within a larger collection of documents. It includes fields for names, file numbers, and analysis of search results.",
+  "summary_ja": "この文書は、より大きな文書コレクション内の特定の個人またはトピックに関連する情報を検索するために使用されると思われるインデックス検索リクエストフォームである。名前、ファイル番号、検索結果の分析用のフィールドが含まれている。",
+  "document_type": "Indices Search Request",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1963-01",
+  "persons_mentioned": [
+    "KING MARTIN LUTHER",
+    "NOEL-BAKER, Philip Jott",
+    "PIRE, Dominique George",
+    "PIRE"
+  ],
   "tags": [
     "indices search",
     "file search",
@@ -11,13 +21,5 @@
     "Martin Luther King",
     "Philip Noel-Baker",
     "Dominique Pire"
-  ],
-  "title": "Indices Search Request",
-  "date": "1963-01",
-  "persons_mentioned": [
-    "KING MARTIN LUTHER",
-    "NOEL-BAKER, Philip Jott",
-    "PIRE, Dominique George",
-    "PIRE"
   ]
 }

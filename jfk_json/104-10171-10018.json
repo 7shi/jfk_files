@@ -1,8 +1,29 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "UNCLASSIFIED",
+  "title": "Activity of Directorio Revolucionario Estudiantil (DRE) and Cuban Military Observations",
+  "title_ja": "革命学生ディレクトリ（DRE）の活動およびキューバ軍の観測",
   "summary": "This document details the activities of the Directorio Revolucionario Estudiantil (DRE), a student resistance organization in Habana, including its leadership, propaganda efforts, and fundraising activities. It also mentions bombings at the University of Habana and the fortification of the Alturas del Bosque area by the Cuban government. Additionally, it discusses the limited number of Cuban air force jets observed in the air.",
+  "summary_ja": "この文書は、ハバナの学生抵抗組織であるディレクトリオ・レボルシオナリオ・エストゥディアンティル（DRE）の活動について詳しく述べている。その中には、指導者、宣伝活動、資金調達活動などが含まれる。また、ハバナ大学での爆破テロや、キューバ政府によるアルトゥラス・デル・ボスケ地区の要塞化についても言及している。さらに、上空で目撃されたキューバ空軍ジェット機の限られた数についても論じている。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
+  "date": "1962-03-15",
+  "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "Isidoro Esquerra Fernandez",
+    "Lester Carvin Rosales",
+    "Roberto Quinteros Santiso",
+    "Ricario martirezzperderio"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Habana",
+    "Uruguay",
+    "Alturas del Bosque",
+    "Almendares River",
+    "Campo Libertad"
+  ],
   "tags": [
     "Directorio Revolucionario Estudiantil",
     "DRE",
@@ -18,24 +39,5 @@
     "Roberto Quinteros Santiso",
     "Ricario martirezzperderio",
     "Trinchera"
-  ],
-  "title": "Activity of Directorio Revolucionario Estudiantil (DRE) and Cuban Military Observations",
-  "date": "1962-03-15",
-  "locations_mentioned": [
-    "Cuba",
-    "Habana",
-    "Uruguay",
-    "Alturas del Bosque",
-    "Almendares River",
-    "Campo Libertad"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Isidoro Esquerra Fernandez",
-    "Lester Carvin Rosales",
-    "Roberto Quinteros Santiso",
-    "Ricario martirezzperderio"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

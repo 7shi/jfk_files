@@ -1,38 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Dispatch/Memo/Notice/Form",
-  "security_level": "SECRET/CONFIDENTIAL",
-  "summary": "This collection of documents primarily concerns Project KDAFGHAN, a photographic operation conducted in Mexico City. The documents cover various aspects, including equipment requests (specialized lenses, cameras), passport renewals for KDAFGHAN personnel, technical issues with pulse cameras and related equipment, file management procedures (opening, amending, closing files), cryptonym changes, and audit reports. Mentions of LIONION, AQUATIC, and other related operations are interwoven. Also included are administrative notices concerning file processing and retirement.",
-  "tags": [
-    "KDAFGHAN",
-    "LIONION",
-    "AQUATIC",
-    "photography",
-    "Mexico City",
-    "passport renewal",
-    "technical equipment",
-    "pulse camera",
-    "file management",
-    "cryptonym",
-    "audit",
-    "counterintelligence",
-    "surveillance",
-    "Bals scope lens",
-    "catadioptric lenses",
-    "Spotmatics",
-    "PBRUMEN",
-    "KOFACTOR",
-    "cryptonyms",
-    "security procedures"
-  ],
   "title": "Various documents related to Project KDAFGHAN and related operations in Mexico City",
+  "title_ja": "プロジェクトKDAFGHANおよびメキシコシティでの関連作戦に関する各種文書",
+  "summary": "This collection of documents primarily concerns Project KDAFGHAN, a photographic operation conducted in Mexico City. The documents cover various aspects, including equipment requests (specialized lenses, cameras), passport renewals for KDAFGHAN personnel, technical issues with pulse cameras and related equipment, file management procedures (opening, amending, closing files), cryptonym changes, and audit reports. Mentions of LIONION, AQUATIC, and other related operations are interwoven. Also included are administrative notices concerning file processing and retirement.",
+  "summary_ja": "この文書群は主に、メキシコシティで実施された写真撮影作戦であるプロジェクトKDAFGHANに関するものである。文書は、機材の要求（特殊レンズ、カメラ）、KDAFGHAN要員のパスポート更新、パルスカメラおよび関連機材の技術的問題、ファイル管理手順（ファイルの開設、修正、閉鎖）、暗号名の変更、監査報告書など、さまざまな側面をカバーしている。LIONION、AQUATIC、およびその他の関連作戦に関する言及が織り交ぜられている。また、ファイル処理および廃棄に関する管理通知も含まれている。",
+  "document_type": "Dispatch/Memo/Notice/Form",
+  "classification": "Administrative",
+  "security_level": "SECRET/CONFIDENTIAL",
   "date": "1963-11-01",
-  "locations_mentioned": [
-    "Mexico City",
-    "Panama City",
-    "Minneapolis"
-  ],
   "origin_agency": "CIA",
+  "sender": "Various",
+  "recipient": "Various",
   "persons_mentioned": [
     "John F. Kennedy",
     "Armstrong",
@@ -67,6 +44,31 @@
     "Catherine Van Combos",
     "Hidalgo"
   ],
-  "recipient": "Various",
-  "sender": "Various"
+  "locations_mentioned": [
+    "Mexico City",
+    "Panama City",
+    "Minneapolis"
+  ],
+  "tags": [
+    "KDAFGHAN",
+    "LIONION",
+    "AQUATIC",
+    "photography",
+    "Mexico City",
+    "passport renewal",
+    "technical equipment",
+    "pulse camera",
+    "file management",
+    "cryptonym",
+    "audit",
+    "counterintelligence",
+    "surveillance",
+    "Bals scope lens",
+    "catadioptric lenses",
+    "Spotmatics",
+    "PBRUMEN",
+    "KOFACTOR",
+    "cryptonyms",
+    "security procedures"
+  ]
 }

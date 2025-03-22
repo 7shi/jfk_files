@@ -1,8 +1,28 @@
 {
-  "classification": "Cuba",
-  "document_type": "Airtel",
-  "security_level": "Secret",
+  "title": "CARLOS HILARIO GONZALEZ IS - CUBA; RA - CUBA",
+  "title_ja": "カルロス・イラリオ・ゴンサレス・イス - キューバ; RA - キューバ",
   "summary": "FBI Miami Field Office reports an alleged plot by Carlos Hilario Gonzalez to kill Esteban Ventura, based on information from ANA ROSA GUERRA, an undercover CIA source working in Cuba. The information has been shared with local law enforcement, and Ventura will be advised of the threat.",
+  "summary_ja": "マイアミのFBI支局は、キューバで活動するCIAの秘密情報提供者であるANA ROSA GUERRAからの情報に基づき、カルロス・ハリリオ・ゴンザレスがエステバン・ベンチュラを殺害しようと企てているという疑惑を報告している。この情報は地元の法執行機関と共有されており、ベンチュラにはその脅威について通知される予定である。",
+  "document_type": "Airtel",
+  "classification": "Cuba",
+  "security_level": "Secret",
+  "date": "1959-10-27",
+  "origin_agency": "FBI",
+  "sender": "SAC, MIAMI",
+  "recipient": "DIRECTOR, FBI",
+  "persons_mentioned": [
+    "Carlos Hilario Gonzalez",
+    "Esteban Ventura",
+    "ANA ROSA GUERRA",
+    "BERNARD BARKER",
+    "ALBERTO BAYO COSGAYA",
+    "JOHN R. BARRON"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Miami",
+    "Dade County"
+  ],
   "tags": [
     "EPE",
     "GONZALEZ, CARLOS HILARIO",
@@ -16,23 +36,5 @@
     "ALBERTO BAYO COSGAYA",
     "Cuban Air Force",
     "Communist"
-  ],
-  "title": "CARLOS HILARIO GONZALEZ IS - CUBA; RA - CUBA",
-  "date": "1959-10-27",
-  "locations_mentioned": [
-    "Cuba",
-    "Miami",
-    "Dade County"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "Carlos Hilario Gonzalez",
-    "Esteban Ventura",
-    "ANA ROSA GUERRA",
-    "BERNARD BARKER",
-    "ALBERTO BAYO COSGAYA",
-    "JOHN R. BARRON"
-  ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "SAC, MIAMI"
+  ]
 }

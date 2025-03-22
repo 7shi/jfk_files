@@ -1,28 +1,15 @@
 {
-  "classification": "Commission",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Memorandum regarding a discussion with Warren Commission staff member W. David Slawson concerning inconsistencies between CIA and State Department information on Soviet emigration policies and the Oswalds' departure from the USSR.",
-  "tags": [
-    "Warren Commission",
-    "J. Lee Rankin",
-    "Richard Helms",
-    "W. David Slawson",
-    "Soviet emigration",
-    "exit visas",
-    "Marina Oswald",
-    "Soviet intelligence services"
-  ],
   "title": "Discussion with Warren Commission Staff Member",
+  "title_ja": "ウォーレン委員会スタッフとの議論",
+  "summary": "Memorandum regarding a discussion with Warren Commission staff member W. David Slawson concerning inconsistencies between CIA and State Department information on Soviet emigration policies and the Oswalds' departure from the USSR.",
+  "summary_ja": "ウォレン委員会スタッフのW. デビッド・スロウソンとの、ソ連の移民政策とオズワルド夫妻のソ連出国に関するCIAと国務省の情報間の矛盾に関する議論についての覚書。",
+  "document_type": "Memorandum",
+  "classification": "Commission",
+  "security_level": "SECRET",
   "date": "1964-07-09",
-  "locations_mentioned": [
-    "USSR",
-    "Moscow",
-    "Washington, D.C.",
-    "200 Maryland Avenue, N.E., Washington, D.C.",
-    "Soviet Union"
-  ],
   "origin_agency": "CIA",
+  "sender": "Lee H. Wigren",
+  "recipient": "Record",
   "persons_mentioned": [
     "John F. Kennedy",
     "J. Lee Rankin",
@@ -33,6 +20,21 @@
     "Meeker",
     "Lee H. Wigren"
   ],
-  "recipient": "Record",
-  "sender": "Lee H. Wigren"
+  "locations_mentioned": [
+    "USSR",
+    "Moscow",
+    "Washington, D.C.",
+    "200 Maryland Avenue, N.E., Washington, D.C.",
+    "Soviet Union"
+  ],
+  "tags": [
+    "Warren Commission",
+    "J. Lee Rankin",
+    "Richard Helms",
+    "W. David Slawson",
+    "Soviet emigration",
+    "exit visas",
+    "Marina Oswald",
+    "Soviet intelligence services"
+  ]
 }

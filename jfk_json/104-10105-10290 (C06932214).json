@@ -1,21 +1,15 @@
 {
-  "classification": "JFK Assassination",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This document discusses Mr. E. Howard Hunt's alias birth certificate and related matters.",
-  "tags": [
-    "E. Howard Hunt",
-    "alias birth certificate",
-    "tourist card",
-    "JFK Assassination"
-  ],
   "title": "Mr. E. Howard Hunt Alias Birth Certificate",
+  "title_ja": "E.ハワード・ハント氏 別名出生証明書",
+  "summary": "This document discusses Mr. E. Howard Hunt's alias birth certificate and related matters.",
+  "summary_ja": "この文書は、E・ハワード・ハント氏の偽名出生証明書および関連事項について述べている。",
+  "document_type": "Memorandum",
+  "classification": "JFK Assassination",
+  "security_level": "SECRET",
   "date": "1973-11-02",
-  "locations_mentioned": [
-    "Spain",
-    "Madrid"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, Cover & Commercial Staff",
+  "recipient": "Acting General Counsel",
   "persons_mentioned": [
     "E. Howard Hunt",
     "John S. Warner",
@@ -26,6 +20,14 @@
     "James W. Franklin",
     "Robert Johnson"
   ],
-  "recipient": "Acting General Counsel",
-  "sender": "Chief, Cover & Commercial Staff"
+  "locations_mentioned": [
+    "Spain",
+    "Madrid"
+  ],
+  "tags": [
+    "E. Howard Hunt",
+    "alias birth certificate",
+    "tourist card",
+    "JFK Assassination"
+  ]
 }

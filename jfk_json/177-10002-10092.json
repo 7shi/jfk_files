@@ -1,8 +1,28 @@
 {
-  "classification": "Cuba",
-  "document_type": "Intelligence Report",
-  "security_level": "Top Secret",
+  "title": "BRAZILIAN AMBASSADOR ASSESSES JOHNSON ADMINISTRATION",
+  "title_ja": "ブラジル大使がジョンソン政権を評価する",
   "summary": "Brazilian Ambassador assesses the potential impact of the Johnson administration on US foreign and domestic policies following President Kennedy's assassination.",
+  "summary_ja": "ブラジル大使が、ケネディ大統領暗殺後のジョンソン政権が米国の外交および国内政策に与える潜在的な影響を評価する。",
+  "document_type": "Intelligence Report",
+  "classification": "Cuba",
+  "security_level": "Top Secret",
+  "date": "11/26/1963",
+  "origin_agency": "CIA",
+  "sender": "BRAZILIAN EMBASSY",
+  "recipient": "RIO DE JANEIRO: FOREIGN MINISTRY",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Lyndon B. Johnson",
+    "Roberto Campos"
+  ],
+  "locations_mentioned": [
+    "Washington",
+    "Rio de Janeiro",
+    "Brazil",
+    "France",
+    "Western Europe",
+    "Latin America"
+  ],
   "tags": [
     "Lyndon B. Johnson",
     "John F. Kennedy",
@@ -17,23 +37,5 @@
     "Medical Aid",
     "Aid to the Aged",
     "Roberto Campos"
-  ],
-  "title": "BRAZILIAN AMBASSADOR ASSESSES JOHNSON ADMINISTRATION",
-  "date": "11/26/1963",
-  "locations_mentioned": [
-    "Washington",
-    "Rio de Janeiro",
-    "Brazil",
-    "France",
-    "Western Europe",
-    "Latin America"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Lyndon B. Johnson",
-    "Roberto Campos"
-  ],
-  "recipient": "RIO DE JANEIRO: FOREIGN MINISTRY",
-  "sender": "BRAZILIAN EMBASSY"
+  ]
 }

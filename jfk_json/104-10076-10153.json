@@ -1,8 +1,19 @@
 {
-  "classification": "John F. Kennedy Assassination Records Act",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "1104-10076-10153",
+  "title_ja": "1104-10076-10153",
   "summary": "This document discusses individuals PERGREN AMSTONE, THEMISTOCLES APOSPOROS, and GARCIA ROSELL. It includes references to DDP, CI, CI/CA, SAS 8, VR, and mentions a communication on 7 DEC 63 IN 75579, and DIA CITE WAVE 8542.",
+  "summary_ja": "この文書では、PERGREN AMSTONE、THEMISTOCLES APOSPOROS、GARCIA ROSELLの個人について言及している。DDP、CI、CI/CA、SAS 8、VRへの言及があり、1963年12月7日IN 75579での通信、およびDIA CITE WAVE 8542について言及している。",
+  "document_type": "Cable",
+  "classification": "John F. Kennedy Assassination Records Act",
+  "security_level": "SECRET",
+  "date": "1963-12-07",
+  "sender": "Unknown",
+  "recipient": "DIA",
+  "persons_mentioned": [
+    "THEMISTOCLES APOSPOROS",
+    "GARCIA ROSELL",
+    "PERGREN AMSTONE"
+  ],
   "tags": [
     "DDP",
     "CI",
@@ -14,14 +25,5 @@
     "GARCIA ROSELL",
     "DIA",
     "WAVE 8542"
-  ],
-  "title": "1104-10076-10153",
-  "date": "1963-12-07",
-  "persons_mentioned": [
-    "THEMISTOCLES APOSPOROS",
-    "GARCIA ROSELL",
-    "PERGREN AMSTONE"
-  ],
-  "recipient": "DIA",
-  "sender": "Unknown"
+  ]
 }

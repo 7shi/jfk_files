@@ -1,8 +1,28 @@
 {
-  "classification": "Operations",
-  "document_type": "Telegram Information Report",
-  "security_level": "SECRET",
+  "title": "Central Intelligence Agency Information Report: Apprehensions of Vietnamese Consul General in Singapore Regarding Recent Events in Vietnam",
+  "title_ja": "CIA情報報告書：ベトナムにおける最近の出来事に関するシンガポール在住ベトナム総領事の懸念",
   "summary": "Vietnamese Consul General in Singapore expresses concerns about recent political acts in Vietnam that may weaken the Diem regime, including the dismissal of officials and the Hue incident involving Buddhist protesters.",
+  "summary_ja": "シンガポールのベトナム総領事は、ベトナムにおける最近の政治的行為について懸念を表明している。その行為には、役人の解任や仏教徒の抗議者たちを巻き込んだフエ事件など、ディエム政権を弱体化させる可能性があるものも含まれている。",
+  "document_type": "Telegram Information Report",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-05-18",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "Tran Kim Phuong",
+    "Ngo Dinh Diem",
+    "Ngo Dinh Nhu",
+    "Huynh Van Lang",
+    "Tran Kim Tuyen",
+    "Ngo Dinh Thuc"
+  ],
+  "locations_mentioned": [
+    "Vietnam",
+    "Singapore",
+    "Hue"
+  ],
   "tags": [
     "Political instability",
     "Religious conflict",
@@ -14,23 +34,5 @@
     "Hue Incident",
     "Buddhists",
     "Catholics"
-  ],
-  "title": "Central Intelligence Agency Information Report: Apprehensions of Vietnamese Consul General in Singapore Regarding Recent Events in Vietnam",
-  "date": "1963-05-18",
-  "locations_mentioned": [
-    "Vietnam",
-    "Singapore",
-    "Hue"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Tran Kim Phuong",
-    "Ngo Dinh Diem",
-    "Ngo Dinh Nhu",
-    "Huynh Van Lang",
-    "Tran Kim Tuyen",
-    "Ngo Dinh Thuc"
-  ],
-  "recipient": "N/A",
-  "sender": "CIA"
+  ]
 }

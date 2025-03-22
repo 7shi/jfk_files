@@ -1,22 +1,24 @@
 {
-  "classification": "Soviet",
-  "document_type": "Memorandum",
-  "security_level": "CONFIDENTIAL",
-  "summary": "Memorandum regarding Boris Tarasoff being selected as an interpreter for a Soviet Delegation under State Department cover. No security objection was interposed.",
-  "tags": [
-    "Interpreter",
-    "Soviet Delegation",
-    "Exchange Program",
-    "State Department",
-    "Security"
-  ],
   "title": "Memorandum for the File",
+  "title_ja": "ファイル用覚書",
+  "summary": "Memorandum regarding Boris Tarasoff being selected as an interpreter for a Soviet Delegation under State Department cover. No security objection was interposed.",
+  "summary_ja": "国務省の保護下にあるソ連代表団の通訳としてボリス・タラソフが選出されたことに関する覚書。安全保障上の異議は申し立てられなかった。",
+  "document_type": "Memorandum",
+  "classification": "Soviet",
+  "security_level": "CONFIDENTIAL",
   "date": "1962-02-13",
+  "sender": "R. C. Svendiman",
   "persons_mentioned": [
     "TARASOFF, Boris",
     "Kuhn",
     "Sounitza",
     "Svendiman, R. C."
   ],
-  "sender": "R. C. Svendiman"
+  "tags": [
+    "Interpreter",
+    "Soviet Delegation",
+    "Exchange Program",
+    "State Department",
+    "Security"
+  ]
 }

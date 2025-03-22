@@ -1,27 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch from the Chief of Station, JMWAVE, concerns IDEN A (Alfred J. Moran), a wealthy New Orleans businessman used by JMWAVE for cover operations and funding. It details his involvement with YOCOUGH, other JMWAVE assets, and requests a 201 number be assigned to him.",
-  "tags": [
-    "JMWAVE",
-    "YOCOUGH",
-    "Cover Operations",
-    "Funding Mechanism",
-    "IDEN A",
-    "Alfred J. Moran",
-    "New Orleans",
-    "Businessmen",
-    "201 File"
-  ],
   "title": "Contact Report - IDEN A",
+  "title_ja": "連絡報告 - IDEN A",
+  "summary": "This dispatch from the Chief of Station, JMWAVE, concerns IDEN A (Alfred J. Moran), a wealthy New Orleans businessman used by JMWAVE for cover operations and funding. It details his involvement with YOCOUGH, other JMWAVE assets, and requests a 201 number be assigned to him.",
+  "summary_ja": "JMWAVEのチーフ・オブ・ステーションからの報告によると、IDEN A（アルフレッド・J・モラン）はニューオーリンズの裕福な実業家であり、JMWAVEは偽装工作と資金調達のために彼を利用している。この報告書では、YOCOUGH、その他のJMWAVEの協力者との彼の関わりについて詳しく説明しており、彼に201番号を割り当てるよう要請している。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1965-05-19",
-  "locations_mentioned": [
-    "New Orleans",
-    "Louisiana",
-    "Miami"
-  ],
   "origin_agency": "JMWAVE",
+  "sender": "Chief of Station, JMWAVE",
+  "recipient": "Chief, WH",
   "persons_mentioned": [
     "IDEN A",
     "Alfred J. Moran",
@@ -37,6 +25,20 @@
     "James Costello",
     "Andrew K. Reuteman"
   ],
-  "recipient": "Chief, WH",
-  "sender": "Chief of Station, JMWAVE"
+  "locations_mentioned": [
+    "New Orleans",
+    "Louisiana",
+    "Miami"
+  ],
+  "tags": [
+    "JMWAVE",
+    "YOCOUGH",
+    "Cover Operations",
+    "Funding Mechanism",
+    "IDEN A",
+    "Alfred J. Moran",
+    "New Orleans",
+    "Businessmen",
+    "201 File"
+  ]
 }

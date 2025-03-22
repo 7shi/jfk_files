@@ -1,8 +1,25 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "RYPAT TYPIC COMMO PETGOS AMAT HENA",
+  "title_ja": "RYPAT TYPIC COMMO PETGOS AMAT HENA",
   "summary": "This cable discusses the recruitment and training of agents in a network, mentioning individuals like Oreste Tamayo, Rolando Reyes, Medara Silva, and Roberto Legon. It expresses concerns about the thoroughness of background checks and the need for comprehensive training before assigning operational tasks. It also requests more information about a contact named Rene in Victoria.",
+  "summary_ja": "この電報では、ネットワークにおける工作員の採用と訓練について触れ、オレスト・タマヨ、ロランド・レイエス、メダラ・シルバ、ロベルト・レゴンといった人物について言及している。また、身元調査の徹底性と、実働任務を割り当てる前の包括的な訓練の必要性について懸念を表明している。さらに、ビクトリア在住のレネという人物に関する詳細情報の提供を求めている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-05-27",
+  "origin_agency": "JAMWAVE",
+  "sender": "DIRECTOR, JAMWAVE",
+  "recipient": "DDP, ADDP, D/OC 2/VR",
+  "persons_mentioned": [
+    "Oreste Tamayo",
+    "Rolando Reyes",
+    "Medara Silva",
+    "Roberto Legon",
+    "RENE"
+  ],
+  "locations_mentioned": [
+    "Victoria"
+  ],
   "tags": [
     "Recruitment",
     "Agent Training",
@@ -13,20 +30,5 @@
     "Medara Silva",
     "Roberto Legon",
     "RENE"
-  ],
-  "title": "RYPAT TYPIC COMMO PETGOS AMAT HENA",
-  "date": "1963-05-27",
-  "locations_mentioned": [
-    "Victoria"
-  ],
-  "origin_agency": "JAMWAVE",
-  "persons_mentioned": [
-    "Oreste Tamayo",
-    "Rolando Reyes",
-    "Medara Silva",
-    "Roberto Legon",
-    "RENE"
-  ],
-  "recipient": "DDP, ADDP, D/OC 2/VR",
-  "sender": "DIRECTOR, JAMWAVE"
+  ]
 }

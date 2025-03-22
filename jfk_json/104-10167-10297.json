@@ -1,8 +1,32 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "Operational Delivery of Material to Subjects",
+  "title_ja": "対象者への物質の作戦配達",
   "summary": "Dispatch from COS, San Salvador, requesting delivery of materials to subjects in reference to operational matters.",
+  "summary_ja": "サンサルバドルのCOSからの派遣状、作戦に関する件で対象者への物資の配達を要請。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1959-06-16",
+  "origin_agency": "COS, San Salvador",
+  "sender": "COS, San Salvador",
+  "recipient": "Chief",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Arthur K. Galant",
+    "Jose H. Leiis",
+    "Agustin 3. Elizalde",
+    "Kurt Singer",
+    "David Rosenberg",
+    "Mauricio Carlavilla",
+    "Pedro Dinz Landda",
+    "Jand Candies Diaz Rojas"
+  ],
+  "locations_mentioned": [
+    "Habana",
+    "San Salvador",
+    "Miami",
+    "Cuba"
+  ],
   "tags": [
     "Tribuna Libre",
     "Opinion estudiantil",
@@ -15,27 +39,5 @@
     "KRUSCHEV",
     "David Rosenberg",
     "Mauricio Carlavilla"
-  ],
-  "title": "Operational Delivery of Material to Subjects",
-  "date": "1959-06-16",
-  "locations_mentioned": [
-    "Habana",
-    "San Salvador",
-    "Miami",
-    "Cuba"
-  ],
-  "origin_agency": "COS, San Salvador",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Arthur K. Galant",
-    "Jose H. Leiis",
-    "Agustin 3. Elizalde",
-    "Kurt Singer",
-    "David Rosenberg",
-    "Mauricio Carlavilla",
-    "Pedro Dinz Landda",
-    "Jand Candies Diaz Rojas"
-  ],
-  "recipient": "Chief",
-  "sender": "COS, San Salvador"
+  ]
 }

@@ -1,39 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses AMBANG-1's plans to travel to PBRUMEN (likely Cuba) and coordinate actions with individuals there. It details travel arrangements, including boats, meeting points, and personnel involved. The cable also mentions AMBANG-1's interactions with TIME Magazine and potential disinformation efforts.",
-  "tags": [
-    "AMBANG-1",
-    "PBRUMEN",
-    "Cuba",
-    "Gatillo",
-    "RYBOVITCH",
-    "Chris Craft",
-    "COJIMAR",
-    "AMTHUG-1",
-    "ODENVY",
-    "TIME Magazine"
-  ],
   "title": "ROBATIC YOBITE AMBANG",
+  "title_ja": "ロバティック・ヨバイト・アンバン",
+  "summary": "This cable discusses AMBANG-1's plans to travel to PBRUMEN (likely Cuba) and coordinate actions with individuals there. It details travel arrangements, including boats, meeting points, and personnel involved. The cable also mentions AMBANG-1's interactions with TIME Magazine and potential disinformation efforts.",
+  "summary_ja": "この電報は、AMBANG-1がPBRUMEN（おそらくキューバ）に渡航し、現地の個人と行動を調整する計画について述べている。 電報は、渡航の手配について詳しく述べ、ボート、集合場所、関係者などを含んでいる。 また、電報は、AMBANG-1と『タイム』誌とのやりとりや、偽情報を流す可能性についても言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-06-27",
-  "locations_mentioned": [
-    "FORT LAUDERDALE",
-    "INTERNATIONAL MARINE DOCK",
-    "MIAMI",
-    "ANACAPRI PIER",
-    "NORTH RIVER DRIVE",
-    "PBPRIME",
-    "COJIMAR",
-    "HABANA",
-    "WEST PALM BEACH",
-    "PUERTO RICO",
-    "VARADERO",
-    "NEW YORK",
-    "NW 38TH ST",
-    "19TH AVE"
-  ],
   "origin_agency": "CIA",
+  "sender": "SMWAVE",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "AMBANG-1",
     "PEPE GATILLO",
@@ -51,6 +27,32 @@
     "ED REINGOLD",
     "GEORGE DANIELS"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "SMWAVE"
+  "locations_mentioned": [
+    "FORT LAUDERDALE",
+    "INTERNATIONAL MARINE DOCK",
+    "MIAMI",
+    "ANACAPRI PIER",
+    "NORTH RIVER DRIVE",
+    "PBPRIME",
+    "COJIMAR",
+    "HABANA",
+    "WEST PALM BEACH",
+    "PUERTO RICO",
+    "VARADERO",
+    "NEW YORK",
+    "NW 38TH ST",
+    "19TH AVE"
+  ],
+  "tags": [
+    "AMBANG-1",
+    "PBRUMEN",
+    "Cuba",
+    "Gatillo",
+    "RYBOVITCH",
+    "Chris Craft",
+    "COJIMAR",
+    "AMTHUG-1",
+    "ODENVY",
+    "TIME Magazine"
+  ]
 }

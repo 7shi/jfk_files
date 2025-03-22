@@ -1,18 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "List",
-  "security_level": "Unclassified",
-  "summary": "This document appears to be a list of names and dates, possibly related to personnel records.",
-  "tags": [
-    "personnel",
-    "names",
-    "dates",
-    "CIA"
-  ],
   "title": "Personnel List 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "人事リスト 2025 1992年ジョン・F・ケネディ暗殺記録法に基づく大統領令による開示",
+  "summary": "This document appears to be a list of names and dates, possibly related to personnel records.",
+  "summary_ja": "この文書は、おそらく人事記録に関連すると思われる、名前と日付のリストであると思われる。",
+  "document_type": "List",
+  "classification": "Personnel",
+  "security_level": "Unclassified",
   "date": "2025",
-  "locations_mentioned": [],
   "origin_agency": "CIA",
+  "sender": "N/A",
+  "recipient": "N/A",
   "persons_mentioned": [
     "Addicott, Kenneth K.",
     "Northrop, Johnston K.",
@@ -100,6 +97,11 @@
     "Matt, Charles",
     "Maury, Johח I"
   ],
-  "recipient": "N/A",
-  "sender": "N/A"
+  "locations_mentioned": [],
+  "tags": [
+    "personnel",
+    "names",
+    "dates",
+    "CIA"
+  ]
 }

@@ -1,32 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "These documents relate to the operational status and biographical data of Thomas E. Davis, including security checks, employment history, neighborhood investigation, and requests for operational clearance. The documents indicate interest in Davis for mapping work and operational use, with checks conducted by various agencies, including the FBI. Also included are biographical notes of James S. Ovens, the Director, Ohio State University Research Foundation, for operational clearance.",
-  "tags": [
-    "Thomas E. Davis",
-    "Operational Clearance",
-    "Security Checks",
-    "Ohio State University Research Foundation",
-    "Mapping Work",
-    "FBI Investigation",
-    "James S. Ovens",
-    "Biographical Data"
-  ],
   "title": "Thomas E. Davis Security and Operational Status",
+  "title_ja": "トーマス・E・デイビス セキュリティおよび運用状況",
+  "summary": "These documents relate to the operational status and biographical data of Thomas E. Davis, including security checks, employment history, neighborhood investigation, and requests for operational clearance. The documents indicate interest in Davis for mapping work and operational use, with checks conducted by various agencies, including the FBI. Also included are biographical notes of James S. Ovens, the Director, Ohio State University Research Foundation, for operational clearance.",
+  "summary_ja": "これらの文書は、トーマス・E・デイビスの業務状況と経歴に関するもので、セキュリティチェック、雇用履歴、近隣調査、業務上の機密情報入手の要請などが含まれている。これらの文書は、デイビスの地図作成業務と業務上の利用に関心を示しており、FBIを含むさまざまな機関によるチェックが行われている。また、業務上の機密情報入手の要請として、オハイオ州立大学研究財団の理事であるジェームズ・S・オーエンスの経歴に関するメモも含まれている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
   "date": "1951-12-21",
-  "locations_mentioned": [
-    "Columbus, Ohio",
-    "Wellston, Ohio",
-    "Hilliard, Ohio",
-    "Cincinnati, Ohio",
-    "Pittsburgh, Pennsylvania",
-    "Fort George G. Meade, Maryland",
-    "Washington, D. C.",
-    "Europe",
-    "New York"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, CI/Operational Approval and Support Division",
+  "recipient": "Chief, CI/Operational Approval and Support Division",
   "persons_mentioned": [
     "Thomas E. Davis",
     "Jeune LESUE WIZELMAN",
@@ -48,6 +31,25 @@
     "Mr. Osborn",
     "Harris Lyons"
   ],
-  "recipient": "Chief, CI/Operational Approval and Support Division",
-  "sender": "Chief, CI/Operational Approval and Support Division"
+  "locations_mentioned": [
+    "Columbus, Ohio",
+    "Wellston, Ohio",
+    "Hilliard, Ohio",
+    "Cincinnati, Ohio",
+    "Pittsburgh, Pennsylvania",
+    "Fort George G. Meade, Maryland",
+    "Washington, D. C.",
+    "Europe",
+    "New York"
+  ],
+  "tags": [
+    "Thomas E. Davis",
+    "Operational Clearance",
+    "Security Checks",
+    "Ohio State University Research Foundation",
+    "Mapping Work",
+    "FBI Investigation",
+    "James S. Ovens",
+    "Biographical Data"
+  ]
 }

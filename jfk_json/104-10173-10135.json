@@ -1,8 +1,31 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Collection of Intelligence Reports on Cuba",
+  "title_ja": "キューバに関する諜報報告書コレクション",
   "summary": "This document appears to be a collection of intelligence reports, possibly related to the Cuban Missile Crisis or other Cold War activities. It includes various memos, dispatches, and cables, likely containing information about Soviet activities in Cuba, US responses, and related political and military strategies. The reports contain sensitive information about personnel, operations, and security matters.",
+  "summary_ja": "この文書は、おそらくキューバ危機やその他の冷戦活動に関連する情報報告書の集まりのようだ。さまざまなメモ、報告書、電報が含まれており、おそらくキューバにおけるソビエトの活動、米国の対応、関連する政治および軍事戦略に関する情報が含まれている。報告書には、人員、業務、安全保障に関する機密情報が含まれている。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-10-22",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "sender": "Chief of Cuban Operations",
+  "recipient": "Director of Central Intelligence (DCI)",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Nikita Khrushchev",
+    "Fidel Castro",
+    "Robert Kennedy",
+    "Dean Rusk",
+    "Anatoly Dobrynin"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Soviet Union",
+    "United States",
+    "Moscow",
+    "Washington D.C.",
+    "Guantanamo Bay"
+  ],
   "tags": [
     "Cuban Missile Crisis",
     "Cold War",
@@ -15,26 +38,5 @@
     "National Security",
     "CIA",
     "KGB"
-  ],
-  "title": "Collection of Intelligence Reports on Cuba",
-  "date": "1962-10-22",
-  "locations_mentioned": [
-    "Cuba",
-    "Soviet Union",
-    "United States",
-    "Moscow",
-    "Washington D.C.",
-    "Guantanamo Bay"
-  ],
-  "origin_agency": "Central Intelligence Agency (CIA)",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Nikita Khrushchev",
-    "Fidel Castro",
-    "Robert Kennedy",
-    "Dean Rusk",
-    "Anatoly Dobrynin"
-  ],
-  "recipient": "Director of Central Intelligence (DCI)",
-  "sender": "Chief of Cuban Operations"
+  ]
 }

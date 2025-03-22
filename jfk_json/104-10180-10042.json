@@ -1,8 +1,31 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch/Report/Memo/Telegram",
-  "security_level": "SECRET",
+  "title": "Cuban Uy Mission and DGI Center Analysis/Rogelio Rodriguez Lopez Activities",
+  "title_ja": "キューバのUYミッションとDGIセンター分析／ロジェリオ・ロドリゲス・ロペス活動",
   "summary": "This collection of documents details the activities and personnel of the Cuban Mission to the United Nations (CMUN) and the DGI (Cuban Intelligence Directorate) Center in New York, including Rogelio Rodriguez Lopez's activities in Mexico City. It covers personnel assignments, travel, and communications between Cuban officials and other parties.",
+  "summary_ja": "この文書集は、ニューヨークのキューバ国連代表団（CMUN）およびDGI（キューバ情報局）センターの活動と人員について詳細に述べている。これには、ロヘリオ・ロドリゲス・ロペスのメキシコシティでの活動も含まれる。この文書集は、キューバ当局者とその他の当事者間の人員配置、旅行、通信について述べている。",
+  "document_type": "Dispatch/Report/Memo/Telegram",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1970-04-13",
+  "origin_agency": "CIA",
+  "sender": "Chief of Station, WH/MIAMI, Chief, Domestic Operations, Chief of Base, New York",
+  "recipient": "Chief, WH/COG, Chief of Station, WH/MIAMI, Chief, Domestic Operations",
+  "persons_mentioned": [
+    "Rogelio Rodriguez Lopez",
+    "Orlando Prendes Gutierrez",
+    "Victor Manuel Gutierrez",
+    "Jose Raul Viera Linares",
+    "Pablo Drake Capiro",
+    "Rolando Perez Alfonso",
+    "Miguel Manuel Santana Fraiz",
+    "Justo Cesar Gelabert Martinez"
+  ],
+  "locations_mentioned": [
+    "New York",
+    "Cuba",
+    "Mexico City",
+    "Guatemala"
+  ],
   "tags": [
     "CMUN",
     "Cuban Mission to the United Nations",
@@ -41,26 +64,5 @@
     "FERNANDEZ Padilla",
     "ABREU BASURTO",
     "GABINO FERNANDEZ"
-  ],
-  "title": "Cuban Uy Mission and DGI Center Analysis/Rogelio Rodriguez Lopez Activities",
-  "date": "1970-04-13",
-  "locations_mentioned": [
-    "New York",
-    "Cuba",
-    "Mexico City",
-    "Guatemala"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Rogelio Rodriguez Lopez",
-    "Orlando Prendes Gutierrez",
-    "Victor Manuel Gutierrez",
-    "Jose Raul Viera Linares",
-    "Pablo Drake Capiro",
-    "Rolando Perez Alfonso",
-    "Miguel Manuel Santana Fraiz",
-    "Justo Cesar Gelabert Martinez"
-  ],
-  "recipient": "Chief, WH/COG, Chief of Station, WH/MIAMI, Chief, Domestic Operations",
-  "sender": "Chief of Station, WH/MIAMI, Chief, Domestic Operations, Chief of Base, New York"
+  ]
 }

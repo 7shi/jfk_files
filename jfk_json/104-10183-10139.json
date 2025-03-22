@@ -1,8 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DIR 62066: Study ON CUBAN TRANSPORT System.",
+  "title_ja": "DIR 62066: キューバ輸送システムに関する研究。",
   "summary": "Cable regarding a study on the Cuban transport system, requesting that the study be obtained and forwarded to headquarters. It also discusses the approach for obtaining the study, whether openly or clandestinely.",
+  "summary_ja": "キューバの輸送システムに関する研究について、その研究を入手し、本部に転送するよう要請する。また、その研究を公然または秘密裏に取得する方法についても議論している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1964-11-05",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "(PARIS) 15-4",
+  "persons_mentioned": [
+    "THOMAS F. THIELE"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "PARIS",
+    "MADR"
+  ],
   "tags": [
     "Cuban transport system",
     "study",
@@ -10,18 +25,5 @@
     "PBRUMEN",
     "AMWHIP",
     "MHVIPER"
-  ],
-  "title": "DIR 62066: Study ON CUBAN TRANSPORT System.",
-  "date": "1964-11-05",
-  "locations_mentioned": [
-    "Cuba",
-    "PARIS",
-    "MADR"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "THOMAS F. THIELE"
-  ],
-  "recipient": "(PARIS) 15-4",
-  "sender": "DIRECTOR"
+  ]
 }

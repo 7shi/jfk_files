@@ -1,8 +1,25 @@
 {
-  "classification": "Medical",
-  "document_type": "Hospital Bill",
-  "security_level": "UNCLASSIFIED",
+  "title": "Hospital Bill for Rigoberto Cruz Perez",
+  "title_ja": "リゴベルト・クルーズ・ペレスの病院請求書",
   "summary": "This document appears to be a hospital bill for Rigoberto Cruz Perez from a hospital in Hialeah, Florida, dated September 12, 1965. It includes charges for various services, payments, and outstanding balances.",
+  "summary_ja": "この文書は、1965年9月12日付けで、フロリダ州ハイアリアの病院からリゴベルト・クルス・ペレス氏宛てに発行された病院請求書のようだ。この文書には、各種サービス、支払い、未払い残高の請求が記載されている。",
+  "document_type": "Hospital Bill",
+  "classification": "Medical",
+  "security_level": "UNCLASSIFIED",
+  "date": "1965-09-12",
+  "origin_agency": "Unknown (Hospital)",
+  "sender": "Unknown (Hospital)",
+  "recipient": "RIGOBERTO (CRUZ)",
+  "persons_mentioned": [
+    "CRUZ, RIGOBERTO",
+    "A. VARGAS",
+    "H. M SIMON, JR., M.D.",
+    "RALPH L. PIPES. MD"
+  ],
+  "locations_mentioned": [
+    "Miami, FLA.",
+    "HIALEAH, FLA"
+  ],
   "tags": [
     "hospital bill",
     "medical expenses",
@@ -10,20 +27,5 @@
     "insurance",
     "Hialeah",
     "Florida"
-  ],
-  "title": "Hospital Bill for Rigoberto Cruz Perez",
-  "date": "1965-09-12",
-  "locations_mentioned": [
-    "Miami, FLA.",
-    "HIALEAH, FLA"
-  ],
-  "origin_agency": "Unknown (Hospital)",
-  "persons_mentioned": [
-    "CRUZ, RIGOBERTO",
-    "A. VARGAS",
-    "H. M SIMON, JR., M.D.",
-    "RALPH L. PIPES. MD"
-  ],
-  "recipient": "RIGOBERTO (CRUZ)",
-  "sender": "Unknown (Hospital)"
+  ]
 }

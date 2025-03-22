@@ -1,8 +1,21 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Cable Regarding Jose Luis (ZALA)",
+  "title_ja": "ホセ・ルイス（サラ）に関する電報",
   "summary": "This cable discusses Jose Luis (ZALA) and his possible connection to Jose Luis (ZALA), 201-350050, who is registered with an answering service at the same address.",
+  "summary_ja": "この電報では、ホセ・ルイス（ZALA）と、同じ住所で応答サービスに登録されているホセ・ルイス（ZALA）、201-350050との関連について議論している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1963-09-30",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "JESIAVE MEXICO CITY",
+  "persons_mentioned": [
+    "JOSE LUIS (ZALA)"
+  ],
+  "locations_mentioned": [
+    "MEXICO CITY"
+  ],
   "tags": [
     "RYBAT",
     "TYPIC",
@@ -13,16 +26,5 @@
     "201-350050",
     "ULITMAS NOVEDADES S.A.",
     "MEXI"
-  ],
-  "title": "Cable Regarding Jose Luis (ZALA)",
-  "date": "1963-09-30",
-  "locations_mentioned": [
-    "MEXICO CITY"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "JOSE LUIS (ZALA)"
-  ],
-  "recipient": "JESIAVE MEXICO CITY",
-  "sender": "DIRECTOR"
+  ]
 }

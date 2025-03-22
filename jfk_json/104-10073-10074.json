@@ -1,31 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "Progress report for AMCUTLER-1 operation in November and December 1962, detailing support for AMTAUNA, development of KUTUBE operations, potential courier channels, and information on individuals related to Cuba.",
-  "tags": [
-    "AMCUTLER-1",
-    "AMTAUNA",
-    "KUTUBE",
-    "courier channel",
-    "Cuba",
-    "espionage",
-    "military use of caves"
-  ],
   "title": "AMCUTLER-1 Progress Report for November and December 1962",
+  "title_ja": "AMCUTLER-1 1962年11月および12月の進捗報告書",
+  "summary": "Progress report for AMCUTLER-1 operation in November and December 1962, detailing support for AMTAUNA, development of KUTUBE operations, potential courier channels, and information on individuals related to Cuba.",
+  "summary_ja": "1962年11月と12月のAMCUTLER-1作戦の進捗報告書。AMTAUNAへの支援、KUTUBE作戦の開発、潜在的なクーリエ経路、キューバ関連人物に関する情報を詳細に記載。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1963-01-09",
-  "locations_mentioned": [
-    "Miami, Fla.",
-    "Havana, Cuba",
-    "Trinidad",
-    "Las Villas",
-    "Soroa Zone",
-    "Candelaria",
-    "Pinar del Rio",
-    "Puerto Rico",
-    "Spain"
-  ],
   "origin_agency": "JMWAVE",
+  "sender": "Chief of Station, JMWAVE",
+  "recipient": "Chief, Task Force W",
   "persons_mentioned": [
     "Gonzalo ARELEM Martin",
     "Manuel ARELEM Martin",
@@ -42,6 +26,24 @@
     "Reinard LOPEZ Llub",
     "Enrique CEIJAS"
   ],
-  "recipient": "Chief, Task Force W",
-  "sender": "Chief of Station, JMWAVE"
+  "locations_mentioned": [
+    "Miami, Fla.",
+    "Havana, Cuba",
+    "Trinidad",
+    "Las Villas",
+    "Soroa Zone",
+    "Candelaria",
+    "Pinar del Rio",
+    "Puerto Rico",
+    "Spain"
+  ],
+  "tags": [
+    "AMCUTLER-1",
+    "AMTAUNA",
+    "KUTUBE",
+    "courier channel",
+    "Cuba",
+    "espionage",
+    "military use of caves"
+  ]
 }

@@ -1,35 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This document discusses plans to exploit Khrushchev's visit to Cuba by instigating a massive church manifestation or rally and spreading rumors of an assassination attempt. It details the involvement of various individuals and organizations, including Bishop Boza Masvidalis, Jose Lavastida, and CELAM, as well as media outlets like WRUL.",
-  "tags": [
-    "Khrushchev",
-    "Cuba",
-    "Soviet Union",
-    "Church",
-    "Assassination",
-    "Rumors",
-    "CELAM",
-    "WRUL",
-    "Manifestation",
-    "Rally",
-    "Boza Masvidalis",
-    "Lavastida"
-  ],
   "title": "Operational Exploitation of Khrushchev Visit to Cuba",
+  "title_ja": "フルシチョフのキューバ訪問の運用上の利用",
+  "summary": "This document discusses plans to exploit Khrushchev's visit to Cuba by instigating a massive church manifestation or rally and spreading rumors of an assassination attempt. It details the involvement of various individuals and organizations, including Bishop Boza Masvidalis, Jose Lavastida, and CELAM, as well as media outlets like WRUL.",
+  "summary_ja": "この文書は、フルシチョフのキューバ訪問を悪用する計画について論じている。それは、大規模な教会のデモや集会を扇動し、暗殺未遂の噂を流すというものだ。この文書は、ボザ・マスビダリス司教、ホセ・ラバスティダ、CELAM、WRULなどのメディア機関を含む、さまざまな個人や組織の関与について詳細に述べている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1960-07-05",
-  "locations_mentioned": [
-    "Cuba",
-    "Habana",
-    "Mexico",
-    "Latin America",
-    "Camaguey",
-    "Santiago",
-    "Bogota",
-    "Miami"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, Western Hemisphere Division",
+  "recipient": "Director of Central Intelligence",
   "persons_mentioned": [
     "Khrushchev",
     "Toomey",
@@ -44,6 +24,28 @@
     "Rudy Gomez",
     "David A. Phillips"
   ],
-  "recipient": "Director of Central Intelligence",
-  "sender": "Chief, Western Hemisphere Division"
+  "locations_mentioned": [
+    "Cuba",
+    "Habana",
+    "Mexico",
+    "Latin America",
+    "Camaguey",
+    "Santiago",
+    "Bogota",
+    "Miami"
+  ],
+  "tags": [
+    "Khrushchev",
+    "Cuba",
+    "Soviet Union",
+    "Church",
+    "Assassination",
+    "Rumors",
+    "CELAM",
+    "WRUL",
+    "Manifestation",
+    "Rally",
+    "Boza Masvidalis",
+    "Lavastida"
+  ]
 }

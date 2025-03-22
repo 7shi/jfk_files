@@ -1,20 +1,19 @@
 {
-  "classification": "FOREIGN RELATIONS",
-  "document_type": "CIA Information Report",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This document is a CIA information report regarding a white paper being prepared by Gene Gregory of the Times of Vietnam at the request of Madame Ngo Dinh Nhu. The white paper sets forth the Government of Vietnam's position on the Buddhist issue, American presence and policy in South Vietnam.",
-  "tags": [
-    "Vietnam",
-    "Buddhist Issue",
-    "American Policy",
-    "White Paper",
-    "Ngo Dinh Nhu",
-    "Gene Gregory",
-    "Times of Vietnam",
-    "Diem Regime"
-  ],
   "title": "CIA Information Report",
+  "title_ja": "CIA情報報告書",
+  "summary": "This document is a CIA information report regarding a white paper being prepared by Gene Gregory of the Times of Vietnam at the request of Madame Ngo Dinh Nhu. The white paper sets forth the Government of Vietnam's position on the Buddhist issue, American presence and policy in South Vietnam.",
+  "summary_ja": "この文書は、マダム・グエン・ディン・ニュの要請により、タイムズ・オブ・ベトナムのジーン・グレゴリーが作成した白書に関するCIAの情報報告書である。白書では、ベトナム政府の仏教問題に対する立場、南ベトナムにおける米国の存在と政策が示されている。",
+  "document_type": "CIA Information Report",
+  "classification": "FOREIGN RELATIONS",
+  "security_level": "CONFIDENTIAL",
   "date": "1963-06-19",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "STATE/INR DIA ARMY/ACSI NAVY AIR JCS SECDEF NIC NSA AID USIA OCI ONE OCR ORR 081 00 STATE/DIR",
+  "persons_mentioned": [
+    "Gene Gregory",
+    "Ngo Dinh Nhu"
+  ],
   "locations_mentioned": [
     "South Vietnam",
     "Vietnam",
@@ -24,11 +23,14 @@
     "France",
     "England"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
+  "tags": [
+    "Vietnam",
+    "Buddhist Issue",
+    "American Policy",
+    "White Paper",
+    "Ngo Dinh Nhu",
     "Gene Gregory",
-    "Ngo Dinh Nhu"
-  ],
-  "recipient": "STATE/INR DIA ARMY/ACSI NAVY AIR JCS SECDEF NIC NSA AID USIA OCI ONE OCR ORR 081 00 STATE/DIR",
-  "sender": "CIA"
+    "Times of Vietnam",
+    "Diem Regime"
+  ]
 }

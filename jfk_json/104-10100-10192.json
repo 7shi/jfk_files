@@ -1,24 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses the impact of Hurricane Flora on Cuba and its potential effect on sabotage operations against Cuban shipping. It instructs a temporary halt to these operations to reassess the situation.",
-  "tags": [
-    "Hurricane Flora",
-    "sabotage",
-    "Cuban shipping",
-    "maritime cargoes",
-    "food",
-    "medicine",
-    "Rio Cronso"
-  ],
   "title": "HURRICANE FLORA DAMAGE TO CUBA AND SABOTAGE OPS",
+  "title_ja": "HURRICANE キューバのFLORA被害と妨害工作",
+  "summary": "This cable discusses the impact of Hurricane Flora on Cuba and its potential effect on sabotage operations against Cuban shipping. It instructs a temporary halt to these operations to reassess the situation.",
+  "summary_ja": "本電報は、キューバに対するハリケーン・フローラの影響と、キューバの船舶に対する妨害工作活動への潜在的影響について述べている。状況を再評価するために、これらの活動の一時停止を指示している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-10-11",
-  "locations_mentioned": [
-    "Cuba",
-    "CURA"
-  ],
   "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "HAMBURG, FRANKFURT, HAGUE, MADRID, PARIS, LONGI",
   "persons_mentioned": [
     "FITZGERALD",
     "Tislly Jones",
@@ -28,6 +19,17 @@
     "Roger Ruin",
     "KURARD A. MARELIUS"
   ],
-  "recipient": "HAMBURG, FRANKFURT, HAGUE, MADRID, PARIS, LONGI",
-  "sender": "DIRECTOR"
+  "locations_mentioned": [
+    "Cuba",
+    "CURA"
+  ],
+  "tags": [
+    "Hurricane Flora",
+    "sabotage",
+    "Cuban shipping",
+    "maritime cargoes",
+    "food",
+    "medicine",
+    "Rio Cronso"
+  ]
 }

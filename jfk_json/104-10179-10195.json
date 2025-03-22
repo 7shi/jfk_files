@@ -1,8 +1,29 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Cables regarding activities in Central America and identification of individuals",
+  "title_ja": "中米での活動と個人識別に関する",
   "summary": "This document discusses a meeting between ODACID POLIT officer Michael H. Martuffi and IOS, an engineering consultant, regarding Natolo Ray's training effort in Costa Rica. It also mentions IOEN's knowledge of Central American situation, his connection to Manolo Ray, and a boat he bought in Puerto Rico. The document further identifies IDEN as Zachary De Caster of Smith and Gillespie FUCISEFES, Jacksonville, Florida.",
+  "summary_ja": "この文書は、ODACID POLIT担当官マイケル・H・マルトゥフィとエンジニアリングコンサルタントのIOSとの会合について述べている。会合は、ナトロ・レイの訓練努力に関するもので、コスタリカで行われた。また、IOENの中米情勢に関する知識、マノロ・レイとのつながり、プエルトリコで購入したボートについても言及している。さらに、この文書は、IDENをフロリダ州ジャクソンビルにあるスミス・アンド・ギレスピーFUCISEFESのザカリー・デ・キャスターであると特定している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962",
+  "origin_agency": "CIA",
+  "sender": "San Jose",
+  "recipient": "Director",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Michael H. Martuffi",
+    "Natolo Ray",
+    "Manolo Ray",
+    "Zachary De Caster"
+  ],
+  "locations_mentioned": [
+    "San Jose",
+    "Costa Rica",
+    "Puerto Rico",
+    "Central America",
+    "Jacksonville, Florida"
+  ],
   "tags": [
     "ODACID",
     "POLIT",
@@ -19,24 +40,5 @@
     "RYBAT",
     "YOBITE",
     "ODACID POLIT OFFICER"
-  ],
-  "title": "Cables regarding activities in Central America and identification of individuals",
-  "date": "1962",
-  "locations_mentioned": [
-    "San Jose",
-    "Costa Rica",
-    "Puerto Rico",
-    "Central America",
-    "Jacksonville, Florida"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Michael H. Martuffi",
-    "Natolo Ray",
-    "Manolo Ray",
-    "Zachary De Caster"
-  ],
-  "recipient": "Director",
-  "sender": "San Jose"
+  ]
 }

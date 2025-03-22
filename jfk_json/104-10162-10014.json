@@ -1,24 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Routing and Record Sheet",
-  "security_level": "SECRET",
-  "summary": "This document is a routing and record sheet from the Western Hemisphere Division concerning Ivan Gavrilevich ALFEROV, who requested an Argentine visa for temporary duty at the Soviet Embassy. It includes routing information, document numbers, and distribution details.",
-  "tags": [
-    "routing sheet",
-    "Ivan Gavrilevich ALFEROV",
-    "Argentine visa",
-    "Soviet Embassy",
-    "REDCAP sheet",
-    "full headquarters traces"
-  ],
   "title": "Operational/REDCAP - Ivan Gavrilevich ALFEROV",
+  "title_ja": "業務/REDCAP - Ivan Gavrilevich ALFEROV",
+  "summary": "This document is a routing and record sheet from the Western Hemisphere Division concerning Ivan Gavrilevich ALFEROV, who requested an Argentine visa for temporary duty at the Soviet Embassy. It includes routing information, document numbers, and distribution details.",
+  "summary_ja": "この文書は、ソ連大使館での一時的な任務のためにアルゼンチンビザを申請したイワン・ガブリレヴィッチ・アルフェロフに関する、西半球部門からの回覧および記録用紙である。回覧情報、文書番号、配布の詳細が記載されている。",
+  "document_type": "Routing and Record Sheet",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1958-10-21",
-  "locations_mentioned": [
-    "Argentina",
-    "Buenos Aires",
-    "Soviet Embassy"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, Western Hemisphere Division",
+  "recipient": "Chief of Station, Buenos Aires",
   "persons_mentioned": [
     "Ivan Gavrilevich ALFEROV",
     "Lozupone",
@@ -27,6 +18,17 @@
     "OLIVER G. GALBOND",
     "ALFEROV, Ivan Havrilovich"
   ],
-  "recipient": "Chief of Station, Buenos Aires",
-  "sender": "Chief, Western Hemisphere Division"
+  "locations_mentioned": [
+    "Argentina",
+    "Buenos Aires",
+    "Soviet Embassy"
+  ],
+  "tags": [
+    "routing sheet",
+    "Ivan Gavrilevich ALFEROV",
+    "Argentine visa",
+    "Soviet Embassy",
+    "REDCAP sheet",
+    "full headquarters traces"
+  ]
 }

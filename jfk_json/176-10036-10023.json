@@ -1,28 +1,30 @@
 {
-  "classification": "Information Report",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Withdrawal of United Nations Troops from the Congo",
+  "title_ja": "コンゴからの国連軍撤退",
   "summary": "This document discusses plans for the withdrawal of United Nations troops from the Congo at the end of 1963, despite Congolese Premier Cyrille Adoula's requests to the contrary. A new method of financing the Congo operation, maintaining 40-50 percent troop strength, is suggested, but the Secretary General's ability to accept outside funds is debated.",
+  "summary_ja": "この文書は、1963年末のコンゴからの国連軍撤退計画について論じている。コンゴ首相シリル・アドゥーラの反対要請にもかかわらずである。コンゴ作戦の新たな資金調達方法として、40～50％の兵力維持が提案されたが、事務総長が外部資金を受け入れる能力について議論されている。",
+  "document_type": "Report",
+  "classification": "Information Report",
+  "security_level": "SECRET",
+  "date": "1963-08-00",
+  "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "U.S. MISSION",
+  "persons_mentioned": [
+    "Cyrille Adoula",
+    "HUGHES",
+    "MATTHIAS"
+  ],
+  "locations_mentioned": [
+    "United Nations",
+    "Congo",
+    "NEW YORK"
+  ],
   "tags": [
     "United Nations",
     "Congo",
     "Withdrawal of Troops",
     "Financing",
     "Cyrille Adoula"
-  ],
-  "title": "Withdrawal of United Nations Troops from the Congo",
-  "date": "1963-08-00",
-  "locations_mentioned": [
-    "United Nations",
-    "Congo",
-    "NEW YORK"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Cyrille Adoula",
-    "HUGHES",
-    "MATTHIAS"
-  ],
-  "recipient": "U.S. MISSION",
-  "sender": ""
+  ]
 }

@@ -1,8 +1,22 @@
 {
-  "classification": "Cuba",
-  "document_type": "Intelligence Information Cable",
-  "security_level": "Secret",
+  "title": "COST OF MOBILIZATION OF CUBAN ARMED FORCES AND EFFORT TO ECONOMIZE",
+  "title_ja": "キューバ軍の動員費用と経費節減努力",
   "summary": "This document discusses the cost of mobilization of Cuban armed forces and efforts to economize in January 1965. It references a 32-day mobilization of 51,000 men in the spring of 1964, costing the Ministry of the Armed Forces a minimum of $8,176,320 pesos.",
+  "summary_ja": "この文書は、1965年1月のキューバ軍の動員費用と節約努力について論じている。1964年春に51,000人の兵士が32日間動員され、軍省の費用は最低でも8,176,320ペソに上ったことを参照している。",
+  "document_type": "Intelligence Information Cable",
+  "classification": "Cuba",
+  "security_level": "Secret",
+  "date": "1965-01-19",
+  "origin_agency": "CIA",
+  "recipient": "STATE/INR, SECDEF, NSANIC, USIA, ARMY/ACSI, NAVY, AIR JCS, DIA, CIA/NMCC, NPIC, TREASURY AD/CI I&NS",
+  "persons_mentioned": [
+    "Manuel Ray Rivero"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "United States",
+    "Miami"
+  ],
   "tags": [
     "Cuban Invasion",
     "Military Mobilization",
@@ -11,17 +25,5 @@
     "Cuban Armed Forces",
     "Manuel Ray Rivero",
     "Exile Forces"
-  ],
-  "title": "COST OF MOBILIZATION OF CUBAN ARMED FORCES AND EFFORT TO ECONOMIZE",
-  "date": "1965-01-19",
-  "locations_mentioned": [
-    "Cuba",
-    "United States",
-    "Miami"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Manuel Ray Rivero"
-  ],
-  "recipient": "STATE/INR, SECDEF, NSANIC, USIA, ARMY/ACSI, NAVY, AIR JCS, DIA, CIA/NMCC, NPIC, TREASURY AD/CI I&NS"
+  ]
 }

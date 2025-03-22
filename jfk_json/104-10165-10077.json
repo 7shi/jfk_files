@@ -1,30 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "File",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This file contains documents related to Abram Chayes, including memoranda, lists of attendees at the Pugwash Conference in Munich, Germany in August 1977, and process sheets for DCD collections.",
-  "tags": [
-    "Abram Chayes",
-    "House Select Committee on Assassinations",
-    "Pugwash Conference",
-    "USSR External Policy",
-    "Nuclear Weapons",
-    "Disarmament",
-    "Monica Kramer",
-    "Rita Naman"
-  ],
   "title": "CHAYES, ABRAM DCS FILE",
+  "title_ja": "CHAYES, ABRAM DCSファイル",
+  "summary": "This file contains documents related to Abram Chayes, including memoranda, lists of attendees at the Pugwash Conference in Munich, Germany in August 1977, and process sheets for DCD collections.",
+  "summary_ja": "このファイルには、アブラム・チェイスの関連文書が含まれており、覚書、1977年8月にドイツのミュンヘンで開催されたパグウォッシュ会議の出席者リスト、DCD収集のプロセスシートなどがある。",
+  "document_type": "File",
+  "classification": "Administrative",
+  "security_level": "CONFIDENTIAL",
   "date": "1978-04",
-  "locations_mentioned": [
-    "Cambridge, MA",
-    "Munich, Germany",
-    "Boston",
-    "New York",
-    "San Francisco",
-    "Syracuse",
-    "Washington"
-  ],
   "origin_agency": "CIA",
+  "sender": "Ruth Elliff, Acting Chief, USSR-EE Collection Group",
+  "recipient": "DDO/ISS/IP/EIS",
   "persons_mentioned": [
     "Abram Chayes",
     "Ruth Elliff",
@@ -42,6 +27,23 @@
     "N. Murray Todd",
     "John S. Toll"
   ],
-  "recipient": "DDO/ISS/IP/EIS",
-  "sender": "Ruth Elliff, Acting Chief, USSR-EE Collection Group"
+  "locations_mentioned": [
+    "Cambridge, MA",
+    "Munich, Germany",
+    "Boston",
+    "New York",
+    "San Francisco",
+    "Syracuse",
+    "Washington"
+  ],
+  "tags": [
+    "Abram Chayes",
+    "House Select Committee on Assassinations",
+    "Pugwash Conference",
+    "USSR External Policy",
+    "Nuclear Weapons",
+    "Disarmament",
+    "Monica Kramer",
+    "Rita Naman"
+  ]
 }

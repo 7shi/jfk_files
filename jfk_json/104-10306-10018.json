@@ -1,36 +1,14 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "TOP SECRET",
-  "summary": "Memoranda record meetings with President Johnson in December 1963 regarding Cuba, Vietnam, Soviet relations, and personnel changes.",
-  "tags": [
-    "Cuba",
-    "Vietnam",
-    "Soviet Union",
-    "Personnel",
-    "OAS",
-    "Venezuela",
-    "Economic Denial",
-    "Assassination"
-  ],
   "title": "Meetings with President Johnson on Cuba, Vietnam, and Other Matters",
+  "title_ja": "キューバ、ベトナム、およびその他の問題に関するジョンソン大統領との会議",
+  "summary": "Memoranda record meetings with President Johnson in December 1963 regarding Cuba, Vietnam, Soviet relations, and personnel changes.",
+  "summary_ja": "1963年12月のジョンソン大統領とのキューバ、ベトナム、ソビエト関係、人事異動に関する会議の記録。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "TOP SECRET",
   "date": "1963-12-19",
-  "locations_mentioned": [
-    "Cuba",
-    "Venezuela",
-    "Canada",
-    "Britain",
-    "Spain",
-    "Italy",
-    "Bolivia",
-    "Saigon",
-    "Mexico City",
-    "Pakistan",
-    "Brazil",
-    "Turkey",
-    "Yugoslavia"
-  ],
   "origin_agency": "CIA",
+  "sender": "Marshall S. Carter/Desmond FitzGerald/ McCone/ JAM/тс/mc/mcm/mfb/WE/Naud by DDCD/ Naud by DDCD/Σ/г/тс/ Jam:",
   "persons_mentioned": [
     "John F. Kennedy",
     "Ball",
@@ -95,5 +73,29 @@
     "Inonu",
     "Karamanlis"
   ],
-  "sender": "Marshall S. Carter/Desmond FitzGerald/ McCone/ JAM/тс/mc/mcm/mfb/WE/Naud by DDCD/ Naud by DDCD/Σ/г/тс/ Jam:"
+  "locations_mentioned": [
+    "Cuba",
+    "Venezuela",
+    "Canada",
+    "Britain",
+    "Spain",
+    "Italy",
+    "Bolivia",
+    "Saigon",
+    "Mexico City",
+    "Pakistan",
+    "Brazil",
+    "Turkey",
+    "Yugoslavia"
+  ],
+  "tags": [
+    "Cuba",
+    "Vietnam",
+    "Soviet Union",
+    "Personnel",
+    "OAS",
+    "Venezuela",
+    "Economic Denial",
+    "Assassination"
+  ]
 }

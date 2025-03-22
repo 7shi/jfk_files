@@ -1,21 +1,30 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This document details a request for covert training for Venezuelan Armed Forces Intelligence Service (SIFA) officers. It outlines the training requirements, biographical data of the trainees, and the purpose of establishing a liaison relationship with SIFA to improve its capabilities and recruit a member.",
-  "tags": [
-    "Covert Training",
-    "Venezuelan Armed Forces Intelligence Service",
-    "SIFA",
-    "Liaison",
-    "Counterinsurgency",
-    "Surveillance",
-    "Agent Acquisition",
-    "Security",
-    "Clandestine Activities"
-  ],
   "title": "Covert Training for SIFA Officers",
+  "title_ja": "SIFA役員のための秘密訓練",
+  "summary": "This document details a request for covert training for Venezuelan Armed Forces Intelligence Service (SIFA) officers. It outlines the training requirements, biographical data of the trainees, and the purpose of establishing a liaison relationship with SIFA to improve its capabilities and recruit a member.",
+  "summary_ja": "この文書は、ベネズエラ軍情報部（SIFA）の諜報員に対する秘密訓練の要請について詳細に述べている。訓練要件、訓練生の経歴データ、およびSIFAとの連絡関係を確立して能力を向上させ、メンバーを勧誘する目的について概説している。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
   "date": "1965-02-24",
+  "origin_agency": "Central Intelligence Agency",
+  "sender": "Chief, Western Hemisphere Division",
+  "recipient": "Director of Training",
+  "persons_mentioned": [
+    "Jack Hymn",
+    "Rawleigh Taylor",
+    "Jacob B. HUUSCHWOOD",
+    "William E. Cavan",
+    "Mario FALANDO Lobato",
+    "Luis Alfonso OCHOM",
+    "Raul JIMENEZ Gainza",
+    "Solis Antonio MARTINEZ MARTINEL",
+    "Desmond Fitzgerald",
+    "Ellio",
+    "Wall",
+    "Luria",
+    "Fritz"
+  ],
   "locations_mentioned": [
     "Venezuela",
     "La Guaira",
@@ -32,22 +41,15 @@
     "Colombia",
     "Cuba"
   ],
-  "origin_agency": "Central Intelligence Agency",
-  "persons_mentioned": [
-    "Jack Hymn",
-    "Rawleigh Taylor",
-    "Jacob B. HUUSCHWOOD",
-    "William E. Cavan",
-    "Mario FALANDO Lobato",
-    "Luis Alfonso OCHOM",
-    "Raul JIMENEZ Gainza",
-    "Solis Antonio MARTINEZ MARTINEL",
-    "Desmond Fitzgerald",
-    "Ellio",
-    "Wall",
-    "Luria",
-    "Fritz"
-  ],
-  "recipient": "Director of Training",
-  "sender": "Chief, Western Hemisphere Division"
+  "tags": [
+    "Covert Training",
+    "Venezuelan Armed Forces Intelligence Service",
+    "SIFA",
+    "Liaison",
+    "Counterinsurgency",
+    "Surveillance",
+    "Agent Acquisition",
+    "Security",
+    "Clandestine Activities"
+  ]
 }

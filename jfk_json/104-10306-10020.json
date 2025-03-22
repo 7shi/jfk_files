@@ -1,33 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This collection of memoranda primarily concerns CIA activities related to Cuba, including efforts to prevent provocative actions against Cuba, negotiations for the release of Cuban prisoners, and an analysis of Castro's potential impact in the Western Hemisphere. It also includes memoranda regarding CIA activities in South Vietnam and communication channels to various communist entities.",
-  "tags": [
-    "Cuban refugees",
-    "Operation MONGOOSE",
-    "Alpha 66",
-    "Cuban prisoner release",
-    "Castro",
-    "South Vietnam",
-    "Southeast Asia",
-    "Clandestine channels"
-  ],
   "title": "Memoranda regarding Cuba and Vietnam activities",
+  "title_ja": "キューバおよびベトナム活動に関する覚書",
+  "summary": "This collection of memoranda primarily concerns CIA activities related to Cuba, including efforts to prevent provocative actions against Cuba, negotiations for the release of Cuban prisoners, and an analysis of Castro's potential impact in the Western Hemisphere. It also includes memoranda regarding CIA activities in South Vietnam and communication channels to various communist entities.",
+  "summary_ja": "この覚書集は主にキューバに関連するCIAの活動に関するもので、キューバに対する挑発行為の防止、キューバ人捕虜の釈放交渉、カストロが西半球に与える潜在的な影響の分析などが含まれる。また、南ベトナムにおけるCIAの活動や、さまざまな共産主義組織との連絡手段に関する覚書も含まれる。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-10-30",
-  "locations_mentioned": [
-    "Cuba",
-    "Miami",
-    "South Viet Nam",
-    "Hanoi",
-    "Peiping",
-    "Warsaw",
-    "Saigon",
-    "Hue",
-    "New York",
-    "Canada"
-  ],
   "origin_agency": "CIA",
+  "sender": "John A. McCone",
+  "recipient": "General Marshall S. Carter",
   "persons_mentioned": [
     "General Carter",
     "Marshall S. Carter",
@@ -58,6 +40,26 @@
     "Win Scott",
     "Rusk"
   ],
-  "recipient": "General Marshall S. Carter",
-  "sender": "John A. McCone"
+  "locations_mentioned": [
+    "Cuba",
+    "Miami",
+    "South Viet Nam",
+    "Hanoi",
+    "Peiping",
+    "Warsaw",
+    "Saigon",
+    "Hue",
+    "New York",
+    "Canada"
+  ],
+  "tags": [
+    "Cuban refugees",
+    "Operation MONGOOSE",
+    "Alpha 66",
+    "Cuban prisoner release",
+    "Castro",
+    "South Vietnam",
+    "Southeast Asia",
+    "Clandestine channels"
+  ]
 }

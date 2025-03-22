@@ -1,8 +1,37 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Ramparts: John Garrett UNDERHILL Jr., Samuel George CUMMINGS, and INTERARMCO",
+  "title_ja": "Ramparts: John Garrett UNDERHILL Jr., Samuel George CUMMINGS, and INTERARMCO",
   "summary": "This memorandum discusses Ramparts magazine's claims about John Garrett Underhill Jr., Samuel George Cummings, and Interarmco's alleged involvement in a CIA gun-running, narcotics, and political intrigue racket related to the Kennedy assassination. It includes information about Underhill's background, his reported concerns about a CIA clique, and the circumstances surrounding his death. The memo also provides details about Cummings' history with the CIA, his role with Interarmco, and his contacts with other intelligence agencies. The document also mentions that these individuals and Interarmco have not been prominently featured in the Garrison investigation.",
+  "summary_ja": "この覚書は、ジョン・ギャレット・アンダーヒル・ジュニア、サミュエル・ジョージ・カミングス、およびケネディ暗殺に関連するCIAの銃密売、麻薬、政治的陰謀の不正行為へのインターアームコ社の関与疑惑について、ランパード誌が主張していることを論じている。この文書には、アンダーヒルの経歴、CIAの一派に対する彼の懸念、および彼の死の状況に関する情報が含まれている。また、このメモには、ガムリンズ氏のCIAとの関わり、インターアームコ社での役割、および他の情報機関との接触に関する詳細も記載されている。この文書には、これらの人物およびインターアームコ社はギャリソンによる調査では目立った存在ではなかったことも記載されている。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1967-07-19",
+  "origin_agency": "CIA",
+  "sender": "Unknown",
+  "recipient": "Unknown",
+  "persons_mentioned": [
+    "John Garrett Underhill Jr.",
+    "Samuel George Cummings",
+    "Gary Underhill",
+    "Asher Brynes",
+    "Herman Axelbank",
+    "Ricky Haskins"
+  ],
+  "locations_mentioned": [
+    "Washington",
+    "New Jersey",
+    "Brooklyn",
+    "New York",
+    "Guatemala",
+    "Canada",
+    "Switzerland",
+    "U.S.",
+    "Panama",
+    "Rome",
+    "New Orleans",
+    "Chicago"
+  ],
   "tags": [
     "Ramparts",
     "John Garrett Underhill Jr.",
@@ -18,32 +47,5 @@
     "intelligence",
     "BND",
     "DIA"
-  ],
-  "title": "Ramparts: John Garrett UNDERHILL Jr., Samuel George CUMMINGS, and INTERARMCO",
-  "date": "1967-07-19",
-  "locations_mentioned": [
-    "Washington",
-    "New Jersey",
-    "Brooklyn",
-    "New York",
-    "Guatemala",
-    "Canada",
-    "Switzerland",
-    "U.S.",
-    "Panama",
-    "Rome",
-    "New Orleans",
-    "Chicago"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John Garrett Underhill Jr.",
-    "Samuel George Cummings",
-    "Gary Underhill",
-    "Asher Brynes",
-    "Herman Axelbank",
-    "Ricky Haskins"
-  ],
-  "recipient": "Unknown",
-  "sender": "Unknown"
+  ]
 }

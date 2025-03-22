@@ -1,8 +1,25 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "COVERT SITE Apartment 423 Warwick Apartments 3051 Idaho Avenue, N.W. Washington, D.C.",
+  "title_ja": "COVERT SITE アパート423 ワーウィック・アパートメント 3051 アイダホ・アベニュー、N.W. ワシントンD.C.",
   "summary": "Memorandum regarding security approval for the use of Apartment 423, Warwick Apartments as a covert site to house a contract Agent, EE PC/173 (172341).",
+  "summary_ja": "ワーウィック・アパートメント423号室を秘密の隠れ家として契約エージェントEE PC/173（172341）を収容するためのセキュリティ承認に関する覚書。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "UNCLASSIFIED",
+  "date": "1961-01-19",
+  "origin_agency": "Cover Support Desk",
+  "sender": "Robert J. Leonard",
+  "recipient": "Chief, Cover Support Desk",
+  "persons_mentioned": [
+    "Robert J. Leonard",
+    "Marx Holder",
+    "EE PC/173"
+  ],
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "3051 Idaho Avenue, N.W.",
+    "Warwick Apartments"
+  ],
   "tags": [
     "Covert Site",
     "Security Approval",
@@ -10,20 +27,5 @@
     "Apartment",
     "Warwick Apartments",
     "Security Research Staff"
-  ],
-  "title": "COVERT SITE Apartment 423 Warwick Apartments 3051 Idaho Avenue, N.W. Washington, D.C.",
-  "date": "1961-01-19",
-  "locations_mentioned": [
-    "Washington, D.C.",
-    "3051 Idaho Avenue, N.W.",
-    "Warwick Apartments"
-  ],
-  "origin_agency": "Cover Support Desk",
-  "persons_mentioned": [
-    "Robert J. Leonard",
-    "Marx Holder",
-    "EE PC/173"
-  ],
-  "recipient": "Chief, Cover Support Desk",
-  "sender": "Robert J. Leonard"
+  ]
 }

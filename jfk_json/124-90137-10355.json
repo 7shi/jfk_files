@@ -1,8 +1,25 @@
 {
-  "classification": "Liaison",
-  "document_type": "PAPER, TEXTUAL DOCUMENT",
-  "security_level": "Secret",
+  "title": "[Restricted]",
+  "title_ja": "[制限あり]",
   "summary": "FBI memo to CIA regarding EDUARDO ESPINOSA Y PRIETO and his possible connections to communist activities. The FBI clarifies information about bank drafts he wrote and advises against suggesting he financed Communist Party activities in a summary to the Bundesunt fuer Verfassungsschutz (BFV), Germany.",
+  "summary_ja": "エドゥアルド・エスピノサ・イ・プリエトと共産主義活動との関連性に関するCIA宛のFBIのメモ。FBIは、彼が書いた銀行為替手形に関する情報を明確にし、ドイツの連邦憲法擁護庁（BFV）に提出する要約の中で、彼が共産党の活動に資金を提供したという指摘を否定している。",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1961-08-28",
+  "origin_agency": "FBI",
+  "sender": "FBI HQ",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "EDUARDO ESPINOSA Y PRIETO",
+    "Alicia Merino Fuentes",
+    "John Edgar Hoover"
+  ],
+  "locations_mentioned": [
+    "Mexico City, D. F.",
+    "New York City",
+    "Germany"
+  ],
   "tags": [
     "CIA LIAISON MATERIAL",
     "INTERNAL SECURITY",
@@ -14,20 +31,5 @@
     "Bundesunt fuer Verfassungsschutz",
     "BFV",
     "Germany"
-  ],
-  "title": "[Restricted]",
-  "date": "1961-08-28",
-  "locations_mentioned": [
-    "Mexico City, D. F.",
-    "New York City",
-    "Germany"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "EDUARDO ESPINOSA Y PRIETO",
-    "Alicia Merino Fuentes",
-    "John Edgar Hoover"
-  ],
-  "recipient": "CIA",
-  "sender": "FBI HQ"
+  ]
 }

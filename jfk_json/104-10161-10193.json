@@ -1,8 +1,23 @@
 {
-  "classification": "Security",
-  "document_type": "Travel Processing Sheet",
-  "security_level": "SECRET",
+  "title": "TRAVEL PROCESSING SHEET for Teddik Piccilly",
+  "title_ja": "Teddik Piccillyの旅行処理シート",
   "summary": "This is a travel processing sheet for Teddik Piccilly, detailing security checks, polygraph results, and briefings prior to departure to Mexico City in 1959. It covers knowledge of security regulations, travel precautions, cover story, dependents briefing, personal affairs, correspondence, conduct, and audio-surveillance matters.",
+  "summary_ja": "これは、1959年のメキシコシティへの出発前のセキュリティチェック、ポリグラフ検査の結果、およびブリーフィングの詳細を記載した、Teddik Piccillyの旅行処理シートである。内容は、セキュリティ規制、旅行の注意事項、偽装工作、扶養家族へのブリーフィング、私用、通信、行動、および音声監視に関する事項である。",
+  "document_type": "Travel Processing Sheet",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1959-12-06",
+  "origin_agency": "H.H.",
+  "sender": "Security Officer",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "Teddik Piccilly",
+    "R.H.J. Stater"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Mexico"
+  ],
   "tags": [
     "travel",
     "security",
@@ -11,18 +26,5 @@
     "Mexico City",
     "Piccilly",
     "personnel"
-  ],
-  "title": "TRAVEL PROCESSING SHEET for Teddik Piccilly",
-  "date": "1959-12-06",
-  "locations_mentioned": [
-    "Mexico City",
-    "Mexico"
-  ],
-  "origin_agency": "H.H.",
-  "persons_mentioned": [
-    "Teddik Piccilly",
-    "R.H.J. Stater"
-  ],
-  "recipient": "N/A",
-  "sender": "Security Officer"
+  ]
 }

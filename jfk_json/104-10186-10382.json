@@ -1,25 +1,27 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "AMMUG/1 Identification of Manuel ESTEVEZ Perez",
+  "title_ja": "AMMUG/1 マヌエル・エステベス・ペレスの身元確認",
   "summary": "This dispatch concerns the identification of Manuel ESTEVEZ Perez by AMMUG/1. AMMUG/1 was unable to identify the name. It suggests providing a photograph of the subject to HAVE to show AMMUG/1 for possible identification.",
+  "summary_ja": "本電報は、AMMUG/1によるマヌエル・エステベス・ペレスの身元確認に関するものである。AMMUG/1は身元確認ができなかった。AMMUG/1に身元確認のため対象者の写真を提供することを提案している。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1965-08-16",
+  "origin_agency": "CIA",
+  "sender": "Chief, WH 15-2",
+  "recipient": "Chief of Station, Madrid; Chief of Base, Barcelona; Chief of Station, JMWAVE",
+  "persons_mentioned": [
+    "Manuel ESTEVEZ Perez",
+    "John F. Kennedy"
+  ],
+  "locations_mentioned": [
+    "Madrid",
+    "Barcelona"
+  ],
   "tags": [
     "AMMUG/1",
     "Manuel ESTEVEZ Perez",
     "Identification",
     "Photograph"
-  ],
-  "title": "AMMUG/1 Identification of Manuel ESTEVEZ Perez",
-  "date": "1965-08-16",
-  "locations_mentioned": [
-    "Madrid",
-    "Barcelona"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Manuel ESTEVEZ Perez",
-    "John F. Kennedy"
-  ],
-  "recipient": "Chief of Station, Madrid; Chief of Base, Barcelona; Chief of Station, JMWAVE",
-  "sender": "Chief, WH 15-2"
+  ]
 }

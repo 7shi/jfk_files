@@ -1,30 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch discusses the operational developments of Identity, a JHPALM asset, including training sessions, contacts, and intelligence reports provided. It also covers future plans for Identity and mentions several individuals and locations.",
-  "tags": [
-    "JHPALM",
-    "Identity",
-    "AMPAL-1",
-    "AHPA-1",
-    "Training",
-    "Intelligence Reports",
-    "Dominican Republic",
-    "Haiti",
-    "Miami",
-    "Exile Front Groups",
-    "Security"
-  ],
   "title": "Operational Report for November and December 1963 for Identity",
+  "title_ja": "1963年11月および12月の作戦報告書（身元確認用",
+  "summary": "This dispatch discusses the operational developments of Identity, a JHPALM asset, including training sessions, contacts, and intelligence reports provided. It also covers future plans for Identity and mentions several individuals and locations.",
+  "summary_ja": "この報告書では、JHPALMの諜報員アイデンティティの活動展開について議論している。これには、訓練セッション、接触、提供された情報報告書が含まれる。また、アイデンティティの今後の計画についても触れ、複数の個人と場所についても言及している。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1964-01-21",
-  "locations_mentioned": [
-    "Miami",
-    "Dominican Republic",
-    "Haiti",
-    "Venezuela"
-  ],
   "origin_agency": "CIA",
+  "sender": "BANH JHPALM/Operational",
+  "recipient": "Chief, Western Haishore Division; Chief, Special Affairs Staff; Chief of Station, JMAVE AKR",
   "persons_mentioned": [
     "Pedro Acen",
     "Antonio Alano Monten",
@@ -37,6 +22,23 @@
     "Carlos Prio Socarras",
     "Elias Wessin y Wessin"
   ],
-  "recipient": "Chief, Western Haishore Division; Chief, Special Affairs Staff; Chief of Station, JMAVE AKR",
-  "sender": "BANH JHPALM/Operational"
+  "locations_mentioned": [
+    "Miami",
+    "Dominican Republic",
+    "Haiti",
+    "Venezuela"
+  ],
+  "tags": [
+    "JHPALM",
+    "Identity",
+    "AMPAL-1",
+    "AHPA-1",
+    "Training",
+    "Intelligence Reports",
+    "Dominican Republic",
+    "Haiti",
+    "Miami",
+    "Exile Front Groups",
+    "Security"
+  ]
 }

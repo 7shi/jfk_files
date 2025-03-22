@@ -1,32 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum details a covert operation to conduct audio surveillance on Manuel F. ARTIME Buesa, a leader of the Cuban Exile Group, during his visit to Washington, D.C. The operation involves installing microphones in a safehouse where Artime will be billeted and monitored. The memo outlines the logistical challenges, equipment procurement, and coordination with various CIA departments to ensure the surveillance is technically feasible and discreet.",
-  "tags": [
-    "Manuel F. ARTIME Buesa",
-    "Cuban Exile Group",
-    "audio surveillance",
-    "covert operation",
-    "safehouse",
-    "microphone installation",
-    "technical surveillance",
-    "TSD",
-    "Office of Security",
-    "SAS",
-    "Fred C. Thomas, Jr.",
-    "listening post"
-  ],
   "title": "Manuel F. ARTIME Buesa",
+  "title_ja": "マニュエル・F・アーティメ ブエサ",
+  "summary": "This memorandum details a covert operation to conduct audio surveillance on Manuel F. ARTIME Buesa, a leader of the Cuban Exile Group, during his visit to Washington, D.C. The operation involves installing microphones in a safehouse where Artime will be billeted and monitored. The memo outlines the logistical challenges, equipment procurement, and coordination with various CIA departments to ensure the surveillance is technically feasible and discreet.",
+  "summary_ja": "この覚書は、キューバ亡命グループのリーダーであるマニュエル・F・アルティメ・ブエサがワシントンD.C.を訪問している間、彼を盗聴するための秘密作戦について詳細に述べている。この作戦では、アルティメが滞在する隠れ家にマイクを設置し、彼を監視する。この覚書では、技術的に可能で目立たないように監視を行うために必要な後方支援、機材調達、およびCIAのさまざまな部署との調整について概説している。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-07-01",
-  "locations_mentioned": [
-    "Washington, D.C.",
-    "9218 Aldershot Drive, Bethesda, Maryland",
-    "Karachi, Pakistan",
-    "Langley Headquarters Building",
-    "Franconia Depot"
-  ],
   "origin_agency": "CIA",
+  "sender": "Mr. Ramon R. Hart",
+  "recipient": "Chief, Support Branch",
   "persons_mentioned": [
     "Ramon R. Hart",
     "Charles Matt",
@@ -44,6 +27,25 @@
     "Dayton S. (\"Doc\") Barrows",
     "Manuel F. ARTIME Buesa"
   ],
-  "recipient": "Chief, Support Branch",
-  "sender": "Mr. Ramon R. Hart"
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "9218 Aldershot Drive, Bethesda, Maryland",
+    "Karachi, Pakistan",
+    "Langley Headquarters Building",
+    "Franconia Depot"
+  ],
+  "tags": [
+    "Manuel F. ARTIME Buesa",
+    "Cuban Exile Group",
+    "audio surveillance",
+    "covert operation",
+    "safehouse",
+    "microphone installation",
+    "technical surveillance",
+    "TSD",
+    "Office of Security",
+    "SAS",
+    "Fred C. Thomas, Jr.",
+    "listening post"
+  ]
 }

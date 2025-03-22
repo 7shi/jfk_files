@@ -1,8 +1,25 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "DYVOUR/PBRUMEN/Operational: Photograph of \"Comandante Willian\"",
+  "title_ja": "DYVOUR/PBRUMEN/作戦：「ウィリアン司令官」の写真",
   "summary": "This dispatch requests the photograph of \"Comandante William\" be shown to AMBINGOs for possible identification. Subject claimed to have received pilot training at San Antonio de los Banos Air Base and may have worked as a Cubana pilot under the name Ernesto Castro Moro.",
+  "summary_ja": "この電報では、「コマンダンテ・ウィリアム」の写真をAMBINGOsに提示し、身元確認を行うよう要請している。件名はサン・アントニオ・デ・ロス・バニョス空軍基地でパイロット訓練を受けたと言い、エルネスト・カストロ・モロという名でクバーナ航空のパイロットとして働いていた可能性がある。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1967-03-15",
+  "origin_agency": "Chief, Western Hemisphere Division",
+  "sender": "Chief of Station, JMWAVE",
+  "recipient": "Chief of Station, Bogota",
+  "persons_mentioned": [
+    "Comandante William",
+    "Ernesto Castro Moro",
+    "Constance M. QUILHOT",
+    "Harry T. Mahoney"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "San Antonio de los Banos Air Base"
+  ],
   "tags": [
     "Comandante William",
     "AMBINGO",
@@ -15,20 +32,5 @@
     "Western Hemisphere Division",
     "DYVOUR",
     "PBRUMEN"
-  ],
-  "title": "DYVOUR/PBRUMEN/Operational: Photograph of \"Comandante Willian\"",
-  "date": "1967-03-15",
-  "locations_mentioned": [
-    "Cuba",
-    "San Antonio de los Banos Air Base"
-  ],
-  "origin_agency": "Chief, Western Hemisphere Division",
-  "persons_mentioned": [
-    "Comandante William",
-    "Ernesto Castro Moro",
-    "Constance M. QUILHOT",
-    "Harry T. Mahoney"
-  ],
-  "recipient": "Chief of Station, Bogota",
-  "sender": "Chief of Station, JMWAVE"
+  ]
 }

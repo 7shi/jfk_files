@@ -1,8 +1,18 @@
 {
-  "classification": "Security",
-  "document_type": "Request Form",
-  "security_level": "SECRET",
+  "title": "REQUEST FOR DOMESTIC COVER LIST ENTRY OR CHANGE",
+  "title_ja": "国内諜報リストへの登録または変更依頼",
   "summary": "Request to include or change information on the Domestic Cover List for Calvin W. Hicks, to provide Subject with an organizational affiliation other than CIA.",
+  "summary_ja": "カルヴィン・W・ヒックスの国内諜報員リストに情報を追加または変更し、対象者にCIA以外の組織所属を提供することの要請。",
+  "document_type": "Request Form",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1960-09-21",
+  "sender": "SSD/OS",
+  "recipient": "DCB/CCG",
+  "persons_mentioned": [
+    "Calvin W. Hicks",
+    "John F. Gardiner, Jr."
+  ],
   "tags": [
     "Domestic Cover List",
     "Calvin W. Hicks",
@@ -12,13 +22,5 @@
     "John F. Gardiner, Jr.",
     "NE Security Officer",
     "Central Cover Division"
-  ],
-  "title": "REQUEST FOR DOMESTIC COVER LIST ENTRY OR CHANGE",
-  "date": "1960-09-21",
-  "persons_mentioned": [
-    "Calvin W. Hicks",
-    "John F. Gardiner, Jr."
-  ],
-  "recipient": "DCB/CCG",
-  "sender": "SSD/OS"
+  ]
 }

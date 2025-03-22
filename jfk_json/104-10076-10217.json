@@ -1,8 +1,21 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DIR CITE WAVE 8724",
+  "title_ja": "DIR CITE WAVE 8724",
   "summary": "This cable discusses the transfer of items through Enrique (Vicente Socorras) and the Japanese Embassy. It mentions the receipt of Magnum pistols without bullets and radios, requesting information on the radios' range and the filters for the pistols. It references RYBAT, ANTURVY, SAGTEL, WAVE 8724, WAVE 8694, and ANTURVY-1.",
+  "summary_ja": "この電報は、エンリケ（ビセンテ・ソコラス）と日本大使館経由の物品の移送について述べている。マグナムピストル（弾なし）とラジオの受領について触れ、ラジオの通信可能距離とピストルのフィルターに関する情報の提供を求めている。また、RYBAT、ANTURVY、SAGTEL、WAVE 8724、WAVE 8694、ANTURVY-1についても言及している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-12-09",
+  "origin_agency": "JMWAVE",
+  "sender": "JMWAVE",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "Vicente Socorras"
+  ],
+  "locations_mentioned": [
+    "Japan"
+  ],
   "tags": [
     "JMWAVE",
     "ENRIQUE (VICENTE SOCORRAS)",
@@ -12,16 +25,5 @@
     "ANTURVY",
     "RYBAT",
     "SAGTEL"
-  ],
-  "title": "DIR CITE WAVE 8724",
-  "date": "1963-12-09",
-  "locations_mentioned": [
-    "Japan"
-  ],
-  "origin_agency": "JMWAVE",
-  "persons_mentioned": [
-    "Vicente Socorras"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "JMWAVE"
+  ]
 }

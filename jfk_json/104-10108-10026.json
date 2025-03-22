@@ -1,8 +1,20 @@
 {
-  "classification": "Commission",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "Request for Photo of 'Bums in Police Custody'",
+  "title_ja": "「警察に拘留中の浮浪者」の写真依頼",
   "summary": "Memo regarding a request for a photo of 'bums in police custody' related to the assassination. Discusses contacting Newsweek through various channels to obtain the photo, but notes difficulties due to lack of credit and lack of plausible reason for a 'State' person to request it.",
+  "summary_ja": "暗殺事件に関連した「警察に拘留中の容疑者」の写真の要求に関するメモ。 写真を手に入れるために、さまざまなルートを通じてニューズウィークに連絡を取ることを検討するが、信用の欠如と「国家」の人間がそれを要求する妥当な理由がないことによる困難を指摘する。",
+  "document_type": "Memo",
+  "classification": "Commission",
+  "security_level": "UNCLASSIFIED",
+  "date": "1964-03-24",
+  "sender": "Salked",
+  "recipient": "DCI",
+  "persons_mentioned": [
+    "Lolis",
+    "Harry Dan Tuyl",
+    "Herb Simmons",
+    "Proctor"
+  ],
   "tags": [
     "photo",
     "assassination",
@@ -10,15 +22,5 @@
     "Newsweek",
     "credit",
     "request"
-  ],
-  "title": "Request for Photo of 'Bums in Police Custody'",
-  "date": "1964-03-24",
-  "persons_mentioned": [
-    "Lolis",
-    "Harry Dan Tuyl",
-    "Herb Simmons",
-    "Proctor"
-  ],
-  "recipient": "DCI",
-  "sender": "Salked"
+  ]
 }

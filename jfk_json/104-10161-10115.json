@@ -1,8 +1,18 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "NOTIFICATION OF CANCELLATION OF MILITARY COVER BACKSTOP",
+  "title_ja": "軍の偽装工作バックストップの取り消し通知",
   "summary": "Notification of cancellation of military cover backstop for Joseph S. PICCOLO, effective 11 June 1963. Directs the return of all military documentation and submission of Form 642 to change limitation category.",
+  "summary_ja": "ジョセフ・S・ピッコロに対する軍事偽装の取り消し通知（1963年6月11日発効）。すべての軍事関連書類の返却と、制限区分変更のためのフォーム642の提出を指示。",
+  "document_type": "Memo",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1963-06-11",
+  "sender": "CHIEF, MILITARY COVER, CCS",
+  "recipient": "CHIEF, PERSONNEL OPERATIONS DIVISION; CHIEF, OPERATING COMPONENT",
+  "persons_mentioned": [
+    "Joseph S. PICCOLO",
+    "Mr. White"
+  ],
   "tags": [
     "Military Cover",
     "Joseph S. PICCOLO",
@@ -13,13 +23,5 @@
     "Form 642",
     "Military Documentation",
     "CCS"
-  ],
-  "title": "NOTIFICATION OF CANCELLATION OF MILITARY COVER BACKSTOP",
-  "date": "1963-06-11",
-  "persons_mentioned": [
-    "Joseph S. PICCOLO",
-    "Mr. White"
-  ],
-  "recipient": "CHIEF, PERSONNEL OPERATIONS DIVISION; CHIEF, OPERATING COMPONENT",
-  "sender": "CHIEF, MILITARY COVER, CCS"
+  ]
 }

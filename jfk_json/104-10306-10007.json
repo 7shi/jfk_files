@@ -1,19 +1,13 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This memo contains notes for Mr. McCone from October 1, 1963, covering topics such as General Chiang Ching-kuo's visit to the U.S., a proposal to send Dr. Cavanagh to Rome, an assessment of the reliability of Penkovskiy's documentary material, a briefing on the program against Cuba, congressional debates on the test ban treaty, a recommendation on the Agency's standing in Congress, efforts to obtain a replacement for Colonel Grogan, a briefing on the Agency's covert action programs, a meeting about personnel security, and a letter confirming Frank Hand's assignment.",
-  "tags": [
-    "Chiang Ching-kuo",
-    "Vatican",
-    "Penkovskiy",
-    "Cuba",
-    "Test Ban Treaty",
-    "Covert Action",
-    "Personnel Security"
-  ],
   "title": "NOTES FOR MR. McCONE",
+  "title_ja": "マクコーネ氏へのメモ",
+  "summary": "This memo contains notes for Mr. McCone from October 1, 1963, covering topics such as General Chiang Ching-kuo's visit to the U.S., a proposal to send Dr. Cavanagh to Rome, an assessment of the reliability of Penkovskiy's documentary material, a briefing on the program against Cuba, congressional debates on the test ban treaty, a recommendation on the Agency's standing in Congress, efforts to obtain a replacement for Colonel Grogan, a briefing on the Agency's covert action programs, a meeting about personnel security, and a letter confirming Frank Hand's assignment.",
+  "summary_ja": "このメモには、1963年10月1日付けのマコーネ氏宛てのメモが含まれており、内容は、蒋経国総統の米国訪問、カヴァナー博士のローマ派遣案、 カヴァナフ博士をローマに派遣する提案、ペンコフスキーの文書資料の信頼性評価、キューバに対するプログラムに関するブリーフィング、核実験禁止条約に関する議会の討論、議会における諜報機関の地位に関する勧告、グローガン大佐の後任者選定の取り組み、諜報機関の秘密工作プログラムに関するブリーフィング、人事の安全に関する会議、フランク・ハンドの任務を承認する書簡などである。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
   "date": "1963-10-01",
+  "sender": "W. Elder",
   "persons_mentioned": [
     "McCone",
     "Chiang Ching-kuo",
@@ -47,5 +41,13 @@
     "Gilpatric",
     "Frank Hand"
   ],
-  "sender": "W. Elder"
+  "tags": [
+    "Chiang Ching-kuo",
+    "Vatican",
+    "Penkovskiy",
+    "Cuba",
+    "Test Ban Treaty",
+    "Covert Action",
+    "Personnel Security"
+  ]
 }

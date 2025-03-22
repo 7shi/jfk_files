@@ -1,22 +1,25 @@
 {
-  "classification": "Soviet",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable discusses KGB Official Nikonov, grandson of Vyacheslav Molotov, and his new role as Deputy to KGB Director Bakatin. Nikonov reviewed KGB files on Lee Harvey Oswald and found no evidence of Oswald being a KGB agent. Nikonov also inquired into the fate of Raoul Wallenberg.",
-  "tags": [
-    "KGB",
-    "Nikonov",
-    "Oswald",
-    "Wallenberg",
-    "Liaison",
-    "Molotov",
-    "Bakatin",
-    "Fulbright",
-    "Smith",
-    "Heiberg"
-  ],
   "title": "KGB Official Nikonov",
+  "title_ja": "KGB職員ニコーノフ",
+  "summary": "Cable discusses KGB Official Nikonov, grandson of Vyacheslav Molotov, and his new role as Deputy to KGB Director Bakatin. Nikonov reviewed KGB files on Lee Harvey Oswald and found no evidence of Oswald being a KGB agent. Nikonov also inquired into the fate of Raoul Wallenberg.",
+  "summary_ja": "KGBのニコノフ（モロトフの孫）がKGB長官バカティンの代理として新たに就任したことに関する電報。ニコノフはリー・ハーヴェイ・オズワルドに関するKGBのファイルを再調査したが、オズワルドがKGBのエージェントであるという証拠は見つからなかった。ニコノフはラウル・ワレンバーグの消息についても調査した。",
+  "document_type": "Cable",
+  "classification": "Soviet",
+  "security_level": "SECRET",
   "date": "1991-11-20",
+  "origin_agency": "STAFF",
+  "sender": "ST PETERSBURG",
+  "recipient": "MOSCOW INFO DIRECTOR",
+  "persons_mentioned": [
+    "SEEGER, EDWA",
+    "NIKONOV",
+    "BAKATIN",
+    "SMITH",
+    "HEIBERG",
+    "OSWALD",
+    "WALLENBERG",
+    "MOLOTOV"
+  ],
   "locations_mentioned": [
     "Moscow",
     "St Petersburg",
@@ -28,17 +31,16 @@
     "Germany",
     "Sweden"
   ],
-  "origin_agency": "STAFF",
-  "persons_mentioned": [
-    "SEEGER, EDWA",
-    "NIKONOV",
-    "BAKATIN",
-    "SMITH",
-    "HEIBERG",
-    "OSWALD",
-    "WALLENBERG",
-    "MOLOTOV"
-  ],
-  "recipient": "MOSCOW INFO DIRECTOR",
-  "sender": "ST PETERSBURG"
+  "tags": [
+    "KGB",
+    "Nikonov",
+    "Oswald",
+    "Wallenberg",
+    "Liaison",
+    "Molotov",
+    "Bakatin",
+    "Fulbright",
+    "Smith",
+    "Heiberg"
+  ]
 }

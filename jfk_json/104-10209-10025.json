@@ -1,8 +1,25 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "CONFIDENTIAL",
+  "title": "DE GOLYER CO.",
+  "title_ja": "デ・ゴリヤー社",
   "summary": "This document references DeGolyer & MacNaughton and photogeological mapping in the Spanish Sahara.",
+  "summary_ja": "この文書は、デゴイヤ・アンド・マクノートン社とスペイン領サハラにおける写真地質マッピングについて言及している。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "CONFIDENTIAL",
+  "date": "1961-04-28",
+  "origin_agency": "CIA",
+  "sender": "OFTLER",
+  "recipient": "CYP STAFF",
+  "persons_mentioned": [
+    "YOUNG",
+    "CSTLER"
+  ],
+  "locations_mentioned": [
+    "Spanish Sahara",
+    "FORT WORTH",
+    "DALLAS",
+    "NEW YORK"
+  ],
   "tags": [
     "DeGolyer & MacNaughton",
     "photogeological mapping",
@@ -12,20 +29,5 @@
     "Pan American International",
     "KHOY-BERGKAN-SHEARER",
     "FELIXSTOWE"
-  ],
-  "title": "DE GOLYER CO.",
-  "date": "1961-04-28",
-  "locations_mentioned": [
-    "Spanish Sahara",
-    "FORT WORTH",
-    "DALLAS",
-    "NEW YORK"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "YOUNG",
-    "CSTLER"
-  ],
-  "recipient": "CYP STAFF",
-  "sender": "OFTLER"
+  ]
 }

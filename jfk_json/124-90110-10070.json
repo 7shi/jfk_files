@@ -1,8 +1,24 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memo",
-  "security_level": "Secret",
+  "title": "FRANC PECAR and JOSEPH RAYMOND MEROLA",
+  "title_ja": "フラン・ペカーとジョセフ・レイモンド・メローラ",
   "summary": "FBI memo to CIA regarding FRANC PECAR and JOSEPH RAYMOND MEROLA, discussing CIA's interest in contacting PECAR to persuade him to return to Yugoslavia under CIA control. FBI does not recommend approaching PECAR.",
+  "summary_ja": "FRANC PECARとJOSEPH RAYMOND MEROLAに関するCIA宛のFBIメモ。CIAはPECARに接触し、CIAの管理下でユーゴスラビアに戻るよう説得することに関心を示している。FBIはPECARへの接触を推奨していない。",
+  "document_type": "Memo",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1963-04-10",
+  "origin_agency": "FBI",
+  "sender": "FBI HQ",
+  "recipient": "CIA",
+  "persons_mentioned": [
+    "FRANC PECAR",
+    "JOSEPH RAYMOND MEROLA"
+  ],
+  "locations_mentioned": [
+    "Yugoslavia",
+    "U. S.",
+    "New York"
+  ],
   "tags": [
     "FRANC PECAR",
     "JOSEPH RAYMOND MEROLA",
@@ -13,19 +29,5 @@
     "CIA Control",
     "Informants",
     "Clearance"
-  ],
-  "title": "FRANC PECAR and JOSEPH RAYMOND MEROLA",
-  "date": "1963-04-10",
-  "locations_mentioned": [
-    "Yugoslavia",
-    "U. S.",
-    "New York"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "FRANC PECAR",
-    "JOSEPH RAYMOND MEROLA"
-  ],
-  "recipient": "CIA",
-  "sender": "FBI HQ"
+  ]
 }

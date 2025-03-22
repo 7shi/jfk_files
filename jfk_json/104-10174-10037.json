@@ -1,27 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "Memorandum regarding a meeting with Henry P. Lopez concerning his contacts in Cuba and recommendations for influencing Castro.",
-  "tags": [
-    "Henry P. Lopez",
-    "Cuba",
-    "Castro",
-    "Defection",
-    "Influence",
-    "Herbert Matthews",
-    "Ei Hurrow",
-    "Padre Alberto de Castro",
-    "Raul Castro"
-  ],
   "title": "Meeting with Henry P. Lopez at the Statler-Hilton Hotel on 1 February 1960",
+  "title_ja": "1960年2月1日、スタットラー・ヒルトン・ホテルでのヘンリー・P・ロペスとの会合",
+  "summary": "Memorandum regarding a meeting with Henry P. Lopez concerning his contacts in Cuba and recommendations for influencing Castro.",
+  "summary_ja": "ヘンリー・P・ロペスとのキューバにおける人脈およびカストロに影響を与えるための推奨事項に関する会議についての覚書。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1960-02-01",
-  "locations_mentioned": [
-    "Cuba",
-    "Havana",
-    "Caracas"
-  ],
   "origin_agency": "CIA",
+  "sender": "",
+  "recipient": "Record",
   "persons_mentioned": [
     "Henry P. Lopez",
     "Vidal",
@@ -44,6 +32,20 @@
     "Bosso",
     "Fidel"
   ],
-  "recipient": "Record",
-  "sender": ""
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Caracas"
+  ],
+  "tags": [
+    "Henry P. Lopez",
+    "Cuba",
+    "Castro",
+    "Defection",
+    "Influence",
+    "Herbert Matthews",
+    "Ei Hurrow",
+    "Padre Alberto de Castro",
+    "Raul Castro"
+  ]
 }

@@ -1,24 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Telepouch",
-  "security_level": "SECRET",
-  "summary": "Summary of Cuban media treatment of the death of Martin Luther King, Jr.",
-  "tags": [
-    "Martin Luther King",
-    "assassination",
-    "Cuban media",
-    "Stokely Carmichael",
-    "Black Power"
-  ],
   "title": "Summary of Cuban Media Treatment of the Death of Martin Luther King, Jr.",
+  "title_ja": "キング牧師死去に関するキューバのメディアの扱いについての概要",
+  "summary": "Summary of Cuban media treatment of the death of Martin Luther King, Jr.",
+  "summary_ja": "マーティン・ルーサー・キング・ジュニアの死に対するキューバのメディアの反応の概要",
+  "document_type": "Telepouch",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1968-04-08",
-  "locations_mentioned": [
-    "Cuba",
-    "Havana",
-    "United States",
-    "Vietnam"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, WH/COG",
+  "recipient": "Chief, WH Division",
   "persons_mentioned": [
     "Martin Luther King Jr.",
     "Stokely Carmichael",
@@ -26,6 +17,17 @@
     "Lyndon Johnson",
     "Floyd McKissick"
   ],
-  "recipient": "Chief, WH Division",
-  "sender": "Chief, WH/COG"
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "United States",
+    "Vietnam"
+  ],
+  "tags": [
+    "Martin Luther King",
+    "assassination",
+    "Cuban media",
+    "Stokely Carmichael",
+    "Black Power"
+  ]
 }

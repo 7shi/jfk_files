@@ -1,8 +1,31 @@
 {
-  "classification": "Cuba",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
+  "title": "Plans to Establish Secure Communication Between WAVE and A-3 Groups",
+  "title_ja": "WAVEとA-3グループ間の安全な通信確立計画",
   "summary": "This message discusses plans to establish secure communication between WAVE and A-3 groups, including dispatching AMJAVA-4 by BLACK for infiltration into Cuba.",
+  "summary_ja": "このメッセージは、キューバへの浸透を目的としたBLACKによるAMJAVA-4の派遣など、WAVEグループとA-3グループ間の安全な通信確立計画について論じている。",
+  "document_type": "Classified Message",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1961-02-15",
+  "origin_agency": "CIA",
+  "sender": "WAVE",
+  "recipient": "BELL",
+  "persons_mentioned": [
+    "DUQUE",
+    "BELL",
+    "OSVALDO RAMIREZ",
+    "GIQUEL",
+    "ZABOTH"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "HAVA",
+    "HABANA",
+    "13TH AVE",
+    "198 ST",
+    "BILTMORE",
+    "ESCAMBRAY"
+  ],
   "tags": [
     "WAVE",
     "A-3",
@@ -23,26 +46,5 @@
     "ESCAMBRAY",
     "W/T OPR",
     "OSVALDO RAMIREZ GROUP"
-  ],
-  "title": "Plans to Establish Secure Communication Between WAVE and A-3 Groups",
-  "date": "1961-02-15",
-  "locations_mentioned": [
-    "Cuba",
-    "HAVA",
-    "HABANA",
-    "13TH AVE",
-    "198 ST",
-    "BILTMORE",
-    "ESCAMBRAY"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "DUQUE",
-    "BELL",
-    "OSVALDO RAMIREZ",
-    "GIQUEL",
-    "ZABOTH"
-  ],
-  "recipient": "BELL",
-  "sender": "WAVE"
+  ]
 }

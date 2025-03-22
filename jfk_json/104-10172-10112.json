@@ -1,39 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Document Collection",
-  "security_level": "SECRET",
-  "summary": "This document is a collection of documents related to Maurice Hyman Halperin. It includes FBI files, outgoing messages from the CIA, newspaper articles, and an alumni magazine article. The documents cover the period from 1962 to 1976 and discuss Halperin's alleged involvement with Soviet espionage, his work for the Soviet government, and his academic career.",
-  "tags": [
-    "HALPERIN",
-    "MAURICE HYMAN",
-    "FBI",
-    "CIA",
-    "Soviet Union",
-    "Espionage",
-    "Cuba",
-    "Boston University",
-    "University of Oklahoma",
-    "Simon Fraser University"
-  ],
   "title": "HALPERIN MAURICE HYMAN",
+  "title_ja": "HALPERIN MAURICE HYMAN",
+  "summary": "This document is a collection of documents related to Maurice Hyman Halperin. It includes FBI files, outgoing messages from the CIA, newspaper articles, and an alumni magazine article. The documents cover the period from 1962 to 1976 and discuss Halperin's alleged involvement with Soviet espionage, his work for the Soviet government, and his academic career.",
+  "summary_ja": "この文書はモーリス・ハイマン・ハルペリンに関する文書のコレクションである。FBIのファイル、CIAからの発信メッセージ、新聞記事、同窓会誌の記事などが含まれている。文書は1962年から1976年までの期間をカバーしており、ハルペリンのソ連スパイ疑惑、ソ連政府での勤務、学術的経歴について論じている。",
+  "document_type": "Document Collection",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-01-01",
-  "locations_mentioned": [
-    "Moscow",
-    "Mexico",
-    "Cuba",
-    "Boston",
-    "Washington",
-    "Oklahoma City",
-    "British Columbia",
-    "London",
-    "Ottawa",
-    "Israel",
-    "Italy",
-    "Greece",
-    "Spain",
-    "England"
-  ],
   "origin_agency": "FBI/CIA",
+  "sender": "DIRECTOR",
+  "recipient": "YEURB",
   "persons_mentioned": [
     "HALPERIN, Maurice Hyman",
     "Dodd, Martha",
@@ -57,6 +33,32 @@
     "David, Thomas J.",
     "Eisenhower"
   ],
-  "recipient": "YEURB",
-  "sender": "DIRECTOR"
+  "locations_mentioned": [
+    "Moscow",
+    "Mexico",
+    "Cuba",
+    "Boston",
+    "Washington",
+    "Oklahoma City",
+    "British Columbia",
+    "London",
+    "Ottawa",
+    "Israel",
+    "Italy",
+    "Greece",
+    "Spain",
+    "England"
+  ],
+  "tags": [
+    "HALPERIN",
+    "MAURICE HYMAN",
+    "FBI",
+    "CIA",
+    "Soviet Union",
+    "Espionage",
+    "Cuba",
+    "Boston University",
+    "University of Oklahoma",
+    "Simon Fraser University"
+  ]
 }

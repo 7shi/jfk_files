@@ -1,8 +1,34 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memo",
-  "security_level": "Secret",
+  "title": "SUSAN HEILIG FRANK SECURITY MATTER",
+  "title_ja": "スーザン・ハイルグ・フランク 安全保障問題",
   "summary": "This document discusses the dissemination of information about Susan Heilig Frank and Richard Cyril Frank to Swiss Federal Police and legal attaches in London, Paris, and Tokyo. It also concerns possible travel of the Franks to Communist China, England, France, or Japan. The CIA requests the FBI to provide pertinent information about the subjects' possible travel and presence in China.",
+  "summary_ja": "この文書は、スーザン・ハイル・フランクとリチャード・シリル・フランクに関する情報をスイス連邦警察およびロンドン、パリ、東京の法務官に流布したことについて述べている。また、フランク夫妻が共産中国、英国、フランス、日本へ渡航する可能性についても言及している。CIAはFBIに対し、対象者の中国への渡航および滞在に関する関連情報の提供を要請している。",
+  "document_type": "Memo",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1960-02-02",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "DIRECTOR, FBI",
+  "persons_mentioned": [
+    "SUSAN HEILIG FRANK",
+    "RICHARD CYRIL FRANK",
+    "Floyd",
+    "S. J. Papich"
+  ],
+  "locations_mentioned": [
+    "Switzerland",
+    "Communist China",
+    "England",
+    "France",
+    "Japan",
+    "London",
+    "Paris",
+    "Tokyo",
+    "Bern",
+    "Zurich",
+    "Prague"
+  ],
   "tags": [
     "RCF",
     "SHF",
@@ -17,29 +43,5 @@
     "COMMUNIST PARTY",
     "SWISS FEDERAL POLICE",
     "SECURITY INDEX"
-  ],
-  "title": "SUSAN HEILIG FRANK SECURITY MATTER",
-  "date": "1960-02-02",
-  "locations_mentioned": [
-    "Switzerland",
-    "Communist China",
-    "England",
-    "France",
-    "Japan",
-    "London",
-    "Paris",
-    "Tokyo",
-    "Bern",
-    "Zurich",
-    "Prague"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "SUSAN HEILIG FRANK",
-    "RICHARD CYRIL FRANK",
-    "Floyd",
-    "S. J. Papich"
-  ],
-  "recipient": "DIRECTOR, FBI",
-  "sender": "CIA"
+  ]
 }

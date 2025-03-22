@@ -1,32 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch and Report",
-  "security_level": "SECRET",
-  "summary": "Report on Cira MARTINEZ, a confidante of Manuel Ray, including information about her connections, political views, and activities, as well as lists of potential defectors from the Castro regime and trained personnel in Cuba.",
-  "tags": [
-    "Cira Martinez",
-    "Manuel Ray",
-    "JURE",
-    "Osorio Davila",
-    "Ignacio Lidon",
-    "Defectors",
-    "Castro Regime",
-    "Cuba",
-    "Anti-Castro Organizations"
-  ],
   "title": "GYROSE/AMCONCERT-1 Report on Cira MARTINEZ",
+  "title_ja": "GYROSE/AMCONCERT-1 Cira MARTINEZに関する報告",
+  "summary": "Report on Cira MARTINEZ, a confidante of Manuel Ray, including information about her connections, political views, and activities, as well as lists of potential defectors from the Castro regime and trained personnel in Cuba.",
+  "summary_ja": "マヌエル・レイの腹心であるシラ・マルティネズに関する報告書。彼女のつながり、政治的見解、活動に関する情報、およびカストロ政権からの潜在的な離反者とキューバの訓練された人員のリストを含む。",
+  "document_type": "Dispatch and Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-11-06",
-  "locations_mentioned": [
-    "Havana",
-    "Miami",
-    "San Juan",
-    "Puerto Rico",
-    "Cuba",
-    "Mexico",
-    "Kansas",
-    "Brasilien Embassy"
-  ],
   "origin_agency": "JMWAVE",
+  "sender": "Chief, JMWAVE",
+  "recipient": "Chief, Task Force W",
   "persons_mentioned": [
     "Cira MARTINEZ",
     "Manuel RAY",
@@ -108,6 +91,25 @@
     "Antonio VICO",
     "José Roberto CEOMAT"
   ],
-  "recipient": "Chief, Task Force W",
-  "sender": "Chief, JMWAVE"
+  "locations_mentioned": [
+    "Havana",
+    "Miami",
+    "San Juan",
+    "Puerto Rico",
+    "Cuba",
+    "Mexico",
+    "Kansas",
+    "Brasilien Embassy"
+  ],
+  "tags": [
+    "Cira Martinez",
+    "Manuel Ray",
+    "JURE",
+    "Osorio Davila",
+    "Ignacio Lidon",
+    "Defectors",
+    "Castro Regime",
+    "Cuba",
+    "Anti-Castro Organizations"
+  ]
 }

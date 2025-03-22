@@ -1,22 +1,15 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
-  "summary": "FBI memo regarding information received from the CIA about a potential kidnapping threat against the children of a CIA employee in Venezuela by the Communist Party of Venezuela. Fingerprints and photographs of the children were obtained for possible use in the event of a kidnapping.",
-  "tags": [
-    "Communist Party of Venezuela",
-    "CIA",
-    "Kidnapping",
-    "Venezuela",
-    "Fingerprints",
-    "Photographs"
-  ],
   "title": "COMMUNIST PARTY OF VENEZUELA CENTRAL INTELLIGENCE AGENCY (CIA) VENEZUELA KIDNAPING",
+  "title_ja": "ベネズエラ共産党 中央情報局（CIA） ベネズエラ 拉致",
+  "summary": "FBI memo regarding information received from the CIA about a potential kidnapping threat against the children of a CIA employee in Venezuela by the Communist Party of Venezuela. Fingerprints and photographs of the children were obtained for possible use in the event of a kidnapping.",
+  "summary_ja": "ベネズエラの共産党によるベネズエラ在住のCIA職員の子供たちに対する誘拐の可能性について、CIAから受け取った情報に関するFBIのメモ。誘拐が発生した場合に備えて、子供たちの指紋と写真が入手された。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "Secret",
   "date": "1967-03-15",
-  "locations_mentioned": [
-    "Venezuela"
-  ],
   "origin_agency": "FBI",
+  "sender": "I. Shroder",
+  "recipient": "Rosen",
   "persons_mentioned": [
     "Thomas Keogh",
     "Joseph Edward Keogh",
@@ -32,6 +25,15 @@
     "Jane Roman",
     "Carl Volker"
   ],
-  "recipient": "Rosen",
-  "sender": "I. Shroder"
+  "locations_mentioned": [
+    "Venezuela"
+  ],
+  "tags": [
+    "Communist Party of Venezuela",
+    "CIA",
+    "Kidnapping",
+    "Venezuela",
+    "Fingerprints",
+    "Photographs"
+  ]
 }

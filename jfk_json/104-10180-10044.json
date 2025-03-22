@@ -1,8 +1,35 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "SECRET",
+  "title": "Shipment of Explosives to Mexico",
+  "title_ja": "メキシコへの爆発物の出荷",
   "summary": "Report on a shipment of explosives to Mexico for the Communist Party of El Salvador, involving Manuel PINEIRO and Rogelio RODRIGUEZ Lopez.",
+  "summary_ja": "エルサルバドル共産党向けにメキシコに爆発物が輸送されたことに関する報告書。マヌエル・パインイロとロヘリオ・ロドリゲス・ロペスが関与している。",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1964-08-25",
+  "origin_agency": "Central Intelligence Agency",
+  "sender": "Chief, WILD",
+  "recipient": "Chief of Station, Mexico City",
+  "persons_mentioned": [
+    "Manuel PINEIRO",
+    "Rogelio RODRIGUEZ Lopez",
+    "Esther GAVILAN Rosales",
+    "Antonio Hadik",
+    "Raul Cosio Villegas y Chapa",
+    "Daniel McLina",
+    "Jose Miguel Fernandez Roa",
+    "Edmundo Jardos Arzate"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico",
+    "El Salvador",
+    "Venezuela",
+    "Mexico City",
+    "Nuevo Laredo",
+    "Habana",
+    "Santiago de Chile"
+  ],
   "tags": [
     "Explosives",
     "Shipment",
@@ -25,30 +52,5 @@
     "Daniel McLina",
     "Jose Miguel Fernandez Roa",
     "Edmundo Jardos Arzate"
-  ],
-  "title": "Shipment of Explosives to Mexico",
-  "date": "1964-08-25",
-  "locations_mentioned": [
-    "Cuba",
-    "Mexico",
-    "El Salvador",
-    "Venezuela",
-    "Mexico City",
-    "Nuevo Laredo",
-    "Habana",
-    "Santiago de Chile"
-  ],
-  "origin_agency": "Central Intelligence Agency",
-  "persons_mentioned": [
-    "Manuel PINEIRO",
-    "Rogelio RODRIGUEZ Lopez",
-    "Esther GAVILAN Rosales",
-    "Antonio Hadik",
-    "Raul Cosio Villegas y Chapa",
-    "Daniel McLina",
-    "Jose Miguel Fernandez Roa",
-    "Edmundo Jardos Arzate"
-  ],
-  "recipient": "Chief of Station, Mexico City",
-  "sender": "Chief, WILD"
+  ]
 }

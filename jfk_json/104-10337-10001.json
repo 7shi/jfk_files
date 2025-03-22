@@ -1,23 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Letter/Memorandum",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This document primarily consists of correspondence between the CIA and the House Committee on Government Operations regarding CIA holdings of records related to the assassination of President Kennedy. It also includes outlines of testimony and internal memos regarding the JFK resolution and related hearings.",
-  "tags": [
-    "JFK Assassination Records",
-    "CIA",
-    "House Committee on Government Operations",
-    "John Conyers, Jr.",
-    "Stanley M. Moskowitz",
-    "Robert M. Gates",
-    "Legislation",
-    "Freedom of Information Act",
-    "Historical Review Group",
-    "Declassification"
-  ],
   "title": "Agency Records on the JFK Assassination",
+  "title_ja": "JFK暗殺に関する政府機関の記録",
+  "summary": "This document primarily consists of correspondence between the CIA and the House Committee on Government Operations regarding CIA holdings of records related to the assassination of President Kennedy. It also includes outlines of testimony and internal memos regarding the JFK resolution and related hearings.",
+  "summary_ja": "この文書は主に、ケネディ大統領暗殺に関するCIAの記録保管について、CIAと政府運営に関する下院委員会との間のやり取りで構成されている。また、JFK決議と関連公聴会に関する証言の概要と内部メモも含まれている。",
+  "document_type": "Letter/Memorandum",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
   "date": "1992-04-23",
   "origin_agency": "Central Intelligence Agency",
+  "sender": "Stanley M. Moskowitz",
+  "recipient": "John Conyers, Jr.",
   "persons_mentioned": [
     "John Conyers, Jr.",
     "John F. Kennedy",
@@ -32,6 +24,16 @@
     "Louis Stokes",
     "Lee Hamilton"
   ],
-  "recipient": "John Conyers, Jr.",
-  "sender": "Stanley M. Moskowitz"
+  "tags": [
+    "JFK Assassination Records",
+    "CIA",
+    "House Committee on Government Operations",
+    "John Conyers, Jr.",
+    "Stanley M. Moskowitz",
+    "Robert M. Gates",
+    "Legislation",
+    "Freedom of Information Act",
+    "Historical Review Group",
+    "Declassification"
+  ]
 }

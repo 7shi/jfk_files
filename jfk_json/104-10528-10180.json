@@ -1,22 +1,24 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable discusses an individual named Alfredo Davins and references AMLONG.",
-  "tags": [
-    "AMLONG",
-    "Alfredo Davins"
-  ],
   "title": "Message regarding Alfredo Davins and AMLONG",
+  "title_ja": "アルフレッド・ダヴィンスおよびAMLONGに関するメッセージ",
+  "summary": "Cable discusses an individual named Alfredo Davins and references AMLONG.",
+  "summary_ja": "この電報はアルフレッド・ダヴィンスという人物について議論し、AMLONGについて言及している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
   "date": "1963-10-03",
-  "locations_mentioned": [
-    "Mexico City"
-  ],
   "origin_agency": "Director",
+  "sender": "Director",
+  "recipient": "Mexico City",
   "persons_mentioned": [
     "John F. Kennedy",
     "Alfredo Davins"
   ],
-  "recipient": "Mexico City",
-  "sender": "Director"
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "tags": [
+    "AMLONG",
+    "Alfredo Davins"
+  ]
 }

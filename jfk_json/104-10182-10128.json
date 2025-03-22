@@ -1,22 +1,24 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This memorandum discusses the Central Cover Division's (CCD) concurrence in a proposal to use Michell Livingston WerBell for a specific purpose, with the requirement to promptly advise CCD upon activation.",
-  "tags": [
-    "Michell Livingston WerBELL",
-    "Central Cover Division",
-    "Nonofficial Cover",
-    "C-78785"
-  ],
   "title": "Michell Livingston WERBELL - C-78785",
+  "title_ja": "Michell Livingston WERBELL - C-78785",
+  "summary": "This memorandum discusses the Central Cover Division's (CCD) concurrence in a proposal to use Michell Livingston WerBell for a specific purpose, with the requirement to promptly advise CCD upon activation.",
+  "summary_ja": "この覚書では、特定の目的のためにミシェル・リヴィングストン・ワーベルを利用するという提案について、中央カバー部門（CCD）が同意したこと、および作戦開始時に速やかにCCDに報告するよう指示されていることが述べられている。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1959-07-24",
   "origin_agency": "Central Cover Division",
+  "sender": "JOHN G. SOUTHARD, Chief, CCD/NC",
+  "recipient": "Chief, WH/Car/PP",
   "persons_mentioned": [
     "Michell Livingston WerBELL",
     "T. Cobb",
     "JOHN G. SOUTHARD"
   ],
-  "recipient": "Chief, WH/Car/PP",
-  "sender": "JOHN G. SOUTHARD, Chief, CCD/NC"
+  "tags": [
+    "Michell Livingston WerBELL",
+    "Central Cover Division",
+    "Nonofficial Cover",
+    "C-78785"
+  ]
 }

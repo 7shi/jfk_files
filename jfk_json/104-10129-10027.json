@@ -1,8 +1,17 @@
 {
-  "classification": "Personnel",
-  "document_type": "Form",
-  "security_level": "SECRET",
+  "title": "Request for PCS Overseas Evaluation - Joseph S. Piccolo",
+  "title_ja": "PCS海外評価依頼書 - ジョセフ・S・ピッコロ",
   "summary": "Request for Permanent Change of Station (PCS) overseas evaluation for Joseph S. Piccolo, an Ops Off stationed in Managua, Nicaragua, to a new position as Ops Off at a proposed station with military cover. Subject is returning short of tour for assignment JMCOBRA.",
+  "summary_ja": "ニカラグアのマナグアに駐在するオペレーション・オフィサーのジョセフ・S・ピッコロが、軍事施設のある予定地でオペレーション・オフィサーとして新たな任務に就くための、海外における恒久的配置転換（PCS）評価の依頼。対象者は、JMCOBRAの任務のために短期間帰国する。",
+  "document_type": "Form",
+  "classification": "Personnel",
+  "security_level": "SECRET",
+  "date": "1968-09-27",
+  "sender": "Roy W. Forslund, Requesting Official, Chief, Personnel Security Division",
+  "persons_mentioned": [
+    "Joseph S. Piccolo",
+    "Roy W. Forslund"
+  ],
   "tags": [
     "Personnel",
     "PCS",
@@ -13,12 +22,5 @@
     "Nicaragua",
     "Ops Off",
     "Military Cover"
-  ],
-  "title": "Request for PCS Overseas Evaluation - Joseph S. Piccolo",
-  "date": "1968-09-27",
-  "persons_mentioned": [
-    "Joseph S. Piccolo",
-    "Roy W. Forslund"
-  ],
-  "sender": "Roy W. Forslund, Requesting Official, Chief, Personnel Security Division"
+  ]
 }

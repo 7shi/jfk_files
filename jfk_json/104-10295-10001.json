@@ -1,8 +1,30 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "Unclassified",
+  "title": "Summary of S/W Training and Issuance of Materials for AGENT AMLASH/1",
+  "title_ja": "エージェントAMLASH/1向けソフトウェアトレーニングの概要および資料の発行",
   "summary": "This memorandum details the S/W (secret writing) training provided to agent AMLASH/1 in Paris during August 1962, including instruction on techniques, materials, and communication protocols. It also outlines the supplies issued to the agent and specific procedures for maintaining secure correspondence.",
+  "summary_ja": "この覚書は、1962年8月にパリでエージェントAMLASH/1に提供されたS/W（秘密の筆記）訓練について詳細に述べている。訓練には、技術、教材、通信プロトコルに関する指導が含まれている。また、エージェントに支給された物資や、安全な通信を維持するための特定の手順についても概説されている。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "Unclassified",
+  "date": "1962-08-29",
+  "origin_agency": "CIA",
+  "sender": "Richard M. Fallucci, TPE C/O",
+  "recipient": "Record",
+  "persons_mentioned": [
+    "AMLASH/1",
+    "Richard M. Fallucci",
+    "Wallace A. Growery",
+    "Ramon",
+    "Maria Dolores Gomez",
+    "Humphrey R. Boncavil"
+  ],
+  "locations_mentioned": [
+    "Paris, France",
+    "Madrid, Spain",
+    "New York City",
+    "PBRUMEN",
+    "Copenhagen"
+  ],
   "tags": [
     "S/W",
     "secret writing",
@@ -19,25 +41,5 @@
     "accommodation address",
     "indicators",
     "control"
-  ],
-  "title": "Summary of S/W Training and Issuance of Materials for AGENT AMLASH/1",
-  "date": "1962-08-29",
-  "locations_mentioned": [
-    "Paris, France",
-    "Madrid, Spain",
-    "New York City",
-    "PBRUMEN",
-    "Copenhagen"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "AMLASH/1",
-    "Richard M. Fallucci",
-    "Wallace A. Growery",
-    "Ramon",
-    "Maria Dolores Gomez",
-    "Humphrey R. Boncavil"
-  ],
-  "recipient": "Record",
-  "sender": "Richard M. Fallucci, TPE C/O"
+  ]
 }

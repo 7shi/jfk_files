@@ -1,19 +1,22 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Information Concerning Suspected Assassin of Martin Luther King, Jr.",
+  "title_ja": "キング牧師暗殺容疑者に関する情報",
   "summary": "Cable regarding information furnished by LNERGO concerning suspected assassin of Martin Luther King, Jr. - Eric Starvo Galt, alias Harvey Lowmyer, alias John Willard.",
-  "tags": [
-    "Martin Luther King Jr.",
-    "assassination",
+  "summary_ja": "LNERGOが提供したキング牧師暗殺容疑者に関する情報に関する電報 - エリック・スターヴォ・ガルト（別名ハーヴェイ・ロウマイヤー、別名ジョン・ウィラード）",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1968-04-18",
+  "origin_agency": "CIOP/DO",
+  "sender": "DIRECTOR",
+  "recipient": "ASUNCION, BANGKOK, BARCELONA, BEIRUT, BERLIN, BERN, BOGOTA, CARACAS, BRASILIA, BRUSSELS, BUENOS AIRES, COXNEXOONS COPENHAGEN, FRANKFURT, GENEVA, GEORGETOWN, GUATEMALA CITY, GUAYAQUIL, THE HAGUE, HAMBURG, HELSINKI, HONG KONG, KINGSTON, LA PAZ, LIMA, LONDON, MADRID, MANAGUA, MONTEVIDEOS, NEW DELHI, LISBON, MANILA, MUNICH, OSLO, PANAMA CITY PARIS PORT AU PRINCE, PORT OF SPAIN, PORTO ALEGRE, QUITO, RECIFE, RAWALPINDI, RIO DE JANERIO, ROME, SAN JOSE, SANTO DOMINGO, SAN SALVADOR, SANTIAGO, SANTIAGO DE LOS CABALLEROS, SAO PAULO, STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
+  "persons_mentioned": [
+    "Richard Ober",
     "Eric Starvo Galt",
     "Harvey Lowmyer",
     "John Willard",
-    "LNERGO",
-    "assassin"
+    "Martin Luther King, Jr."
   ],
-  "title": "Information Concerning Suspected Assassin of Martin Luther King, Jr.",
-  "date": "1968-04-18",
   "locations_mentioned": [
     "ASUNCION",
     "BANGKOK",
@@ -70,14 +73,13 @@
     "VIENNA",
     "ZURICH"
   ],
-  "origin_agency": "CIOP/DO",
-  "persons_mentioned": [
-    "Richard Ober",
+  "tags": [
+    "Martin Luther King Jr.",
+    "assassination",
     "Eric Starvo Galt",
     "Harvey Lowmyer",
     "John Willard",
-    "Martin Luther King, Jr."
-  ],
-  "recipient": "ASUNCION, BANGKOK, BARCELONA, BEIRUT, BERLIN, BERN, BOGOTA, CARACAS, BRASILIA, BRUSSELS, BUENOS AIRES, COXNEXOONS COPENHAGEN, FRANKFURT, GENEVA, GEORGETOWN, GUATEMALA CITY, GUAYAQUIL, THE HAGUE, HAMBURG, HELSINKI, HONG KONG, KINGSTON, LA PAZ, LIMA, LONDON, MADRID, MANAGUA, MONTEVIDEOS, NEW DELHI, LISBON, MANILA, MUNICH, OSLO, PANAMA CITY PARIS PORT AU PRINCE, PORT OF SPAIN, PORTO ALEGRE, QUITO, RECIFE, RAWALPINDI, RIO DE JANERIO, ROME, SAN JOSE, SANTO DOMINGO, SAN SALVADOR, SANTIAGO, SANTIAGO DE LOS CABALLEROS, SAO PAULO, STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
-  "sender": "DIRECTOR"
+    "LNERGO",
+    "assassin"
+  ]
 }

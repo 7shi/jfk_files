@@ -1,39 +1,15 @@
 {
-  "classification": "Mexico",
-  "document_type": "Report",
-  "security_level": "Unclassified",
-  "summary": "This document contains reports, interviews, and chronologies related to Lee Harvey Oswald's activities in Mexico City, focusing on his visits to the Soviet and Cuban embassies, contacts with individuals like Silvia Duran, and the CIA's monitoring and investigation of these events.",
-  "tags": [
-    "OSWALD, LEE",
-    "POST-RUSSIAN PERIOD",
-    "TRAVEL",
-    "TRIP TO MEXICO",
-    "Cuban Embassy",
-    "Soviet Embassy",
-    "Silvia Duran",
-    "CIA",
-    "HSCA",
-    "David Atlee Phillips",
-    "Win Scott",
-    "Mexico City",
-    "Visa Application",
-    "Fair Play for Cuba Committee",
-    "American Communist Party",
-    "Telephone Taps",
-    "Surveillance",
-    "Counter-Intelligence"
-  ],
   "title": "Chronology of Oswald's Visits to the Soviet and Cuban Embassies; HSCA Interview of David Atlee Phillips",
+  "title_ja": "オズワルドのソ連およびキューバ大使館訪問の年表、HSCAによるデビッド・アトリー・フィリップスの尋問",
+  "summary": "This document contains reports, interviews, and chronologies related to Lee Harvey Oswald's activities in Mexico City, focusing on his visits to the Soviet and Cuban embassies, contacts with individuals like Silvia Duran, and the CIA's monitoring and investigation of these events.",
+  "summary_ja": "この文書には、リー・ハーヴェイ・オズワルドのメキシコシティでの活動に関する報告書、インタビュー、年表が含まれており、ソ連およびキューバ大使館への訪問、シルヴィア・デュランのような人物との接触、およびCIAによるこれらの出来事の監視と調査に焦点を当てている。",
+  "document_type": "Report",
+  "classification": "Mexico",
+  "security_level": "Unclassified",
   "date": "1963-09-26",
-  "locations_mentioned": [
-    "Mexico City",
-    "Soviet Embassy",
-    "Cuban Embassy",
-    "Cuba",
-    "Russia",
-    "Miami"
-  ],
   "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "N/A",
   "persons_mentioned": [
     "OSWALD, LEE",
     "Silvia Duran",
@@ -56,6 +32,32 @@
     "Teltry",
     "Obyedkov"
   ],
-  "recipient": "N/A",
-  "sender": "CIA"
+  "locations_mentioned": [
+    "Mexico City",
+    "Soviet Embassy",
+    "Cuban Embassy",
+    "Cuba",
+    "Russia",
+    "Miami"
+  ],
+  "tags": [
+    "OSWALD, LEE",
+    "POST-RUSSIAN PERIOD",
+    "TRAVEL",
+    "TRIP TO MEXICO",
+    "Cuban Embassy",
+    "Soviet Embassy",
+    "Silvia Duran",
+    "CIA",
+    "HSCA",
+    "David Atlee Phillips",
+    "Win Scott",
+    "Mexico City",
+    "Visa Application",
+    "Fair Play for Cuba Committee",
+    "American Communist Party",
+    "Telephone Taps",
+    "Surveillance",
+    "Counter-Intelligence"
+  ]
 }

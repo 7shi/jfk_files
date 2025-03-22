@@ -1,8 +1,33 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "Operational/CYPOCE/AIRECALEN/FOX WT Operator Candidate Inside Target Area",
+  "title_ja": "作戦/CYPOCE/AIRECALEN/FOX WT オペレーター候補 標的地域内",
   "summary": "This dispatch discusses a WT operator candidate recruited in Havana in the fall of 1960. The candidate was trained but never activated, and Headquarters is requested to review files to ascertain the subject's identity and whereabouts to determine if he could still be used operationally inside the target area.",
+  "summary_ja": "この報告書では、1960年秋にハバナで採用されたWTオペレーター候補について論じている。候補者は訓練を受けたが、一度も活動させられることはなく、本部に対して、この人物の身元と所在を確認し、対象地域内でまだ活動に利用できるかどうかを判断するためのファイルの再調査が要請されている。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-01-24",
+  "origin_agency": "IAVEL/COPY",
+  "sender": "Chief of Station, IAVEL/COPY",
+  "recipient": "Chief, Special Affairs Staff",
+  "persons_mentioned": [
+    "Peter J. DI CERVENO",
+    "AMIRE 1",
+    "AMPANIC-1",
+    "AMELEN-1",
+    "APTOX-1",
+    "George D. SCOWCROFT",
+    "AMIRD-1"
+  ],
+  "locations_mentioned": [
+    "Havana",
+    "39 San Rafael Street",
+    "Palecon and Principe Streets",
+    "Fenocal Avenue",
+    "Infanta",
+    "Valle",
+    "San Jose Streets"
+  ],
   "tags": [
     "WT operator",
     "recruitment",
@@ -20,28 +45,5 @@
     "AMPANIC-1",
     "AMELEN-1",
     "APTOX-1"
-  ],
-  "title": "Operational/CYPOCE/AIRECALEN/FOX WT Operator Candidate Inside Target Area",
-  "date": "1963-01-24",
-  "locations_mentioned": [
-    "Havana",
-    "39 San Rafael Street",
-    "Palecon and Principe Streets",
-    "Fenocal Avenue",
-    "Infanta",
-    "Valle",
-    "San Jose Streets"
-  ],
-  "origin_agency": "IAVEL/COPY",
-  "persons_mentioned": [
-    "Peter J. DI CERVENO",
-    "AMIRE 1",
-    "AMPANIC-1",
-    "AMELEN-1",
-    "APTOX-1",
-    "George D. SCOWCROFT",
-    "AMIRD-1"
-  ],
-  "recipient": "Chief, Special Affairs Staff",
-  "sender": "Chief of Station, IAVEL/COPY"
+  ]
 }

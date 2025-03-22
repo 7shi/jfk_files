@@ -1,18 +1,23 @@
 {
-  "classification": "Personnel",
-  "document_type": "Record",
-  "security_level": "UNCLASSIFIED",
-  "summary": "Personnel record for James W. McCord, Jr., including his date of birth, family information, assignments, education, hobbies, and permanent address.",
-  "tags": [
-    "CIA",
-    "Security",
-    "FBI",
-    "Golf",
-    "Scouting",
-    "Personnel Record"
-  ],
   "title": "McCORD, James W., Jr. Personnel Record",
+  "title_ja": "マッコード、ジェームズ・W・ジュニア 人事記録",
+  "summary": "Personnel record for James W. McCord, Jr., including his date of birth, family information, assignments, education, hobbies, and permanent address.",
+  "summary_ja": "ジェームズ・W・マッコード・ジュニアの人事記録。生年月日、家族情報、任務、学歴、趣味、現住所を含む。",
+  "document_type": "Record",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
   "date": "2025-11-22",
+  "origin_agency": "CIA",
+  "sender": "CIA",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "James W. McCord, Jr.",
+    "Ruth",
+    "Mike",
+    "Anne",
+    "Nancy",
+    "John F. Kennedy"
+  ],
   "locations_mentioned": [
     "Washington",
     "Germany",
@@ -22,15 +27,12 @@
     "Springfield",
     "Virginia"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "James W. McCord, Jr.",
-    "Ruth",
-    "Mike",
-    "Anne",
-    "Nancy",
-    "John F. Kennedy"
-  ],
-  "recipient": "N/A",
-  "sender": "CIA"
+  "tags": [
+    "CIA",
+    "Security",
+    "FBI",
+    "Golf",
+    "Scouting",
+    "Personnel Record"
+  ]
 }

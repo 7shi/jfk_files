@@ -1,8 +1,27 @@
 {
-  "classification": "Mexico",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Related Mission Directive for Mexico",
+  "title_ja": "メキシコに関する関連ミッション指令",
   "summary": "This memorandum discusses the revised Related Mission Directive for Mexico. It outlines the long-range national policy objectives of the U.S. Government toward Mexico, operational emphasis on clandestine collection and covert action operations, and changes in the MAD. The directive includes objectives related to obtaining information on Sino-Soviet bloc activities, reducing Communist influence, obtaining information on the Communist Party of Mexico, and supporting efforts against the Castro regime in Cuba.",
+  "summary_ja": "本覚書は、メキシコに関する関連任務指令の改訂について論じている。米国政府のメキシコに対する長期的な国家政策目標、秘密諜報活動および秘密工作活動における作戦上の重点、および関連任務指令の変更について概説している。指令には、中ソ同盟の活動に関する情報の入手、共産主義の影響力の削減、メキシコ共産党に関する情報の入手、およびキューバのカストロ政権に対する取り組みの支援に関する目標が含まれている。",
+  "document_type": "Memorandum",
+  "classification": "Mexico",
+  "security_level": "UNCLASSIFIED",
+  "date": "1961-01-24",
+  "origin_agency": "CIA",
+  "sender": "Chief, WH Division",
+  "recipient": "Deputy Director (Plans)",
+  "persons_mentioned": [
+    "Richard Helms",
+    "A. R. King",
+    "John F. Kennedy",
+    "O. Calder"
+  ],
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba",
+    "Latin America",
+    "Mexico City"
+  ],
   "tags": [
     "Related Mission Directive",
     "Mexico",
@@ -13,22 +32,5 @@
     "Propaganda",
     "Political action",
     "Anti-Communism"
-  ],
-  "title": "Related Mission Directive for Mexico",
-  "date": "1961-01-24",
-  "locations_mentioned": [
-    "Mexico",
-    "Cuba",
-    "Latin America",
-    "Mexico City"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Richard Helms",
-    "A. R. King",
-    "John F. Kennedy",
-    "O. Calder"
-  ],
-  "recipient": "Deputy Director (Plans)",
-  "sender": "Chief, WH Division"
+  ]
 }

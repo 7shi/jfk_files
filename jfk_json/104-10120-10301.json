@@ -1,21 +1,23 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Hidalgo, Balines N. Jr.",
+  "title_ja": "ヒダルゴ、バリンズ・N.・ジュニア",
   "summary": "Memorandum regarding security approval and certification for Balines N. Hidalgo Jr. for a TOY (Temporary Duty) assignment to San Salvador.",
+  "summary_ja": "サンサルバドルへのTOY（臨時任務）配属のためのバリネス・N・イダルゴ・ジュニアのセキュリティ承認および証明に関する覚書。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "UNCLASSIFIED",
+  "date": "1960-12-02",
+  "sender": "C'Shen 03",
+  "recipient": "De/PSD",
+  "persons_mentioned": [
+    "Hidalgo, Balines N. Jr.",
+    "C'Shen"
+  ],
   "tags": [
     "Security Clearance",
     "State Department",
     "FBI Informant",
     "TOY Assignment",
     "San Salvador"
-  ],
-  "title": "Hidalgo, Balines N. Jr.",
-  "date": "1960-12-02",
-  "persons_mentioned": [
-    "Hidalgo, Balines N. Jr.",
-    "C'Shen"
-  ],
-  "recipient": "De/PSD",
-  "sender": "C'Shen 03"
+  ]
 }

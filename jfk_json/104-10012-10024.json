@@ -1,27 +1,15 @@
 {
-  "classification": "Oswald",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This memo discusses Valeriy Vladimirovich Kostikov, a KGB officer who may have been involved with Lee Harvey Oswald in Mexico City. It requests information on Kostikov's activities in Mexico and Beirut, as well as his potential involvement in recent threats and violence against the Embassy in Beirut.",
-  "tags": [
-    "KGB",
-    "Lee Harvey Oswald",
-    "Mexico City",
-    "Beirut",
-    "Active Measures",
-    "Department V",
-    "Soviet Visa",
-    "Embassy Threats"
-  ],
   "title": "VALERIY VLADIMIROVICH KOSTIKOV",
+  "title_ja": "ヴァレリー・ウラジミロヴィチ・コスティコフ",
+  "summary": "This memo discusses Valeriy Vladimirovich Kostikov, a KGB officer who may have been involved with Lee Harvey Oswald in Mexico City. It requests information on Kostikov's activities in Mexico and Beirut, as well as his potential involvement in recent threats and violence against the Embassy in Beirut.",
+  "summary_ja": "このメモは、メキシコシティでリー・ハーヴェイ・オズワルドと関わりがあった可能性のあるKGB職員、ヴァレリー・ウラジミロヴィチ・コスティコフについて述べている。メキシコとベイルートにおけるコスティコフの活動に関する情報、およびベイルート大使館に対する最近の脅威と暴力への関与の可能性についての情報が求められている。",
+  "document_type": "Memo",
+  "classification": "Oswald",
+  "security_level": "UNCLASSIFIED",
   "date": "1982-05-10",
-  "locations_mentioned": [
-    "Moscow",
-    "Beirut",
-    "Mexico City",
-    "Damascus"
-  ],
   "origin_agency": "British Intelligence",
+  "sender": "A C M de Vere",
+  "recipient": "David",
   "persons_mentioned": [
     "David",
     "VALERIY VLADIMIROVICH KOSTIKOV",
@@ -32,6 +20,20 @@
     "NOSENKO",
     "A C M de Vere"
   ],
-  "recipient": "David",
-  "sender": "A C M de Vere"
+  "locations_mentioned": [
+    "Moscow",
+    "Beirut",
+    "Mexico City",
+    "Damascus"
+  ],
+  "tags": [
+    "KGB",
+    "Lee Harvey Oswald",
+    "Mexico City",
+    "Beirut",
+    "Active Measures",
+    "Department V",
+    "Soviet Visa",
+    "Embassy Threats"
+  ]
 }

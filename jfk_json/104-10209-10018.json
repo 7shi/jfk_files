@@ -1,8 +1,37 @@
 {
-  "classification": "Liaison",
-  "document_type": "Dispatch/FBI Document/Report",
-  "security_level": "SECRET",
+  "title": "REDWOOD/LCIMPROVE: Semen Spiridon POHORILYJ and Jozef KOZAK Investigations",
+  "title_ja": "レッドウッド/LCIMPROVE：セミン・スピリドン・ポホリリジおよびヨゼフ・コザックの調査",
   "summary": "This file contains dispatches and FBI documents related to Semen Spiridon Pohorilyj and Jozef Kozak. The documents discuss investigations into their activities, contacts, and potential connections with Soviet intelligence.",
+  "summary_ja": "このファイルには、セミエン・スピリドン・ポホリリーとヨゼフ・コザックに関する報告書とFBIの文書が含まれている。文書では、彼らの活動、接触、ソ連情報機関との潜在的なつながりに関する調査について議論されている。",
+  "document_type": "Dispatch/FBI Document/Report",
+  "classification": "Liaison",
+  "security_level": "SECRET",
+  "date": "1962",
+  "origin_agency": "CIA/FBI",
+  "sender": "Chief of Station, Paris/Vienna; Deputy Director (Plans)",
+  "recipient": "Director, Federal Bureau of Investigation; Chief, SR; Chief, WE; Chief, EE",
+  "persons_mentioned": [
+    "Semen Spiridon Pohorilyj",
+    "Jozef Kozak",
+    "Andrij Didkowskyj",
+    "Nikita Khrushchev",
+    "Antin Mykyporuk",
+    "Dr. Krivenko Gregor",
+    "Veronika Burchart",
+    "Wilhelm Burchart"
+  ],
+  "locations_mentioned": [
+    "Washington",
+    "Philadelphia",
+    "Vienna",
+    "Paris",
+    "La Seine, France",
+    "Salzburg, Austria",
+    "Munich",
+    "Ukraine",
+    "USSR",
+    "Loiret, France"
+  ],
   "tags": [
     "Semen Spiridon Pohorilyj",
     "Jozef Kozak",
@@ -21,32 +50,5 @@
     "Khrushchev visit",
     "refugee",
     "Soviet citizen"
-  ],
-  "title": "REDWOOD/LCIMPROVE: Semen Spiridon POHORILYJ and Jozef KOZAK Investigations",
-  "date": "1962",
-  "locations_mentioned": [
-    "Washington",
-    "Philadelphia",
-    "Vienna",
-    "Paris",
-    "La Seine, France",
-    "Salzburg, Austria",
-    "Munich",
-    "Ukraine",
-    "USSR",
-    "Loiret, France"
-  ],
-  "origin_agency": "CIA/FBI",
-  "persons_mentioned": [
-    "Semen Spiridon Pohorilyj",
-    "Jozef Kozak",
-    "Andrij Didkowskyj",
-    "Nikita Khrushchev",
-    "Antin Mykyporuk",
-    "Dr. Krivenko Gregor",
-    "Veronika Burchart",
-    "Wilhelm Burchart"
-  ],
-  "recipient": "Director, Federal Bureau of Investigation; Chief, SR; Chief, WE; Chief, EE",
-  "sender": "Chief of Station, Paris/Vienna; Deputy Director (Plans)"
+  ]
 }

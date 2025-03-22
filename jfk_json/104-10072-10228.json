@@ -1,33 +1,15 @@
 {
-  "classification": "Mexico",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "Contact reports from Mexico City regarding LITAMIL-9's interactions and information obtained in May 1963. Includes details on Cuban Embassy personnel, potential security risks, and political observations.",
-  "tags": [
-    "LITAMIL-9",
-    "Cuban Embassy",
-    "Mexico City",
-    "Contact Report",
-    "Security",
-    "Political Intelligence",
-    "Cuban officials",
-    "student meetings",
-    "travel",
-    "surveillance"
-  ],
   "title": "Contact Report/ LITAMIL-9",
+  "title_ja": "接触報告/LITAMIL-9",
+  "summary": "Contact reports from Mexico City regarding LITAMIL-9's interactions and information obtained in May 1963. Includes details on Cuban Embassy personnel, potential security risks, and political observations.",
+  "summary_ja": "1963年5月に得られたLITAMIL-9のやりとりと情報に関するメキシコシティからの報告。キューバ大使館職員、潜在的なセキュリティリスク、政治的観察に関する詳細を含む。",
+  "document_type": "Dispatch",
+  "classification": "Mexico",
+  "security_level": "SECRET",
   "date": "1963-05-21",
-  "locations_mentioned": [
-    "Mexico City",
-    "Cuba",
-    "Habana",
-    "Bolivia",
-    "Miami",
-    "Acapulco",
-    "Paris",
-    "Soviet Union"
-  ],
   "origin_agency": "Chief of Station, Mexico City",
+  "sender": "Chief of Station, Mexico City",
+  "recipient": "Chief, SAS; Chief of Base, Merida; Chief of Station, WAVE; Chief, WHD",
   "persons_mentioned": [
     "LITAMIL-9",
     "John F. Kennedy",
@@ -76,6 +58,26 @@
     "Vicente LOBARDO Talconng",
     "Marcial MARTINEZ"
   ],
-  "recipient": "Chief, SAS; Chief of Base, Merida; Chief of Station, WAVE; Chief, WHD",
-  "sender": "Chief of Station, Mexico City"
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba",
+    "Habana",
+    "Bolivia",
+    "Miami",
+    "Acapulco",
+    "Paris",
+    "Soviet Union"
+  ],
+  "tags": [
+    "LITAMIL-9",
+    "Cuban Embassy",
+    "Mexico City",
+    "Contact Report",
+    "Security",
+    "Political Intelligence",
+    "Cuban officials",
+    "student meetings",
+    "travel",
+    "surveillance"
+  ]
 }

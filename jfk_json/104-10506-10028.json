@@ -1,30 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This document is a Latin America Division Task Force Report of Possible Cuban Complicity in the John F. Kennedy Assassination. The report reviews all Agency operations conducted against Cuba from 1 January 1960 to 1 January 1965 and found no definitive proof that the Castro regime was implicated in the Kennedy assassination.",
-  "tags": [
-    "Cuban Complicity",
-    "Kennedy Assassination",
-    "Agency Operations",
-    "Castro Regime",
-    "Task Force Report"
-  ],
   "title": "Latin America Division Task Force Report of Possible Cuban Complicity in the John F. Kennedy Assassination",
+  "title_ja": "ラテンアメリカ部門 タスクフォース ジョン・F・ケネディ暗殺におけるキューバの共謀の可能性に関する報告書",
+  "summary": "This document is a Latin America Division Task Force Report of Possible Cuban Complicity in the John F. Kennedy Assassination. The report reviews all Agency operations conducted against Cuba from 1 January 1960 to 1 January 1965 and found no definitive proof that the Castro regime was implicated in the Kennedy assassination.",
+  "summary_ja": "この文書は、ジョン・F・ケネディ暗殺におけるキューバの共謀の可能性に関するラテンアメリカ部門タスクフォース報告書である。この報告書は、1960年1月1日から1965年1月1日までのキューバに対するすべてのCIAの活動を検証し、カストロ政権がケネディ暗殺に関与したという決定的な証拠は見つからなかったと結論づけている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
   "date": "1977-06-29",
-  "locations_mentioned": [
-    "Cuba",
-    "Havana",
-    "Mexico",
-    "Miami",
-    "New York",
-    "Dallas",
-    "Texas",
-    "Prague",
-    "Spain",
-    "Pinar del Rio"
-  ],
   "origin_agency": "Latin America Division/DDO",
+  "sender": "George V. Lauder",
+  "recipient": "The Inspector General",
   "persons_mentioned": [
     "John F. Kennedy",
     "Fidel Castro",
@@ -38,6 +23,23 @@
     "Theodore G. Shackley",
     "Lee Oswald"
   ],
-  "recipient": "The Inspector General",
-  "sender": "George V. Lauder"
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Mexico",
+    "Miami",
+    "New York",
+    "Dallas",
+    "Texas",
+    "Prague",
+    "Spain",
+    "Pinar del Rio"
+  ],
+  "tags": [
+    "Cuban Complicity",
+    "Kennedy Assassination",
+    "Agency Operations",
+    "Castro Regime",
+    "Task Force Report"
+  ]
 }

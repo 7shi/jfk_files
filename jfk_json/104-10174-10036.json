@@ -1,23 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "Unclassified",
-  "summary": "This memorandum details a meeting with Henry P. Lopes regarding operations in Cuba, including briefing him on the situation, providing funds, and instructions for contacting Benjamin Avana. It also covers security precautions and accounting procedures.",
-  "tags": [
-    "PP/PA",
-    "opposition groups",
-    "Indian political action",
-    "security precautions",
-    "accounting procedures",
-    "contacts"
-  ],
   "title": "Meeting with Henry P. Lopes at Carleton Hotel",
+  "title_ja": "カールトン・ホテルでのヘンリー・P・ロペスとの会合",
+  "summary": "This memorandum details a meeting with Henry P. Lopes regarding operations in Cuba, including briefing him on the situation, providing funds, and instructions for contacting Benjamin Avana. It also covers security precautions and accounting procedures.",
+  "summary_ja": "キューバでの業務に関するHenry P. Lopesとの会合について詳細に説明しており、状況の説明、資金提供、Benjamin Avanaへの連絡方法の指示などが含まれている。また、セキュリティ対策と会計処理についても記載されている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "Unclassified",
   "date": "1960-02-04",
-  "locations_mentioned": [
-    "Cuba",
-    "New York"
-  ],
   "origin_agency": "CIA",
+  "sender": "P. TOCHEY",
+  "recipient": "Record",
   "persons_mentioned": [
     "Henry P. Lopes",
     "Robert Reynolds",
@@ -28,6 +20,16 @@
     "Davis",
     "Evens"
   ],
-  "recipient": "Record",
-  "sender": "P. TOCHEY"
+  "locations_mentioned": [
+    "Cuba",
+    "New York"
+  ],
+  "tags": [
+    "PP/PA",
+    "opposition groups",
+    "Indian political action",
+    "security precautions",
+    "accounting procedures",
+    "contacts"
+  ]
 }

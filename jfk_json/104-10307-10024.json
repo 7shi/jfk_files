@@ -1,23 +1,19 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "TOP SECRET",
-  "summary": "This memorandum outlines an operational plan for CIA actions against Cuba for the predictable future, focusing on intelligence efforts and long-term operations. It assumes no US invasion or support for a revolt, limited paramilitary actions, and a continued Castro regime. The plan aims to isolate and discredit the regime, maintain economic and political pressures, and gather intelligence. It includes espionage, sabotage, and psychological warfare strategies, along with recommendations for organizational changes and actions.",
-  "tags": [
-    "CIA",
-    "Cuba",
-    "Operations",
-    "Intelligence",
-    "Castro",
-    "Soviet Union",
-    "Exiles",
-    "Sabotage",
-    "Economic Warfare",
-    "Political Action",
-    "Propaganda"
-  ],
   "title": "Operational Plan for Continuing Operations Against Cuba",
+  "title_ja": "キューバに対する継続的な活動のための作戦計画",
+  "summary": "This memorandum outlines an operational plan for CIA actions against Cuba for the predictable future, focusing on intelligence efforts and long-term operations. It assumes no US invasion or support for a revolt, limited paramilitary actions, and a continued Castro regime. The plan aims to isolate and discredit the regime, maintain economic and political pressures, and gather intelligence. It includes espionage, sabotage, and psychological warfare strategies, along with recommendations for organizational changes and actions.",
+  "summary_ja": "この覚書は、今後予想される期間におけるキューバに対するCIAの行動に関する作戦計画の概要を述べたもので、情報収集活動と長期作戦に重点を置いている。米国による侵攻や反乱への支援は想定しておらず、限定的な準軍事的行動とカストロ政権の継続を前提としている。この計画は、政権を孤立させ信用を失墜させ、経済的・政治的圧力を維持し、情報を収集することを目的としている。スパイ活動、妨害工作、心理戦戦略、組織変更と行動に関する勧告が含まれている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "TOP SECRET",
   "date": "1962-11-27",
+  "origin_agency": "CIA",
+  "sender": "William K. Harvey",
+  "recipient": "Director of Central Intelligence",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Castro"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Miami",
@@ -36,11 +32,17 @@
     "Pinar del Rio",
     "Oriente"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Castro"
-  ],
-  "recipient": "Director of Central Intelligence",
-  "sender": "William K. Harvey"
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Operations",
+    "Intelligence",
+    "Castro",
+    "Soviet Union",
+    "Exiles",
+    "Sabotage",
+    "Economic Warfare",
+    "Political Action",
+    "Propaganda"
+  ]
 }

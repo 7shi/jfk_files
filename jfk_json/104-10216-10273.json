@@ -1,28 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch reports on the progress of ANTRUNK operations for November 1964, including preparations for ANTRUNK X, recruitment efforts, and communication with assets. It also details operational expenditures and projected plans for future operations.",
-  "tags": [
-    "ANTRUNK",
-    "WHAPRON",
-    "TYPIC",
-    "Operational",
-    "Recruitment",
-    "Ratline",
-    "Infiltration",
-    "MHAPRON",
-    "MEXI"
-  ],
   "title": "TYPIC/WHAPRON/ANTRUNK/Operational ABSTRACT: ANTRUNK Progress Report for Period 1-30 November 1964",
+  "title_ja": "TYPIC/WHAPRON/ANTRUNK/Operational ABSTRACT: ANTRUNK 1964年11月1日～30日の期間の進捗報告書",
+  "summary": "This dispatch reports on the progress of ANTRUNK operations for November 1964, including preparations for ANTRUNK X, recruitment efforts, and communication with assets. It also details operational expenditures and projected plans for future operations.",
+  "summary_ja": "この電報は、1964年11月のANTRUNK作戦の進捗状況について報告しており、ANTRUNK Xの準備、勧誘活動、協力者との連絡などが含まれている。また、作戦経費と今後の作戦計画についても詳細に述べられている。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1964-12-10",
-  "locations_mentioned": [
-    "Madrid",
-    "Mexico City",
-    "Montreal",
-    "Havana"
-  ],
   "origin_agency": "JMWAVE",
+  "sender": "Chief of Station, JMWAVE",
+  "recipient": "Deputy Chief, WH/SA",
   "persons_mentioned": [
     "ANTRUNK-13",
     "ANTRUNK-19",
@@ -38,6 +25,21 @@
     "Francisco BORGES",
     "Andrew E. REUTERAN"
   ],
-  "recipient": "Deputy Chief, WH/SA",
-  "sender": "Chief of Station, JMWAVE"
+  "locations_mentioned": [
+    "Madrid",
+    "Mexico City",
+    "Montreal",
+    "Havana"
+  ],
+  "tags": [
+    "ANTRUNK",
+    "WHAPRON",
+    "TYPIC",
+    "Operational",
+    "Recruitment",
+    "Ratline",
+    "Infiltration",
+    "MHAPRON",
+    "MEXI"
+  ]
 }

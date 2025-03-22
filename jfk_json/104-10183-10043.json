@@ -1,8 +1,25 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DIR 44488: AMWHIP/1 Visit to Rome",
+  "title_ja": "DIR 44488: AMWHIP/1 ローマ訪問",
   "summary": "This cable discusses AMWHIP/1, a KUBARK asset, who will be in Rome and is willing to provide services to the STA, including cover for PERUMEN operations. It recommends establishing contact with AMWHIP/1 to discuss various operational possibilities and problems, including cover for SUBJ DIR 38810.",
+  "summary_ja": "この電報は、ローマに滞在し、ペルメン作戦の偽装工作を含む、国家反逆取締局への協力に前向きなKUBARKの協力者AMWHIP/1について述べている。AMWHIP/1と接触し、SUBJ DIR 38810の偽装工作を含む、さまざまな作戦上の可能性と問題について協議することを推奨している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-06-05",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "ROME",
+  "persons_mentioned": [
+    "Stephen I. Mungrave",
+    "FILL THOMPSON"
+  ],
+  "locations_mentioned": [
+    "Rome",
+    "Paris",
+    "New York",
+    "Milan"
+  ],
   "tags": [
     "AMWHIP/1",
     "KUBARK",
@@ -10,20 +27,5 @@
     "Rome",
     "Covert Operations",
     "Intelligence Asset"
-  ],
-  "title": "DIR 44488: AMWHIP/1 Visit to Rome",
-  "date": "1963-06-05",
-  "locations_mentioned": [
-    "Rome",
-    "Paris",
-    "New York",
-    "Milan"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Stephen I. Mungrave",
-    "FILL THOMPSON"
-  ],
-  "recipient": "ROME",
-  "sender": "DIRECTOR"
+  ]
 }

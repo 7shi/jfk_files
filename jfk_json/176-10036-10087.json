@@ -1,8 +1,25 @@
 {
-  "classification": "Intelligence",
-  "document_type": "Telegram",
-  "security_level": "CONFIDENTIAL",
+  "title": "Vietnam Communist Activities",
+  "title_ja": "ベトナム共産党の活動",
   "summary": "This document discusses Vietnamese Communist activities in the Saigon area, including the infiltration of VC into Saigon, the deployment of an armed platoon for special operations, and plans to set up a base among laborers for future operations. It also mentions potential sabotage and kidnappings, and an unconfirmed report about a possible large-scale attack.",
+  "summary_ja": "この文書は、サイゴン地域におけるベトナム共産党の活動について述べている。これには、サイゴンへのベトコンの浸透、特殊作戦のための武装小隊の展開、今後の作戦のための労働者間の拠点の設置計画などが含まれる。また、潜在的な妨害工作や誘拐、および大規模な攻撃の可能性に関する未確認の報告についても言及している。",
+  "document_type": "Telegram",
+  "classification": "Intelligence",
+  "security_level": "CONFIDENTIAL",
+  "date": "1962-08-23",
+  "origin_agency": "CIA",
+  "recipient": "STATE, ARMY/ACSI, NAVY, AIR, JCS, SECDEF, NSA, NIC, USIA, OCI, ONE, OCR, ORR, OO, DIA, EX, AID, USMACV, MAAG, USOM, CINCPAC, PACFLT, ARPAC, PACAF",
+  "persons_mentioned": [
+    "Nguyen Trong Dinh",
+    "Nguyen Trong Vinh"
+  ],
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon",
+    "Go Vap",
+    "Loc Thuan",
+    "Tay Ninh Province"
+  ],
   "tags": [
     "Vietnam",
     "Communist Activities",
@@ -13,20 +30,5 @@
     "Kidnapping",
     "Military Operations",
     "Intelligence"
-  ],
-  "title": "Vietnam Communist Activities",
-  "date": "1962-08-23",
-  "locations_mentioned": [
-    "South Vietnam",
-    "Saigon",
-    "Go Vap",
-    "Loc Thuan",
-    "Tay Ninh Province"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Nguyen Trong Dinh",
-    "Nguyen Trong Vinh"
-  ],
-  "recipient": "STATE, ARMY/ACSI, NAVY, AIR, JCS, SECDEF, NSA, NIC, USIA, OCI, ONE, OCR, ORR, OO, DIA, EX, AID, USMACV, MAAG, USOM, CINCPAC, PACFLT, ARPAC, PACAF"
+  ]
 }

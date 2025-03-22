@@ -1,8 +1,25 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "Herrrutibeascon",
+  "title_ja": "Herrrutibeascon",
   "summary": "Dispatch regarding Herrrutibeascon, a young Cuban named Land who talked to Identity 1, and Jose Maria Lasa rutibeasoon's meeting with Identity 1 and Identity 2. Subject wanted to get his father into this country with assurance of support.",
+  "summary_ja": "Herrutibeascon（キューバ人の若い男性）に関する派遣、Identity 1と接触したLandという名のキューバ人、およびJose Maria Lasa rutibeasoonとIdentity 1およびIdentity 2の会合。対象者は、支援を確約して父親をこの国に入国させたいと考えていた。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-01-02",
+  "origin_agency": "CIA",
+  "sender": "Chief of Station, JHWAVE",
+  "recipient": "Chief, MF Division",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Land",
+    "Jose Maria Lasa rutibeasoon"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Switzerland",
+    "Miami"
+  ],
   "tags": [
     "Herrrutibeascon",
     "Jose Maria Lasa rutibeasoon",
@@ -11,20 +28,5 @@
     "MIK",
     "International Red Cross",
     "Cuban political prisoners"
-  ],
-  "title": "Herrrutibeascon",
-  "date": "1962-01-02",
-  "locations_mentioned": [
-    "Cuba",
-    "Switzerland",
-    "Miami"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Land",
-    "Jose Maria Lasa rutibeasoon"
-  ],
-  "recipient": "Chief, MF Division",
-  "sender": "Chief of Station, JHWAVE"
+  ]
 }

@@ -1,29 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
-  "summary": "This collection of documents pertains to the covert security approval and subsequent investigation of Robert West Pugh, who was considered for a position as a First Officer in the Far East under Project HBILKA/JBGREED. The documents detail the initial approval, concerns raised regarding Pugh's past drinking problem and his brother's alleged communist associations, and the eventual cancellation of his employment following his resignation.",
-  "tags": [
-    "Covert Security Approval",
-    "Project HBILKA/JBGREED",
-    "Robert West Pugh",
-    "Security Investigation",
-    "Drinking Problem",
-    "Communist Associations",
-    "Resignation",
-    "Personnel Security",
-    "CIA Regulation 10-3",
-    "First Officer"
-  ],
   "title": "Robert West Pugh Covert Security Approval and Investigation",
+  "title_ja": "ロバート・ウェスト・プーチ 秘密保安承認および調査",
+  "summary": "This collection of documents pertains to the covert security approval and subsequent investigation of Robert West Pugh, who was considered for a position as a First Officer in the Far East under Project HBILKA/JBGREED. The documents detail the initial approval, concerns raised regarding Pugh's past drinking problem and his brother's alleged communist associations, and the eventual cancellation of his employment following his resignation.",
+  "summary_ja": "この文書群は、プロジェクトHBILKA/JBGREEDの下で極東地域における第一オフィサー職への就任が検討されていたロバート・ウェスト・プーの極秘の安全保障承認と、その後の調査に関するものである。文書には、当初の承認、プーの過去の飲酒問題と彼の兄弟の共産主義者との関連が疑われたことに関する懸念、そして彼の辞任に伴う最終的な雇用取り消しについての詳細が記載されている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "SECRET",
   "date": "1966-05-27",
-  "locations_mentioned": [
-    "Far East",
-    "Los Angeles, California",
-    "Taipei, Taiwan",
-    "Santa Rosa, California"
-  ],
   "origin_agency": "Office of Security",
+  "sender": "Deputy Director of Security",
+  "recipient": "DD/S-HB",
   "persons_mentioned": [
     "Robert West Pugh",
     "Joseph E. Murphy, Jr.",
@@ -36,6 +22,22 @@
     "Jack U. Clark",
     "Joseph E. Murphy"
   ],
-  "recipient": "DD/S-HB",
-  "sender": "Deputy Director of Security"
+  "locations_mentioned": [
+    "Far East",
+    "Los Angeles, California",
+    "Taipei, Taiwan",
+    "Santa Rosa, California"
+  ],
+  "tags": [
+    "Covert Security Approval",
+    "Project HBILKA/JBGREED",
+    "Robert West Pugh",
+    "Security Investigation",
+    "Drinking Problem",
+    "Communist Associations",
+    "Resignation",
+    "Personnel Security",
+    "CIA Regulation 10-3",
+    "First Officer"
+  ]
 }

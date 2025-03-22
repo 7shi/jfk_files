@@ -1,8 +1,27 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "CLASSIFIED MESSAGE",
+  "title_ja": "機密メッセージ",
   "summary": "This cable discusses an activation effort for a DRAGON agent in PBRUMEN (likely a code name). It requests information from SHITHAM ASIC AMWHIP about a letter sent to \"THOMPSON'S FRIEND\" in PBRUMEN and mentions key individuals like THOMPSON, WALLACE A. GROWERY, and AMTHIP.",
+  "summary_ja": "本電報は、PBRUMEN（おそらくコードネーム）におけるDRAGONエージェントの活動について論じている。SHITHAM ASIC AMWHIPに、PBRUMENの「THOMPSON'S FRIEND」宛てに送られた書簡について情報を求め、THOMPSON、WALLACE A. GROWERY、AMTHIPといった主要人物について言及している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-06-18",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "ROME",
+  "persons_mentioned": [
+    "W. WAINWRIGHT",
+    "THOMPSON",
+    "WALLACE A. GROWERY",
+    "AMTHIP",
+    "THOMAS THIELE",
+    "S. Hunger"
+  ],
+  "locations_mentioned": [
+    "ROME",
+    "PARIS"
+  ],
   "tags": [
     "activation",
     "DRAGON agent",
@@ -15,22 +34,5 @@
     "PBRUMEN",
     "SHITHAM",
     "RELUCTANT DRAGON"
-  ],
-  "title": "CLASSIFIED MESSAGE",
-  "date": "1963-06-18",
-  "locations_mentioned": [
-    "ROME",
-    "PARIS"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "W. WAINWRIGHT",
-    "THOMPSON",
-    "WALLACE A. GROWERY",
-    "AMTHIP",
-    "THOMAS THIELE",
-    "S. Hunger"
-  ],
-  "recipient": "ROME",
-  "sender": "DIRECTOR"
+  ]
 }

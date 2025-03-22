@@ -1,8 +1,23 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "GYROSE AMBUD",
+  "title_ja": "GYROSE AMBUD",
   "summary": "COS believes Jamaican government wants not be overtly involved in Cold War. Any attempt to involve Jamaican government against its will at this time would result in net loss of cooperation now and in future. Station regards increasing cooperation of RUABBE service in Cuban objectives of considerable value. COS believes it advantageous to KUBARK and ODYOKE for AMBUD stay out of Jamaica until sentiment changes.",
+  "summary_ja": "COSは、ジャマイカ政府が冷戦に公然と関与することを望んでいないと考えている。現時点でジャマイカ政府の意に反して関与させようとする試みは、現在および将来の協力関係の完全な損失につながるだろう。当局は、キューバの目的におけるRUABBEサービスの協力の増加を非常に価値のあるものと見なしている。COSは、感情が変化するまでAMBUDがジャマイカから離れることはKUBARKとODYOKEにとって有利だと考えている。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-10-11",
+  "origin_agency": "DIR",
+  "sender": "RF",
+  "recipient": "HQS",
+  "persons_mentioned": [
+    "COS",
+    "FRANK (DIAZ) SILVEIRA"
+  ],
+  "locations_mentioned": [
+    "Jamaica",
+    "Cuba"
+  ],
   "tags": [
     "political climate",
     "cooperation",
@@ -15,18 +30,5 @@
     "communists",
     "RAS TAFARIS",
     "SOCIALIST PARTY OF JAMAICA"
-  ],
-  "title": "GYROSE AMBUD",
-  "date": "1962-10-11",
-  "locations_mentioned": [
-    "Jamaica",
-    "Cuba"
-  ],
-  "origin_agency": "DIR",
-  "persons_mentioned": [
-    "COS",
-    "FRANK (DIAZ) SILVEIRA"
-  ],
-  "recipient": "HQS",
-  "sender": "RF"
+  ]
 }

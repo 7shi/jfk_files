@@ -1,8 +1,21 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Yuriy Ivanovic NOSENKO",
+  "title_ja": "ユーリ・イワノビッチ・ノセンコ",
   "summary": "Memorandum for record regarding Yuriy Ivanovic NOSENKO, discussing plans for hostile interrogation and concerns about potential consequences.",
+  "summary_ja": "ユーリ・イワノビッチ・ノセンコに関する記録のための覚書。敵対的な尋問の計画と潜在的な結果に関する懸念について論じている。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "UNCLASSIFIED",
+  "date": "1965-01-21",
+  "sender": "David E. Murphy, Chief, SR Division",
+  "persons_mentioned": [
+    "Yuriy Ivanovic NOSENKO",
+    "Ambassador Thompson",
+    "William C. Sullivan",
+    "John Edgar Hoover",
+    "Hughes",
+    "Johnson"
+  ],
   "tags": [
     "NOSENKO",
     "hostile interrogation",
@@ -12,16 +25,5 @@
     "AEJOYFUL",
     "Soviet",
     "security"
-  ],
-  "title": "Yuriy Ivanovic NOSENKO",
-  "date": "1965-01-21",
-  "persons_mentioned": [
-    "Yuriy Ivanovic NOSENKO",
-    "Ambassador Thompson",
-    "William C. Sullivan",
-    "John Edgar Hoover",
-    "Hughes",
-    "Johnson"
-  ],
-  "sender": "David E. Murphy, Chief, SR Division"
+  ]
 }

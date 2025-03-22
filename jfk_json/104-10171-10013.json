@@ -1,30 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch contains CA reports (numbers 134 through 149, and 156) and an index. The reports relate to various individuals, including Jose Antonio Sacens, and cover topics such as DRE activities in Santiago, Cuba, potential military installations, and foreign instructors at the University of Oriente.",
-  "tags": [
-    "CA reports",
-    "DRE",
-    "Santiago de Cuba",
-    "University of Oriente",
-    "Military installations",
-    "KUTUBE"
-  ],
   "title": "Operational-Transmittal of CA Reports",
+  "title_ja": "Operational-Transmittal of CA Reports",
+  "summary": "This dispatch contains CA reports (numbers 134 through 149, and 156) and an index. The reports relate to various individuals, including Jose Antonio Sacens, and cover topics such as DRE activities in Santiago, Cuba, potential military installations, and foreign instructors at the University of Oriente.",
+  "summary_ja": "この報告書には、CA報告書（134から149、156）と索引が含まれている。報告書はホセ・アントニオ・サセンズを含む様々な個人に関するもので、サンティアゴ（キューバ）におけるDREの活動、潜在的な軍事施設、オリエンテ大学における外国人講師などに関するトピックをカバーしている。",
+  "document_type": "Dispatch",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1962-04-16",
-  "locations_mentioned": [
-    "JM/AVE",
-    "Santiago de Cuba",
-    "Miami",
-    "University of Oriente",
-    "Habana",
-    "Puerto Boniato",
-    "Palma Soriano",
-    "Nicaro",
-    "Mayari Arriba"
-  ],
   "origin_agency": "CIA",
+  "sender": "Chief, Task Force W",
+  "recipient": "Chief of Station, JM/AVE",
   "persons_mentioned": [
     "Jose Antonio Sacens",
     "Elisa Saturni Casas",
@@ -49,6 +34,23 @@
     "Donald Arrowmith Boulets",
     "Alberto Hernandez Dolst"
   ],
-  "recipient": "Chief of Station, JM/AVE",
-  "sender": "Chief, Task Force W"
+  "locations_mentioned": [
+    "JM/AVE",
+    "Santiago de Cuba",
+    "Miami",
+    "University of Oriente",
+    "Habana",
+    "Puerto Boniato",
+    "Palma Soriano",
+    "Nicaro",
+    "Mayari Arriba"
+  ],
+  "tags": [
+    "CA reports",
+    "DRE",
+    "Santiago de Cuba",
+    "University of Oriente",
+    "Military installations",
+    "KUTUBE"
+  ]
 }

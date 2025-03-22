@@ -1,8 +1,32 @@
 {
-  "classification": "Operations",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "Clarification of Mission Procedures in Cuba",
+  "title_ja": "キューバにおける任務手順の明確化",
   "summary": "This memo outlines instructions and procedures for Mr. Tichborn's mission in Cuba. It details briefings, contact protocols, cover stories, and administrative tasks.",
+  "summary_ja": "このメモは、キューバにおけるTichborn氏の任務に関する指示と手順を概説している。ブリーフィング、連絡手順、偽装工作、管理業務について詳細に説明している。",
+  "document_type": "Memo",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
+  "date": "2025",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Mr. Tichborn",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Tichborn",
+    "IDEN A",
+    "Fred Morse",
+    "Henry W. Darkın"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Washington",
+    "Havana",
+    "Philadelphia",
+    "Pennsylvania",
+    "Southwest Station",
+    "Washington, D. C.",
+    "United States"
+  ],
   "tags": [
     "Cuba",
     "mission",
@@ -17,27 +41,5 @@
     "cover story",
     "expenses",
     "accounting"
-  ],
-  "title": "Clarification of Mission Procedures in Cuba",
-  "date": "2025",
-  "locations_mentioned": [
-    "Cuba",
-    "Washington",
-    "Havana",
-    "Philadelphia",
-    "Pennsylvania",
-    "Southwest Station",
-    "Washington, D. C.",
-    "United States"
-  ],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Tichborn",
-    "IDEN A",
-    "Fred Morse",
-    "Henry W. Darkın"
-  ],
-  "recipient": "Mr. Tichborn",
-  "sender": "Unknown"
+  ]
 }

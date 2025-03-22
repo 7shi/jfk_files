@@ -1,8 +1,27 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "RELATIONS WITH SECRET SERVICE\nTHREATS AGAINST THE PRESIDENT",
+  "title_ja": "シークレットサービスと大統領に対する脅威との関係",
   "summary": "FBI Director informs about relations with Secret Service concerning threats against the President, reviewing files in Switzerland and Austria, and inquiries made to various sources regarding potential threats. Mentions Paul George Anderson, aka IS-X, of interest to the Secret Service.",
+  "summary_ja": "FBI長官は、大統領に対する脅威に関するシークレットサービスとの関係、スイスおよびオーストリアでのファイルの確認、潜在的な脅威に関するさまざまな情報源への照会について報告している。シークレットサービスが関心を寄せているポール・ジョージ・アンダーソン（別名IS-X）について言及している。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "SECRET",
+  "date": "1964-12-23",
+  "origin_agency": "FBI",
+  "sender": "Director, FBI",
+  "recipient": "Bureau",
+  "persons_mentioned": [
+    "PAUL GEORGE ANDERSON"
+  ],
+  "locations_mentioned": [
+    "Switzerland",
+    "Austria",
+    "Bern",
+    "Vienna",
+    "Hungary",
+    "U.S.",
+    "Paris"
+  ],
   "tags": [
     "Threats",
     "President",
@@ -13,22 +32,5 @@
     "IS-X",
     "Hungary",
     "Visa"
-  ],
-  "title": "RELATIONS WITH SECRET SERVICE\nTHREATS AGAINST THE PRESIDENT",
-  "date": "1964-12-23",
-  "locations_mentioned": [
-    "Switzerland",
-    "Austria",
-    "Bern",
-    "Vienna",
-    "Hungary",
-    "U.S.",
-    "Paris"
-  ],
-  "origin_agency": "FBI",
-  "persons_mentioned": [
-    "PAUL GEORGE ANDERSON"
-  ],
-  "recipient": "Bureau",
-  "sender": "Director, FBI"
+  ]
 }

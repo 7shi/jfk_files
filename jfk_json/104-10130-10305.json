@@ -1,8 +1,17 @@
 {
-  "classification": "Administrative",
-  "document_type": "Form",
-  "security_level": "CONFIDENTIAL",
+  "title": "REINVESTIGATION ACTION",
+  "title_ja": "再調査措置",
   "summary": "This is a Reinvestigation Action form for TARASOFF BORIS DIMITRI, file number 104 887, dated 9 Sept 1966. The file has been reviewed in connection with the reinvestigation program and no action has been taken because of investigation within last five years. The case has been pended to 1 Sept 1968 and is to be forwarded to the Chief, Transaction Review Section, Clearance Branch, upon subject's return from overseas or any change in current status.",
+  "summary_ja": "これは、ファイル番号104887、1966年9月9日付のボリス・タラソフ・ディミトリの再調査措置フォームである。このファイルは再調査プログラムに関連して再調査されたが、過去5年以内に調査が行われたため、措置は取られていない。この案件は1968年9月1日まで保留とし、対象者が海外から戻った場合、または現在の状況に変更があった場合は、クリアランス部門の取引審査課長に転送すること。",
+  "document_type": "Form",
+  "classification": "Administrative",
+  "security_level": "CONFIDENTIAL",
+  "date": "1966-09-09",
+  "sender": "C/TRS, CLEARANCE BRANCH",
+  "recipient": "Chief, Transaction Review Section, Clearance Branch",
+  "persons_mentioned": [
+    "TARASOFF BORIS DIMITRI"
+  ],
   "tags": [
     "Reinvestigation",
     "TARASOFF BORIS DIMITRI",
@@ -12,12 +21,5 @@
     "Overseas Assignment",
     "Retirement",
     "Resignation"
-  ],
-  "title": "REINVESTIGATION ACTION",
-  "date": "1966-09-09",
-  "persons_mentioned": [
-    "TARASOFF BORIS DIMITRI"
-  ],
-  "recipient": "Chief, Transaction Review Section, Clearance Branch",
-  "sender": "C/TRS, CLEARANCE BRANCH"
+  ]
 }

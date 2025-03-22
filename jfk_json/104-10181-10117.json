@@ -1,8 +1,30 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Possible DRE Animus Towards President Kennedy",
+  "title_ja": "ケネディ大統領に対するDREの可能性のある敵意",
   "summary": "Memorandum discussing possible animosity of the DRE (Student Revolutionary Directorate) towards President Kennedy due to his handling of Cuba, and the DRE's potential connection to Lee Harvey Oswald.",
+  "summary_ja": "ケネディ大統領のキューバへの対応により、DRE（学生革命評議会）が大統領に対して反感を抱いている可能性について議論した覚書、およびDREとリー・ハーヴェイ・オズワルドのつながりの可能性について。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "UNCLASSIFIED",
+  "date": "1967-03-08",
+  "origin_agency": "CIA",
+  "sender": "Calvin Thomas",
+  "recipient": "THE RECORD",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Ross CROZIER",
+    "OSWALD",
+    "Luis FERNANDEZ Rocha",
+    "Calvin Thomas"
+  ],
+  "locations_mentioned": [
+    "Yugoslavia",
+    "Berlin",
+    "Miami",
+    "New Orleans",
+    "Zagreb",
+    "Cuba"
+  ],
   "tags": [
     "DRE",
     "Student Revolutionary Directorate",
@@ -15,25 +37,5 @@
     "New Orleans",
     "Cuba",
     "CIA sponsorship"
-  ],
-  "title": "Possible DRE Animus Towards President Kennedy",
-  "date": "1967-03-08",
-  "locations_mentioned": [
-    "Yugoslavia",
-    "Berlin",
-    "Miami",
-    "New Orleans",
-    "Zagreb",
-    "Cuba"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Ross CROZIER",
-    "OSWALD",
-    "Luis FERNANDEZ Rocha",
-    "Calvin Thomas"
-  ],
-  "recipient": "THE RECORD",
-  "sender": "Calvin Thomas"
+  ]
 }

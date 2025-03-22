@@ -1,31 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch/Operational Plan",
-  "security_level": "SECRET",
-  "summary": "Operational plan for ANTRUNK VII, involving infiltration into Northern Matanzas Province and Havana to accomplish MHAPRON objectives. The plan includes establishing contact with ANTRUNK-10, recruiting Jose Alberto SEMIDEY Isalgue, and caching a clandestine radio set.",
-  "tags": [
-    "ANTRUNK VII",
-    "MHAPRON",
-    "Infiltration",
-    "Exfiltration",
-    "Recruitment",
-    "Clandestine Radio",
-    "Matanzas Province",
-    "Havana",
-    "AMICE-14",
-    "ANTRUNK-10",
-    "Jose Alberto SEMIDEY Isalgue"
-  ],
   "title": "TYPIC/Operational Transmittal of Operational Plan for ANTRUNK VII",
+  "title_ja": "TYPIC/業務 ANTRUNK VII 業務計画の伝達",
+  "summary": "Operational plan for ANTRUNK VII, involving infiltration into Northern Matanzas Province and Havana to accomplish MHAPRON objectives. The plan includes establishing contact with ANTRUNK-10, recruiting Jose Alberto SEMIDEY Isalgue, and caching a clandestine radio set.",
+  "summary_ja": "MHAPRONの目的を達成するために、マタンサス州北部およびハバナへの潜入を伴う、ANTRUNK VIIの作戦計画。この計画には、ANTRUNK-10との接触、ホセ・アルベルト・セミデ・イサルグの勧誘、秘密無線機の隠匿が含まれる。",
+  "document_type": "Dispatch/Operational Plan",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1964-01-28",
-  "locations_mentioned": [
-    "Northern Matanzas Province",
-    "Havana",
-    "PBRUMEN",
-    "Las Villas Province",
-    "JUWAVE area"
-  ],
   "origin_agency": "JEWAVE",
+  "sender": "Chief of Station, JEWAVE",
+  "recipient": "Chief, Special Affairs Staff",
   "persons_mentioned": [
     "AMICE-14",
     "ANTRUNK-13",
@@ -41,6 +25,24 @@
     "Rene de los SANTOS Ponce",
     "Manuel URRUTIA Lleo"
   ],
-  "recipient": "Chief, Special Affairs Staff",
-  "sender": "Chief of Station, JEWAVE"
+  "locations_mentioned": [
+    "Northern Matanzas Province",
+    "Havana",
+    "PBRUMEN",
+    "Las Villas Province",
+    "JUWAVE area"
+  ],
+  "tags": [
+    "ANTRUNK VII",
+    "MHAPRON",
+    "Infiltration",
+    "Exfiltration",
+    "Recruitment",
+    "Clandestine Radio",
+    "Matanzas Province",
+    "Havana",
+    "AMICE-14",
+    "ANTRUNK-10",
+    "Jose Alberto SEMIDEY Isalgue"
+  ]
 }

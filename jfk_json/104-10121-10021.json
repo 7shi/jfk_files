@@ -1,16 +1,14 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "Unclassified",
-  "summary": "Memorandum requesting the removal of CIA building passes for members of the Inter-agency Defector Committee, including Army and Air Force personnel. Notes addition of specific buildings to certain passes.",
-  "tags": [
-    "Building Passes",
-    "Inter-agency Defector Committee",
-    "Security Clearance",
-    "Personnel"
-  ],
   "title": "Removals of CIA Building Passes",
+  "title_ja": "CIAビル入館許可証の取り消し",
+  "summary": "Memorandum requesting the removal of CIA building passes for members of the Inter-agency Defector Committee, including Army and Air Force personnel. Notes addition of specific buildings to certain passes.",
+  "summary_ja": "陸軍および空軍の職員を含む、省庁間亡命者委員会のメンバーの CIA ビル入館許可証の取り消しを求める覚書。特定のパスに特定の建物を追加した旨のメモ。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "Unclassified",
   "date": "1958-12-16",
+  "sender": "Deputy/CDC",
+  "recipient": "Chief, Physical Security",
   "persons_mentioned": [
     "Dorothea K. Matlack",
     "Earnest E. Livaditis",
@@ -18,6 +16,10 @@
     "Jas T. Bull",
     "John E. Boyle"
   ],
-  "recipient": "Chief, Physical Security",
-  "sender": "Deputy/CDC"
+  "tags": [
+    "Building Passes",
+    "Inter-agency Defector Committee",
+    "Security Clearance",
+    "Personnel"
+  ]
 }

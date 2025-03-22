@@ -1,26 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Airtel",
-  "security_level": "Secret",
-  "summary": "This document discusses ANTONIO HECTOR RIVERO JUARRERO, who is associated with MITCHELL LIVINGSTON WERBELL and suspected of gambling enterprises.",
-  "tags": [
-    "ANTONIO HECTOR RIVERO JUARRERO",
-    "MITCHELL LIVINGSTON WERBELL",
-    "CIA",
-    "gambling",
-    "Cuba",
-    "Santo Domingo",
-    "AMADEO BARLETTA"
-  ],
   "title": "[Restricted]",
+  "title_ja": "[制限あり]",
+  "summary": "This document discusses ANTONIO HECTOR RIVERO JUARRERO, who is associated with MITCHELL LIVINGSTON WERBELL and suspected of gambling enterprises.",
+  "summary_ja": "この文書では、MITCHELL LIVINGSTON WERBELLと関連があり、賭博事業に関与した疑いのあるANTONIO HECTOR RIVERO JUARREROについて論じている。",
+  "document_type": "Airtel",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1965-07-16",
-  "locations_mentioned": [
-    "Havana, Cuba",
-    "Miami, Florida",
-    "Santo Domingo",
-    "Dominican Republic"
-  ],
   "origin_agency": "FBI",
+  "sender": "DOMR",
+  "recipient": "HQ",
   "persons_mentioned": [
     "ANTONIO HECTOR RIVERO JUARRERO",
     "MITCHELL LIVINGSTON WARBELL",
@@ -29,6 +18,19 @@
     "EVANGELINA HERNANDEZ",
     "JOHN CASSERLY"
   ],
-  "recipient": "HQ",
-  "sender": "DOMR"
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Miami, Florida",
+    "Santo Domingo",
+    "Dominican Republic"
+  ],
+  "tags": [
+    "ANTONIO HECTOR RIVERO JUARRERO",
+    "MITCHELL LIVINGSTON WERBELL",
+    "CIA",
+    "gambling",
+    "Cuba",
+    "Santo Domingo",
+    "AMADEO BARLETTA"
+  ]
 }

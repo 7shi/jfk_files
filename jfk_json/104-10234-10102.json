@@ -1,31 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "Dispatch regarding AMTRUNK-9 infiltration into Cuba by Modesto Orlando Crozco Basulto to rescue Jose Vasquez Nerey and others, involving individuals named Jorge and Hortensia Orizondo Meneses.",
-  "tags": [
-    "AMTRUNK-9",
-    "infiltration",
-    "Cuba",
-    "Modesto Orlando Crozco Basulto",
-    "Jose Vasquez Nerey",
-    "Jorge",
-    "Hortensia Orizondo Meneses",
-    "rescue operation"
-  ],
   "title": "TRANSMITTAL OF COPY OF MEMO REGARDING AMTRUNK-9 INFIL WHICH ACTION REQUIRED REFERENPASSED TO ACSI 19 JANUARY 1965",
+  "title_ja": "AMTRUNK-9 INFIL に関するメモの写しの送信 必要な措置 REFERENPASSED TO ACSI 19 JANUARY 1965",
+  "summary": "Dispatch regarding AMTRUNK-9 infiltration into Cuba by Modesto Orlando Crozco Basulto to rescue Jose Vasquez Nerey and others, involving individuals named Jorge and Hortensia Orizondo Meneses.",
+  "summary_ja": "モデスト・オーランド・クロスコ・バスルトがホセ・バスケス・ネレイらを救出するためにキューバに潜入したことに関する報告書。ジョージ・オリゾンド・メネセスとオルテンシア・オリゾンド・メネセスという人物が関与している。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1965-01-22",
-  "locations_mentioned": [
-    "Cuba",
-    "Havana",
-    "Vedado",
-    "Sierra Maestra",
-    "Northeastern Matanzas Province",
-    "Marti area",
-    "Cardenas",
-    "Mexico"
-  ],
   "origin_agency": "JMHAVE",
+  "sender": "CHIEF OF STATION, JMHAVE",
+  "recipient": "DEPUTY CHIEF, WH/SA",
   "persons_mentioned": [
     "John F. Kennedy",
     "Modesto Orlando Crozco Basulto",
@@ -44,6 +28,24 @@
     "Laureano Batista Falla",
     "Humberto Vergara"
   ],
-  "recipient": "DEPUTY CHIEF, WH/SA",
-  "sender": "CHIEF OF STATION, JMHAVE"
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Vedado",
+    "Sierra Maestra",
+    "Northeastern Matanzas Province",
+    "Marti area",
+    "Cardenas",
+    "Mexico"
+  ],
+  "tags": [
+    "AMTRUNK-9",
+    "infiltration",
+    "Cuba",
+    "Modesto Orlando Crozco Basulto",
+    "Jose Vasquez Nerey",
+    "Jorge",
+    "Hortensia Orizondo Meneses",
+    "rescue operation"
+  ]
 }

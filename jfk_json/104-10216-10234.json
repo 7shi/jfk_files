@@ -1,8 +1,23 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Test of Open Sight Hood for 7.62um Belgium (FAL) Rifle",
+  "title_ja": "7.62umベルギー（FAL）ライフル用オープンサイトフードのテスト",
   "summary": "This memorandum details tests conducted on an open sight hood for the 7.62mm Belgium (FAL) Rifle, including tests of improved underloaded 7.62mm NATO rounds, listener trials to determine the distance at which the rifle's mechanical noise could be discerned, and an evaluation of the sight hood's fit on various rifles. It also covers the use of a scope in low light conditions and the delivery of sight hoods and ammunition.",
+  "summary_ja": "この覚書では、7.62mmベルギー（FAL）ライフル銃用のオープンサイトフードで実施されたテストについて詳しく説明しており、改良型アンダーローディング7.62mm NATO弾薬のテスト、ライフル銃の機械音が聞き取れる距離を特定するためのリスナー試験、各種ライフル銃に装着したサイトフードの評価などが含まれる。また、低照度条件下でのスコープの使用や、サイトフードおよび弾薬の配送についても言及している。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1964-07-01",
+  "origin_agency": "DDP/TSD/EB",
+  "sender": "DANIEL J. BOGAN",
+  "recipient": "THE RECORD",
+  "persons_mentioned": [
+    "Bob Ricker",
+    "Daniel J. Bogan"
+  ],
+  "locations_mentioned": [
+    "Isolation",
+    "Franconia"
+  ],
   "tags": [
     "FAL Rifle",
     "Open Sight Hood",
@@ -11,18 +26,5 @@
     "Listener Trials",
     "Low Light Testing",
     "Sniper Scope"
-  ],
-  "title": "Test of Open Sight Hood for 7.62um Belgium (FAL) Rifle",
-  "date": "1964-07-01",
-  "locations_mentioned": [
-    "Isolation",
-    "Franconia"
-  ],
-  "origin_agency": "DDP/TSD/EB",
-  "persons_mentioned": [
-    "Bob Ricker",
-    "Daniel J. Bogan"
-  ],
-  "recipient": "THE RECORD",
-  "sender": "DANIEL J. BOGAN"
+  ]
 }

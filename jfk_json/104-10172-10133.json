@@ -1,8 +1,21 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "104-10172-10133 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+  "title_ja": "104-10172-10133 2025 1992年ジョン・F・ケネディ大統領暗殺記録法に基づく開示",
   "summary": "Cable discusses a RADOP candidate provided by AMDENIM-1 for infiltration into PBRUMEN, replacing a subject who failed a communication assessment test. It also requests a POA on BENICIA (GONZALEZ) GOMEZ.",
+  "summary_ja": "電報は、AMDENIM-1がPBRUMENへの潜入用に提供したRADOP候補者について、コミュニケーション評価テストに不合格となった被験者に代わるものとして議論している。また、BENICIA（GONZALEZ）GOMEZに対するPOA（権限委譲）も要求している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-01-16",
+  "origin_agency": "JMWAVE",
+  "sender": "JMWAVE",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "BENICIA (GONZALEZ) GOMEZ"
+  ],
+  "locations_mentioned": [
+    "PBRUMEN"
+  ],
   "tags": [
     "RADOP",
     "AMDENIM-1",
@@ -10,16 +23,5 @@
     "Commo Assessment",
     "BENICIA (GONZALEZ) GOMEZ",
     "POA"
-  ],
-  "title": "104-10172-10133 2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
-  "date": "1963-01-16",
-  "locations_mentioned": [
-    "PBRUMEN"
-  ],
-  "origin_agency": "JMWAVE",
-  "persons_mentioned": [
-    "BENICIA (GONZALEZ) GOMEZ"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "JMWAVE"
+  ]
 }

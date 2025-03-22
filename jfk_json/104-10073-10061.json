@@ -1,28 +1,30 @@
 {
-  "classification": "Cuba",
-  "document_type": "Report",
-  "security_level": "CONFIDENTIAL",
+  "title": "Report of Conditions in El Salvador",
+  "title_ja": "エルサルバドルの状況報告書",
   "summary": "Report of Conditions of the Country Inhabited by a Special Representative of the Cuban National Revolutionary Council",
+  "summary_ja": "キューバ国民革命評議会の特別代表が居住する国の状況報告書",
+  "document_type": "Report",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
+  "date": "1962-06-07",
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "sender": "Jose Julio Fernandez Coclerres",
+  "recipient": "Revolutionary Council of Cuba",
+  "persons_mentioned": [
+    "Jose Julio FERNANDEZ Gutierrez",
+    "Antonio de Verona",
+    "Rodrigues"
+  ],
+  "locations_mentioned": [
+    "El Salvador",
+    "San Salvador",
+    "Central America"
+  ],
   "tags": [
     "El Salvador",
     "Cuban National Revolutionary Council",
     "Jose Julio FERNANDEZ Gutierrez",
     "Antonio de Verona",
     "Cuban exiles"
-  ],
-  "title": "Report of Conditions in El Salvador",
-  "date": "1962-06-07",
-  "locations_mentioned": [
-    "El Salvador",
-    "San Salvador",
-    "Central America"
-  ],
-  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
-  "persons_mentioned": [
-    "Jose Julio FERNANDEZ Gutierrez",
-    "Antonio de Verona",
-    "Rodrigues"
-  ],
-  "recipient": "Revolutionary Council of Cuba",
-  "sender": "Jose Julio Fernandez Coclerres"
+  ]
 }

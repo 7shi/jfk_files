@@ -1,22 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable details the planned departure of TEJANA from Key West on February 25th, 1961, for Operation JEAN, carrying cargo and four trainees: Emilio Martinez alias Ernesto Guerra Vidal, Oliverio Toneu alias Antonio Del Monte Caballero, Rafael Alvarez Fernandez-Garrido alias Maximo Alonso Bermudez, and Carlos Poveda alias Calixto Bergnes Braudet.",
-  "tags": [
-    "Operation JEAN",
-    "TEJANA",
-    "Infiltration",
-    "Trainees",
-    "Cuba"
-  ],
   "title": "Cable regarding TEJANA departure for Operation JEAN",
+  "title_ja": "オペレーション・ジーンに向けたテハナの出発に関する電報",
+  "summary": "This cable details the planned departure of TEJANA from Key West on February 25th, 1961, for Operation JEAN, carrying cargo and four trainees: Emilio Martinez alias Ernesto Guerra Vidal, Oliverio Toneu alias Antonio Del Monte Caballero, Rafael Alvarez Fernandez-Garrido alias Maximo Alonso Bermudez, and Carlos Poveda alias Calixto Bergnes Braudet.",
+  "summary_ja": "この電報は、1961年2月25日にキーウェストから出発し、貨物と4人の訓練生（エミリオ・マルティネス、通称エルネスト・ゲラ・ヴィダル、オリベリオ・トネウ、通称アントニオ・デル・モンテ・カバレロ、ラファエル・アルバレス・フェルナンデス・ガリード、通称マキシモ・アロンソ・ベルムデス、カルロス・ポベダ、通称カリクスト・ベルグネス・ブラウデ）を乗せたTEJANAのオペレーション・ジーン（Operation JEAN）への出発予定について詳細に述べている。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1961-02-24",
-  "locations_mentioned": [
-    "Key West",
-    "Cuba"
-  ],
   "origin_agency": "CIA",
+  "sender": "JMJAVE",
+  "recipient": "BELL",
   "persons_mentioned": [
     "Emilio Martinez",
     "Ernesto Guerra Vidal",
@@ -27,6 +20,15 @@
     "Carlos Poveda",
     "Calixto Bergnes Braudet"
   ],
-  "recipient": "BELL",
-  "sender": "JMJAVE"
+  "locations_mentioned": [
+    "Key West",
+    "Cuba"
+  ],
+  "tags": [
+    "Operation JEAN",
+    "TEJANA",
+    "Infiltration",
+    "Trainees",
+    "Cuba"
+  ]
 }

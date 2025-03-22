@@ -1,8 +1,33 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Meeting with E. Howard Hunt Re His Memoirs, \"Undercover\"",
+  "title_ja": "E.ハワード・ハントとの面談、回想録『Undercover』について",
   "summary": "Memorandum for the record regarding a meeting with E. Howard Hunt concerning his memoirs, 'Undercover'. The meeting involved discussions and agreed-upon changes to classified and unclassified items in the manuscript, including those related to a fabricated Shanghai post, the Guatemalan Embassy in Mexico City, and a CIA-Uruguayan telephone monitoring operation.",
+  "summary_ja": "E. ハワード・ハントとの回顧録『Undercover』に関する会議についての記録用覚書。会議では、偽造された上海の郵便局、メキシコシティのグアテマラ大使館、CIAとウルグアイの電話傍受作戦に関するものなど、原稿中の機密事項と非機密事項についての議論と合意された変更内容が話し合われた。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1974-09-30",
+  "origin_agency": "CIA",
+  "sender": "John D. Morrison, Jr., Acting General Counsel",
+  "recipient": "Acting DDO",
+  "persons_mentioned": [
+    "E. Howard Hunt",
+    "Ray Rocca",
+    "William A. Snyder, Jr.",
+    "Thomas W. Coons",
+    "Henry Pleasants",
+    "Frank Holcomb",
+    "John D. Morrison, Jr.",
+    "Walter Pforzheimer"
+  ],
+  "locations_mentioned": [
+    "Washington Field Office",
+    "Mexico City",
+    "Guatemala",
+    "Uruguay",
+    "Hong Kong",
+    "China"
+  ],
   "tags": [
     "E. Howard Hunt",
     "Memoirs",
@@ -14,28 +39,5 @@
     "Guatemalan Embassy",
     "Telephone Monitoring",
     "Press Release"
-  ],
-  "title": "Meeting with E. Howard Hunt Re His Memoirs, \"Undercover\"",
-  "date": "1974-09-30",
-  "locations_mentioned": [
-    "Washington Field Office",
-    "Mexico City",
-    "Guatemala",
-    "Uruguay",
-    "Hong Kong",
-    "China"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "E. Howard Hunt",
-    "Ray Rocca",
-    "William A. Snyder, Jr.",
-    "Thomas W. Coons",
-    "Henry Pleasants",
-    "Frank Holcomb",
-    "John D. Morrison, Jr.",
-    "Walter Pforzheimer"
-  ],
-  "recipient": "Acting DDO",
-  "sender": "John D. Morrison, Jr., Acting General Counsel"
+  ]
 }

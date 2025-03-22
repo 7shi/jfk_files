@@ -1,18 +1,24 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable/Memorandum",
-  "security_level": "SECRET",
-  "summary": "These documents concern operational activities related to AMMUG/1, including travel arrangements, liaison with foreign agencies, and requests for watchlisting individuals of interest. Specific individuals mentioned include Roberto Rodriguez Llompart, Eugenio Gonzalez Alvarez, and others involved in Cuban commercial activities in London.",
-  "tags": [
-    "AMMUG/1",
-    "Liaison",
-    "Travel",
-    "Watchlisting",
-    "Cuban Commercial Office",
-    "Counterintelligence"
-  ],
   "title": "Operational Activities related to AMMUG/1",
+  "title_ja": "AMMUG/1に関連する作戦活動",
+  "summary": "These documents concern operational activities related to AMMUG/1, including travel arrangements, liaison with foreign agencies, and requests for watchlisting individuals of interest. Specific individuals mentioned include Roberto Rodriguez Llompart, Eugenio Gonzalez Alvarez, and others involved in Cuban commercial activities in London.",
+  "summary_ja": "これらの文書は、AMMUG/1に関連する作戦活動に関するもので、旅行の手配、外国機関との連絡、要注意人物の監視リストへの登録依頼などが含まれている。具体的には、ロベルト・ロドリゲス・ロムパート、エウヘニオ・ゴンザレス・アルバレス、およびロンドンにおけるキューバの商業活動に関与するその他の人物が言及されている。",
+  "document_type": "Cable/Memorandum",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1970-12-31",
+  "origin_agency": "CIA",
+  "sender": "WH/MIAMI; Madrid Station; The Hague Station; Leasing Officer",
+  "recipient": "Chief, CI/OA; Director",
+  "persons_mentioned": [
+    "Lester L. Rhodes",
+    "Donald Rater",
+    "Roberto Rodriguez Llompart",
+    "Eugenio Gonzalez Alvarez",
+    "Dionisio Arranz Tremols",
+    "Blanca Calvet",
+    "Bernice Turbeville"
+  ],
   "locations_mentioned": [
     "Miami",
     "Springfield, Virginia",
@@ -23,16 +29,12 @@
     "Madrid",
     "Netherlands"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Lester L. Rhodes",
-    "Donald Rater",
-    "Roberto Rodriguez Llompart",
-    "Eugenio Gonzalez Alvarez",
-    "Dionisio Arranz Tremols",
-    "Blanca Calvet",
-    "Bernice Turbeville"
-  ],
-  "recipient": "Chief, CI/OA; Director",
-  "sender": "WH/MIAMI; Madrid Station; The Hague Station; Leasing Officer"
+  "tags": [
+    "AMMUG/1",
+    "Liaison",
+    "Travel",
+    "Watchlisting",
+    "Cuban Commercial Office",
+    "Counterintelligence"
+  ]
 }

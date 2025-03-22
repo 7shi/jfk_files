@@ -1,8 +1,24 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "AMWHIP/1 Business Trip to Europe, including KUBARK errands",
+  "title_ja": "AMWHIP/1 ヨーロッパ出張、KUBARKの用件を含む",
   "summary": "Cable describes AMWHIP/1 arriving in Europe for a business trip including KUBARK errands in Paris and Geneva. They will arrive in Rome around May 5 and contact the station for any services needed.",
+  "summary_ja": "電報では、AMWHIP/1がパリとジュネーブでのKUBARKの用事を兼ねた出張でヨーロッパに到着したことを報告している。5月5日頃にローマに到着し、必要なサービスについて局に連絡する予定である。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1961-04-23",
+  "origin_agency": "CIA",
+  "sender": "Headquarters",
+  "recipient": "Rome Station",
+  "persons_mentioned": [
+    "AMWHIP/1"
+  ],
+  "locations_mentioned": [
+    "Europe",
+    "Paris",
+    "Geneva",
+    "Rome"
+  ],
   "tags": [
     "AMWHIP",
     "KUBARK",
@@ -12,19 +28,5 @@
     "CIA",
     "PBRUMEN",
     "KEYWAY"
-  ],
-  "title": "AMWHIP/1 Business Trip to Europe, including KUBARK errands",
-  "date": "1961-04-23",
-  "locations_mentioned": [
-    "Europe",
-    "Paris",
-    "Geneva",
-    "Rome"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "AMWHIP/1"
-  ],
-  "recipient": "Rome Station",
-  "sender": "Headquarters"
+  ]
 }

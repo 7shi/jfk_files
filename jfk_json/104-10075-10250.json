@@ -1,8 +1,26 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "53 IN 6947S: Platypic.ayshatter - AMSTASH-1 Communication",
+  "title_ja": "53 IN 6947S: Platypic.ayshatter - AMSTASH-1 通信",
   "summary": "Cable details communication with AMSTASH-1 regarding exfiltration instructions, financial requests, and intelligence reports. It mentions Juan Bautista (Gonzalez) Francisco, Mexico, and possible embassy channels.",
+  "summary_ja": "AMSTASH-1との通信の詳細について、脱出指示、資金要求、諜報報告について述べている。フアン・バウティスタ（ゴンザレス）・フランシスコ、メキシコ、および大使館ルートについて言及している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-11-27",
+  "origin_agency": "WAVE",
+  "sender": "DIRECTOR",
+  "recipient": "C/SAS 5",
+  "persons_mentioned": [
+    "JUAN BAUTISTA (GONZALEZ) FRANCISCO",
+    "AMSTASH-1",
+    "RICARDO",
+    "ANGEL",
+    "VINCENTE"
+  ],
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba"
+  ],
   "tags": [
     "AMSTASH-1",
     "Exfiltration",
@@ -12,21 +30,5 @@
     "Intelligence Reports",
     "Juan Bautista (Gonzalez) Francisco",
     "WAVE"
-  ],
-  "title": "53 IN 6947S: Platypic.ayshatter - AMSTASH-1 Communication",
-  "date": "1963-11-27",
-  "locations_mentioned": [
-    "Mexico",
-    "Cuba"
-  ],
-  "origin_agency": "WAVE",
-  "persons_mentioned": [
-    "JUAN BAUTISTA (GONZALEZ) FRANCISCO",
-    "AMSTASH-1",
-    "RICARDO",
-    "ANGEL",
-    "VINCENTE"
-  ],
-  "recipient": "C/SAS 5",
-  "sender": "DIRECTOR"
+  ]
 }

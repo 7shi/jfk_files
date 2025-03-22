@@ -1,17 +1,20 @@
 {
-  "classification": "Administrative",
-  "document_type": "Dispatch",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This dispatch transmits excerpts from Warren Commission testimony to various CIA stations and headquarters divisions, focusing on Presidential protection and interagency cooperation. It instructs officers in senior positions to review the material.",
-  "tags": [
-    "Warren Commission",
-    "Presidential Protection",
-    "Interagency Cooperation",
-    "Secret Service",
-    "FOIA Review"
-  ],
   "title": "Warren Commission Testimony - Selected Excerpts",
+  "title_ja": "ウォーレン委員会証言 - 抜粋",
+  "summary": "This dispatch transmits excerpts from Warren Commission testimony to various CIA stations and headquarters divisions, focusing on Presidential protection and interagency cooperation. It instructs officers in senior positions to review the material.",
+  "summary_ja": "この電報は、ウォーレン委員会の証言の抜粋を、大統領の保護と省庁間の協力に焦点を当てて、さまざまなCIAの支部および本部部門に伝達する。上級役職の職員に資料の確認を指示する。",
+  "document_type": "Dispatch",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
   "date": "1964-12-24",
+  "origin_agency": "CIA",
+  "sender": "Chief, CI/R&A",
+  "recipient": "Chiefs of all Stations, Chief, KUDOVE",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "FLETCHER M. KNIGHT",
+    "Raymond G. Rocca"
+  ],
   "locations_mentioned": [
     "Abidjan",
     "Accra",
@@ -115,12 +118,11 @@
     "Santo Domingo",
     "Tegucigalpa"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "FLETCHER M. KNIGHT",
-    "Raymond G. Rocca"
-  ],
-  "recipient": "Chiefs of all Stations, Chief, KUDOVE",
-  "sender": "Chief, CI/R&A"
+  "tags": [
+    "Warren Commission",
+    "Presidential Protection",
+    "Interagency Cooperation",
+    "Secret Service",
+    "FOIA Review"
+  ]
 }

@@ -1,8 +1,24 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DIR 75462: AMWHIP Visit to Rome",
+  "title_ja": "DIR 75462: AMWHIP ローマ訪問",
   "summary": "Cable regarding AMWHIP's visit to Rome during the week of October 13, 1963, and contact plans. It also includes routing and file information.",
+  "summary_ja": "1963年10月13日の週にAMWHIPがローマを訪問することに関する電報、および連絡計画。ルーティングおよびファイル情報も含まれる。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1963-10-14",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "ROME",
+  "persons_mentioned": [
+    "AMWHIP",
+    "RHawra",
+    "THOMAST",
+    "EDWARD A. MARELIUS"
+  ],
+  "locations_mentioned": [
+    "Rome"
+  ],
   "tags": [
     "AMWHIP",
     "Rome",
@@ -12,19 +28,5 @@
     "PBRUMEN",
     "KEYWAY",
     "NIACP"
-  ],
-  "title": "DIR 75462: AMWHIP Visit to Rome",
-  "date": "1963-10-14",
-  "locations_mentioned": [
-    "Rome"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "AMWHIP",
-    "RHawra",
-    "THOMAST",
-    "EDWARD A. MARELIUS"
-  ],
-  "recipient": "ROME",
-  "sender": "DIRECTOR"
+  ]
 }

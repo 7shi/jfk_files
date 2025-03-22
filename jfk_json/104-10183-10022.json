@@ -1,8 +1,29 @@
 {
-  "classification": "Operations",
-  "document_type": "Message",
-  "security_level": "CLASSIFIED",
+  "title": "Potential Assets for Operations in Italy Targeting PERUNEN",
+  "title_ja": "イタリアでの作戦における潜在的な資産 PERUNENを標的",
   "summary": "This document discusses potential assets for operations in Italy targeting PERUNEN, focusing on AMHIP 1 and other candidates like CHAS FOA and IDEN C. It addresses their suitability, access, and potential risks, including contamination of reputations and the need for cover stories.",
+  "summary_ja": "この文書では、イタリアでのPERUNENを標的とした作戦における潜在的な資産について、AMHIP 1およびCHAS FOAやIDEN Cなどの他の候補に焦点を当てて議論している。それらの適合性、アクセス、および潜在的なリスク（評判の汚染や偽装工作の必要性など）について言及している。",
+  "document_type": "Message",
+  "classification": "Operations",
+  "security_level": "CLASSIFIED",
+  "date": "2025",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "DOP, CI, CI/OPS, CI/OA, CCS 2, FI, SAS 8, RF 2",
+  "persons_mentioned": [
+    "JOHN F. KENNEDY",
+    "AMHIP 1",
+    "BELL",
+    "CHAS FOA",
+    "IDEN C"
+  ],
+  "locations_mentioned": [
+    "Italy",
+    "Europe",
+    "New York",
+    "Rome",
+    "Suisse"
+  ],
   "tags": [
     "PERUNEN",
     "Italy",
@@ -15,24 +36,5 @@
     "Covert Operations",
     "FEGDE",
     "BELL"
-  ],
-  "title": "Potential Assets for Operations in Italy Targeting PERUNEN",
-  "date": "2025",
-  "locations_mentioned": [
-    "Italy",
-    "Europe",
-    "New York",
-    "Rome",
-    "Suisse"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "JOHN F. KENNEDY",
-    "AMHIP 1",
-    "BELL",
-    "CHAS FOA",
-    "IDEN C"
-  ],
-  "recipient": "DOP, CI, CI/OPS, CI/OA, CCS 2, FI, SAS 8, RF 2",
-  "sender": "DIRECTOR"
+  ]
 }

@@ -1,33 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
-  "summary": "This dispatch details JMWAVE's relationship with AMCARBON-1, a contact at The Miami Herald, from December 1962 to March 1964. It covers the operational support, intelligence, and propaganda activities involving AMCARBON-1, and requests a 201 number be assigned.",
-  "tags": [
-    "JMWAVE",
-    "AMCARBON-1",
-    "Miami Herald",
-    "Operational Support",
-    "Intelligence",
-    "Propaganda",
-    "Security",
-    "KUBARK"
-  ],
   "title": "CIA Special Collection: Report on JMWAVE's Relationship with ANCARBON-1",
+  "title_ja": "CIA特別収集：JMWAVEとANCARBON-1の関係に関する報告書",
+  "summary": "This dispatch details JMWAVE's relationship with AMCARBON-1, a contact at The Miami Herald, from December 1962 to March 1964. It covers the operational support, intelligence, and propaganda activities involving AMCARBON-1, and requests a 201 number be assigned.",
+  "summary_ja": "この報告書は、1962年12月から1964年3月までの間、JMWAVEとAMCARBON-1（マイアミ・ヘラルド紙の連絡員）との関係について詳細に述べている。AMCARBON-1が関与する作戦支援、諜報活動、宣伝活動について述べ、201番号の割り当てを要請している。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1964-03-19",
-  "locations_mentioned": [
-    "Miami, Florida",
-    "South Florida",
-    "Cuba",
-    "Havana",
-    "Puno, Peru",
-    "Puerto Rico",
-    "Dominican Republic",
-    "Houston, Texas",
-    "Santiago, Chile",
-    "Uruguay"
-  ],
   "origin_agency": "CIA",
+  "sender": "COS, Andrew K. REUTEMAN",
+  "recipient": "Chief, SAS",
   "persons_mentioned": [
     "John F. Kennedy",
     "Andrew K. REUTEMAN",
@@ -52,6 +34,26 @@
     "Armando Andres GUIROLA Forte",
     "Charles GRIFFIN"
   ],
-  "recipient": "Chief, SAS",
-  "sender": "COS, Andrew K. REUTEMAN"
+  "locations_mentioned": [
+    "Miami, Florida",
+    "South Florida",
+    "Cuba",
+    "Havana",
+    "Puno, Peru",
+    "Puerto Rico",
+    "Dominican Republic",
+    "Houston, Texas",
+    "Santiago, Chile",
+    "Uruguay"
+  ],
+  "tags": [
+    "JMWAVE",
+    "AMCARBON-1",
+    "Miami Herald",
+    "Operational Support",
+    "Intelligence",
+    "Propaganda",
+    "Security",
+    "KUBARK"
+  ]
 }

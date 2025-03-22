@@ -1,8 +1,20 @@
 {
-  "classification": "Operations",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "MEMO FOR THE RECORD",
+  "title_ja": "記録用メモ",
   "summary": "This memo discusses the status of AMMUG-1's INS card and arrangements for AMMUG-1 to move into a safe apartment at Summit Hill, including lease arrangements, moving assistance, and purchasing linens.",
+  "summary_ja": "このメモでは、AMMUG-1のINSカードの状況と、AMMUG-1がサミットヒルにある安全なアパートに引っ越すための準備について説明している。これには賃貸契約、引っ越し支援、リネンの購入などが含まれる。",
+  "document_type": "Memo",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
+  "date": "1964-06-30",
+  "sender": "Unknown",
+  "recipient": "THE RECORD",
+  "persons_mentioned": [
+    "Mr. Knott",
+    "AMMUG-1",
+    "Lou DeSanti",
+    "Danjel Flores"
+  ],
   "tags": [
     "AMMUG-1",
     "INS card",
@@ -11,15 +23,5 @@
     "lease",
     "linens",
     "ops expenses"
-  ],
-  "title": "MEMO FOR THE RECORD",
-  "date": "1964-06-30",
-  "persons_mentioned": [
-    "Mr. Knott",
-    "AMMUG-1",
-    "Lou DeSanti",
-    "Danjel Flores"
-  ],
-  "recipient": "THE RECORD",
-  "sender": "Unknown"
+  ]
 }

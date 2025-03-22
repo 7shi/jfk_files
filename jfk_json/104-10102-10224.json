@@ -1,8 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Operational Plan for Continuing Operations Against Cuba",
+  "title_ja": "キューバに対する継続作戦の作戦計画",
   "summary": "Operational plan for continuing operations against Cuba, including intelligence gathering, potential actions to weaken the Castro regime, economic warfare, and political and psychological warfare.",
+  "summary_ja": "キューバに対する作戦継続のための作戦計画、情報収集、カストロ政権を弱体化させるための潜在的な行動、経済戦争、政治的・心理的戦争を含む。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1962-11-27",
+  "origin_agency": "CIA",
+  "sender": "William K. Harvey, Chief, Task Force W",
+  "recipient": "Director of Central Intelligence",
+  "persons_mentioned": [
+    "William Harvey",
+    "John F. Kennedy",
+    "Castro"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Miami",
+    "Latin America"
+  ],
   "tags": [
     "CIA",
     "Castro",
@@ -12,21 +30,5 @@
     "Economic Warfare",
     "Psychological Warfare",
     "Task Force W"
-  ],
-  "title": "Operational Plan for Continuing Operations Against Cuba",
-  "date": "1962-11-27",
-  "locations_mentioned": [
-    "Cuba",
-    "Havana",
-    "Miami",
-    "Latin America"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "William Harvey",
-    "John F. Kennedy",
-    "Castro"
-  ],
-  "recipient": "Director of Central Intelligence",
-  "sender": "William K. Harvey, Chief, Task Force W"
+  ]
 }

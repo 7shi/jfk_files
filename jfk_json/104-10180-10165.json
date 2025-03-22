@@ -1,21 +1,15 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable discusses potential security breaches, Clinton's possible involvement, and counter-revolutionary activities.",
-  "tags": [
-    "AMIRE-1",
-    "BELL",
-    "CARACUS",
-    "Clinton",
-    "Counter-Revolution",
-    "Security Measures",
-    "Operations"
-  ],
   "title": "Classified Message Regarding Security Concerns and Operations",
+  "title_ja": "機密扱いメッセージ 安全保障に関する懸念と作戦について",
+  "summary": "Cable discusses potential security breaches, Clinton's possible involvement, and counter-revolutionary activities.",
+  "summary_ja": "電報は、潜在的なセキュリティ違反、クリントンの関与の可能性、および反革命活動について議論している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
   "date": "1961-05-09",
-  "locations_mentioned": [],
   "origin_agency": "CIA",
+  "sender": "CARACUS",
+  "recipient": "BELL",
   "persons_mentioned": [
     "BELL",
     "CARACUS",
@@ -28,6 +22,14 @@
     "Henry06",
     "BINIARIS"
   ],
-  "recipient": "BELL",
-  "sender": "CARACUS"
+  "locations_mentioned": [],
+  "tags": [
+    "AMIRE-1",
+    "BELL",
+    "CARACUS",
+    "Clinton",
+    "Counter-Revolution",
+    "Security Measures",
+    "Operations"
+  ]
 }

@@ -1,8 +1,30 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "MEXI 6761: Developments regarding subject's plans and communication channels",
+  "title_ja": "MEXI 6761: 対象者の計画および通信手段に関する進展",
   "summary": "Cable discusses the subject's contact with Ernesto \"Che\" Guevara, motivation for leaving Cuba, pouch communication system, and instructions to influence the subject to stay in place with financial aid.",
+  "summary_ja": "電報は、被調査者のエルネスト・「チェ」・ゲバラとの接触、キューバを離れる動機、ポーチ通信システム、被調査者に現地にとどまるよう金銭的援助で影響を与える指示について議論している。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "unknown",
+  "origin_agency": "CIA",
+  "sender": "MEXICO CITY",
+  "recipient": "WH 6",
+  "persons_mentioned": [
+    "DIRECTOR",
+    "ANSEVER-2",
+    "Ernest \"Che\" Guevara",
+    "Cornelis Bijpus",
+    "E. Cabanes",
+    "Mario De La Guardia",
+    "Jorge Antonio Abasolo Garcia"
+  ],
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba",
+    "Netherlands Embassy",
+    "Puentes Grandes"
+  ],
   "tags": [
     "PERUMEN",
     "ANSEVER-2",
@@ -14,25 +36,5 @@
     "Nueva Papelera de Puentes Grandes",
     "Mario De La Guardia",
     "Jorge Antonio Abasolo Garcia"
-  ],
-  "title": "MEXI 6761: Developments regarding subject's plans and communication channels",
-  "date": "unknown",
-  "locations_mentioned": [
-    "Mexico",
-    "Cuba",
-    "Netherlands Embassy",
-    "Puentes Grandes"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "DIRECTOR",
-    "ANSEVER-2",
-    "Ernest \"Che\" Guevara",
-    "Cornelis Bijpus",
-    "E. Cabanes",
-    "Mario De La Guardia",
-    "Jorge Antonio Abasolo Garcia"
-  ],
-  "recipient": "WH 6",
-  "sender": "MEXICO CITY"
+  ]
 }

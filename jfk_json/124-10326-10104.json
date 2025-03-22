@@ -1,20 +1,15 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
-  "summary": "This document discusses the creation of a control file (62-99724) under the caption, \"CIA - James Angleton,\" for retaining copies of certain memoranda disseminated by James Angleton, Chief Counterintelligence Staff, CIA. It recommends discontinuing the practice of placing copies of Bureau Informant 100 material in the control file, while retaining the file for policy-related mail.",
-  "tags": [
-    "CIA",
-    "James Angleton",
-    "Counterintelligence",
-    "Bureau Informant 100",
-    "Liaison",
-    "Control File"
-  ],
   "title": "CENTRAL INTELLIGENCE AGENCY (CIA) INFORMATION RECEIVED FROM JAMES ANGLETON",
+  "title_ja": "中央情報局（CIA） ジェームズ・アングルトンから得た情報",
+  "summary": "This document discusses the creation of a control file (62-99724) under the caption, \"CIA - James Angleton,\" for retaining copies of certain memoranda disseminated by James Angleton, Chief Counterintelligence Staff, CIA. It recommends discontinuing the practice of placing copies of Bureau Informant 100 material in the control file, while retaining the file for policy-related mail.",
+  "summary_ja": "この文書では、「CIA - James Angleton」という見出しの下に、CIAの主任防諜スタッフであるジェームズ・アングルトンが配布した特定の覚書のコピーを保管するための管理ファイル（62-99724）の作成について説明している。また、政策関連の郵便物を保管するために管理ファイルを維持する一方で、局情報提供者100の資料のコピーを管理ファイルに入れるという慣行を廃止することを推奨している。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "Secret",
   "date": "1967-01-13",
-  "locations_mentioned": [],
   "origin_agency": "FBI",
+  "sender": "D. J. Brennan, Jr.",
+  "recipient": "W. C. Sullivan",
   "persons_mentioned": [
     "BRENNAN",
     "SULLIVAN",
@@ -33,6 +28,13 @@
     "Cotter",
     "Papich"
   ],
-  "recipient": "W. C. Sullivan",
-  "sender": "D. J. Brennan, Jr."
+  "locations_mentioned": [],
+  "tags": [
+    "CIA",
+    "James Angleton",
+    "Counterintelligence",
+    "Bureau Informant 100",
+    "Liaison",
+    "Control File"
+  ]
 }

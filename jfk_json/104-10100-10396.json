@@ -1,30 +1,32 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "Unclassified",
-  "summary": "Cable discusses funding for labor elections in Guanabara and potential conflict among democratic groups.",
-  "tags": [
-    "Labor Elections",
-    "Funding",
-    "Democratic Groups",
-    "Guanabara",
-    "Rio de Janeiro"
-  ],
   "title": "Funding for Guanabara Chemical Workers Federation Elections",
+  "title_ja": "グアナバラ化学労働者連盟選挙への資金提供",
+  "summary": "Cable discusses funding for labor elections in Guanabara and potential conflict among democratic groups.",
+  "summary_ja": "電報は、グアナバラにおける労働選挙への資金提供と民主派グループ間の潜在的な対立について議論している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "Unclassified",
   "date": "1963-02-06",
-  "locations_mentioned": [
-    "Mexico City",
-    "Dolors City",
-    "Guanabara",
-    "Rio de Janeiro"
-  ],
   "origin_agency": "CIA",
+  "sender": "MEXICO CITY, DOLORS CITY, AND WE INDICATED",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "ARI CAMPISTA",
     "HUGO GOMES DA COSTA",
     "REINBEING",
     "BOIZELLE"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "MEXICO CITY, DOLORS CITY, AND WE INDICATED"
+  "locations_mentioned": [
+    "Mexico City",
+    "Dolors City",
+    "Guanabara",
+    "Rio de Janeiro"
+  ],
+  "tags": [
+    "Labor Elections",
+    "Funding",
+    "Democratic Groups",
+    "Guanabara",
+    "Rio de Janeiro"
+  ]
 }

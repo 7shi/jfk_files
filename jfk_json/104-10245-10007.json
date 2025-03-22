@@ -1,24 +1,26 @@
 {
-  "classification": "Cuba",
-  "document_type": "Radio Program Listings",
-  "security_level": "Unclassified",
+  "title": "Radio Program \"El Medico y Usted\" Listings",
+  "title_ja": "ラジオ番組「エル・メディコ・イ・ウスタド」の番組表",
   "summary": "Listings of radio programs titled \"El Medico y Usted\" (The Doctor and You) broadcasted in Cuba during the 1960s. The programs cover a range of medical topics.",
+  "summary_ja": "キューバで1960年代に放送されたラジオ番組「El Medico y Usted」（医師とあなた）の番組表。この番組では、さまざまな医療トピックを取り上げている。",
+  "document_type": "Radio Program Listings",
+  "classification": "Cuba",
+  "security_level": "Unclassified",
+  "date": "1965",
+  "origin_agency": "Unspecified",
+  "sender": "N/A",
+  "recipient": "N/A",
+  "persons_mentioned": [
+    "Antonio Maceo y Roque"
+  ],
+  "locations_mentioned": [
+    "Cuba"
+  ],
   "tags": [
     "Radio Program",
     "Medical",
     "Cuba",
     "1960s",
     "Public Health"
-  ],
-  "title": "Radio Program \"El Medico y Usted\" Listings",
-  "date": "1965",
-  "locations_mentioned": [
-    "Cuba"
-  ],
-  "origin_agency": "Unspecified",
-  "persons_mentioned": [
-    "Antonio Maceo y Roque"
-  ],
-  "recipient": "N/A",
-  "sender": "N/A"
+  ]
 }

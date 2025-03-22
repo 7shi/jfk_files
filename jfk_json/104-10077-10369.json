@@ -1,19 +1,13 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "Cable discusses identities of ODON ALVAREZ DELALA CAMPA, JOSE LUIS GONZALEZ GALLARRETTA, GILBERTO LIWAY RODRIGUES, and ROGELIO IGLESIAS PATINO.",
-  "tags": [
-    "identities",
-    "ODON ALVAREZ DELALA CAMPA",
-    "JOSE LUIS GONZALEZ GALLARRETTA",
-    "GILBERTO LIWAY RODRIGUES",
-    "ROGELIO IGLESIAS PATINO",
-    "PRUMEN",
-    "QUOTA"
-  ],
   "title": "DEPERCEN",
+  "title_ja": "デパーセン",
+  "summary": "Cable discusses identities of ODON ALVAREZ DELALA CAMPA, JOSE LUIS GONZALEZ GALLARRETTA, GILBERTO LIWAY RODRIGUES, and ROGELIO IGLESIAS PATINO.",
+  "summary_ja": "電報では、ODON ALVAREZ DELALA CAMPA、JOSE LUIS GONZALEZ GALLARRETTA、GILBERTO LIWAY RODRIGUES、ROGELIO IGLESIAS PATINOの身元について議論している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1963-12-10",
+  "sender": "OR: LABUZZETTI/dk",
   "persons_mentioned": [
     "ODON ALVAREZ DELALA CAMPA",
     "JOSE LUIS GONZALEZ GALLARRETTA",
@@ -23,5 +17,13 @@
     "Maggio",
     "Lock"
   ],
-  "sender": "OR: LABUZZETTI/dk"
+  "tags": [
+    "identities",
+    "ODON ALVAREZ DELALA CAMPA",
+    "JOSE LUIS GONZALEZ GALLARRETTA",
+    "GILBERTO LIWAY RODRIGUES",
+    "ROGELIO IGLESIAS PATINO",
+    "PRUMEN",
+    "QUOTA"
+  ]
 }

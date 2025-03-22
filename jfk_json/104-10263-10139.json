@@ -1,8 +1,32 @@
 {
-  "classification": "Operations",
-  "document_type": "Dispatch",
-  "security_level": "SECRET",
+  "title": "Operational/REDWOOD/LCIMPROVE/AELADLE ACTION REQUIRED - Michael WYNNE-ELLIS",
+  "title_ja": "運用/REDWOOD/LCIMPROVE/AELADLE 必要な措置 - マイケル・ウィン・エリス",
   "summary": "This document is a dispatch from the Chief of Station, London, to the Chief, WE, regarding Operational/REDWOOD/LCIMPROVE/AELADLE ACTION REQUIRED concerning Michael WYNNE-ELLIS and includes comments and questions about a KGB document.",
+  "summary_ja": "本ドキュメントは、マイケル・ウィン・エリスに関する業務/REDWOOD/LCIMPROVE/AELADLE ACTION REQUIREDについて、ロンドン支局長からWE局長への報告書であり、KGB文書に関するコメントと質問を含んでいる。",
+  "document_type": "Dispatch",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1962-03-14",
+  "origin_agency": "Chief of Station, London",
+  "sender": "Chief of Station, London",
+  "recipient": "Chief, WE",
+  "persons_mentioned": [
+    "Michael WYNNE-ELLIS",
+    "Ivan Efimovich SERGEEV",
+    "Stanislav GALKIN",
+    "AELADLE",
+    "James L. GRIFFITHS"
+  ],
+  "locations_mentioned": [
+    "U.S.S.R.",
+    "Helsinki",
+    "Soviet Embassy",
+    "London",
+    "Stalingrad",
+    "Volgograd",
+    "U.K.",
+    "Russia"
+  ],
   "tags": [
     "KGB",
     "REDWOOD",
@@ -14,27 +38,5 @@
     "Stanislav GALKIN",
     "defection",
     "double-crossed"
-  ],
-  "title": "Operational/REDWOOD/LCIMPROVE/AELADLE ACTION REQUIRED - Michael WYNNE-ELLIS",
-  "date": "1962-03-14",
-  "locations_mentioned": [
-    "U.S.S.R.",
-    "Helsinki",
-    "Soviet Embassy",
-    "London",
-    "Stalingrad",
-    "Volgograd",
-    "U.K.",
-    "Russia"
-  ],
-  "origin_agency": "Chief of Station, London",
-  "persons_mentioned": [
-    "Michael WYNNE-ELLIS",
-    "Ivan Efimovich SERGEEV",
-    "Stanislav GALKIN",
-    "AELADLE",
-    "James L. GRIFFITHS"
-  ],
-  "recipient": "Chief, WE",
-  "sender": "Chief of Station, London"
+  ]
 }

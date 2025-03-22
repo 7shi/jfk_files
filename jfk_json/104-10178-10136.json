@@ -1,19 +1,25 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Information Concerning Suspect in Martin Luther King Jr. Assassination",
+  "title_ja": "キング牧師暗殺容疑者に関する情報",
   "summary": "This cable discusses Eric Starvo Galt, an alias of Harvey Lowmyer and John Willard, who is suspected of assassinating Martin Luther King, Jr. The cable provides a physical description of Galt and requests that addressees determine if Galt is or has been in their area.",
-  "tags": [
-    "Assassination",
-    "Martin Luther King Jr.",
+  "summary_ja": "この電報は、ハーヴェイ・ロウマイヤーとジョン・ウィラードの別名であるエリック・スターヴォ・ガルトについて述べている。ガルトの身体的特徴が記載されており、受信者にガルトが現在または過去にその地域にいたかどうかを確認するよう要請している。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1968-04-18",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "ASUNCION, BANGKOK, BARCELONA, BEIRUT, BERLIN, BERN, BOGOTA, BRASILIA, BRUSSELS, BUENOS AIRES, CXADOXAS, COPENHAGEN, FRANKFURT, GENEVA, GEORGETOWN, GUATEMALA CITY, GUAYAQUIL, THE HAGUE, HAMBURG, HELSINKI, HONG KONG, KINGSTON, LA PAZ, LIMA, LONDON, MADRID, MANAGUA, MONTEVIDEO, NEW DELHI, LISBON, MANILA, MUNICH, OSLO, PANAMA CITY, PARIS, PORT AU PRINCE, PORT OF SPAIN, PORTO ALEGRE, QUITO, RECIFE, RAWALPINDI, RIO DE JANERIO, ROME, SAN JOSE, SANTO DOMINGO, SAN SALVADOR, SANTIAGO, SANTIAGO DE LOS CABALLEROS, SAO PAULO, STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
+  "persons_mentioned": [
+    "Richard Oberf",
     "Eric Starvo Galt",
     "Harvey Lowmyer",
     "John Willard",
-    "LNERGO",
-    "Fugitive"
+    "Martin Luther King Jr.",
+    "Mr. Hunt",
+    "Mr. Smyth",
+    "Mr. Smith"
   ],
-  "title": "Information Concerning Suspect in Martin Luther King Jr. Assassination",
-  "date": "1968-04-18",
   "locations_mentioned": [
     "Asuncion",
     "Bangkok",
@@ -70,17 +76,13 @@
     "Vienna",
     "Zurich"
   ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Richard Oberf",
+  "tags": [
+    "Assassination",
+    "Martin Luther King Jr.",
     "Eric Starvo Galt",
     "Harvey Lowmyer",
     "John Willard",
-    "Martin Luther King Jr.",
-    "Mr. Hunt",
-    "Mr. Smyth",
-    "Mr. Smith"
-  ],
-  "recipient": "ASUNCION, BANGKOK, BARCELONA, BEIRUT, BERLIN, BERN, BOGOTA, BRASILIA, BRUSSELS, BUENOS AIRES, CXADOXAS, COPENHAGEN, FRANKFURT, GENEVA, GEORGETOWN, GUATEMALA CITY, GUAYAQUIL, THE HAGUE, HAMBURG, HELSINKI, HONG KONG, KINGSTON, LA PAZ, LIMA, LONDON, MADRID, MANAGUA, MONTEVIDEO, NEW DELHI, LISBON, MANILA, MUNICH, OSLO, PANAMA CITY, PARIS, PORT AU PRINCE, PORT OF SPAIN, PORTO ALEGRE, QUITO, RECIFE, RAWALPINDI, RIO DE JANERIO, ROME, SAN JOSE, SANTO DOMINGO, SAN SALVADOR, SANTIAGO, SANTIAGO DE LOS CABALLEROS, SAO PAULO, STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
-  "sender": "DIRECTOR"
+    "LNERGO",
+    "Fugitive"
+  ]
 }

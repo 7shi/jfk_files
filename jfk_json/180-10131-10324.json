@@ -1,35 +1,15 @@
 {
-  "classification": "JFK Assassination",
-  "document_type": "Transcript",
-  "security_level": "Top Secret",
-  "summary": "Testimony of Yuri Ivanovich Nosenko before the HSCA on June 20, 1978, regarding Lee Harvey Oswald's defection to the Soviet Union, KGB methodology, and related subjects.",
-  "tags": [
-    "CIA",
-    "KGB",
-    "Methodology",
-    "Files",
-    "Priscilla Johnson McMillan",
-    "Bruce Solie",
-    "Yuri Nosenko",
-    "Testimony",
-    "Lee Harvey Oswald",
-    "Russian Period",
-    "Defection to Russia",
-    "Mexico City"
-  ],
   "title": "Testimony of Yuri Ivanovich Nosenko",
+  "title_ja": "ユーリ・イワノビッチ・ノセンコの証言",
+  "summary": "Testimony of Yuri Ivanovich Nosenko before the HSCA on June 20, 1978, regarding Lee Harvey Oswald's defection to the Soviet Union, KGB methodology, and related subjects.",
+  "summary_ja": "1978年6月20日、米ソ特別調査委員会（HSCA）におけるユリ・イワノビッチ・ノセンコの証言。内容は、リー・ハーヴェイ・オズワルドのソビエト連邦への亡命、KGBの手法、および関連事項について。",
+  "document_type": "Transcript",
+  "classification": "JFK Assassination",
+  "security_level": "Top Secret",
   "date": "1978-06-20",
-  "locations_mentioned": [
-    "Moscow",
-    "Soviet Union",
-    "Langley",
-    "Virginia",
-    "Washington, D. C.",
-    "Minsk",
-    "Utah",
-    "Japan"
-  ],
   "origin_agency": "HSCA",
+  "sender": "HSCA",
+  "recipient": "N/A",
   "persons_mentioned": [
     "Nosenko, Yuri",
     "Oswald, Lee Harvey",
@@ -54,6 +34,28 @@
     "Webster",
     "Epstein"
   ],
-  "recipient": "N/A",
-  "sender": "HSCA"
+  "locations_mentioned": [
+    "Moscow",
+    "Soviet Union",
+    "Langley",
+    "Virginia",
+    "Washington, D. C.",
+    "Minsk",
+    "Utah",
+    "Japan"
+  ],
+  "tags": [
+    "CIA",
+    "KGB",
+    "Methodology",
+    "Files",
+    "Priscilla Johnson McMillan",
+    "Bruce Solie",
+    "Yuri Nosenko",
+    "Testimony",
+    "Lee Harvey Oswald",
+    "Russian Period",
+    "Defection to Russia",
+    "Mexico City"
+  ]
 }

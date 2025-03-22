@@ -1,8 +1,30 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DIR CITE WAVE 8883",
+  "title_ja": "DIR CITE WAVE 8883",
   "summary": "This document is a SECRET cable discussing individuals and operations related to Cuba, including names like OTTO, AQUILES, Doctor Jimenes (AURELIO MARTINEZ), JOSE CAMPOS PEREZ, and AGUILA. It mentions activities on LIBERTAD 12 and CAYO LEVISA, along with concerns about security and communication. The cable also refers to previous communications (WAVE 8699, WAVE 8780) and mentions NAV comments on individuals related to ANCLATTER-5 and KMARTINEZ.",
+  "summary_ja": "この文書は、キューバに関連する個人および作戦について述べたSECRET（極秘）の電報である。OTTO、AQUILES、Doctor Jimenes（AURELIO MARTINEZ）、JOSE CAMPOS PEREZ、AGUILAなどの名前を含む。リベルタド12とカヨ・レビサでの活動について言及し、セキュリティと通信に関する懸念も示している。この電報は、過去の通信（WAVE 8699、WAVE 8780）にも言及し、ANCLATTER-5とKMARTINEZに関連する人物に関するNAVのコメントを記載している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-02-08",
+  "origin_agency": "ACTION, C/SAS 5",
+  "sender": "DIR",
+  "recipient": "INFO DOP, ADDP, RI/AN DUMMY, D/OC 2, VR",
+  "persons_mentioned": [
+    "OTTO",
+    "AQUILES",
+    "Doctor Jimenes",
+    "AURELIO MARTINEZ",
+    "JOSE CAMPOS PEREZ",
+    "RICARDO",
+    "CELINA",
+    "AGUILA",
+    "TOMAS BENE (INGUANZO) ORTIZ"
+  ],
+  "locations_mentioned": [
+    "HAVANA",
+    "CAYO LEVISA"
+  ],
   "tags": [
     "RYBAT",
     "TYPIC",
@@ -20,25 +42,5 @@
     "ANCLATTER-5",
     "KMARTINEZ",
     "TOMAS BENE (INGUANZO) ORTIZ"
-  ],
-  "title": "DIR CITE WAVE 8883",
-  "date": "1963-02-08",
-  "locations_mentioned": [
-    "HAVANA",
-    "CAYO LEVISA"
-  ],
-  "origin_agency": "ACTION, C/SAS 5",
-  "persons_mentioned": [
-    "OTTO",
-    "AQUILES",
-    "Doctor Jimenes",
-    "AURELIO MARTINEZ",
-    "JOSE CAMPOS PEREZ",
-    "RICARDO",
-    "CELINA",
-    "AGUILA",
-    "TOMAS BENE (INGUANZO) ORTIZ"
-  ],
-  "recipient": "INFO DOP, ADDP, RI/AN DUMMY, D/OC 2, VR",
-  "sender": "DIR"
+  ]
 }

@@ -1,8 +1,21 @@
 {
-  "classification": "Security",
-  "document_type": "Memorandum",
-  "security_level": "Unspecified",
+  "title": "201-274330",
+  "title_ja": "201-274330",
   "summary": "This memorandum discusses a security investigation related to Subject 201-274330 for use as a PA-PROP Asset in Miami under Project JMATE. The case is closed pending further notification.",
+  "summary_ja": "この覚書は、プロジェクトJMATEのもとマイアミでPA-PROP要員として使用される対象者201-274330に関するセキュリティ調査について述べている。この件は、今後の通知を待って終了する。",
+  "document_type": "Memorandum",
+  "classification": "Security",
+  "security_level": "Unspecified",
+  "date": "1965-01-15",
+  "origin_agency": "Office of Security",
+  "sender": "Victor R. White, Deputy Director of Security (IOS)",
+  "recipient": "Chief, CI/OA",
+  "persons_mentioned": [
+    "Victor R. White"
+  ],
+  "locations_mentioned": [
+    "Miami"
+  ],
   "tags": [
     "CI/OA",
     "Provisional Operational Approval",
@@ -10,16 +23,5 @@
     "JMATE",
     "Miami",
     "Security Investigation"
-  ],
-  "title": "201-274330",
-  "date": "1965-01-15",
-  "locations_mentioned": [
-    "Miami"
-  ],
-  "origin_agency": "Office of Security",
-  "persons_mentioned": [
-    "Victor R. White"
-  ],
-  "recipient": "Chief, CI/OA",
-  "sender": "Victor R. White, Deputy Director of Security (IOS)"
+  ]
 }

@@ -1,23 +1,29 @@
 {
-  "classification": "Liaison",
-  "document_type": "Dispatch and Memorandum",
-  "security_level": "SECRET",
-  "summary": "Contact reports of meetings with LI TAMIL-9 on 17 and 29 July 1963, including information on Cuban celebrations, embassy employee transactions, and potential recruitment targets.",
-  "tags": [
-    "LI TAMIL-9",
-    "Cuban celebrations",
-    "Embassy employee transactions",
-    "Recruitment",
-    "LAME",
-    "APALCIO",
-    "Cuban relations",
-    "Tampico",
-    "Bastille Day",
-    "Ecuadoreans",
-    "Escuela Normal Rural de Santa Therobe Coahuila"
-  ],
   "title": "Contact Report/ITAMII-9",
+  "title_ja": "連絡報告書/ITAMII-9",
+  "summary": "Contact reports of meetings with LI TAMIL-9 on 17 and 29 July 1963, including information on Cuban celebrations, embassy employee transactions, and potential recruitment targets.",
+  "summary_ja": "1963年7月17日と29日のLI TAMIL-9との会合に関する連絡報告書。キューバの祝賀行事、大使館職員の取引、潜在的な勧誘対象者に関する情報を含む。",
+  "document_type": "Dispatch and Memorandum",
+  "classification": "Liaison",
+  "security_level": "SECRET",
   "date": "1963-07-31",
+  "origin_agency": "Chief of Station, Mexico City",
+  "sender": "Chief of Station, Mexico City",
+  "recipient": "Chief, WHD",
+  "persons_mentioned": [
+    "LI TAMIL-9",
+    "Willard C CURTIS",
+    "Barker",
+    "AMSAL-1",
+    "LAME",
+    "Alan Culbertson",
+    "RICO",
+    "Inu BARRIOS",
+    "Fidel Castro",
+    "Luisa CALDERON",
+    "APARICIO",
+    "JOBAIN"
+  ],
   "locations_mentioned": [
     "Mexico City",
     "Gutenberg",
@@ -33,21 +39,17 @@
     "Madara",
     "Melchor Ocampo"
   ],
-  "origin_agency": "Chief of Station, Mexico City",
-  "persons_mentioned": [
+  "tags": [
     "LI TAMIL-9",
-    "Willard C CURTIS",
-    "Barker",
-    "AMSAL-1",
+    "Cuban celebrations",
+    "Embassy employee transactions",
+    "Recruitment",
     "LAME",
-    "Alan Culbertson",
-    "RICO",
-    "Inu BARRIOS",
-    "Fidel Castro",
-    "Luisa CALDERON",
-    "APARICIO",
-    "JOBAIN"
-  ],
-  "recipient": "Chief, WHD",
-  "sender": "Chief of Station, Mexico City"
+    "APALCIO",
+    "Cuban relations",
+    "Tampico",
+    "Bastille Day",
+    "Ecuadoreans",
+    "Escuela Normal Rural de Santa Therobe Coahuila"
+  ]
 }

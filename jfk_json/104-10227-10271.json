@@ -1,29 +1,31 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memo",
-  "security_level": "CONFIDENTIAL",
-  "summary": "FBI memo regarding anti-Fidel Castro activities, reporting that Guatemalan Ambassador Carlos Alejos contacted Miguel Ydigoras-Fuentes regarding Jose Miro Cardona's desire to meet and apologize for a missed meeting.",
-  "tags": [
-    "Anti-Fidel Castro",
-    "Cuban Revolutionary Council",
-    "Guatemala",
-    "Diplomatic Relations"
-  ],
   "title": "ANTI-FIDEL CASTRO ACTIVITIES INTERNAL SECURITY - CUBA",
+  "title_ja": "フィデル・カストロに対する反活動 内部治安 - キューバ",
+  "summary": "FBI memo regarding anti-Fidel Castro activities, reporting that Guatemalan Ambassador Carlos Alejos contacted Miguel Ydigoras-Fuentes regarding Jose Miro Cardona's desire to meet and apologize for a missed meeting.",
+  "summary_ja": "フィデル・カストロに対する反体制活動に関するFBIのメモ。グアテマラ大使カルロス・アレホスがミゲル・イディゴラス・フエンテスに、ホセ・ミロ・カルドナが会って謝罪したいと望んでいることを伝えたことを報告している。",
+  "document_type": "Memo",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
   "date": "1963-02-25",
-  "locations_mentioned": [
-    "United States",
-    "Washington D.C.",
-    "Guatemala",
-    "Cuba"
-  ],
   "origin_agency": "FEDERAL BUREAU OF INVESTIGATION",
+  "sender": "FEDERAL BUREAU OF INVESTIGATION",
+  "recipient": "Unknown",
   "persons_mentioned": [
     "Carlos Alejos",
     "Miguel Ydigoras-Fuentes",
     "Jose Miro Cardona",
     "Fidel Castro"
   ],
-  "recipient": "Unknown",
-  "sender": "FEDERAL BUREAU OF INVESTIGATION"
+  "locations_mentioned": [
+    "United States",
+    "Washington D.C.",
+    "Guatemala",
+    "Cuba"
+  ],
+  "tags": [
+    "Anti-Fidel Castro",
+    "Cuban Revolutionary Council",
+    "Guatemala",
+    "Diplomatic Relations"
+  ]
 }

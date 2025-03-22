@@ -1,8 +1,19 @@
 {
-  "classification": "Administrative",
-  "document_type": "Cable",
-  "security_level": "UNCLASSIFIED",
+  "title": "Office Hours and Monitoring Instructions",
+  "title_ja": "執務時間および監視指示",
   "summary": "This document pertains to office hours and monitoring frequencies for various stations, with the approval of the Chief Mission and COS. It includes instructions for stations with and without SELCAL monitors, and mentions residence capability during a closure period.",
+  "summary_ja": "この文書は、首席代表団および COS の承認を得て、各種局の営業時間とモニタリング頻度に関するものである。SELCAL モニターの有無による局への指示が含まれており、閉鎖期間中の居住能力についても言及されている。",
+  "document_type": "Cable",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
+  "date": "2025",
+  "origin_agency": "Unknown",
+  "sender": "Unknown",
+  "recipient": "Various Stations",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "locations_mentioned": [],
   "tags": [
     "office hours",
     "monitoring frequencies",
@@ -11,14 +22,5 @@
     "stations",
     "Chief Mission",
     "COS"
-  ],
-  "title": "Office Hours and Monitoring Instructions",
-  "date": "2025",
-  "locations_mentioned": [],
-  "origin_agency": "Unknown",
-  "persons_mentioned": [
-    "John F. Kennedy"
-  ],
-  "recipient": "Various Stations",
-  "sender": "Unknown"
+  ]
 }

@@ -1,25 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable discusses WAVE plans to start training ALICE INFILS EAR and contains personal information, including names and dates of birth, of several individuals: DANILO POZO CASTRO, EUSTIQUIANO GARCIA LEZCANO, MIGUEL A. DIAZ ISALCUE, OSCAR OLIVA CANTUD, JUAN ESPINOSA GONZALEZ, and FRANCISCO DOMINGUEZ ELEJALDE. It also requests POAS subjects and a card set and discusses JESUS RIERA FERRO as a candidate for RADOP.",
-  "tags": [
-    "WAVE",
-    "ALICE INFILS EAR",
-    "POAS",
-    "RADOP",
-    "Training",
-    "ODENVY"
-  ],
   "title": "WAVE Plans and Training",
+  "title_ja": "WAVE計画および訓練",
+  "summary": "This cable discusses WAVE plans to start training ALICE INFILS EAR and contains personal information, including names and dates of birth, of several individuals: DANILO POZO CASTRO, EUSTIQUIANO GARCIA LEZCANO, MIGUEL A. DIAZ ISALCUE, OSCAR OLIVA CANTUD, JUAN ESPINOSA GONZALEZ, and FRANCISCO DOMINGUEZ ELEJALDE. It also requests POAS subjects and a card set and discusses JESUS RIERA FERRO as a candidate for RADOP.",
+  "summary_ja": "本電報は、ALICE INFILS EARの訓練開始を計画しているWAVEについて述べ、DANILO POZO CASTRO、EUSTIQUIANO GARCIA LEZCANO、MIGUEL A. DIAZ ISALCUE、OSCAR OLIVA CANTUD、JUAN ESPINOSA GONZALEZ、FRANCISCO DOMINGUEZ ELEJALDEの氏名と生年月日を含む個人情報を記載している。また、POASの被験者とカードセットを要求し、RADOPの候補者としてJESUS RIERA FERROについて議論している。",
+  "document_type": "Cable",
+  "classification": "Cuba",
+  "security_level": "SECRET",
   "date": "1961-09-26",
-  "locations_mentioned": [
-    "Santiago de las Vegas",
-    "Marti",
-    "Matanzas",
-    "Havana"
-  ],
   "origin_agency": "UMWAVE",
+  "sender": "UMWAVE",
+  "recipient": "DIRECTOR",
   "persons_mentioned": [
     "DANILO POZO CASTRO",
     "EUSTIQUIANO GARCIA LEZCANO",
@@ -29,6 +19,18 @@
     "FRANCISCO DOMINGUEZ ELEJALDE",
     "JESUS RIERA FERRO"
   ],
-  "recipient": "DIRECTOR",
-  "sender": "UMWAVE"
+  "locations_mentioned": [
+    "Santiago de las Vegas",
+    "Marti",
+    "Matanzas",
+    "Havana"
+  ],
+  "tags": [
+    "WAVE",
+    "ALICE INFILS EAR",
+    "POAS",
+    "RADOP",
+    "Training",
+    "ODENVY"
+  ]
 }

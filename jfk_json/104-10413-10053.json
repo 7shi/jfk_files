@@ -1,8 +1,39 @@
 {
-  "classification": "Mexico",
-  "document_type": "Memorandum",
-  "security_level": "SECRET",
+  "title": "Debriefing of David M. WILSTED (ps)",
+  "title_ja": "デビッド・M・ウィルステッド（ps）の報告",
   "summary": "This memorandum details a debriefing of David M. WILSTED (ps) on June 1, 1960, regarding Project LINOG and its operations in Mexico City. It covers topics such as the reformation of the telephone system by Telefonos de Mexico, S.A. through sub-contractor Intel, the challenges this poses to LIFEAT work, and the use of basehouses for tapping phone lines. The memo also discusses personnel involved in the tapping operations, security measures, and specific locations being monitored, including Cuban, Russian, Polish, and Soviet interests.",
+  "summary_ja": "この覚書は、1960年6月1日、デビッド・M・ウィルステッド（仮名）によるプロジェクトLINOGおよびメキシコシティでのその活動に関する報告の詳細である。内容は、下請け業者インテル社を通じてテレフォノス・デ・メキシコ社が電話システムを改革したこと、それがLIFEATの業務にどのような影響を与えたか、電話回線傍受のためのベースハウスの利用などである。また、盗聴作戦に関与した人物、セキュリティ対策、キューバ、ロシア、ポーランド、ソビエトの利害関係を含む、監視対象となった特定の場所についても言及している。",
+  "document_type": "Memorandum",
+  "classification": "Mexico",
+  "security_level": "SECRET",
+  "date": "1960-06-06",
+  "origin_agency": "CIA",
+  "sender": "WHD, CI/OPS, FI/OPS, FI/D",
+  "recipient": "Record",
+  "persons_mentioned": [
+    "David M. WILSTED",
+    "John G. Heyn",
+    "John Kennedy",
+    "Robert Brown",
+    "Robert Bryant",
+    "Charles Bray",
+    "RAFANELLI",
+    "SECHEN",
+    "Rene",
+    "Jose"
+  ],
+  "locations_mentioned": [
+    "Mexico City",
+    "Czech Embassy",
+    "Colonias",
+    "Calero 39",
+    "Juanacatlan 179",
+    "Atlixco 47",
+    "Tenanzingo",
+    "Aristoteles 80",
+    "Suderman & Horacio",
+    "Cuautla 131"
+  ],
   "tags": [
     "Project LINOG",
     "David M. WILSTED",
@@ -17,34 +48,5 @@
     "Soviet",
     "RAFANELLI",
     "SECHEN"
-  ],
-  "title": "Debriefing of David M. WILSTED (ps)",
-  "date": "1960-06-06",
-  "locations_mentioned": [
-    "Mexico City",
-    "Czech Embassy",
-    "Colonias",
-    "Calero 39",
-    "Juanacatlan 179",
-    "Atlixco 47",
-    "Tenanzingo",
-    "Aristoteles 80",
-    "Suderman & Horacio",
-    "Cuautla 131"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "David M. WILSTED",
-    "John G. Heyn",
-    "John Kennedy",
-    "Robert Brown",
-    "Robert Bryant",
-    "Charles Bray",
-    "RAFANELLI",
-    "SECHEN",
-    "Rene",
-    "Jose"
-  ],
-  "recipient": "Record",
-  "sender": "WHD, CI/OPS, FI/OPS, FI/D"
+  ]
 }

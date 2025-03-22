@@ -1,8 +1,29 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum",
-  "security_level": "Secret",
+  "title": "JFK, ASSISTANCE, SUSPECT, RIDDERSTRALE, KARL-ERIK, ALBRECHT, ADOLPH JAY, ABERG, CHARLOTTE, NAME CHECK",
+  "title_ja": "JFK、アシスタンス、容疑者、リデルストラーレ、カール・エリック、アルブレヒト、アドルフ・ジェイ、アバーグ、シャーロット、名前確認",
   "summary": "CIA memorandum to the FBI regarding Adolph Jay Albrecht, Charlotte Aberg, and Karl-Erik Ridderstrale. Albrecht reported to the American Embassy in Stockholm that Aberg told him Ridderstrale predicted President Kennedy's assassination. The CIA's files contain no recorded traces on Albrecht, Aberg, or Ridderstrale.",
+  "summary_ja": "アドルフ・ジェイ・アルブレヒト、シャーロット・アバーグ、カール・エリック・リデルストラーレに関するFBIへのCIAの覚書。アルブレヒトは、アバーグがリデルストラーレがケネディ大統領の暗殺を予言したと語ったと、ストックホルムのアメリカ大使館に報告した。CIAのファイルには、アルブレヒト、アバーグ、リデルストラーレに関する記録は残っていない。",
+  "document_type": "Memorandum",
+  "classification": "Liaison",
+  "security_level": "Secret",
+  "date": "1964-12-04",
+  "origin_agency": "CIA",
+  "sender": "Deputy Director for Plans",
+  "recipient": "Director, FBI",
+  "persons_mentioned": [
+    "Adolph Jay Albrecht",
+    "Charlotte Aberg",
+    "Karl-Erik Ridderstrale",
+    "John F. Kennedy",
+    "Fidel Castro",
+    "S. J. Papich"
+  ],
+  "locations_mentioned": [
+    "Stockholm, Sweden",
+    "New Jersey",
+    "New York City",
+    "London"
+  ],
   "tags": [
     "JFK",
     "Assassination",
@@ -19,24 +40,5 @@
     "Stockholm",
     "Security Officer",
     "Fidel Castro"
-  ],
-  "title": "JFK, ASSISTANCE, SUSPECT, RIDDERSTRALE, KARL-ERIK, ALBRECHT, ADOLPH JAY, ABERG, CHARLOTTE, NAME CHECK",
-  "date": "1964-12-04",
-  "locations_mentioned": [
-    "Stockholm, Sweden",
-    "New Jersey",
-    "New York City",
-    "London"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Adolph Jay Albrecht",
-    "Charlotte Aberg",
-    "Karl-Erik Ridderstrale",
-    "John F. Kennedy",
-    "Fidel Castro",
-    "S. J. Papich"
-  ],
-  "recipient": "Director, FBI",
-  "sender": "Deputy Director for Plans"
+  ]
 }

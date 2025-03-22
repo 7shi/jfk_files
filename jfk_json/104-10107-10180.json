@@ -1,8 +1,28 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "Unclassified",
+  "title": "Request for Services of Collins Modem Field Service Engineer",
+  "title_ja": "コリンズ社モデム・フィールドサービスエンジニア派遣依頼",
   "summary": "This memorandum requests the services of a Collins Modem Field Service Engineer to assist with the installation and testing of two Collins Radio Company Model TE-216D-160 High Frequency Data Modems. The Office of Communications intends to test the feasibility of transmitting Secure (encrypted) Voice over a narrow band, high frequency, radio circuit and determine their suitability for high speed data transmission.",
+  "summary_ja": "この覚書は、コリンズ・ラジオ・カンパニー製モデルTE-216D-160高周波データモデム2台の設置とテストを支援するコリンズ・モデム・フィールドサービスエンジニアの派遣を要請している。通信局は、狭帯域の高周波無線回路でセキュア（暗号化）ボイスを送信する可能性をテストし、高速データ送信への適合性を判断するつもりである。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "Unclassified",
+  "date": "1967-02-01",
+  "origin_agency": "Office of Communications",
+  "sender": "John W. Coffey, Director of Communications",
+  "recipient": "Director of Logistics",
+  "persons_mentioned": [
+    "Donald Warren Waycott",
+    "Jack W. Andrews",
+    "John W. Coffey",
+    "Richard H. Lansdale",
+    "Harlon a. Werthell",
+    "Dow H. Inter"
+  ],
+  "locations_mentioned": [
+    "Newport Beach, California",
+    "Station D",
+    "VTC"
+  ],
   "tags": [
     "Communications",
     "Collins Radio Company",
@@ -15,23 +35,5 @@
     "VTC",
     "Engineering Services",
     "TOP SECRET clearance"
-  ],
-  "title": "Request for Services of Collins Modem Field Service Engineer",
-  "date": "1967-02-01",
-  "locations_mentioned": [
-    "Newport Beach, California",
-    "Station D",
-    "VTC"
-  ],
-  "origin_agency": "Office of Communications",
-  "persons_mentioned": [
-    "Donald Warren Waycott",
-    "Jack W. Andrews",
-    "John W. Coffey",
-    "Richard H. Lansdale",
-    "Harlon a. Werthell",
-    "Dow H. Inter"
-  ],
-  "recipient": "Director of Logistics",
-  "sender": "John W. Coffey, Director of Communications"
+  ]
 }

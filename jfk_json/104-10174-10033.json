@@ -1,8 +1,17 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Payment to Rivard G. Tichborn (P)",
+  "title_ja": "リヴァード・G・ティチボーンへの支払い（P",
   "summary": "This memorandum details the payment process for Rivard G. Tichborn's salary after his Cuban trip. It outlines the clearance of a $650.00 check drawn on Ashmead, Haniford Associates and its planned forwarding to Tichborn's California bank.",
+  "summary_ja": "この覚書は、リヴァード・G・ティチボーンがキューバ旅行後に受け取る給与の支払いプロセスについて詳細に述べている。Ashmead, Haniford Associates宛に振り出された650ドルの小切手の清算と、Tichbornのカリフォルニア銀行への送金予定について概説している。",
+  "document_type": "Memorandum",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
+  "date": "1960-04-25",
+  "sender": "Evalena S. Vidal",
+  "persons_mentioned": [
+    "Rivard G. Tichborn",
+    "Evalena S. Vidal"
+  ],
   "tags": [
     "Payment",
     "Salary",
@@ -11,12 +20,5 @@
     "Finance",
     "Cover Division",
     "Ashmead, Haniford Associates"
-  ],
-  "title": "Payment to Rivard G. Tichborn (P)",
-  "date": "1960-04-25",
-  "persons_mentioned": [
-    "Rivard G. Tichborn",
-    "Evalena S. Vidal"
-  ],
-  "sender": "Evalena S. Vidal"
+  ]
 }

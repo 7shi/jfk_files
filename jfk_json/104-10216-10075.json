@@ -1,37 +1,15 @@
 {
-  "classification": "Personnel",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
-  "summary": "This memo discusses I. Irving Davidson, an international businessman, and his potential involvement in business propositions, as well as his contacts with various government agencies and foreign representatives. It also mentions his relationship with Drew Pearson and MIRAVELIN and his activities related to arms sales and travel agencies.",
-  "tags": [
-    "I. Irving Davidson",
-    "international businessman",
-    "Drew Pearson",
-    "MIRAVELIN",
-    "arms sales",
-    "travel agency",
-    "Foreign Agents Registration Act",
-    "Nicaragua",
-    "Cuba",
-    "Dominican Republic",
-    "Israel"
-  ],
   "title": "I. IRVING DAVIDSON",
+  "title_ja": "I. アーヴィング・ダビッドソン",
+  "summary": "This memo discusses I. Irving Davidson, an international businessman, and his potential involvement in business propositions, as well as his contacts with various government agencies and foreign representatives. It also mentions his relationship with Drew Pearson and MIRAVELIN and his activities related to arms sales and travel agencies.",
+  "summary_ja": "本メモでは、I. アーヴィング・デヴィッドソンという国際ビジネスマンについて、および、彼がビジネス提案に関与している可能性、および、彼がさまざまな政府機関および外国代表と接触している可能性について論じている。また、ドリュー・ピアソンおよびミラベリンとの彼の関係、および、武器販売および旅行代理店に関連する彼の活動についても言及している。",
+  "document_type": "Memo",
+  "classification": "Personnel",
+  "security_level": "UNCLASSIFIED",
   "date": "1958-10-06",
-  "locations_mentioned": [
-    "Manila",
-    "Washington, D.C.",
-    "Cuba",
-    "Mexico",
-    "Nicaragua",
-    "Dominican Republic",
-    "New York City",
-    "USSR",
-    "Indonesia",
-    "Israel",
-    "Guatemala"
-  ],
   "origin_agency": "Far East Division",
+  "sender": "Chief, Far East Division",
+  "recipient": "Chief of Station, Manila",
   "persons_mentioned": [
     "I. Irving Davidson",
     "Drew Pearson",
@@ -50,6 +28,30 @@
     "Rafael L. Trujillo",
     "Sam Waugh"
   ],
-  "recipient": "Chief of Station, Manila",
-  "sender": "Chief, Far East Division"
+  "locations_mentioned": [
+    "Manila",
+    "Washington, D.C.",
+    "Cuba",
+    "Mexico",
+    "Nicaragua",
+    "Dominican Republic",
+    "New York City",
+    "USSR",
+    "Indonesia",
+    "Israel",
+    "Guatemala"
+  ],
+  "tags": [
+    "I. Irving Davidson",
+    "international businessman",
+    "Drew Pearson",
+    "MIRAVELIN",
+    "arms sales",
+    "travel agency",
+    "Foreign Agents Registration Act",
+    "Nicaragua",
+    "Cuba",
+    "Dominican Republic",
+    "Israel"
+  ]
 }

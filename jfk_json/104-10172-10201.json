@@ -1,8 +1,24 @@
 {
-  "classification": "Operations",
-  "document_type": "Routing and Record Sheet",
-  "security_level": "SECRET",
+  "title": "AELADLE",
+  "title_ja": "AELADLE",
   "summary": "This document discusses AELADLE and AESTORAGE, intelligence operations related to Soviet activities in Helsinki and Moscow. It details information from a source who interacted with the KGB and was later deemed unlikely to be assigned to the US due to potential identification by a defector.",
+  "summary_ja": "この文書は、ヘルシンキとモスクワにおけるソ連の活動に関連する諜報活動であるAELADLEとAESTORAGEについて論じている。KGBと接触した情報源からの詳細な情報を記載しており、後に亡命者による身元特定の可能性があるとして、米国に配属される可能性は低いと判断された。",
+  "document_type": "Routing and Record Sheet",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1965-11-15",
+  "origin_agency": "CIA",
+  "sender": "SR/01/K",
+  "recipient": "CI/R and A, TRHAL NAHIT",
+  "persons_mentioned": [
+    "KLIMOV",
+    "Ru Rocca"
+  ],
+  "locations_mentioned": [
+    "Helsinki",
+    "Moscow",
+    "United States"
+  ],
   "tags": [
     "AELADLE",
     "AESTORAGE",
@@ -13,19 +29,5 @@
     "Soviet",
     "Intelligence",
     "Counterintelligence"
-  ],
-  "title": "AELADLE",
-  "date": "1965-11-15",
-  "locations_mentioned": [
-    "Helsinki",
-    "Moscow",
-    "United States"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "KLIMOV",
-    "Ru Rocca"
-  ],
-  "recipient": "CI/R and A, TRHAL NAHIT",
-  "sender": "SR/01/K"
+  ]
 }

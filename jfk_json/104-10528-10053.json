@@ -1,18 +1,20 @@
 {
-  "classification": "Mexico",
-  "document_type": "Cable",
-  "security_level": "SECRET",
-  "summary": "This cable identifies Giulio Mondello, an Italian citizen and former agent in Cuba for FIAT, and the Nebiolo (Linotype) firm in Turin.",
-  "tags": [
-    "Giulio Mondello",
-    "FIAT",
-    "Cuba",
-    "Nebiolo",
-    "Linotype",
-    "Turin"
-  ],
   "title": "DIR 72346 72347: IDEN A GIULIO MONDELLO, BORN 26 FEB 1917",
+  "title_ja": "DIR 72346 72347: IDEN A GIULIO MONDELLO, BORN 26 FEB 1917",
+  "summary": "This cable identifies Giulio Mondello, an Italian citizen and former agent in Cuba for FIAT, and the Nebiolo (Linotype) firm in Turin.",
+  "summary_ja": "この電報は、イタリア国籍でキューバのフィアットの元エージェントであるジュリオ・モンデッロと、トリノのネビオロ（ライノタイプ）社について述べている。",
+  "document_type": "Cable",
+  "classification": "Mexico",
+  "security_level": "SECRET",
   "date": "1963-09-30",
+  "origin_agency": "DIRECTOR",
+  "sender": "DIRECTOR",
+  "recipient": "MEXICO ROME HAVE",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Stephen I. Munger",
+    "Giulio Mondello"
+  ],
   "locations_mentioned": [
     "Mexico",
     "Rome",
@@ -20,12 +22,12 @@
     "Cuba",
     "Turin"
   ],
-  "origin_agency": "DIRECTOR",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "Stephen I. Munger",
-    "Giulio Mondello"
-  ],
-  "recipient": "MEXICO ROME HAVE",
-  "sender": "DIRECTOR"
+  "tags": [
+    "Giulio Mondello",
+    "FIAT",
+    "Cuba",
+    "Nebiolo",
+    "Linotype",
+    "Turin"
+  ]
 }

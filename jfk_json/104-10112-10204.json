@@ -1,18 +1,20 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memo",
-  "security_level": "SECRET",
+  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
+  "title_ja": "軍事取材バックアップ担当者の設置に関する通知",
   "summary": "Notification of Establishment of Military Cover Backstop for US. Army Element, Joint Operations Group, effective DOD. Instructions include submitting forms for changes, ascertaining Army W-2 issuance, and transferring cover responsibility.",
+  "summary_ja": "米陸軍統合作戦グループの軍事カバーバックストップの設立通知。有効な国防総省。指示には、変更のためのフォームの提出、陸軍W-2発行の確認、カバー責任の移転が含まれる。",
+  "document_type": "Memo",
+  "classification": "Administrative",
+  "security_level": "SECRET",
+  "date": "1963-05-14",
+  "origin_agency": "Records and Services Division",
+  "sender": "Unknown",
+  "recipient": "Chief, Records and Services Division",
   "tags": [
     "Military Cover",
     "Backstop",
     "Joint Operations Group",
     "Forms",
     "Army W-2"
-  ],
-  "title": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
-  "date": "1963-05-14",
-  "origin_agency": "Records and Services Division",
-  "recipient": "Chief, Records and Services Division",
-  "sender": "Unknown"
+  ]
 }

@@ -1,32 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "CONFIDENTIAL",
-  "summary": "This document discusses Cuban affairs within the Department of Defense, focusing on possible retaliatory actions by the Castro government and psychological programs related to Cuba. It includes discussions on actions against U.S. targets in Cuba, actions against U.S. aircraft and shipping, actions against Cuban exiles, and actions against targets in the U.S.",
-  "tags": [
-    "ICCCA",
-    "Administration",
-    "Psychological Programs - Cuba",
-    "Second Latin American Youth Congress",
-    "Possible Retaliatory Actions by Cuban Government",
-    "Guantanamo",
-    "Exile Raids",
-    "Subversion",
-    "Labor Federation"
-  ],
   "title": "Cuban Affairs in the Department of Defense",
+  "title_ja": "国防総省におけるキューバ関連事項",
+  "summary": "This document discusses Cuban affairs within the Department of Defense, focusing on possible retaliatory actions by the Castro government and psychological programs related to Cuba. It includes discussions on actions against U.S. targets in Cuba, actions against U.S. aircraft and shipping, actions against Cuban exiles, and actions against targets in the U.S.",
+  "summary_ja": "この文書では、国防総省におけるキューバ情勢について、カストロ政権による報復措置の可能性と、キューバに関連する心理作戦に焦点を当てて論じている。キューバ国内の米国の標的に対する行動、米国の航空機および船舶に対する行動、キューバ亡命者に対する行動、米国の標的に対する行動についての議論が含まれている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
   "date": "1965-06-26",
-  "locations_mentioned": [
-    "Cuba",
-    "Guantanamo Bay",
-    "Yucatan Channel",
-    "Florida Straits",
-    "Windward Passage",
-    "Latin America",
-    "Rio de Janeiro",
-    "Brazil"
-  ],
   "origin_agency": "OSD",
+  "sender": "Cyrus R. Vance",
+  "recipient": "SecArm, SecNav, SecAir, CJCS, and ASD(ISA)",
   "persons_mentioned": [
     "Cyrus R. Vance",
     "Bowdler",
@@ -40,6 +23,25 @@
     "John H. Crimmins",
     "Castro"
   ],
-  "recipient": "SecArm, SecNav, SecAir, CJCS, and ASD(ISA)",
-  "sender": "Cyrus R. Vance"
+  "locations_mentioned": [
+    "Cuba",
+    "Guantanamo Bay",
+    "Yucatan Channel",
+    "Florida Straits",
+    "Windward Passage",
+    "Latin America",
+    "Rio de Janeiro",
+    "Brazil"
+  ],
+  "tags": [
+    "ICCCA",
+    "Administration",
+    "Psychological Programs - Cuba",
+    "Second Latin American Youth Congress",
+    "Possible Retaliatory Actions by Cuban Government",
+    "Guantanamo",
+    "Exile Raids",
+    "Subversion",
+    "Labor Federation"
+  ]
 }

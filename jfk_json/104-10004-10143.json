@@ -1,8 +1,24 @@
 {
-  "classification": "Oswald",
-  "document_type": "Memo",
-  "security_level": "UNCLASSIFIED",
+  "title": "DISCUSSION between members SR Division, and CoS Helsinki concerning timetable OF OSWALD'S stay in Finland and Helsinki",
+  "title_ja": "SR部門メンバーとヘルシンキのCoSによる、オズワルドのフィンランドおよびヘルシンキ滞在のタイムテーブルに関する議論",
   "summary": "Memo for the record documenting a discussion between SR Division members and the CoS Helsinki concerning the timetable of Lee Harvey Oswald's stay in Finland and Helsinki in October 1959, including his contact with the Soviet Consulate. The discussion includes details on travel times, consulate hours, and airport passenger list retention policies.",
+  "summary_ja": "1959年10月のリー・ハーヴェイ・オズワルドのフィンランドおよびヘルシンキ滞在のタイムテーブルについて、ソ連領事館との接触を含め、SR部門のメンバーとCoSヘルシンキとの間で交わされた議論を記録したメモ。議論には、移動時間、領事館の営業時間、空港の乗客名簿の保管方針に関する詳細が含まれている。",
+  "document_type": "Memo",
+  "classification": "Oswald",
+  "security_level": "UNCLASSIFIED",
+  "date": "1964-06-01",
+  "origin_agency": "CIA",
+  "sender": "Lee H. Wigren, C/SR/CI/R",
+  "recipient": "Record",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Frank Friberg",
+    "Robert Fulton"
+  ],
+  "locations_mentioned": [
+    "Finland",
+    "Helsinki"
+  ],
   "tags": [
     "Lee Harvey Oswald",
     "Finland",
@@ -12,19 +28,5 @@
     "timetable",
     "airport",
     "passenger lists"
-  ],
-  "title": "DISCUSSION between members SR Division, and CoS Helsinki concerning timetable OF OSWALD'S stay in Finland and Helsinki",
-  "date": "1964-06-01",
-  "locations_mentioned": [
-    "Finland",
-    "Helsinki"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Lee Harvey Oswald",
-    "Frank Friberg",
-    "Robert Fulton"
-  ],
-  "recipient": "Record",
-  "sender": "Lee H. Wigren, C/SR/CI/R"
+  ]
 }

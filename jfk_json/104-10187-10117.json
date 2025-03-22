@@ -1,8 +1,23 @@
 {
-  "classification": "CIA",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "DIR CITE SALY 5329 WH DIV CUBA CUBAN DEFECTOR",
+  "title_ja": "DIR CITE SALY 5329 WH DIV CUBA CUBAN DEFECTOR",
   "summary": "This document discusses matters related to a Salvadoran asset and a Cuban exile asset. It mentions discussions with NIGHT 38, arrangements for DALTON, and plans for a return after a stop. It also includes routing and handling information.",
+  "summary_ja": "この文書は、エルサルバドルのスパイとキューバ亡命者のスパイに関する事項について論じている。NIGHT 38との協議、DALTONの準備、一時停止後の再開計画について言及している。また、ルーティングおよび処理に関する情報も含まれている。",
+  "document_type": "Cable",
+  "classification": "CIA",
+  "security_level": "SECRET",
+  "date": "1954-10-01",
+  "origin_agency": "CIA",
+  "sender": "WA Y",
+  "recipient": "DIR",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "DALTON"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "San Salvador"
+  ],
   "tags": [
     "Salvadoran Asset",
     "Cuban Defector",
@@ -10,18 +25,5 @@
     "DALTON",
     "Solitary Confinement",
     "Cuban Exile Asset"
-  ],
-  "title": "DIR CITE SALY 5329 WH DIV CUBA CUBAN DEFECTOR",
-  "date": "1954-10-01",
-  "locations_mentioned": [
-    "Cuba",
-    "San Salvador"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "John F. Kennedy",
-    "DALTON"
-  ],
-  "recipient": "DIR",
-  "sender": "WA Y"
+  ]
 }

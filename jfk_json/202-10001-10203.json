@@ -1,21 +1,20 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memorandum",
-  "security_level": "TOP SECRET",
-  "summary": "This document outlines tasks assigned to the CIA in General Lansdale's program review of the Cuba Project, dated January 18, 1962. It details various intelligence gathering, operational planning, and sabotage activities targeting Cuba, including potential actions against Cuban nickel supplies to the USSR.",
-  "tags": [
-    "MONGOOSE",
-    "CIA",
-    "General Lansdale",
-    "Cuba Project",
-    "Intelligence",
-    "Sabotage",
-    "Nickel Supply",
-    "Psychological Warfare",
-    "Resistance Movement"
-  ],
   "title": "THE CUBA PROJECT",
+  "title_ja": "キューバ・プロジェクト",
+  "summary": "This document outlines tasks assigned to the CIA in General Lansdale's program review of the Cuba Project, dated January 18, 1962. It details various intelligence gathering, operational planning, and sabotage activities targeting Cuba, including potential actions against Cuban nickel supplies to the USSR.",
+  "summary_ja": "この文書は、1962年1月18日付のランズデール将軍によるキューバ計画の評価においてCIAに割り当てられた任務の概要を説明している。キューバを対象としたさまざまな情報収集、作戦計画、破壊活動について詳細に説明しており、ソ連へのキューバ産ニッケルの供給に対する潜在的な行動も含まれている。",
+  "document_type": "Memorandum",
+  "classification": "Cuba",
+  "security_level": "TOP SECRET",
   "date": "1962-01-24",
+  "origin_agency": "OSD",
+  "sender": "OSD",
+  "recipient": "None",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "General Lansdale",
+    "Castro"
+  ],
   "locations_mentioned": [
     "Cuba",
     "Opa-Locka, Florida",
@@ -53,12 +52,15 @@
     "Manzanillo",
     "Colon"
   ],
-  "origin_agency": "OSD",
-  "persons_mentioned": [
-    "John F. Kennedy",
+  "tags": [
+    "MONGOOSE",
+    "CIA",
     "General Lansdale",
-    "Castro"
-  ],
-  "recipient": "None",
-  "sender": "OSD"
+    "Cuba Project",
+    "Intelligence",
+    "Sabotage",
+    "Nickel Supply",
+    "Psychological Warfare",
+    "Resistance Movement"
+  ]
 }

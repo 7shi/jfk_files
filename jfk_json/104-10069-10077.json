@@ -1,8 +1,32 @@
 {
-  "classification": "Cuba",
-  "document_type": "Memo",
-  "security_level": "CONFIDENTIAL",
+  "title": "Reported Use of Yacht Potomac by Alpha 66",
+  "title_ja": "FIOPPセミナー；キューバ人出席者の足取り調査要請",
   "summary": "This memo discusses a report regarding the potential use of the yacht Potomac by the Alpha 66 organization for transporting weapons. An unsolicited phone call to LAFO reported the vessel was taking on a cargo of weapons crated as Argentine beef, and destined to leave soon for Seattle. The informant identified Wes Davis and Cliff Roberts as being on board.",
+  "summary_ja": "このメモでは、Alpha 66 組織が武器輸送にヨットのポトマック号を使用する可能性に関する報告について議論している。LAFO への一方的な電話で、その船がアルゼンチン産牛肉として梱包された武器を積み込み、まもなくシアトルに向けて出発する予定であることが報告された。情報提供者によると、ウェス・デイビスとクリフ・ロバーツが船に乗っているという。",
+  "document_type": "Memo",
+  "classification": "Cuba",
+  "security_level": "CONFIDENTIAL",
+  "date": "1962-11-27",
+  "origin_agency": "LAFO",
+  "sender": "LAFO",
+  "recipient": "UUCG",
+  "persons_mentioned": [
+    "Theodore Roosevelt",
+    "Wes Davis",
+    "Cliff Roberts",
+    "L. Lessing",
+    "F. D. Roosevelt",
+    "D. L. Wheeler",
+    "Bill Spivaky"
+  ],
+  "locations_mentioned": [
+    "Long Beach",
+    "Seattle",
+    "Newport Beach",
+    "Los Angeles",
+    "Barbados",
+    "San Diego"
+  ],
   "tags": [
     "Alpha 66",
     "Potomac",
@@ -14,27 +38,5 @@
     "USCG",
     "Floating Museum",
     "Barbados"
-  ],
-  "title": "Reported Use of Yacht Potomac by Alpha 66",
-  "date": "1962-11-27",
-  "locations_mentioned": [
-    "Long Beach",
-    "Seattle",
-    "Newport Beach",
-    "Los Angeles",
-    "Barbados",
-    "San Diego"
-  ],
-  "origin_agency": "LAFO",
-  "persons_mentioned": [
-    "Theodore Roosevelt",
-    "Wes Davis",
-    "Cliff Roberts",
-    "L. Lessing",
-    "F. D. Roosevelt",
-    "D. L. Wheeler",
-    "Bill Spivaky"
-  ],
-  "recipient": "UUCG",
-  "sender": "LAFO"
+  ]
 }

@@ -1,24 +1,15 @@
 {
-  "classification": "Administrative",
-  "document_type": "Memorandum and Contract",
-  "security_level": "SECRET",
-  "summary": "This file contains documents related to the engagement and termination of Ernest G. Maycrink (WIROGUE/1) as an independent contractor for the CIA, including contracts, financial transactions, and agreements regarding compensation, benefits, and secrecy.",
-  "tags": [
-    "Contract",
-    "Termination",
-    "Independent Contractor",
-    "Financial",
-    "Secrecy",
-    "WIROGUE/1",
-    "AESENTINEL"
-  ],
   "title": "WIROGUE Contract and Termination Documents",
+  "title_ja": "ウィローグの契約および解雇書類",
+  "summary": "This file contains documents related to the engagement and termination of Ernest G. Maycrink (WIROGUE/1) as an independent contractor for the CIA, including contracts, financial transactions, and agreements regarding compensation, benefits, and secrecy.",
+  "summary_ja": "このファイルには、アーネスト・G・メイクリンク（WIROGUE/1）のCIAの独立請負業者としての雇用および解雇に関する文書が含まれており、その中には、契約、財務取引、報酬、福利厚生、機密保持に関する合意書が含まれている。",
+  "document_type": "Memorandum and Contract",
+  "classification": "Administrative",
+  "security_level": "SECRET",
   "date": "1959-07-24",
-  "locations_mentioned": [
-    "Europe",
-    "United States"
-  ],
   "origin_agency": "CIA",
+  "sender": "Contract Approving Officer, Africa Division, SR/DOB",
+  "recipient": "Chief, Finance Division; Contract Personnel Division; Special Contracting Officer",
   "persons_mentioned": [
     "Ernest G. Maycrink",
     "John F. Kennedy",
@@ -29,6 +20,17 @@
     "Angela B. Derricote",
     "William R. Ember"
   ],
-  "recipient": "Chief, Finance Division; Contract Personnel Division; Special Contracting Officer",
-  "sender": "Contract Approving Officer, Africa Division, SR/DOB"
+  "locations_mentioned": [
+    "Europe",
+    "United States"
+  ],
+  "tags": [
+    "Contract",
+    "Termination",
+    "Independent Contractor",
+    "Financial",
+    "Secrecy",
+    "WIROGUE/1",
+    "AESENTINEL"
+  ]
 }

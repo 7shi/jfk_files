@@ -1,8 +1,25 @@
 {
-  "classification": "Soviet",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "RECORDS REVIEW BOARD AND DEPT OF STATE REQUEST FOR ASSISTANCE IN APPROACHING FSB/SVR FOR OSWALD FILE",
+  "title_ja": "記録審査委員会および国務省、FSB/SVRへのアプローチにおける支援要請（オズワルドファイル",
   "summary": "This cable discusses the Assassinations Records Review Board's (ARRB) request for assistance in approaching the FSB/SVR for the Lee Harvey Oswald file. The ARRB is seeking access to the KGB records on Oswald, which were originally held in Minsk but flown to Moscow in 1963 following the assassination, then returned to Minsk. The cable seeks station thoughts on the proposal to approach the FSB/SVR seeking access to the file and discusses implications of such a request.",
+  "summary_ja": "この電報では、暗殺記録審査委員会（ARRB）がFSB/SVRにリー・ハーヴェイ・オズワルドのファイルへのアクセスを要請したことについて述べられている。ARRBは、もともとミンスクに保管されていたが、暗殺事件の翌年1963年にモスクワに移送され、その後再びミンスクに戻された、オズワルドに関するKGBの記録へのアクセスを求めている。本電報は、FSB/SVRに接触してファイルへのアクセスを求めるという提案について、各局の見解を求め、また、そのような要請が持つ意味合いについても論じている。",
+  "document_type": "Cable",
+  "classification": "Soviet",
+  "security_level": "SECRET",
+  "date": "1998-05-01",
+  "origin_agency": "CIA",
+  "sender": "LIMITED DISSEM CE/EXO",
+  "recipient": "Moscow, Minsk",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "John F. Kennedy"
+  ],
+  "locations_mentioned": [
+    "Moscow",
+    "Minsk",
+    "Russia",
+    "Soviet Union"
+  ],
   "tags": [
     "Assassinations Records Review Board",
     "ARRB",
@@ -17,20 +34,5 @@
     "Declassification",
     "John F. Kennedy",
     "Assassination"
-  ],
-  "title": "RECORDS REVIEW BOARD AND DEPT OF STATE REQUEST FOR ASSISTANCE IN APPROACHING FSB/SVR FOR OSWALD FILE",
-  "date": "1998-05-01",
-  "locations_mentioned": [
-    "Moscow",
-    "Minsk",
-    "Russia",
-    "Soviet Union"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "Lee Harvey Oswald",
-    "John F. Kennedy"
-  ],
-  "recipient": "Moscow, Minsk",
-  "sender": "LIMITED DISSEM CE/EXO"
+  ]
 }

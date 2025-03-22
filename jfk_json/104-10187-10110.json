@@ -1,8 +1,24 @@
 {
-  "classification": "Cuba",
-  "document_type": "Classified Message",
-  "security_level": "SECRET",
+  "title": "Recruitment of Cuban Target in El Salvador",
+  "title_ja": "エルサルバドルにおけるキューバの標的の勧誘",
   "summary": "This document details a CIA operation involving the recruitment of a Cuban target through the cooperation of a Salvadoran intelligence chief. It outlines the importance of the target's knowledge of communist parties in El Salvador and other Central American countries, and the security measures in place to protect the operation.",
+  "summary_ja": "この文書は、エルサルバドルの諜報部長の協力によりキューバ人をリクルートするCIAの作戦について詳細に述べている。 キューバ人がエルサルバドルおよびその他の中米諸国の共産党について知っていることの重要性と、この作戦を保護するためのセキュリティ対策について概説している。",
+  "document_type": "Classified Message",
+  "classification": "Cuba",
+  "security_level": "SECRET",
+  "date": "1963-09-28",
+  "origin_agency": "CIA",
+  "sender": "DIR",
+  "recipient": "WH DIV CUBA",
+  "persons_mentioned": [
+    "A. SALV5296",
+    "DALTON"
+  ],
+  "locations_mentioned": [
+    "Cuba",
+    "El Salvador",
+    "Central America"
+  ],
   "tags": [
     "SAL SALVAD",
     "VINE 1",
@@ -18,19 +34,5 @@
     "INTEL CHIEF",
     "CUBAN TARGET",
     "DALTON"
-  ],
-  "title": "Recruitment of Cuban Target in El Salvador",
-  "date": "1963-09-28",
-  "locations_mentioned": [
-    "Cuba",
-    "El Salvador",
-    "Central America"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "A. SALV5296",
-    "DALTON"
-  ],
-  "recipient": "WH DIV CUBA",
-  "sender": "DIR"
+  ]
 }

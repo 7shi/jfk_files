@@ -1,26 +1,15 @@
 {
-  "classification": "Cuba",
-  "document_type": "Teletype",
-  "security_level": "Secret",
-  "summary": "This document discusses Joseph Raymond Merola's alleged connections to the CIA and his potential involvement in supplying weapons to anti-Castro groups and hoodlum acquaintances.",
-  "tags": [
-    "Joseph Raymond Merola",
-    "CIA",
-    "Anti-Castro",
-    "Weapons",
-    "Frente Revolucionario Democratico",
-    "Terry Knott",
-    "MRR",
-    "Manuel Antonio de Varona Loredo"
-  ],
   "title": "CLIP",
+  "title_ja": "クリップ",
+  "summary": "This document discusses Joseph Raymond Merola's alleged connections to the CIA and his potential involvement in supplying weapons to anti-Castro groups and hoodlum acquaintances.",
+  "summary_ja": "この文書は、ジョセフ・レイモンド・メローラのCIAとの関係の疑惑と、反カストロ派グループや悪党の知人への武器供給への関与の可能性について述べている。",
+  "document_type": "Teletype",
+  "classification": "Cuba",
+  "security_level": "Secret",
   "date": "1961-04-13",
-  "locations_mentioned": [
-    "Miami",
-    "Hallandale, Florida",
-    "Brazil"
-  ],
   "origin_agency": "FBI",
+  "sender": "MM",
+  "recipient": "HQ",
   "persons_mentioned": [
     "Joseph Raymond Merola",
     "John Noble",
@@ -34,6 +23,19 @@
     "Edith Dorigo",
     "Fritz Dorigo"
   ],
-  "recipient": "HQ",
-  "sender": "MM"
+  "locations_mentioned": [
+    "Miami",
+    "Hallandale, Florida",
+    "Brazil"
+  ],
+  "tags": [
+    "Joseph Raymond Merola",
+    "CIA",
+    "Anti-Castro",
+    "Weapons",
+    "Frente Revolucionario Democratico",
+    "Terry Knott",
+    "MRR",
+    "Manuel Antonio de Varona Loredo"
+  ]
 }

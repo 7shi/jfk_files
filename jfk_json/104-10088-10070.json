@@ -1,8 +1,15 @@
 {
-  "classification": "Security",
-  "document_type": "Instruction",
-  "security_level": "SECRET",
+  "title": "COVERT APPROVALS AND RELATED MATTERS",
+  "title_ja": "秘密承認および関連事項",
   "summary": "This document outlines the functions of headquarters components regarding covert approvals and related matters, including operational and security approvals, proprietary approvals, liaison with US officials, and special services.",
+  "summary_ja": "この文書は、秘密裏の承認および関連事項に関する本部構成部分の機能を概説しており、これには、業務およびセキュリティ承認、機密承認、米国当局との連絡、特別サービスなどが含まれる。",
+  "document_type": "Instruction",
+  "classification": "Security",
+  "security_level": "SECRET",
+  "date": "1958-07-17",
+  "origin_agency": "CIA",
+  "sender": "Deputy Director (Plans)",
+  "recipient": "Clandestine Services",
   "tags": [
     "Covert Approvals",
     "Security",
@@ -12,10 +19,5 @@
     "Double Agents",
     "Defection",
     "Recruitment"
-  ],
-  "title": "COVERT APPROVALS AND RELATED MATTERS",
-  "date": "1958-07-17",
-  "origin_agency": "CIA",
-  "recipient": "Clandestine Services",
-  "sender": "Deputy Director (Plans)"
+  ]
 }

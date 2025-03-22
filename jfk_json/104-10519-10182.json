@@ -1,8 +1,22 @@
 {
-  "classification": "Operations",
-  "document_type": "Cable",
-  "security_level": "SECRET",
+  "title": "Cable Regarding NORMAND POULIN",
+  "title_ja": "ノーマン・プーリンに関するケーブル",
   "summary": "Cable discusses NORMAND POULIN and provides an address care of the U.S. Embassy APO 230, New York, NY. Routing and administrative information included.",
+  "summary_ja": "電報はノーマン・プーリンについて議論し、米国大使館APO 230、ニューヨーク、NY宛の住所を提供している。ルーティングおよび管理情報が含まれている。",
+  "document_type": "Cable",
+  "classification": "Operations",
+  "security_level": "SECRET",
+  "date": "1962-11-29",
+  "origin_agency": "CIA",
+  "sender": "PARIS",
+  "recipient": "DIRECTOR",
+  "persons_mentioned": [
+    "NORMAND POULIN"
+  ],
+  "locations_mentioned": [
+    "PARIS",
+    "NEW YORK"
+  ],
   "tags": [
     "NORMAND POULIN",
     "U.S. Embassy",
@@ -13,17 +27,5 @@
     "IN26114",
     "PARI 4520",
     "PARI 4521"
-  ],
-  "title": "Cable Regarding NORMAND POULIN",
-  "date": "1962-11-29",
-  "locations_mentioned": [
-    "PARIS",
-    "NEW YORK"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "NORMAND POULIN"
-  ],
-  "recipient": "DIRECTOR",
-  "sender": "PARIS"
+  ]
 }

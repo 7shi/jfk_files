@@ -1,38 +1,15 @@
 {
-  "classification": "Liaison",
-  "document_type": "Memorandum, Airtel",
-  "security_level": "Secret, Confidential",
-  "summary": "This collection of documents pertains to the relationship between the FBI and the CIA, covering topics such as information sharing protocols, requests for tours of FBI facilities by CIA personnel, and handling of alien interview requests. It also includes information regarding potential CIA contributions to the National Council of Churches and concerns over the coordination of joint operations.",
-  "tags": [
-    "FBI",
-    "CIA",
-    "National Student Association",
-    "Picketing",
-    "Demonstration",
-    "Relations with CIA",
-    "Communist Party of Venezuela",
-    "Internal Security",
-    "Kidnapping",
-    "Alien Interview Requests",
-    "National Council of Churches",
-    "Safe house",
-    "Airle House",
-    "Warrenton",
-    "Virginia"
-  ],
   "title": "CIA, NATIONAL STUDENT ASSOC, PICKETING, DEMONSTRATION; RELATIONS WITH CIA; COMMUNIST PARTY OF VENEZUELA; CENTRAL INTELLIGENCE AGENCY (CIA) Operations in the United States",
+  "title_ja": "CIA、全米学生協会、ピケット、デモ、CIAとの関係、ベネズエラ共産党、米国内におけるCIA（中央情報局）の活動",
+  "summary": "This collection of documents pertains to the relationship between the FBI and the CIA, covering topics such as information sharing protocols, requests for tours of FBI facilities by CIA personnel, and handling of alien interview requests. It also includes information regarding potential CIA contributions to the National Council of Churches and concerns over the coordination of joint operations.",
+  "summary_ja": "この文書群は、FBIとCIAの関係に関するもので、情報共有のプロトコル、CIA職員によるFBI施設の見学依頼、外国人への事情聴取依頼の処理などに関するトピックをカバーしている。また、全米教会協議会に対するCIAの潜在的な貢献や、共同作戦の調整に関する懸念に関する情報も含まれている。",
+  "document_type": "Memorandum, Airtel",
+  "classification": "Liaison",
+  "security_level": "Secret, Confidential",
   "date": "1967-03-15",
-  "locations_mentioned": [
-    "Biloxi, Miss.",
-    "Eugene, Oregon",
-    "Flushing, N. Y.",
-    "Hong Kong",
-    "Macau",
-    "Venezuela",
-    "Washington, D. C.",
-    "Warrenton, Virginia"
-  ],
   "origin_agency": "FBI",
+  "sender": "Director, FBI; FELEGAT, HONG KONG; R. I. Shroder; D. J. Brennan, Jr.; SAC, WTO; MR. I. W. CONRAD; W. O. Cregar",
+  "recipient": "Secretary of State, Mr. Rosen, Mr. W. C. Sullivan",
   "persons_mentioned": [
     "Wendell R. Melquist",
     "Anthony Lennon",
@@ -60,6 +37,31 @@
     "Becky Vaughn",
     "J. W. Brown"
   ],
-  "recipient": "Secretary of State, Mr. Rosen, Mr. W. C. Sullivan",
-  "sender": "Director, FBI; FELEGAT, HONG KONG; R. I. Shroder; D. J. Brennan, Jr.; SAC, WTO; MR. I. W. CONRAD; W. O. Cregar"
+  "locations_mentioned": [
+    "Biloxi, Miss.",
+    "Eugene, Oregon",
+    "Flushing, N. Y.",
+    "Hong Kong",
+    "Macau",
+    "Venezuela",
+    "Washington, D. C.",
+    "Warrenton, Virginia"
+  ],
+  "tags": [
+    "FBI",
+    "CIA",
+    "National Student Association",
+    "Picketing",
+    "Demonstration",
+    "Relations with CIA",
+    "Communist Party of Venezuela",
+    "Internal Security",
+    "Kidnapping",
+    "Alien Interview Requests",
+    "National Council of Churches",
+    "Safe house",
+    "Airle House",
+    "Warrenton",
+    "Virginia"
+  ]
 }

@@ -1,8 +1,25 @@
 {
-  "classification": "Operations",
-  "document_type": "Memorandum",
-  "security_level": "UNCLASSIFIED",
+  "title": "Cover for AMIRE/1",
+  "title_ja": "AMIRE/1の偽装工作",
   "summary": "This memorandum outlines a cover arrangement for AMIRE/1, an individual employed by Roberts Electronic and Engineering Service as a consultant. The cover is designed to provide employment and credit references while ensuring proper tax reporting. The memo also requests notification when the cover is no longer needed.",
+  "summary_ja": "この覚書は、ロバーツ電子工学エンジニアリングサービス社にコンサルタントとして雇用されている人物、AMIRE/1の偽装工作について概説している。この偽装工作は、適切な納税申告を確保しながら、雇用先および信用照会先を提供することを目的としている。また、この覚書は、偽装工作が不要になった場合の通知も求めている。",
+  "document_type": "Memorandum",
+  "classification": "Operations",
+  "security_level": "UNCLASSIFIED",
+  "date": "1961-10-30",
+  "origin_agency": "WH/43",
+  "sender": "JOHN G. SOUTHARD, C/CCG/NC",
+  "recipient": "Chief, WH/43",
+  "persons_mentioned": [
+    "George Hleovas",
+    "AMIRE/1",
+    "John G. Southard"
+  ],
+  "locations_mentioned": [
+    "Baltimore",
+    "Maryland",
+    "Southeastern part of the United States"
+  ],
   "tags": [
     "AMIRE/1",
     "cover",
@@ -13,20 +30,5 @@
     "Baltimore",
     "Maryland",
     "John F. Kennedy Assassination Records Act of 1992"
-  ],
-  "title": "Cover for AMIRE/1",
-  "date": "1961-10-30",
-  "locations_mentioned": [
-    "Baltimore",
-    "Maryland",
-    "Southeastern part of the United States"
-  ],
-  "origin_agency": "WH/43",
-  "persons_mentioned": [
-    "George Hleovas",
-    "AMIRE/1",
-    "John G. Southard"
-  ],
-  "recipient": "Chief, WH/43",
-  "sender": "JOHN G. SOUTHARD, C/CCG/NC"
+  ]
 }

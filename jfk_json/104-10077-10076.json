@@ -1,8 +1,25 @@
 {
-  "classification": "Administrative",
-  "document_type": "Cable",
-  "security_level": "UNCLASSIFIED",
+  "title": "FRANKFURT INFO WAVE",
+  "title_ja": "フランクフルト情報波",
   "summary": "Cable regarding missing HRE MISS (JOAN GRASSIE) package sent from Washington to Frankfurt via WAVE. Request to trace the package.",
+  "summary_ja": "ワシントンからWAVE経由でフランクフルトに送られたHRE MISS（JOAN GRASSIE）の行方不明のパッケージに関する電報。パッケージの追跡を要請。",
+  "document_type": "Cable",
+  "classification": "Administrative",
+  "security_level": "UNCLASSIFIED",
+  "date": "1963-11-21",
+  "origin_agency": "CIA",
+  "sender": "DIRECTOR",
+  "recipient": "FRAN INFO WAVE",
+  "persons_mentioned": [
+    "JOAN GRASSIE",
+    "C. A. Heine",
+    "Austin J. Thomas",
+    "Mr. Brown"
+  ],
+  "locations_mentioned": [
+    "Frankfurt",
+    "Washington"
+  ],
   "tags": [
     "Missing Package",
     "Trace Request",
@@ -11,20 +28,5 @@
     "HRE MISS",
     "JOAN GRASSIE",
     "ALPHA TRANSPORT"
-  ],
-  "title": "FRANKFURT INFO WAVE",
-  "date": "1963-11-21",
-  "locations_mentioned": [
-    "Frankfurt",
-    "Washington"
-  ],
-  "origin_agency": "CIA",
-  "persons_mentioned": [
-    "JOAN GRASSIE",
-    "C. A. Heine",
-    "Austin J. Thomas",
-    "Mr. Brown"
-  ],
-  "recipient": "FRAN INFO WAVE",
-  "sender": "DIRECTOR"
+  ]
 }
